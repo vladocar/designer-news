@@ -99,6 +99,15 @@
       "href": "http://www.designernews.co/?format=rss",
       "articles": [
         {
+          "description": "https://www.figma.com/community/file/971115398245880536/Website-Kickoff-by-Human-Deluxe",
+          "link": "https://www.designernews.co/stories/115152-figma-website-kickoff-template",
+          "publishedOn": "2021-05-03T18:43:03.000Z",
+          "wordCount": 161,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Figma Website Kickoff Template"
+        },
+        {
           "description": "https://cmsinstallation.blogspot.com/2021/05/5-common-css-mistakes-developers-make.html",
           "link": "https://www.designernews.co/stories/115149-5-common-css-mistakes-developers-make",
           "publishedOn": "2021-05-03T16:00:43.000Z",
@@ -313,15 +322,6 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "How to create an app like bet365"
-        },
-        {
-          "description": "https://www.jotform.com/products/approvals/",
-          "link": "https://www.designernews.co/stories/115040-we-worked-hard-on-this-landing-page-how-does-it-look",
-          "publishedOn": "2021-04-27T14:09:52.000Z",
-          "wordCount": 174,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "We worked hard on this landing page. How does it look?"
         }
       ]
     },
@@ -541,6 +541,15 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://fireapis.com/",
+          "link": "http://www.webdesignernews.com/external/fireapis-build-apis-with-nocode",
+          "publishedOn": "2021-05-03T19:20:00.000Z",
+          "wordCount": 395,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Fireapis - Build APIs with NoCode"
+        },
+        {
           "description": "https://www.webfx.com/blog/web-design/what-is-a-redirect/",
           "link": "http://www.webdesignernews.com/external/what-is-a-redirect-and-how-should-you-use-it",
           "publishedOn": "2021-05-03T18:08:00.000Z",
@@ -710,15 +719,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The Almost-Complete Guide to Cumulative Layout Shift"
-        },
-        {
-          "description": "https://qodeinteractive.com/magazine/beautifully-designed-property-websites/",
-          "link": "http://www.webdesignernews.com/external/13-beautifully-designed-property-websites",
-          "publishedOn": "2021-05-01T19:48:00.000Z",
-          "wordCount": 3897,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "13 Beautifully Designed Property Websites"
         }
       ]
     }
