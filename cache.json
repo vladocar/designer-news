@@ -96,142 +96,232 @@
       ]
     },
     {
-      "href": "https://css-tricks.com/feed/",
+      "href": "http://www.designernews.co/?format=rss",
       "articles": [
         {
-          "description": "Yay, it&#8217;s here! Safari 14.1 reportedly adds support for the gap property in flexbox layouts. We&#8217;ve had grid-gap support for some time, but true to its name, it&#8217;s limited to grid layouts. Now we can use gap in either type &#8230;\nThe post Safari 14.1 Adds Support for Flexbox Gaps appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/safari-14-1-adds-support-for-flexbox-gaps/",
-          "publishedOn": "2021-04-30T21:51:08.000Z",
-          "wordCount": 547,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Safari 14.1 Adds Support for Flexbox Gaps"
+          "description": "https://www.zenesys.com/blog/role-of-rpa-in-hr-operations",
+          "link": "https://www.designernews.co/stories/115138-role-of-rpa-robotic-process-automation-in-human-resource-hr-operations",
+          "publishedOn": "2021-05-03T09:15:42.000Z",
+          "wordCount": 182,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Role of RPA (Robotic Process Automation) in Human Resource (HR) Operations"
         },
         {
-          "description": "Jim Nielsen quoting Eric Bailey:\nHe references an example on Twitter where someone noted you can use the &#60;details&#62; element to “create a native HTML accordion,” to which someone responded: “this works without Bootstrap? &#x1f92f;”\nWhat’s the problem here? From \n&#8230;\nThe post Web Languages as Compile Targets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://blog.jim-nielsen.com/2021/web-languages-as-compile-targets/",
-          "publishedOn": "2021-04-30T18:05:37.000Z",
-          "wordCount": 798,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Web Languages as Compile Targets"
+          "description": "https://www.zenesys.com/blog/aws-vs-azure-vs-google-cloud-which-cloud-services-is-better-for-enterprises",
+          "link": "https://www.designernews.co/stories/115137-aws-vs-azure-vs-google-cloud-which-cloud-services-is-better-for-enterprises",
+          "publishedOn": "2021-05-03T08:45:36.000Z",
+          "wordCount": 186,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "AWS vs Azure vs Google Cloud: Which Cloud Services is better for Enterprises?"
         },
         {
-          "description": "Jenny B Kowalski has been posting a-letter-a-day on Instagram exploring multi-axis variable/responsive letterforms. They are very clever in that one of the axes controls an uppercase-to-lowercase conversion, literally morphing the shape of the letters from an uppercase version to a &#8230;\nThe post Jenny B Kowalski&#8217;s A-Z (and a-z) as Variable Letterforms appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/jenny-b-kowalskis-a-z-and-a-z-as-variable-letterforms/",
-          "publishedOn": "2021-04-30T16:02:53.000Z",
-          "wordCount": 422,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Jenny B Kowalski’s A-Z (and a-z) as Variable Letterforms"
+          "description": "https://www.vectornator.io/blog/vectornator-4-1",
+          "link": "https://www.designernews.co/stories/115128-vectornator-41--a-new-file-format",
+          "publishedOn": "2021-04-30T15:36:10.000Z",
+          "wordCount": 173,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Vectornator 4.1 - A New File Format"
         },
         {
-          "description": "Labels are a feature that have existed since the creation of JavaScript. They aren’t new! I don’t think all that many people know about them and I’d even argue they are a bit confusing. But, as we’ll see, labels can &#8230;\nThe post You Can Label a JavaScript `if` Statement appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/you-can-label-a-javascript-if-statement/",
-          "publishedOn": "2021-04-30T14:29:32.000Z",
-          "wordCount": 1909,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "You Can Label a JavaScript `if` Statement"
+          "description": "https://www.themasterpicks.com/improve-your-design-skills/",
+          "link": "https://www.designernews.co/stories/115124-improve-your-design-skills-in-2021",
+          "publishedOn": "2021-04-30T13:08:05.000Z",
+          "wordCount": 170,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Improve Your Design Skills In 2021"
         },
         {
-          "description": "I&#8217;ve got a podcast that will be 10 years old this coming January! Most of those episodes have one or more guests (plus me and Dave). Despite fancy modern options for recording podcasts with guests, like Riverside.fm or Zencastr&#8230;\nThe post Sending Large Files appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/sending-large-files/",
-          "publishedOn": "2021-04-29T17:52:55.000Z",
-          "wordCount": 1649,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Sending Large Files"
+          "description": "https://medium.com/wavemakers-io/why-we-need-wavemakers-e9fe81babe5f?source=friends_link&sk=25ee6729bff9e8398c622a3b854e6c26",
+          "link": "https://www.designernews.co/stories/115112-why-we-need-wavemakers-some-thoughts-on-leadership--empowerment",
+          "publishedOn": "2021-04-30T07:07:44.000Z",
+          "wordCount": 178,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Why we need WaveMakers: Some Thoughts on Leadership & Empowerment"
         },
         {
-          "description": "Raygun is an error and performance monitoring software for websites and mobile apps. In the case of websites, you install their JavaScript snippet onto your site, which takes 2 seconds, and now you&#8217;ve got monitoring in place. Why? Well now &#8230;\nThe post How to Monitor Core Web Vitals and Take Action with Raygun appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-monitor-core-web-vitals-and-take-action-with-raygun/",
-          "publishedOn": "2021-04-29T17:50:39.000Z",
-          "wordCount": 764,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Monitor Core Web Vitals and Take Action with Raygun"
+          "description": "https://www.themasterpicks.com/3d-logo-factory/",
+          "link": "https://www.designernews.co/stories/115103-3d-logo-factory",
+          "publishedOn": "2021-04-29T13:27:00.000Z",
+          "wordCount": 165,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "3D Logo Factory"
         },
         {
-          "description": "Lists—we’ve all worked with them in one form or another. I’m talking about HTML’s &#60;ol&#62; and &#60;ul&#62;. Much of the time, because we desire styling control, we turn off the list’s markers completely with list-style-type: none, and start &#8230;\nThe post List Markers and String Styles appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/list-markers-and-string-styles/",
-          "publishedOn": "2021-04-29T14:32:41.000Z",
-          "wordCount": 1012,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "List Markers and String Styles"
+          "description": "https://www.paletter.app",
+          "link": "https://www.designernews.co/stories/115101-show-dn-paletter--create-professional-color-palettes-from-a-single-color",
+          "publishedOn": "2021-04-29T12:14:11.000Z",
+          "wordCount": 391,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Show DN: Paletter - Create Professional Color Palettes from a Single Color"
         },
         {
-          "description": "This post was written for engineering managers, but anyone is welcome to read it.\nLet’s talk for a moment about how we talk about our teams. This might not seem like something that needs a whole article dedicated to it, &#8230;\nThe post Your Team is Not &#8220;Them&#8221; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/your-team-is-not-them/",
-          "publishedOn": "2021-04-28T19:35:32.000Z",
-          "wordCount": 1883,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Your Team is Not “Them”"
+          "description": "https://paytable.io",
+          "link": "https://www.designernews.co/stories/115096-the-airtable-membership-platform-addon-is-now-live",
+          "publishedOn": "2021-04-29T10:13:41.000Z",
+          "wordCount": 177,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "The Airtable membership platform add-on is now live!"
         },
         {
-          "description": "Click, drag, release: you’ve just selected some text on a webpage — probably to copy and paste it somewhere or to share it. Wouldn&#8217;t it be cool if selecting that text revealed some options that make those tasks easier? That’s &#8230;\nThe post How to Create Actions for Selected Text With the Selection API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/",
-          "publishedOn": "2021-04-28T14:19:54.000Z",
-          "wordCount": 1514,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Create Actions for Selected Text With the Selection API"
+          "description": "https://www.imaginarycloud.com/blog/web-design-and-development/",
+          "link": "https://www.designernews.co/stories/115094-web-design-vs-web-development",
+          "publishedOn": "2021-04-29T09:50:32.000Z",
+          "wordCount": 235,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Web Design vs Web Development"
         },
         {
-          "description": "I was just Hoping for Better Native Page&#160;Transitions, and Bramus commented that Chrome is working on something. Looks like it has some fresh enthusiasm for it, as there is a brand new repo, and you can literally test &#8230;\nThe post Shared Element Transitions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/shared-element-transitions/",
-          "publishedOn": "2021-04-27T20:12:04.000Z",
-          "wordCount": 1092,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Shared Element Transitions"
+          "description": "https://www.vectornator.io/blog/visual-presentations",
+          "link": "https://www.designernews.co/stories/115091-a-nondesigners-guide-to-creating-visual-presentations",
+          "publishedOn": "2021-04-29T08:25:17.000Z",
+          "wordCount": 174,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "A Non-Designer’s Guide to Creating Visual Presentations"
         },
         {
-          "description": "Everything important and useful to know about CSS Custom Properties. Like that they are often referred to as \"CSS Variables\" but that's not their real name.\nThe post A Complete Guide to Custom Properties appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-complete-guide-to-custom-properties/",
-          "publishedOn": "2021-04-27T14:26:16.000Z",
-          "wordCount": 5544,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "A Complete Guide to Custom Properties"
+          "description": "https://www.lambdatest.com/newsletter/?utm_source=designernews&utm_medium=blog&utm_campaign=PM-29Apr21&utm_term=organicPosting",
+          "link": "https://www.designernews.co/stories/115090-free-coding-jag--weekly-testing-newsletter-testing-news--tips",
+          "publishedOn": "2021-04-29T08:16:06.000Z",
+          "wordCount": 180,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Free: Coding Jag - Weekly Testing Newsletter Testing News & Tips"
         },
         {
-          "description": "I saw in the release notes for Safari Technical Preview 122 that it has support for a color-contrast() function in CSS. Safari is first out of the gate here. As far as I know, no other browser supports this yet &#8230;\nThe post Exploring color-contrast() for the First Time appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/exploring-color-contrast-for-the-first-time/",
-          "publishedOn": "2021-04-26T21:02:49.000Z",
-          "wordCount": 1031,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Exploring color-contrast() for the First Time"
+          "description": "https://www.webcluesinfotech.com/ui-ux-development-company/",
+          "link": "https://www.designernews.co/stories/115085-uiux-design-service-provider--webapp-design-",
+          "publishedOn": "2021-04-29T05:20:34.000Z",
+          "wordCount": 172,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "UI/UX Design Service Provider - Web/App Design"
         },
         {
-          "description": "I love to make CSS do stuff it shouldn’t. It’s the type of problem-solving brain training you’d get building a calculator in Minecraft, except you probably won’t get a job working with Minecraft Redstone no matter how good you &#8230;\nThe post Generating (and Solving!) Sudokus in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/generating-and-solving-sudokus-in-css/",
-          "publishedOn": "2021-04-26T14:05:00.000Z",
-          "wordCount": 5071,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Generating (and Solving!) Sudokus in CSS"
+          "description": "https://paperform.co/blog/principles-of-design/",
+          "link": "https://www.designernews.co/stories/115083-the-13-principles-of-design",
+          "publishedOn": "2021-04-28T21:33:07.000Z",
+          "wordCount": 169,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "The 13 Principles Of Design"
         },
         {
-          "description": "Robert Nyman and Philip Jägenstedt:\nGoogle is working with other browser vendors and industry partners to fix the top five browser compatibility pain points for web developers. The areas of focus are CSS Flexbox, CSS Grid,&#160;position: sticky,&#160;\n&#8230;\nThe post Eliminating five top compatibility pain points on the web appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/compat2021/",
-          "publishedOn": "2021-04-23T20:55:19.000Z",
-          "wordCount": 1181,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Eliminating five top compatibility pain points on the web"
+          "description": "https://marketsplash.com/filmora-alternatives/",
+          "link": "https://www.designernews.co/stories/115082-6-best-filmora-alternatives-free-and-paid",
+          "publishedOn": "2021-04-28T21:30:44.000Z",
+          "wordCount": 173,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "6 Best Filmora Alternatives (Free And Paid)"
         },
         {
-          "description": "In my previous article, I discussed how I learned to create a decoupled WordPress powered Gatsby site using the Gatsby Source WPGraphQL plugin. The project was done following the ongoing developmental version of WPGraphQL and an excellent tutorial by Henrik &#8230;\nThe post Using New Gatsby Source WordPress Plugin appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-new-gatsby-source-wordpress-plugin/",
-          "publishedOn": "2021-04-23T14:03:18.000Z",
-          "wordCount": 6095,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Using New Gatsby Source WordPress Plugin"
+          "description": "https://www.microsoft.com/en-us/microsoft-365/blog/2021/04/28/beyond-calibri-finding-microsofts-next-default-font/",
+          "link": "https://www.designernews.co/stories/115080-beyond-calibri-finding-microsofts-next-default-font",
+          "publishedOn": "2021-04-28T16:26:35.000Z",
+          "wordCount": 172,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Beyond Calibri: Finding Microsoft's next default font"
+        },
+        {
+          "description": "https://artistro.com/blogs/news/most-popular-and-trending-types-of-art-hashtags-on-instagram",
+          "link": "https://www.designernews.co/stories/115069-most-popular-and-trending-types-of-art-hashtags-on-instagram",
+          "publishedOn": "2021-04-28T13:09:36.000Z",
+          "wordCount": 178,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Most Popular and Trending Types of Art Hashtags on Instagram"
+        },
+        {
+          "description": "https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/",
+          "link": "https://www.designernews.co/stories/115067-33-activity-ideas-for-remote-ux-workshops",
+          "publishedOn": "2021-04-28T12:15:16.000Z",
+          "wordCount": 175,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "33 Activity Ideas for Remote UX Workshops"
+        },
+        {
+          "description": "https://blog.plantapp.io/post/reasons-not-to-become-a-product-designer",
+          "link": "https://www.designernews.co/stories/115064-reasons-not-to-become-a-product-designer",
+          "publishedOn": "2021-04-28T11:57:26.000Z",
+          "wordCount": 173,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Reasons Not To Become a Product Designer"
+        },
+        {
+          "description": "https://wpklik.com/wordpress-themes/free-wordpress-themes-for-business/",
+          "link": "https://www.designernews.co/stories/115060-top-15-free-fully-responsive-wordpress-themes-for-your-business",
+          "publishedOn": "2021-04-28T08:45:35.000Z",
+          "wordCount": 177,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Top 15+ Free Fully Responsive WordPress Themes for Your Business"
+        },
+        {
+          "description": "https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/",
+          "link": "https://www.designernews.co/stories/115054-how-to-create-an-app-like-bet365",
+          "publishedOn": "2021-04-28T04:28:56.000Z",
+          "wordCount": 172,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "How to create an app like bet365"
+        },
+        {
+          "description": "https://herbertlui.net/daily-creative-challenges-creativity-activity/",
+          "link": "https://www.designernews.co/stories/115045-25-daily-creative-challenges-to-spark-your-creativity",
+          "publishedOn": "2021-04-27T15:19:22.000Z",
+          "wordCount": 174,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "25 Daily Creative Challenges to Spark Your Creativity"
+        },
+        {
+          "description": "https://qodeinteractive.com/magazine/how-to-create-wordpress-static-site/",
+          "link": "https://www.designernews.co/stories/115044-what-is-a-static-wordpress-website-and-how-to-create-one",
+          "publishedOn": "2021-04-27T15:07:40.000Z",
+          "wordCount": 180,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "What Is a Static WordPress Website and How to Create One"
+        },
+        {
+          "description": "https://www.youtube.com/watch?v=4gpwFSXxsC0",
+          "link": "https://www.designernews.co/stories/115042-designing-a-spicy-new-brand-for-hot-ones",
+          "publishedOn": "2021-04-27T14:50:05.000Z",
+          "wordCount": 173,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Designing A SPICY New Brand For Hot Ones"
+        },
+        {
+          "description": "https://www.jotform.com/products/approvals/",
+          "link": "https://www.designernews.co/stories/115040-we-worked-hard-on-this-landing-page-how-does-it-look",
+          "publishedOn": "2021-04-27T14:09:52.000Z",
+          "wordCount": 182,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "We worked hard on this landing page. How does it look?"
+        },
+        {
+          "description": "https://www.lambdatest.com/blog/css-media-queries-for-responsive-design/?utm_source=designernews&utm_medium=blog&utm_campaign=PM-27Apr21&utm_term=organicPosting",
+          "link": "https://www.designernews.co/stories/115023-how-to-use-css-media-queries-for-responsive-design",
+          "publishedOn": "2021-04-27T06:21:38.000Z",
+          "wordCount": 177,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "How To Use CSS Media Queries For Responsive Design?"
         }
       ]
     },
@@ -448,97 +538,187 @@
       ]
     },
     {
-      "href": "https://www.freecodecamp.org/news/rss/",
+      "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
-          "description": "These days, computers can pretty much do anything. Now if you are a frequent computer user like I am, I'm sure you interact with the keyboard all the time. And in this article, I'm going to show you some helpful keyboard shortcuts that will make your work easier",
-          "link": "https://www.freecodecamp.org/news/keyboard-shortcuts-improve-productivity/",
-          "publishedOn": "2021-04-30T18:37:37.000Z",
-          "wordCount": 1334,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Keyboard Shortcuts to Improve Your Coding Productivity"
+          "description": "https://readme.so/",
+          "link": "http://www.webdesignernews.com/external/readme-so-easiest-way-to-create-a-readme",
+          "publishedOn": "2021-05-02T23:10:00.000Z",
+          "wordCount": 39,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Readme.so ? Easiest Way to Create a Readme"
         },
         {
-          "description": "In this article, you'll practice your JavaScript skills while streamlining your household chores by creating your very own home inventory system.  I've often found that it's hard to keep track common household items that I buy frequently such as food, spices, medicine, and the like. It's annoying at best and",
-          "link": "https://www.freecodecamp.org/news/nodejs-and-cloud-firestore-tutorial-build-a-home-inventory-system/",
-          "publishedOn": "2021-04-30T16:26:24.000Z",
-          "wordCount": 1429,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Node.js and Cloud Firestore Tutorial – How to Build a Home Inventory System"
+          "description": "https://github.com/osmoscraft/osmosfeed",
+          "link": "http://www.webdesignernews.com/external/osmosfeeds-turn-github-into-an-rss-reader",
+          "publishedOn": "2021-05-02T22:16:00.000Z",
+          "wordCount": 1227,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Osmosfeeds - Turn GitHub into an RSS Reader"
         },
         {
-          "description": "Docker is an open source project that makes it easy to create containers and container-based apps. Docker's lightweight and portable software containers simplify application development, testing, and deployment. We just released a course on the freeCodeCamp.org YouTube channel that will help you learn the core fundamentals of Docker by",
-          "link": "https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/",
-          "publishedOn": "2021-04-29T20:05:04.000Z",
-          "wordCount": 496,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Learn Docker by Building a Node / Express App"
+          "description": "https://github.com/zlwaterfield/refined-zapier",
+          "link": "http://www.webdesignernews.com/external/refined-zapier-open-source-browser-extension-to-10x-zapier-s-ux",
+          "publishedOn": "2021-05-02T21:57:00.000Z",
+          "wordCount": 733,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Refined Zapier - Open-source browser extension to 10x Zapier's UX"
         },
         {
-          "description": "In this article, I'll teach you CSS Flexbox basics so you can make your own responsive sites. I'll explain how each of Flexbox's properties work, and I'll give you a cheatsheet that covers everything you can do with Flexbox. Let's Go 🎖️ Table of ContentsFlexbox Architectureflex-directionjustify-contentalign-contentalign-itemsalign-selfflex - grow | shrink | wrap | basisShort",
-          "link": "https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/",
-          "publishedOn": "2021-04-28T19:33:57.000Z",
-          "wordCount": 1289,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "CSS Flexbox Tutorial with Flexbox Properties Cheat Sheet 🎖️"
+          "description": "https://anitar.dev/",
+          "link": "http://www.webdesignernews.com/external/anitar-dev-animal-avatars-placeholders-for-fun-web-development",
+          "publishedOn": "2021-05-02T20:09:00.000Z",
+          "wordCount": 12,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Anitar.dev - Animal avatars placeholders for fun web development"
         },
         {
-          "description": "The MERN stack is a popular way to make a full stack web app. MERN stands for MongoDB, Express, React, and Node.js. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the MERN stack by building a restaurant review web",
-          "link": "https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/",
-          "publishedOn": "2021-04-28T14:05:56.000Z",
-          "wordCount": 384,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Create a MERN Stack App with a Serverless Backend"
+          "description": "https://torquemag.io/2021/04/conversational-commerce/",
+          "link": "http://www.webdesignernews.com/external/how-to-drive-sales-with-conversational-commerce-3-tips",
+          "publishedOn": "2021-05-02T19:10:00.000Z",
+          "wordCount": 1629,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "How to Drive Sales With Conversational Commerce (3 Tips)"
         },
         {
-          "description": "JavaScript is an easy-to-learn programming language compared to many of its counterparts. However, a few basic concepts need a bit more attention if you want to understand, debug, and write better code.  In this article, we will learn about two such concepts, Execution ContextHoistingAs a beginner to JavaScript, understanding these",
-          "link": "https://www.freecodecamp.org/news/javascript-execution-context-and-hoisting/",
-          "publishedOn": "2021-04-27T22:53:14.000Z",
-          "wordCount": 2010,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "JavaScript Execution Context and Hoisting Explained with Code Examples"
+          "description": "https://medium.com/microsoft-design/beyond-calibri-finding-the-next-microsoft-365-default-font-5ef83f028be2",
+          "link": "http://www.webdesignernews.com/external/beyond-calibri-finding-the-next-microsoft-365-default-font",
+          "publishedOn": "2021-05-02T18:48:00.000Z",
+          "wordCount": 2287,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Beyond Calibri: Finding The Next Microsoft 365 Default Font"
         },
         {
-          "description": "Hi! Welcome. If you are learning Python, then this article is for you. You will find a thorough description of Python syntax and lots of code examples to guide you during your coding journey.  What we will cover:Variable Definitions in PythonHello, World! Program in PythonData Types and Built-in Data",
-          "link": "https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/",
-          "publishedOn": "2021-04-27T19:55:23.000Z",
-          "wordCount": 12960,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Python Code Examples – Sample Script Coding Tutorial for Beginners"
+          "description": "https://helloweather.com/",
+          "link": "http://www.webdesignernews.com/external/hello-weather",
+          "publishedOn": "2021-05-02T17:59:00.000Z",
+          "wordCount": 909,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Hello Weather"
         },
         {
-          "description": "Hello, everyone! In this article we are going to learn how to add the Realm database to an iOS app.  We'll create a simple ToDo app so you can learn how to perform CRUD (Create, Read, Update, Delete) operations in the Realm database. What is Realm?Realm is an open-source",
-          "link": "https://www.freecodecamp.org/news/add-realm-database-to-ios-crud-app-with-with-swift/",
-          "publishedOn": "2021-04-27T18:21:00.000Z",
-          "wordCount": 1815,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Add the Realm Database to an iOS CRUD App using Swift"
+          "description": "https://www.hongkiat.com/blog/interesting-facts-about-websites/",
+          "link": "http://www.webdesignernews.com/external/10-interesting-facts-to-know-about-any-website",
+          "publishedOn": "2021-05-02T13:41:37.000Z",
+          "wordCount": 1521,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "10 Interesting Facts to Know about Any Website"
         },
         {
-          "description": "What is Lazy Loading?Lazy loading is the process of loading components, modules, or other assets of a website as they're required.  Since Angular creates a SPA (Single Page Application), all of its components are loaded at once. This means that a lot of unnecessary libraries or modules might be",
-          "link": "https://www.freecodecamp.org/news/lazy-loading-in-angular-intro-to-ngmodules/",
-          "publishedOn": "2021-04-27T18:17:43.000Z",
-          "wordCount": 1178,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Lazy Loading in Angular – A Beginner&#x27;s Guide to NgModules"
+          "description": "https://www.business2community.com/seo/website-optimization-best-practices-for-2021-02402314",
+          "link": "http://www.webdesignernews.com/external/website-optimization-best-practices-for-2021",
+          "publishedOn": "2021-05-02T13:39:03.000Z",
+          "wordCount": 1553,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Website Optimization Best Practices For 2021"
         },
         {
-          "description": "In this article, we will build a React application using class components. Then we'll convert it to functional components using React Hooks in a step-by-step way. By building this app, you will learn: How to make API callsHow to implement load more functionalityHow to debug application issuesHow to use async/",
-          "link": "https://www.freecodecamp.org/news/build-a-react-application-with-load-more-functionality-react-hooks/",
-          "publishedOn": "2021-04-27T18:12:22.000Z",
-          "wordCount": 3778,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Build a React Application with Load More Functionality using React Hooks"
+          "description": "https://www.searchenginejournal.com/wordpress-seo/how-to-build-wordpress-site/",
+          "link": "http://www.webdesignernews.com/external/how-to-build-a-wordpress-site-in-24-hours",
+          "publishedOn": "2021-05-02T13:39:01.000Z",
+          "wordCount": 2897,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "How to Build a WordPress Site in 24 Hours"
+        },
+        {
+          "description": "https://jessbpeck.com/posts/completecls/",
+          "link": "http://www.webdesignernews.com/external/the-almost-complete-guide-to-cumulative-layout-shift",
+          "publishedOn": "2021-05-02T13:38:52.000Z",
+          "wordCount": 7752,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "The Almost-Complete Guide to Cumulative Layout Shift"
+        },
+        {
+          "description": "https://qodeinteractive.com/magazine/beautifully-designed-property-websites/",
+          "link": "http://www.webdesignernews.com/external/13-beautifully-designed-property-websites",
+          "publishedOn": "2021-05-01T19:48:00.000Z",
+          "wordCount": 3901,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "13 Beautifully Designed Property Websites"
+        },
+        {
+          "description": "https://www.newsy.co/",
+          "link": "http://www.webdesignernews.com/external/newsy-turn-your-unused-domain-into-a-complete-web-application",
+          "publishedOn": "2021-05-01T18:16:00.000Z",
+          "wordCount": 1685,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Newsy - Turn your unused domain into a complete web application"
+        },
+        {
+          "description": "https://www.zenesys.com/infographics/kentico-vs-sitecore",
+          "link": "http://www.webdesignernews.com/external/kentico-vs-sitecore-infographics",
+          "publishedOn": "2021-05-01T16:52:00.000Z",
+          "wordCount": 347,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Kentico vs Sitecore Infographics"
+        },
+        {
+          "description": "https://wintercms.com/blog/post/october-cms-you-know-it-dead",
+          "link": "http://www.webdesignernews.com/external/october-cms-as-you-know-it-is-dead",
+          "publishedOn": "2021-05-01T14:06:00.000Z",
+          "wordCount": 932,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "October CMS as you know it is Dead"
+        },
+        {
+          "description": "https://domainpage.io/",
+          "link": "http://www.webdesignernews.com/external/domainpage-a-dashboard-for-managing-your-domains",
+          "publishedOn": "2021-05-01T13:42:00.000Z",
+          "wordCount": null,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "DomainPage - A dashboard for managing your domains"
+        },
+        {
+          "description": "https://blog.jim-nielsen.com/2021/web-languages-as-compile-targets/",
+          "link": "http://www.webdesignernews.com/external/web-languages-as-compile-targets",
+          "publishedOn": "2021-05-01T12:04:00.000Z",
+          "wordCount": 798,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Web Languages as Compile Targets"
+        },
+        {
+          "description": "https://www.webdesignerdepot.com/2021/04/quiz-who-designed-that-font/",
+          "link": "http://www.webdesignernews.com/external/quiz-who-designed-that-font",
+          "publishedOn": "2021-05-01T09:27:39.000Z",
+          "wordCount": 361,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Quiz: Who Designed That Font?"
+        },
+        {
+          "description": "https://css-tricks.com/you-can-label-a-javascript-if-statement/",
+          "link": "http://www.webdesignernews.com/external/you-can-label-a-javascript-if-statement",
+          "publishedOn": "2021-05-01T09:27:25.000Z",
+          "wordCount": 1909,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "You Can Label a JavaScript `if` Statement"
+        },
+        {
+          "description": "https://www.quicksprout.com/how-to-hire-website-designer/",
+          "link": "http://www.webdesignernews.com/external/how-to-hire-a-website-designer",
+          "publishedOn": "2021-05-01T09:21:53.000Z",
+          "wordCount": 2938,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "How to Hire a Website Designer"
         }
       ]
     }
