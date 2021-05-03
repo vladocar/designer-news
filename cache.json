@@ -16,7 +16,7 @@
           "description": "I’m sure everyone loves coffee. Let me introduce our list of best coffee fonts. Discover these amazing fonts and make your designs more attractable. Coffee is of course, one of the most popular topics of conversation. It’s a drink that is sometimes synonymous with relaxing or sociability. For art and\nThe post 18 Best Coffee Fonts for Cool Designs appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/coffee-fonts/",
           "publishedOn": "2021-04-29T22:07:15.000Z",
-          "wordCount": 1622,
+          "wordCount": 1636,
           "sourceHref": "https://www.designinspiration.info/feed/",
           "sourceTitle": "Design Inspiration",
           "title": "18 Best Coffee Fonts for Cool Designs"
@@ -79,7 +79,7 @@
           "description": "Hippie Fonts are a collection of vector and raster vintage and retro fonts inspired by flower power, peace signs, rock stars and hippies. The Hippie movement is a counterculture that developed in the United States during the mid-1960s, spread throughout much of the Western world and then was largely subsumed\nThe post 32 Best Hippie Fonts for Your Retro Designs appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/best-hippie-fonts/",
           "publishedOn": "2021-04-15T21:54:17.000Z",
-          "wordCount": 3088,
+          "wordCount": 3102,
           "sourceHref": "https://www.designinspiration.info/feed/",
           "sourceTitle": "Design Inspiration",
           "title": "32 Best Hippie Fonts for Your Retro Designs"
@@ -88,7 +88,7 @@
           "description": "Making transparent glass effect in Photoshop is quite easy. We will use a non destructive layer styles technique to achieve this goal.  Photoshop is one of the most popular graphics editing tool. It&#8217;s packed with amazing features and is very easy to use. We are going to create a glass\nThe post Create Realistic Glass Text Effect in Photoshop Tutorial appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/realistic-glass-text-effect-in-photoshop-tutorial/",
           "publishedOn": "2021-04-11T22:13:24.000Z",
-          "wordCount": 677,
+          "wordCount": 691,
           "sourceHref": "https://www.designinspiration.info/feed/",
           "sourceTitle": "Design Inspiration",
           "title": "Create Realistic Glass Text Effect in Photoshop Tutorial"
@@ -541,6 +541,15 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://www.lafoo.com/the-end-of-amp/?twclid=11389086688677404673",
+          "link": "http://www.webdesignernews.com/external/the-end-of-google-amp",
+          "publishedOn": "2021-05-03T22:33:00.000Z",
+          "wordCount": 1412,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "The End of (Google) AMP"
+        },
+        {
           "description": "https://www.notion.so/Daily-Palette-Battles-e98fbad0dd164d01be58772c8e09e3c9",
           "link": "http://www.webdesignernews.com/external/daily-palette-battles-battle-it-out-to-make-the-best-color-palette-given-a-prompt",
           "publishedOn": "2021-05-03T21:29:00.000Z",
@@ -562,7 +571,7 @@
           "description": "https://blog.stunning.co/stop-making-your-paying-customers-hunt-for-the-sign-in-button-on-your-website/",
           "link": "http://www.webdesignernews.com/external/don-t-make-customers-hunt-for-the-sign-in-button-on-your-website",
           "publishedOn": "2021-05-03T20:12:00.000Z",
-          "wordCount": 564,
+          "wordCount": 567,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Don't make customers hunt for the Sign In button on your website"
@@ -607,7 +616,7 @@
           "description": "https://thenextweb.com/news/developer-onboarding-process",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-onboard-developers",
           "publishedOn": "2021-05-03T15:53:00.000Z",
-          "wordCount": 1532,
+          "wordCount": 1540,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Here?s how you should onboard developers"
@@ -625,7 +634,7 @@
           "description": "https://speckyboy.com/css-js-3d-text-effects/",
           "link": "http://www.webdesignernews.com/external/8-stunning-examples-of-css-javascript-3d-text-effects",
           "publishedOn": "2021-05-03T13:35:33.000Z",
-          "wordCount": 1141,
+          "wordCount": 1136,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "8 Stunning Examples of CSS & JavaScript 3D Text Effects"
@@ -710,15 +719,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Hello Weather"
-        },
-        {
-          "description": "https://www.hongkiat.com/blog/interesting-facts-about-websites/",
-          "link": "http://www.webdesignernews.com/external/10-interesting-facts-to-know-about-any-website",
-          "publishedOn": "2021-05-02T13:41:37.000Z",
-          "wordCount": 1521,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "10 Interesting Facts to Know about Any Website"
         }
       ]
     }
