@@ -541,6 +541,15 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://blog.stunning.co/stop-making-your-paying-customers-hunt-for-the-sign-in-button-on-your-website/",
+          "link": "http://www.webdesignernews.com/external/don-t-make-customers-hunt-for-the-sign-in-button-on-your-website",
+          "publishedOn": "2021-05-03T20:12:00.000Z",
+          "wordCount": 562,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Don't make customers hunt for the Sign In button on your website"
+        },
+        {
           "description": "https://fireapis.com/",
           "link": "http://www.webdesignernews.com/external/fireapis-build-apis-with-nocode",
           "publishedOn": "2021-05-03T19:20:00.000Z",
@@ -580,7 +589,7 @@
           "description": "https://thenextweb.com/news/developer-onboarding-process",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-onboard-developers",
           "publishedOn": "2021-05-03T15:53:00.000Z",
-          "wordCount": 1544,
+          "wordCount": 1542,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Here?s how you should onboard developers"
@@ -710,15 +719,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Build a WordPress Site in 24 Hours"
-        },
-        {
-          "description": "https://jessbpeck.com/posts/completecls/",
-          "link": "http://www.webdesignernews.com/external/the-almost-complete-guide-to-cumulative-layout-shift",
-          "publishedOn": "2021-05-02T13:38:52.000Z",
-          "wordCount": 7752,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "The Almost-Complete Guide to Cumulative Layout Shift"
         }
       ]
     }
