@@ -543,15 +543,6 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Don’t Lose Your Head: Evaluating Headless"
-        },
-        {
-          "description": "A guide to vanilla JavaScript code snippets &mdash; with resources and lightweight libraries to help you solve a problem without a large overhead or third-party dependencies.",
-          "link": "https://smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/",
-          "publishedOn": "2021-04-05T10:30:00.000Z",
-          "wordCount": 2018,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Vanilla JavaScript Code Snippets"
         }
       ]
     },
@@ -559,10 +550,37 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://torquemag.io/2021/05/optimize-woocommerce-performance/",
+          "link": "http://www.webdesignernews.com/external/how-to-optimize-your-woocommerce-store-s-performance-for-higher-conversions-4-ways",
+          "publishedOn": "2021-05-04T22:45:00.000Z",
+          "wordCount": 1718,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "How to Optimize Your WooCommerce Store?s Performance for Higher Conversions (4 Ways)"
+        },
+        {
+          "description": "https://cognition.happycog.com/article/monkey-patching-in-craft",
+          "link": "http://www.webdesignernews.com/external/monkey-patching-in-craft",
+          "publishedOn": "2021-05-04T22:38:59.000Z",
+          "wordCount": 1100,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Monkey Patching in Craft"
+        },
+        {
+          "description": "https://mediatemple.net/blog/work-life/how-to-grow-your-agency-or-freelance-business/",
+          "link": "http://www.webdesignernews.com/external/how-to-grow-your-agency-or-freelance-business",
+          "publishedOn": "2021-05-04T22:01:08.000Z",
+          "wordCount": 2753,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "How to Grow Your Agency or Freelance Business"
+        },
+        {
           "description": "https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/",
           "link": "http://www.webdesignernews.com/external/dynamic-css-masks-with-custom-properties-and-gsap",
           "publishedOn": "2021-05-04T19:51:10.000Z",
-          "wordCount": 3219,
+          "wordCount": 3224,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Dynamic CSS Masks with Custom Properties and GSAP"
@@ -607,7 +625,7 @@
           "description": "https://designmodo.com/bootstrap-5-form/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-multiple-steps-form-with-bootstrap-5",
           "publishedOn": "2021-05-04T16:46:00.000Z",
-          "wordCount": 5136,
+          "wordCount": 5147,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Create a Multiple Steps Form with Bootstrap 5"
@@ -634,7 +652,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/3-essential-design-trends-may-2021/",
           "link": "http://www.webdesignernews.com/external/3-essential-design-trends-may-2021",
           "publishedOn": "2021-05-04T14:13:05.000Z",
-          "wordCount": 1352,
+          "wordCount": 1370,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "3 Essential Design Trends, May 2021"
@@ -710,33 +728,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The End of (Google) AMP"
-        },
-        {
-          "description": "https://www.notion.so/Daily-Palette-Battles-e98fbad0dd164d01be58772c8e09e3c9",
-          "link": "http://www.webdesignernews.com/external/daily-palette-battles-battle-it-out-to-make-the-best-color-palette-given-a-prompt",
-          "publishedOn": "2021-05-03T21:29:00.000Z",
-          "wordCount": 12,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Daily Palette Battles - Battle it out to make the best color palette given a prompt"
-        },
-        {
-          "description": "https://templates.helppier.com/",
-          "link": "http://www.webdesignernews.com/external/templates-library-by-helppier-curated-directory-of-40-in-app-messaging-templates-for-saas",
-          "publishedOn": "2021-05-03T21:16:44.000Z",
-          "wordCount": 502,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Templates Library by Helppier - Curated directory of 40+ in-app messaging templates for SaaS"
-        },
-        {
-          "description": "https://blog.stunning.co/stop-making-your-paying-customers-hunt-for-the-sign-in-button-on-your-website/",
-          "link": "http://www.webdesignernews.com/external/don-t-make-customers-hunt-for-the-sign-in-button-on-your-website",
-          "publishedOn": "2021-05-03T20:12:00.000Z",
-          "wordCount": 567,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Don't make customers hunt for the Sign In button on your website"
         }
       ]
     }
