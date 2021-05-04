@@ -99,6 +99,15 @@
       "href": "http://www.designernews.co/?format=rss",
       "articles": [
         {
+          "description": "https://next.waveguide.io/p/my-startup-needs-better-ux-should",
+          "link": "https://www.designernews.co/stories/115175-my-startup-needs-better-ux-should-i-hire-a-fulltime-designer",
+          "publishedOn": "2021-05-04T21:46:49.000Z",
+          "wordCount": 179,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "My startup needs better UX. Should I hire a full-time designer?"
+        },
+        {
           "description": "https://www.youtube.com/watch?v=XrF7-Ds-0YQ",
           "link": "https://www.designernews.co/stories/115165-creating-game-prototypes-in-figma-using-interactive-components",
           "publishedOn": "2021-05-04T14:29:43.000Z",
@@ -304,15 +313,6 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "6 Best Filmora Alternatives (Free And Paid)"
-        },
-        {
-          "description": "https://www.microsoft.com/en-us/microsoft-365/blog/2021/04/28/beyond-calibri-finding-microsofts-next-default-font/",
-          "link": "https://www.designernews.co/stories/115080-beyond-calibri-finding-microsofts-next-default-font",
-          "publishedOn": "2021-04-28T16:26:35.000Z",
-          "wordCount": 169,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "Beyond Calibri: Finding Microsoft's next default font"
         },
         {
           "description": "https://blog.plantapp.io/post/reasons-not-to-become-a-product-designer",
@@ -562,7 +562,7 @@
           "description": "https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/",
           "link": "http://www.webdesignernews.com/external/dynamic-css-masks-with-custom-properties-and-gsap",
           "publishedOn": "2021-05-04T19:51:10.000Z",
-          "wordCount": 3224,
+          "wordCount": 3219,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Dynamic CSS Masks with Custom Properties and GSAP"
@@ -634,7 +634,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/3-essential-design-trends-may-2021/",
           "link": "http://www.webdesignernews.com/external/3-essential-design-trends-may-2021",
           "publishedOn": "2021-05-04T14:13:05.000Z",
-          "wordCount": 1328,
+          "wordCount": 1352,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "3 Essential Design Trends, May 2021"
@@ -670,7 +670,7 @@
           "description": "https://dribbble.com/stories/2021/05/04/graphic-design-portfolio-storytelling",
           "link": "http://www.webdesignernews.com/external/7-storytelling-techniques-to-enhance-your-graphic-design-portfolio",
           "publishedOn": "2021-05-04T14:08:00.000Z",
-          "wordCount": 1710,
+          "wordCount": 1728,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "7 storytelling techniques to enhance your graphic design portfolio"
@@ -733,7 +733,7 @@
           "description": "https://blog.stunning.co/stop-making-your-paying-customers-hunt-for-the-sign-in-button-on-your-website/",
           "link": "http://www.webdesignernews.com/external/don-t-make-customers-hunt-for-the-sign-in-button-on-your-website",
           "publishedOn": "2021-05-03T20:12:00.000Z",
-          "wordCount": 566,
+          "wordCount": 567,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Don't make customers hunt for the Sign In button on your website"
