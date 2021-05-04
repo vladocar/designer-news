@@ -4,10 +4,19 @@
       "href": "https://www.designinspiration.info/feed/",
       "articles": [
         {
+          "description": "Cool Old English Fonts. We&#8217;ve collected the most beautiful and elegant fonts that can be used in any design project. Take a look. Gothic lettering or blackletter is a letter style in which the letters are calligraphic, and were developed as a rapid handwriting for Latin. As such, they are\nThe post 42 Best Old English Fonts appeared first on Design Inspiration.",
+          "link": "https://www.designinspiration.info/old-english-fonts/",
+          "publishedOn": "2021-05-04T11:22:18.000Z",
+          "wordCount": 3773,
+          "sourceHref": "https://www.designinspiration.info/feed/",
+          "sourceTitle": "Design Inspiration",
+          "title": "42 Best Old English Fonts"
+        },
+        {
           "description": "This is the coolest list of baseball fonts on the internet. In this article, we have collected unique baseball fonts and presets. These baseball fonts can be used to create any kind of sports related designs. Baseball is one of the most popular sports in the United States. Fans from\nThe post 26 Best Baseball Fonts appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/baseball-fonts/",
           "publishedOn": "2021-04-30T23:02:21.000Z",
-          "wordCount": 2293,
+          "wordCount": 2300,
           "sourceHref": "https://www.designinspiration.info/feed/",
           "sourceTitle": "Design Inspiration",
           "title": "26 Best Baseball Fonts"
@@ -83,21 +92,21 @@
           "sourceHref": "https://www.designinspiration.info/feed/",
           "sourceTitle": "Design Inspiration",
           "title": "32 Best Hippie Fonts for Your Retro Designs"
-        },
-        {
-          "description": "Making transparent glass effect in Photoshop is quite easy. We will use a non destructive layer styles technique to achieve this goal.  Photoshop is one of the most popular graphics editing tool. It&#8217;s packed with amazing features and is very easy to use. We are going to create a glass\nThe post Create Realistic Glass Text Effect in Photoshop Tutorial appeared first on Design Inspiration.",
-          "link": "https://www.designinspiration.info/realistic-glass-text-effect-in-photoshop-tutorial/",
-          "publishedOn": "2021-04-11T22:13:24.000Z",
-          "wordCount": 691,
-          "sourceHref": "https://www.designinspiration.info/feed/",
-          "sourceTitle": "Design Inspiration",
-          "title": "Create Realistic Glass Text Effect in Photoshop Tutorial"
         }
       ]
     },
     {
       "href": "http://www.designernews.co/?format=rss",
       "articles": [
+        {
+          "description": "https://cmsinstallation.blogspot.com/2021/03/13-vscode-extensions-that-every-web.html",
+          "link": "https://www.designernews.co/stories/115160-13-vscode-extensions-that-every-web-designer-and-developer-should-use",
+          "publishedOn": "2021-05-04T11:41:21.000Z",
+          "wordCount": 173,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "13 VSCode Extensions That Every Web designer and Developer Should Use"
+        },
         {
           "description": "https://drawer.design/blog/data-visualization-the-what-why-and-how/",
           "link": "https://www.designernews.co/stories/115155-data-visualization-the-what-why-and-how",
@@ -313,15 +322,6 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "Reasons Not To Become a Product Designer"
-        },
-        {
-          "description": "https://wpklik.com/wordpress-themes/free-wordpress-themes-for-business/",
-          "link": "https://www.designernews.co/stories/115060-top-15-free-fully-responsive-wordpress-themes-for-your-business",
-          "publishedOn": "2021-04-28T08:45:35.000Z",
-          "wordCount": 169,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "Top 15+ Free Fully Responsive WordPress Themes for Your Business"
         }
       ]
     },
@@ -589,7 +589,7 @@
           "description": "https://blog.stunning.co/stop-making-your-paying-customers-hunt-for-the-sign-in-button-on-your-website/",
           "link": "http://www.webdesignernews.com/external/don-t-make-customers-hunt-for-the-sign-in-button-on-your-website",
           "publishedOn": "2021-05-03T20:12:00.000Z",
-          "wordCount": 567,
+          "wordCount": 558,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Don't make customers hunt for the Sign In button on your website"
@@ -634,7 +634,7 @@
           "description": "https://thenextweb.com/news/developer-onboarding-process",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-onboard-developers",
           "publishedOn": "2021-05-03T15:53:00.000Z",
-          "wordCount": 1567,
+          "wordCount": 1561,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Here?s how you should onboard developers"
@@ -652,7 +652,7 @@
           "description": "https://speckyboy.com/css-js-3d-text-effects/",
           "link": "http://www.webdesignernews.com/external/8-stunning-examples-of-css-javascript-3d-text-effects",
           "publishedOn": "2021-05-03T13:35:33.000Z",
-          "wordCount": 1136,
+          "wordCount": 1141,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "8 Stunning Examples of CSS & JavaScript 3D Text Effects"
