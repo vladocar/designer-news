@@ -559,6 +559,24 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://uxdesign.cc/from-investigation-to-invitation-the-case-for-co-design-c71ec52e1935",
+          "link": "http://www.webdesignernews.com/external/from-investigation-to-invitation-the-case-for-co-design",
+          "publishedOn": "2021-05-04T18:57:05.000Z",
+          "wordCount": 1887,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "From investigation to invitation: the case for co-design"
+        },
+        {
+          "description": "https://marketsplash.com/slack-alternatives/",
+          "link": "http://www.webdesignernews.com/external/16-best-slack-alternatives-in-2021",
+          "publishedOn": "2021-05-04T18:20:00.000Z",
+          "wordCount": 4128,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "16 Best Slack Alternatives In 2021"
+        },
+        {
           "description": "https://apptelemetry.io/",
           "link": "http://www.webdesignernews.com/external/apptelemetry-privacy-first-lightweight-analytics-for-apps",
           "publishedOn": "2021-05-04T17:42:13.000Z",
@@ -571,7 +589,7 @@
           "description": "https://designmodo.com/bootstrap-5-form/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-multiple-steps-form-with-bootstrap-5",
           "publishedOn": "2021-05-04T16:46:00.000Z",
-          "wordCount": 5152,
+          "wordCount": 5114,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Create a Multiple Steps Form with Bootstrap 5"
@@ -598,7 +616,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/3-essential-design-trends-may-2021/",
           "link": "http://www.webdesignernews.com/external/3-essential-design-trends-may-2021",
           "publishedOn": "2021-05-04T14:13:05.000Z",
-          "wordCount": 1326,
+          "wordCount": 1324,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "3 Essential Design Trends, May 2021"
@@ -625,7 +643,7 @@
           "description": "https://uxdesign.cc/every-design-is-a-system-28bb9bf028b7",
           "link": "http://www.webdesignernews.com/external/every-design-is-a-system",
           "publishedOn": "2021-05-04T14:12:40.000Z",
-          "wordCount": 1870,
+          "wordCount": 1872,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Every design is a system"
@@ -697,7 +715,7 @@
           "description": "https://blog.stunning.co/stop-making-your-paying-customers-hunt-for-the-sign-in-button-on-your-website/",
           "link": "http://www.webdesignernews.com/external/don-t-make-customers-hunt-for-the-sign-in-button-on-your-website",
           "publishedOn": "2021-05-03T20:12:00.000Z",
-          "wordCount": 567,
+          "wordCount": 563,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Don't make customers hunt for the Sign In button on your website"
@@ -719,24 +737,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "What Is a Redirect and How Should You Use It?"
-        },
-        {
-          "description": "https://design.org/unhealthy-thinking-patterns-all-or-nothing/",
-          "link": "http://www.webdesignernews.com/external/unhealthy-thinking-patterns-all-or-nothing",
-          "publishedOn": "2021-05-03T17:24:00.000Z",
-          "wordCount": 1345,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Unhealthy Thinking Patterns: All or Nothing"
-        },
-        {
-          "description": "https://webdesign.tutsplus.com/tutorials/javascript-debounce-and-throttle--cms-36783",
-          "link": "http://www.webdesignernews.com/external/how-to-implement-debounce-and-throttle-with-javascript",
-          "publishedOn": "2021-05-03T16:40:00.000Z",
-          "wordCount": 1804,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "How to Implement Debounce and Throttle with JavaScript"
         }
       ]
     }
