@@ -25,7 +25,7 @@
           "description": "We selected the best paper cutout fonts that are really creative, inventive and high-quality. Not only they look great, but they also contain alternative characters. Paper cut-out fonts are growing in popularity and we are quite sure that some of you created quite a few papercraft designs based on it.\nThe post 20 Best Paper Cut Out Fonts appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/paper-cut-out-fonts/",
           "publishedOn": "2021-04-28T23:55:06.000Z",
-          "wordCount": 2233,
+          "wordCount": 2234,
           "sourceHref": "https://www.designinspiration.info/feed/",
           "sourceTitle": "Design Inspiration",
           "title": "20 Best Paper Cut Out Fonts"
@@ -52,7 +52,7 @@
           "description": "Looking for embroidery fonts? Here is our handpicked selection from decorative fonts inspired by embroidery and sewing, looking as natural as possible. Ideal for branding, logos, headlines, labels, posters, inspirational messages and any kind of design that you want to give an artisanal look and feel. All fonts are also\nThe post 20 Best Embroidery Fonts appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/embroidery-fonts/",
           "publishedOn": "2021-04-22T20:13:55.000Z",
-          "wordCount": 2124,
+          "wordCount": 2133,
           "sourceHref": "https://www.designinspiration.info/feed/",
           "sourceTitle": "Design Inspiration",
           "title": "20 Best Embroidery Fonts"
@@ -300,7 +300,7 @@
           "description": "https://blog.plantapp.io/post/reasons-not-to-become-a-product-designer",
           "link": "https://www.designernews.co/stories/115064-reasons-not-to-become-a-product-designer",
           "publishedOn": "2021-04-28T11:57:26.000Z",
-          "wordCount": 168,
+          "wordCount": 682,
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "Reasons Not To Become a Product Designer"
@@ -541,6 +541,15 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://blog.alexdevero.com/react-useeffect-hook/",
+          "link": "http://www.webdesignernews.com/external/react-useeffect-hook-made-simple",
+          "publishedOn": "2021-05-03T23:05:00.000Z",
+          "wordCount": 2370,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "React useEffect Hook Made Simple"
+        },
+        {
           "description": "https://www.lafoo.com/the-end-of-amp/?twclid=11389086688677404673",
           "link": "http://www.webdesignernews.com/external/the-end-of-google-amp",
           "publishedOn": "2021-05-03T22:33:00.000Z",
@@ -571,7 +580,7 @@
           "description": "https://blog.stunning.co/stop-making-your-paying-customers-hunt-for-the-sign-in-button-on-your-website/",
           "link": "http://www.webdesignernews.com/external/don-t-make-customers-hunt-for-the-sign-in-button-on-your-website",
           "publishedOn": "2021-05-03T20:12:00.000Z",
-          "wordCount": 567,
+          "wordCount": 562,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Don't make customers hunt for the Sign In button on your website"
@@ -616,7 +625,7 @@
           "description": "https://thenextweb.com/news/developer-onboarding-process",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-onboard-developers",
           "publishedOn": "2021-05-03T15:53:00.000Z",
-          "wordCount": 1540,
+          "wordCount": 1536,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Here?s how you should onboard developers"
@@ -634,7 +643,7 @@
           "description": "https://speckyboy.com/css-js-3d-text-effects/",
           "link": "http://www.webdesignernews.com/external/8-stunning-examples-of-css-javascript-3d-text-effects",
           "publishedOn": "2021-05-03T13:35:33.000Z",
-          "wordCount": 1136,
+          "wordCount": 1141,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "8 Stunning Examples of CSS & JavaScript 3D Text Effects"
@@ -710,15 +719,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Beyond Calibri: Finding The Next Microsoft 365 Default Font"
-        },
-        {
-          "description": "https://helloweather.com/",
-          "link": "http://www.webdesignernews.com/external/hello-weather",
-          "publishedOn": "2021-05-02T17:59:00.000Z",
-          "wordCount": 909,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Hello Weather"
         }
       ]
     }
