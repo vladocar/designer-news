@@ -99,6 +99,15 @@
       "href": "http://www.designernews.co/?format=rss",
       "articles": [
         {
+          "description": "https://www.youtube.com/watch?v=XrF7-Ds-0YQ",
+          "link": "https://www.designernews.co/stories/115165-creating-game-prototypes-in-figma-using-interactive-components",
+          "publishedOn": "2021-05-04T14:29:43.000Z",
+          "wordCount": 178,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Creating Game Prototypes in Figma using Interactive Components"
+        },
+        {
           "description": "https://cmsinstallation.blogspot.com/2021/03/13-vscode-extensions-that-every-web.html",
           "link": "https://www.designernews.co/stories/115160-13-vscode-extensions-that-every-web-designer-and-developer-should-use",
           "publishedOn": "2021-05-04T11:41:21.000Z",
@@ -297,15 +306,6 @@
           "title": "Beyond Calibri: Finding Microsoft's next default font"
         },
         {
-          "description": "https://artistro.com/blogs/news/most-popular-and-trending-types-of-art-hashtags-on-instagram",
-          "link": "https://www.designernews.co/stories/115069-most-popular-and-trending-types-of-art-hashtags-on-instagram",
-          "publishedOn": "2021-04-28T13:09:36.000Z",
-          "wordCount": 169,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "Most Popular and Trending Types of Art Hashtags on Instagram"
-        },
-        {
           "description": "https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/",
           "link": "https://www.designernews.co/stories/115067-33-activity-ideas-for-remote-ux-workshops",
           "publishedOn": "2021-04-28T12:15:16.000Z",
@@ -328,6 +328,15 @@
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
+          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
+          "publishedOn": "2021-05-04T14:30:00.000Z",
+          "wordCount": 1791,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "A Guide To Undoing Mistakes With Git"
+        },
         {
           "description": "In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.",
           "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
@@ -550,6 +559,78 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://mediatemple.net/blog/design-creative/star-wars-storytelling-and-website-design/",
+          "link": "http://www.webdesignernews.com/external/star-wars-storytelling-and-website-design",
+          "publishedOn": "2021-05-04T14:13:07.000Z",
+          "wordCount": 1972,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Star Wars, Storytelling, and Website Design"
+        },
+        {
+          "description": "https://www.webdesignerdepot.com/2021/05/3-essential-design-trends-may-2021/",
+          "link": "http://www.webdesignernews.com/external/3-essential-design-trends-may-2021",
+          "publishedOn": "2021-05-04T14:13:05.000Z",
+          "wordCount": 1351,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "3 Essential Design Trends, May 2021"
+        },
+        {
+          "description": "https://ped.ro/blog/why-i-build-design-systems-with-stitches-and-radix",
+          "link": "http://www.webdesignernews.com/external/why-i-build-design-systems-with-stitches-and-radix",
+          "publishedOn": "2021-05-04T14:12:52.000Z",
+          "wordCount": 2412,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Why I Build Design Systems with Stitches and Radix"
+        },
+        {
+          "description": "https://www.imore.com/facebook-and-instagram-threaten-charge-access-ios-145-unless-you-give-it-your-data?hm=r",
+          "link": "http://www.webdesignernews.com/external/facebook-instagram-threaten-to-charge-for-access-unless-you-give-them-your-data",
+          "publishedOn": "2021-05-04T14:12:52.000Z",
+          "wordCount": 865,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Facebook, Instagram threaten to charge for access unless you give them your data"
+        },
+        {
+          "description": "https://uxdesign.cc/every-design-is-a-system-28bb9bf028b7",
+          "link": "http://www.webdesignernews.com/external/every-design-is-a-system",
+          "publishedOn": "2021-05-04T14:12:40.000Z",
+          "wordCount": 1870,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Every design is a system"
+        },
+        {
+          "description": "https://dribbble.com/stories/2021/05/04/graphic-design-portfolio-storytelling",
+          "link": "http://www.webdesignernews.com/external/7-storytelling-techniques-to-enhance-your-graphic-design-portfolio",
+          "publishedOn": "2021-05-04T14:08:00.000Z",
+          "wordCount": 1683,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "7 storytelling techniques to enhance your graphic design portfolio"
+        },
+        {
+          "description": "https://speckyboy.com/clients-can-hurt-project-outcomes/",
+          "link": "http://www.webdesignernews.com/external/4-ways-clients-can-hurt-project-outcomes-and-how-you-can-save-the-day",
+          "publishedOn": "2021-05-04T13:17:00.000Z",
+          "wordCount": 1552,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "4 Ways Clients Can Hurt Project Outcomes (and How You Can Save the Day)"
+        },
+        {
+          "description": "https://growth.design/case-studies/clubhouse-user-retention/",
+          "link": "http://www.webdesignernews.com/external/the-psychology-of-clubhouse-s-user-retention-and-churn",
+          "publishedOn": "2021-05-04T12:08:00.000Z",
+          "wordCount": 21,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "The Psychology of Clubhouse?s User Retention (?and churn)"
+        },
+        {
           "description": "https://blog.alexdevero.com/react-useeffect-hook/",
           "link": "http://www.webdesignernews.com/external/react-useeffect-hook-made-simple",
           "publishedOn": "2021-05-03T23:05:00.000Z",
@@ -589,7 +670,7 @@
           "description": "https://blog.stunning.co/stop-making-your-paying-customers-hunt-for-the-sign-in-button-on-your-website/",
           "link": "http://www.webdesignernews.com/external/don-t-make-customers-hunt-for-the-sign-in-button-on-your-website",
           "publishedOn": "2021-05-03T20:12:00.000Z",
-          "wordCount": 561,
+          "wordCount": 557,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Don't make customers hunt for the Sign In button on your website"
@@ -634,7 +715,7 @@
           "description": "https://thenextweb.com/news/developer-onboarding-process",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-onboard-developers",
           "publishedOn": "2021-05-03T15:53:00.000Z",
-          "wordCount": 1555,
+          "wordCount": 1575,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Here?s how you should onboard developers"
@@ -656,78 +737,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "8 Stunning Examples of CSS & JavaScript 3D Text Effects"
-        },
-        {
-          "description": "https://www.smashingmagazine.com/2021/05/evolution-jamstack/",
-          "link": "http://www.webdesignernews.com/external/the-evolution-of-jamstack",
-          "publishedOn": "2021-05-03T13:22:40.000Z",
-          "wordCount": 2141,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "The Evolution Of Jamstack"
-        },
-        {
-          "description": "https://sprintui.com",
-          "link": "http://www.webdesignernews.com/external/sprint-ui-first-ever-design-system-generator",
-          "publishedOn": "2021-05-03T13:04:00.000Z",
-          "wordCount": 587,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Sprint UI - First-ever Design System Generator"
-        },
-        {
-          "description": "https://dbanks.design/blog/dark-mode-with-style-dictionary/",
-          "link": "http://www.webdesignernews.com/external/dark-mode-with-style-dictionary",
-          "publishedOn": "2021-05-03T13:02:54.000Z",
-          "wordCount": 7286,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Dark Mode with Style Dictionary"
-        },
-        {
-          "description": "https://readme.so/",
-          "link": "http://www.webdesignernews.com/external/readme-so-easiest-way-to-create-a-readme",
-          "publishedOn": "2021-05-02T23:10:00.000Z",
-          "wordCount": 39,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Readme.so ? Easiest Way to Create a Readme"
-        },
-        {
-          "description": "https://github.com/zlwaterfield/refined-zapier",
-          "link": "http://www.webdesignernews.com/external/refined-zapier-open-source-browser-extension-to-10x-zapier-s-ux",
-          "publishedOn": "2021-05-02T21:57:00.000Z",
-          "wordCount": 733,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Refined Zapier - Open-source browser extension to 10x Zapier's UX"
-        },
-        {
-          "description": "https://anitar.dev/",
-          "link": "http://www.webdesignernews.com/external/anitar-dev-animal-avatars-placeholders-for-fun-web-development",
-          "publishedOn": "2021-05-02T20:09:00.000Z",
-          "wordCount": 12,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Anitar.dev - Animal avatars placeholders for fun web development"
-        },
-        {
-          "description": "https://torquemag.io/2021/04/conversational-commerce/",
-          "link": "http://www.webdesignernews.com/external/how-to-drive-sales-with-conversational-commerce-3-tips",
-          "publishedOn": "2021-05-02T19:10:00.000Z",
-          "wordCount": 1629,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "How to Drive Sales With Conversational Commerce (3 Tips)"
-        },
-        {
-          "description": "https://medium.com/microsoft-design/beyond-calibri-finding-the-next-microsoft-365-default-font-5ef83f028be2",
-          "link": "http://www.webdesignernews.com/external/beyond-calibri-finding-the-next-microsoft-365-default-font",
-          "publishedOn": "2021-05-02T18:48:00.000Z",
-          "wordCount": 2287,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Beyond Calibri: Finding The Next Microsoft 365 Default Font"
         }
       ]
     }
