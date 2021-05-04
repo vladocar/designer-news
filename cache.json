@@ -559,6 +559,15 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://designmodo.com/bootstrap-5-form/",
+          "link": "http://www.webdesignernews.com/external/how-to-create-a-multiple-steps-form-with-bootstrap-5",
+          "publishedOn": "2021-05-04T16:46:00.000Z",
+          "wordCount": 5104,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "How to Create a Multiple Steps Form with Bootstrap 5"
+        },
+        {
           "description": "https://www.wired.com/story/how-pixar-uses-hyper-colors-to-hack-your-brain/",
           "link": "http://www.webdesignernews.com/external/how-pixar-uses-hyper-colors-to-hack-your-brain",
           "publishedOn": "2021-05-04T15:04:00.000Z",
@@ -580,7 +589,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/3-essential-design-trends-may-2021/",
           "link": "http://www.webdesignernews.com/external/3-essential-design-trends-may-2021",
           "publishedOn": "2021-05-04T14:13:05.000Z",
-          "wordCount": 1325,
+          "wordCount": 1332,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "3 Essential Design Trends, May 2021"
@@ -679,7 +688,7 @@
           "description": "https://blog.stunning.co/stop-making-your-paying-customers-hunt-for-the-sign-in-button-on-your-website/",
           "link": "http://www.webdesignernews.com/external/don-t-make-customers-hunt-for-the-sign-in-button-on-your-website",
           "publishedOn": "2021-05-03T20:12:00.000Z",
-          "wordCount": 566,
+          "wordCount": 568,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Don't make customers hunt for the Sign In button on your website"
@@ -724,19 +733,10 @@
           "description": "https://thenextweb.com/news/developer-onboarding-process",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-onboard-developers",
           "publishedOn": "2021-05-03T15:53:00.000Z",
-          "wordCount": 1579,
+          "wordCount": 1545,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Here?s how you should onboard developers"
-        },
-        {
-          "description": "https://hitman.app/",
-          "link": "http://www.webdesignernews.com/external/hitman-app-collaboration-tool-to-test-apis-publish-beautiful-api-docs",
-          "publishedOn": "2021-05-03T14:48:13.000Z",
-          "wordCount": 272,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Hitman.app - Collaboration tool to test APIs & publish beautiful API docs"
         }
       ]
     }
