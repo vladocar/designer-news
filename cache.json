@@ -309,7 +309,7 @@
           "description": "https://www.webcluesinfotech.com/ui-ux-development-company/",
           "link": "https://www.designernews.co/stories/115085-uiux-design-service-provider--webapp-design-",
           "publishedOn": "2021-04-29T05:20:34.000Z",
-          "wordCount": 178,
+          "wordCount": 225,
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "UI/UX Design Service Provider - Web/App Design"
@@ -328,6 +328,15 @@
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
+          "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
+          "publishedOn": "2021-05-05T10:30:00.000Z",
+          "wordCount": 2296,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Reducing HTML Payload With Next.js (Case Study)"
+        },
         {
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
@@ -580,7 +589,7 @@
           "description": "https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/",
           "link": "http://www.webdesignernews.com/external/dynamic-css-masks-with-custom-properties-and-gsap",
           "publishedOn": "2021-05-04T19:51:10.000Z",
-          "wordCount": 3222,
+          "wordCount": 3217,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Dynamic CSS Masks with Custom Properties and GSAP"
@@ -625,7 +634,7 @@
           "description": "https://designmodo.com/bootstrap-5-form/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-multiple-steps-form-with-bootstrap-5",
           "publishedOn": "2021-05-04T16:46:00.000Z",
-          "wordCount": 5104,
+          "wordCount": 5152,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Create a Multiple Steps Form with Bootstrap 5"
@@ -652,7 +661,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/3-essential-design-trends-may-2021/",
           "link": "http://www.webdesignernews.com/external/3-essential-design-trends-may-2021",
           "publishedOn": "2021-05-04T14:13:05.000Z",
-          "wordCount": 1337,
+          "wordCount": 1355,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "3 Essential Design Trends, May 2021"
@@ -670,7 +679,7 @@
           "description": "https://www.imore.com/facebook-and-instagram-threaten-charge-access-ios-145-unless-you-give-it-your-data?hm=r",
           "link": "http://www.webdesignernews.com/external/facebook-instagram-threaten-to-charge-for-access-unless-you-give-them-your-data",
           "publishedOn": "2021-05-04T14:12:52.000Z",
-          "wordCount": 853,
+          "wordCount": 859,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Facebook, Instagram threaten to charge for access unless you give them your data"
@@ -679,7 +688,7 @@
           "description": "https://uxdesign.cc/every-design-is-a-system-28bb9bf028b7",
           "link": "http://www.webdesignernews.com/external/every-design-is-a-system",
           "publishedOn": "2021-05-04T14:12:40.000Z",
-          "wordCount": 1879,
+          "wordCount": 1884,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Every design is a system"
