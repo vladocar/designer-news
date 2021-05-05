@@ -559,6 +559,15 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://thenextweb.com/news/instagram-stories-captions",
+          "link": "http://www.webdesignernews.com/external/instagram-now-lets-you-add-captions-to-your-stories",
+          "publishedOn": "2021-05-05T16:12:00.000Z",
+          "wordCount": 731,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Instagram now lets you add captions to your Stories"
+        },
+        {
           "description": "https://speckyboy.com/ideas-about-presentation/",
           "link": "http://www.webdesignernews.com/external/presenting-design-ideas-is-all-about-presentation",
           "publishedOn": "2021-05-05T14:55:00.000Z",
@@ -598,7 +607,7 @@
           "description": "https://thenextweb.com/news/3-bootstrapping-lessons-saas-startup",
           "link": "http://www.webdesignernews.com/external/the-3-most-important-lessons-i-learned-as-a-bootstrapped-founder",
           "publishedOn": "2021-05-05T14:20:44.000Z",
-          "wordCount": 1890,
+          "wordCount": 1896,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The 3 most important lessons I learned as a bootstrapped founder"
@@ -616,7 +625,7 @@
           "description": "https://torquemag.io/2021/05/optimize-woocommerce-performance/",
           "link": "http://www.webdesignernews.com/external/how-to-optimize-your-woocommerce-store-s-performance-for-higher-conversions-4-ways",
           "publishedOn": "2021-05-04T22:45:00.000Z",
-          "wordCount": 1718,
+          "wordCount": 1712,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Optimize Your WooCommerce Store?s Performance for Higher Conversions (4 Ways)"
@@ -688,7 +697,7 @@
           "description": "https://designmodo.com/bootstrap-5-form/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-multiple-steps-form-with-bootstrap-5",
           "publishedOn": "2021-05-04T16:46:00.000Z",
-          "wordCount": 5152,
+          "wordCount": 5104,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Create a Multiple Steps Form with Bootstrap 5"
@@ -715,7 +724,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/3-essential-design-trends-may-2021/",
           "link": "http://www.webdesignernews.com/external/3-essential-design-trends-may-2021",
           "publishedOn": "2021-05-04T14:13:05.000Z",
-          "wordCount": 1354,
+          "wordCount": 1352,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "3 Essential Design Trends, May 2021"
@@ -728,15 +737,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Why I Build Design Systems with Stitches and Radix"
-        },
-        {
-          "description": "https://www.imore.com/facebook-and-instagram-threaten-charge-access-ios-145-unless-you-give-it-your-data?hm=r",
-          "link": "http://www.webdesignernews.com/external/facebook-instagram-threaten-to-charge-for-access-unless-you-give-them-your-data",
-          "publishedOn": "2021-05-04T14:12:52.000Z",
-          "wordCount": 859,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Facebook, Instagram threaten to charge for access unless you give them your data"
         }
       ]
     }
