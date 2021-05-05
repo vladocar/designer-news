@@ -138,7 +138,7 @@
           "description": "https://www.youtube.com/watch?v=XrF7-Ds-0YQ",
           "link": "https://www.designernews.co/stories/115165-creating-game-prototypes-in-figma-using-interactive-components",
           "publishedOn": "2021-05-04T14:29:43.000Z",
-          "wordCount": 193,
+          "wordCount": 224,
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "Creating Game Prototypes in Figma using Interactive Components"
@@ -151,6 +151,24 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "13 VSCode Extensions That Every Web designer and Developer Should Use"
+        },
+        {
+          "description": "https://growth.design/case-studies/clubhouse-user-retention/",
+          "link": "https://www.designernews.co/stories/115159-the-psychology-of-clubhouses-user-retention-and-churn",
+          "publishedOn": "2021-05-04T11:31:25.000Z",
+          "wordCount": 182,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "The Psychology of Clubhouse’s User Retention (...and churn)"
+        },
+        {
+          "description": "https://www.zenesys.com/blog/top-10-ui-ux-design-trends-to-watch-in-2021",
+          "link": "https://www.designernews.co/stories/115156-top-10-uiux-design-trends-to-watch-in-2021",
+          "publishedOn": "2021-05-04T08:21:20.000Z",
+          "wordCount": 184,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Top 10 UI/UX Design Trends to watch in 2021"
         },
         {
           "description": "https://drawer.design/blog/data-visualization-the-what-why-and-how/",
@@ -304,24 +322,6 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "Free: Coding Jag - Weekly Testing Newsletter Testing News & Tips"
-        },
-        {
-          "description": "https://www.webcluesinfotech.com/ui-ux-development-company/",
-          "link": "https://www.designernews.co/stories/115085-uiux-design-service-provider--webapp-design-",
-          "publishedOn": "2021-04-29T05:20:34.000Z",
-          "wordCount": 225,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "UI/UX Design Service Provider - Web/App Design"
-        },
-        {
-          "description": "https://blog.plantapp.io/post/reasons-not-to-become-a-product-designer",
-          "link": "https://www.designernews.co/stories/115064-reasons-not-to-become-a-product-designer",
-          "publishedOn": "2021-04-28T11:57:26.000Z",
-          "wordCount": 693,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "Reasons Not To Become a Product Designer"
         }
       ]
     },
@@ -589,7 +589,7 @@
           "description": "https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/",
           "link": "http://www.webdesignernews.com/external/dynamic-css-masks-with-custom-properties-and-gsap",
           "publishedOn": "2021-05-04T19:51:10.000Z",
-          "wordCount": 3217,
+          "wordCount": 3221,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Dynamic CSS Masks with Custom Properties and GSAP"
@@ -634,7 +634,7 @@
           "description": "https://designmodo.com/bootstrap-5-form/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-multiple-steps-form-with-bootstrap-5",
           "publishedOn": "2021-05-04T16:46:00.000Z",
-          "wordCount": 5152,
+          "wordCount": 5147,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Create a Multiple Steps Form with Bootstrap 5"
@@ -661,7 +661,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/3-essential-design-trends-may-2021/",
           "link": "http://www.webdesignernews.com/external/3-essential-design-trends-may-2021",
           "publishedOn": "2021-05-04T14:13:05.000Z",
-          "wordCount": 1355,
+          "wordCount": 1338,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "3 Essential Design Trends, May 2021"
