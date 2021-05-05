@@ -99,6 +99,15 @@
       "href": "http://www.designernews.co/?format=rss",
       "articles": [
         {
+          "description": "https://www.webcluesinfotech.com/how-to-create-a-healthcare-app-like-zocdoc/",
+          "link": "https://www.designernews.co/stories/115181-complete-guide-on-how-to-create-an-app-like-zocdoc",
+          "publishedOn": "2021-05-05T07:37:05.000Z",
+          "wordCount": 184,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Complete guide on how to create an app like Zocdoc"
+        },
+        {
           "description": "https://next.waveguide.io/p/my-startup-needs-better-ux-should",
           "link": "https://www.designernews.co/stories/115175-my-startup-needs-better-ux-should-i-hire-a-fulltime-designer",
           "publishedOn": "2021-05-04T21:46:49.000Z",
@@ -304,15 +313,6 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "6 Best Filmora Alternatives (Free And Paid)"
-        },
-        {
-          "description": "https://www.microsoft.com/en-us/microsoft-365/blog/2021/04/28/beyond-calibri-finding-microsofts-next-default-font/",
-          "link": "https://www.designernews.co/stories/115080-beyond-calibri-finding-microsofts-next-default-font",
-          "publishedOn": "2021-04-28T16:26:35.000Z",
-          "wordCount": 178,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "Beyond Calibri: Finding Microsoft's next default font"
         },
         {
           "description": "https://blog.plantapp.io/post/reasons-not-to-become-a-product-designer",
@@ -580,7 +580,7 @@
           "description": "https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/",
           "link": "http://www.webdesignernews.com/external/dynamic-css-masks-with-custom-properties-and-gsap",
           "publishedOn": "2021-05-04T19:51:10.000Z",
-          "wordCount": 3222,
+          "wordCount": 3220,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Dynamic CSS Masks with Custom Properties and GSAP"
@@ -625,7 +625,7 @@
           "description": "https://designmodo.com/bootstrap-5-form/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-multiple-steps-form-with-bootstrap-5",
           "publishedOn": "2021-05-04T16:46:00.000Z",
-          "wordCount": 5136,
+          "wordCount": 5104,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Create a Multiple Steps Form with Bootstrap 5"
@@ -652,7 +652,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/3-essential-design-trends-may-2021/",
           "link": "http://www.webdesignernews.com/external/3-essential-design-trends-may-2021",
           "publishedOn": "2021-05-04T14:13:05.000Z",
-          "wordCount": 1324,
+          "wordCount": 1349,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "3 Essential Design Trends, May 2021"
