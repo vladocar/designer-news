@@ -99,6 +99,24 @@
       "href": "http://www.designernews.co/?format=rss",
       "articles": [
         {
+          "description": "https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html",
+          "link": "https://www.designernews.co/stories/115186-6-ways-to-make-money-with-your-codedesign",
+          "publishedOn": "2021-05-05T10:10:16.000Z",
+          "wordCount": 181,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "6 Ways To Make Money With Your Code/Design"
+        },
+        {
+          "description": "https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html",
+          "link": "https://www.designernews.co/stories/115185-best-keyboards-for-programming-in-2021",
+          "publishedOn": "2021-05-05T10:06:40.000Z",
+          "wordCount": 189,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Best keyboards for programming in 2021"
+        },
+        {
           "description": "https://www.webcluesinfotech.com/how-to-create-a-healthcare-app-like-zocdoc/",
           "link": "https://www.designernews.co/stories/115181-complete-guide-on-how-to-create-an-app-like-zocdoc",
           "publishedOn": "2021-05-05T07:37:05.000Z",
@@ -295,24 +313,6 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "UI/UX Design Service Provider - Web/App Design"
-        },
-        {
-          "description": "https://paperform.co/blog/principles-of-design/",
-          "link": "https://www.designernews.co/stories/115083-the-13-principles-of-design",
-          "publishedOn": "2021-04-28T21:33:07.000Z",
-          "wordCount": 175,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "The 13 Principles Of Design"
-        },
-        {
-          "description": "https://marketsplash.com/filmora-alternatives/",
-          "link": "https://www.designernews.co/stories/115082-6-best-filmora-alternatives-free-and-paid",
-          "publishedOn": "2021-04-28T21:30:44.000Z",
-          "wordCount": 179,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "6 Best Filmora Alternatives (Free And Paid)"
         },
         {
           "description": "https://blog.plantapp.io/post/reasons-not-to-become-a-product-designer",
@@ -580,7 +580,7 @@
           "description": "https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/",
           "link": "http://www.webdesignernews.com/external/dynamic-css-masks-with-custom-properties-and-gsap",
           "publishedOn": "2021-05-04T19:51:10.000Z",
-          "wordCount": 3219,
+          "wordCount": 3222,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Dynamic CSS Masks with Custom Properties and GSAP"
@@ -625,7 +625,7 @@
           "description": "https://designmodo.com/bootstrap-5-form/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-multiple-steps-form-with-bootstrap-5",
           "publishedOn": "2021-05-04T16:46:00.000Z",
-          "wordCount": 5136,
+          "wordCount": 5104,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Create a Multiple Steps Form with Bootstrap 5"
@@ -652,7 +652,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/3-essential-design-trends-may-2021/",
           "link": "http://www.webdesignernews.com/external/3-essential-design-trends-may-2021",
           "publishedOn": "2021-05-04T14:13:05.000Z",
-          "wordCount": 1336,
+          "wordCount": 1337,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "3 Essential Design Trends, May 2021"
