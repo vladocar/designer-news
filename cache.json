@@ -559,6 +559,15 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://www.itsnicethat.com/news/meet-the-mentor-anthony-burrill-launch-creative-industry-050521",
+          "link": "http://www.webdesignernews.com/external/sign-up-for-a-one-on-one-mentoring-session-with-anthony-burrill",
+          "publishedOn": "2021-05-05T13:33:00.000Z",
+          "wordCount": 1141,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Sign up for a one-on-one mentoring session with Anthony Burrill"
+        },
+        {
           "description": "https://torquemag.io/2021/05/optimize-woocommerce-performance/",
           "link": "http://www.webdesignernews.com/external/how-to-optimize-your-woocommerce-store-s-performance-for-higher-conversions-4-ways",
           "publishedOn": "2021-05-04T22:45:00.000Z",
@@ -589,7 +598,7 @@
           "description": "https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/",
           "link": "http://www.webdesignernews.com/external/dynamic-css-masks-with-custom-properties-and-gsap",
           "publishedOn": "2021-05-04T19:51:10.000Z",
-          "wordCount": 3221,
+          "wordCount": 3220,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Dynamic CSS Masks with Custom Properties and GSAP"
@@ -634,7 +643,7 @@
           "description": "https://designmodo.com/bootstrap-5-form/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-multiple-steps-form-with-bootstrap-5",
           "publishedOn": "2021-05-04T16:46:00.000Z",
-          "wordCount": 5147,
+          "wordCount": 5136,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Create a Multiple Steps Form with Bootstrap 5"
@@ -661,7 +670,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/3-essential-design-trends-may-2021/",
           "link": "http://www.webdesignernews.com/external/3-essential-design-trends-may-2021",
           "publishedOn": "2021-05-04T14:13:05.000Z",
-          "wordCount": 1338,
+          "wordCount": 1346,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "3 Essential Design Trends, May 2021"
@@ -728,15 +737,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "React useEffect Hook Made Simple"
-        },
-        {
-          "description": "https://www.lafoo.com/the-end-of-amp/?twclid=11389086688677404673",
-          "link": "http://www.webdesignernews.com/external/the-end-of-google-amp",
-          "publishedOn": "2021-05-03T22:33:00.000Z",
-          "wordCount": 1412,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "The End of (Google) AMP"
         }
       ]
     }
