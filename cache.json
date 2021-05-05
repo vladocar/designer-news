@@ -99,6 +99,15 @@
       "href": "http://www.designernews.co/?format=rss",
       "articles": [
         {
+          "description": "https://www.vectornator.io/blog/candle-labels",
+          "link": "https://www.designernews.co/stories/115198-how-to-create-the-ideal-candle-label",
+          "publishedOn": "2021-05-05T18:43:51.000Z",
+          "wordCount": 176,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "How to Create the Ideal Candle Label"
+        },
+        {
           "description": "https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html",
           "link": "https://www.designernews.co/stories/115186-6-ways-to-make-money-with-your-codedesign",
           "publishedOn": "2021-05-05T10:10:16.000Z",
@@ -304,15 +313,6 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "Web Design vs Web Development"
-        },
-        {
-          "description": "https://www.vectornator.io/blog/visual-presentations",
-          "link": "https://www.designernews.co/stories/115091-a-nondesigners-guide-to-creating-visual-presentations",
-          "publishedOn": "2021-04-29T08:25:17.000Z",
-          "wordCount": 176,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "A Non-Designer’s Guide to Creating Visual Presentations"
         },
         {
           "description": "https://www.lambdatest.com/newsletter/?utm_source=designernews&utm_medium=blog&utm_campaign=PM-29Apr21&utm_term=organicPosting",
@@ -571,7 +571,7 @@
           "description": "https://thenextweb.com/news/instagram-stories-captions",
           "link": "http://www.webdesignernews.com/external/instagram-now-lets-you-add-captions-to-your-stories",
           "publishedOn": "2021-05-05T16:12:00.000Z",
-          "wordCount": 729,
+          "wordCount": 717,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Instagram now lets you add captions to your Stories"
@@ -598,7 +598,7 @@
           "description": "https://www.backgitup.com/",
           "link": "http://www.webdesignernews.com/external/back-git-up-disaster-recovery-for-your-code-on-github-and-bitbucket",
           "publishedOn": "2021-05-05T14:21:38.000Z",
-          "wordCount": 639,
+          "wordCount": 649,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Back Git Up - Disaster recovery for your code on Github and Bitbucket"
@@ -634,7 +634,7 @@
           "description": "https://torquemag.io/2021/05/optimize-woocommerce-performance/",
           "link": "http://www.webdesignernews.com/external/how-to-optimize-your-woocommerce-store-s-performance-for-higher-conversions-4-ways",
           "publishedOn": "2021-05-04T22:45:00.000Z",
-          "wordCount": 1714,
+          "wordCount": 1712,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Optimize Your WooCommerce Store?s Performance for Higher Conversions (4 Ways)"
@@ -661,7 +661,7 @@
           "description": "https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/",
           "link": "http://www.webdesignernews.com/external/dynamic-css-masks-with-custom-properties-and-gsap",
           "publishedOn": "2021-05-04T19:51:10.000Z",
-          "wordCount": 3217,
+          "wordCount": 3223,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Dynamic CSS Masks with Custom Properties and GSAP"
@@ -706,7 +706,7 @@
           "description": "https://designmodo.com/bootstrap-5-form/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-multiple-steps-form-with-bootstrap-5",
           "publishedOn": "2021-05-04T16:46:00.000Z",
-          "wordCount": 5152,
+          "wordCount": 5147,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Create a Multiple Steps Form with Bootstrap 5"
@@ -733,7 +733,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/3-essential-design-trends-may-2021/",
           "link": "http://www.webdesignernews.com/external/3-essential-design-trends-may-2021",
           "publishedOn": "2021-05-04T14:13:05.000Z",
-          "wordCount": 1321,
+          "wordCount": 1329,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "3 Essential Design Trends, May 2021"
