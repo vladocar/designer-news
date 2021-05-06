@@ -559,6 +559,15 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://icons8.com/l/flame/",
+          "link": "http://www.webdesignernews.com/external/3d-flame-style-illustrations-for-kick-ass-designs",
+          "publishedOn": "2021-05-06T19:34:00.000Z",
+          "wordCount": 618,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "3D Flame style illustrations for kick-ass designs"
+        },
+        {
           "description": "https://sli.dev/",
           "link": "http://www.webdesignernews.com/external/slidev-presentation-slides-for-developers",
           "publishedOn": "2021-05-06T17:51:00.000Z",
@@ -580,7 +589,7 @@
           "description": "https://design4users.com/animated-logo-design/",
           "link": "http://www.webdesignernews.com/external/15-animated-logo-design-concepts",
           "publishedOn": "2021-05-06T15:28:00.000Z",
-          "wordCount": 419,
+          "wordCount": 414,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "15 Animated Logo Design Concepts"
@@ -607,7 +616,7 @@
           "description": "https://blog.tubikstudio.com/mobile-app-design-concepts/",
           "link": "http://www.webdesignernews.com/external/mobile-design-14-stylish-and-user-friendly-app-design-concepts",
           "publishedOn": "2021-05-06T12:14:00.000Z",
-          "wordCount": 3431,
+          "wordCount": 3434,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Mobile Design: 14 Stylish and User-Friendly App Design Concepts"
@@ -616,7 +625,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/how-to-power-through-designer-apathy/",
           "link": "http://www.webdesignernews.com/external/how-to-power-through-designer-apathy",
           "publishedOn": "2021-05-06T07:32:55.000Z",
-          "wordCount": 1262,
+          "wordCount": 1279,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How To Power Through Designer Apathy"
@@ -643,7 +652,7 @@
           "description": "https://buttercms.com/blog/react-vs-react-native",
           "link": "http://www.webdesignernews.com/external/react-vs-react-native-differences-advantages-limitations",
           "publishedOn": "2021-05-06T07:06:39.000Z",
-          "wordCount": 2869,
+          "wordCount": 2868,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "React vs React Native: Differences, Advantages & Limitations"
@@ -688,7 +697,7 @@
           "description": "https://thenextweb.com/news/instagram-stories-captions",
           "link": "http://www.webdesignernews.com/external/instagram-now-lets-you-add-captions-to-your-stories",
           "publishedOn": "2021-05-05T16:12:00.000Z",
-          "wordCount": 718,
+          "wordCount": 716,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Instagram now lets you add captions to your Stories"
@@ -728,15 +737,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Tridimensionality: skeuomorphism, flat design, and neumorphism"
-        },
-        {
-          "description": "https://thenextweb.com/news/3-bootstrapping-lessons-saas-startup",
-          "link": "http://www.webdesignernews.com/external/the-3-most-important-lessons-i-learned-as-a-bootstrapped-founder",
-          "publishedOn": "2021-05-05T14:20:44.000Z",
-          "wordCount": 1915,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "The 3 most important lessons I learned as a bootstrapped founder"
         }
       ]
     }
