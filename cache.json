@@ -4,10 +4,19 @@
       "href": "https://www.designinspiration.info/feed/",
       "articles": [
         {
+          "description": "Looking for some sleek fashion fonts with elegant look for your modern designs? Look no further. When someone mentions Fashion, people might not necessarily think of fonts. However, the fact is that typography plays an important role in any design. Here you’ll find some fantastic fashion fonts that will help\nThe post 38 Best Fashion Fonts for Modern Designs appeared first on Design Inspiration.",
+          "link": "https://www.designinspiration.info/fashion-fonts/",
+          "publishedOn": "2021-05-06T21:13:22.000Z",
+          "wordCount": 3887,
+          "sourceHref": "https://www.designinspiration.info/feed/",
+          "sourceTitle": "Design Inspiration",
+          "title": "38 Best Fashion Fonts for Modern Designs"
+        },
+        {
           "description": "Cool Old English Fonts. We&#8217;ve collected the most beautiful and elegant fonts that can be used in any design project. Take a look. Gothic lettering or blackletter is a letter style in which the letters are calligraphic, and were developed as a rapid handwriting for Latin. As such, they are\nThe post 42 Best Old English Fonts appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/old-english-fonts/",
           "publishedOn": "2021-05-04T11:22:18.000Z",
-          "wordCount": 3773,
+          "wordCount": 3782,
           "sourceHref": "https://www.designinspiration.info/feed/",
           "sourceTitle": "Design Inspiration",
           "title": "42 Best Old English Fonts"
@@ -61,7 +70,7 @@
           "description": "Looking for embroidery fonts? Here is our handpicked selection from decorative fonts inspired by embroidery and sewing, looking as natural as possible. Ideal for branding, logos, headlines, labels, posters, inspirational messages and any kind of design that you want to give an artisanal look and feel. All fonts are also\nThe post 20 Best Embroidery Fonts appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/embroidery-fonts/",
           "publishedOn": "2021-04-22T20:13:55.000Z",
-          "wordCount": 2133,
+          "wordCount": 2124,
           "sourceHref": "https://www.designinspiration.info/feed/",
           "sourceTitle": "Design Inspiration",
           "title": "20 Best Embroidery Fonts"
@@ -83,15 +92,6 @@
           "sourceHref": "https://www.designinspiration.info/feed/",
           "sourceTitle": "Design Inspiration",
           "title": "42 Best Gothic Fonts for Your Cool Designs"
-        },
-        {
-          "description": "Hippie Fonts are a collection of vector and raster vintage and retro fonts inspired by flower power, peace signs, rock stars and hippies. The Hippie movement is a counterculture that developed in the United States during the mid-1960s, spread throughout much of the Western world and then was largely subsumed\nThe post 32 Best Hippie Fonts for Your Retro Designs appeared first on Design Inspiration.",
-          "link": "https://www.designinspiration.info/best-hippie-fonts/",
-          "publishedOn": "2021-04-15T21:54:17.000Z",
-          "wordCount": 3103,
-          "sourceHref": "https://www.designinspiration.info/feed/",
-          "sourceTitle": "Design Inspiration",
-          "title": "32 Best Hippie Fonts for Your Retro Designs"
         }
       ]
     },
@@ -332,7 +332,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2616,
+          "wordCount": 2617,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Improving The Performance Of Shopify Themes (Case Study)"
@@ -559,6 +559,15 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://torquemag.io/2021/05/ecommere-ui-design/",
+          "link": "http://www.webdesignernews.com/external/ecommere-ui-design-12-tips-to-start-selling-today-2021",
+          "publishedOn": "2021-05-06T21:01:00.000Z",
+          "wordCount": 2283,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Ecommere UI Design: 12 Tips to Start Selling Today (2021)"
+        },
+        {
           "description": "https://uxdesign.cc/your-work-will-soon-take-on-a-new-character-c1be620fe8ea",
           "link": "http://www.webdesignernews.com/external/microsoft-s-new-font-your-work-will-soon-take-on-a-new-character",
           "publishedOn": "2021-05-06T20:19:00.000Z",
@@ -598,7 +607,7 @@
           "description": "https://design4users.com/animated-logo-design/",
           "link": "http://www.webdesignernews.com/external/15-animated-logo-design-concepts",
           "publishedOn": "2021-05-06T15:28:00.000Z",
-          "wordCount": 409,
+          "wordCount": 423,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "15 Animated Logo Design Concepts"
@@ -625,7 +634,7 @@
           "description": "https://blog.tubikstudio.com/mobile-app-design-concepts/",
           "link": "http://www.webdesignernews.com/external/mobile-design-14-stylish-and-user-friendly-app-design-concepts",
           "publishedOn": "2021-05-06T12:14:00.000Z",
-          "wordCount": 3424,
+          "wordCount": 3434,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Mobile Design: 14 Stylish and User-Friendly App Design Concepts"
@@ -634,7 +643,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/how-to-power-through-designer-apathy/",
           "link": "http://www.webdesignernews.com/external/how-to-power-through-designer-apathy",
           "publishedOn": "2021-05-06T07:32:55.000Z",
-          "wordCount": 1263,
+          "wordCount": 1256,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How To Power Through Designer Apathy"
@@ -661,7 +670,7 @@
           "description": "https://buttercms.com/blog/react-vs-react-native",
           "link": "http://www.webdesignernews.com/external/react-vs-react-native-differences-advantages-limitations",
           "publishedOn": "2021-05-06T07:06:39.000Z",
-          "wordCount": 2868,
+          "wordCount": 2870,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "React vs React Native: Differences, Advantages & Limitations"
@@ -706,7 +715,7 @@
           "description": "https://thenextweb.com/news/instagram-stories-captions",
           "link": "http://www.webdesignernews.com/external/instagram-now-lets-you-add-captions-to-your-stories",
           "publishedOn": "2021-05-05T16:12:00.000Z",
-          "wordCount": 720,
+          "wordCount": 712,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Instagram now lets you add captions to your Stories"
@@ -728,15 +737,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "We Use Web Components at GitHub"
-        },
-        {
-          "description": "https://www.backgitup.com/",
-          "link": "http://www.webdesignernews.com/external/back-git-up-disaster-recovery-for-your-code-on-github-and-bitbucket",
-          "publishedOn": "2021-05-05T14:21:38.000Z",
-          "wordCount": 649,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Back Git Up - Disaster recovery for your code on Github and Bitbucket"
         }
       ]
     }
