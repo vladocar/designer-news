@@ -99,6 +99,24 @@
       "href": "http://www.designernews.co/?format=rss",
       "articles": [
         {
+          "description": "https://www.youtube.com/watch?v=BaymAuMBRwA",
+          "link": "https://www.designernews.co/stories/115211-product-design-and-uiux-education-what-are-my-options",
+          "publishedOn": "2021-05-06T08:54:10.000Z",
+          "wordCount": 172,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Product Design and UI/UX Education: What are my options?"
+        },
+        {
+          "description": "https://www.youtube.com/watch?v=rQryOSyfXmI&list=PLl1gkwYU90QkvmT4uLM5jzLsotJZtLHgW",
+          "link": "https://www.designernews.co/stories/115210-15h-tutorial-for-the-bootstrap-v5-stable-that-was-finally-released-yesterday",
+          "publishedOn": "2021-05-06T08:53:53.000Z",
+          "wordCount": 177,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "1.5H tutorial for the Bootstrap v5 STABLE that was finally released yesterday"
+        },
+        {
           "description": "https://cmsinstallation.blogspot.com/2021/04/8-vs-code-plugins-to-improve-your.html",
           "link": "https://www.designernews.co/stories/115209-8-vs-code-plugins-to-improve-your-productivity",
           "publishedOn": "2021-05-06T07:45:44.000Z",
@@ -304,24 +322,6 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "Improve Your Design Skills In 2021"
-        },
-        {
-          "description": "https://medium.com/wavemakers-io/why-we-need-wavemakers-e9fe81babe5f?source=friends_link&sk=25ee6729bff9e8398c622a3b854e6c26",
-          "link": "https://www.designernews.co/stories/115112-why-we-need-wavemakers-some-thoughts-on-leadership--empowerment",
-          "publishedOn": "2021-04-30T07:07:44.000Z",
-          "wordCount": 173,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "Why we need WaveMakers: Some Thoughts on Leadership & Empowerment"
-        },
-        {
-          "description": "https://www.imaginarycloud.com/blog/web-design-and-development/",
-          "link": "https://www.designernews.co/stories/115094-web-design-vs-web-development",
-          "publishedOn": "2021-04-29T09:50:32.000Z",
-          "wordCount": 230,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "Web Design vs Web Development"
         }
       ]
     },
@@ -553,7 +553,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/how-to-power-through-designer-apathy/",
           "link": "http://www.webdesignernews.com/external/how-to-power-through-designer-apathy",
           "publishedOn": "2021-05-06T07:32:55.000Z",
-          "wordCount": 1261,
+          "wordCount": 1241,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How To Power Through Designer Apathy"
@@ -625,7 +625,7 @@
           "description": "https://thenextweb.com/news/instagram-stories-captions",
           "link": "http://www.webdesignernews.com/external/instagram-now-lets-you-add-captions-to-your-stories",
           "publishedOn": "2021-05-05T16:12:00.000Z",
-          "wordCount": 722,
+          "wordCount": 745,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Instagram now lets you add captions to your Stories"
@@ -670,7 +670,7 @@
           "description": "https://thenextweb.com/news/3-bootstrapping-lessons-saas-startup",
           "link": "http://www.webdesignernews.com/external/the-3-most-important-lessons-i-learned-as-a-bootstrapped-founder",
           "publishedOn": "2021-05-05T14:20:44.000Z",
-          "wordCount": 1905,
+          "wordCount": 1919,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The 3 most important lessons I learned as a bootstrapped founder"
@@ -715,7 +715,7 @@
           "description": "https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/",
           "link": "http://www.webdesignernews.com/external/dynamic-css-masks-with-custom-properties-and-gsap",
           "publishedOn": "2021-05-04T19:51:10.000Z",
-          "wordCount": 3225,
+          "wordCount": 3223,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Dynamic CSS Masks with Custom Properties and GSAP"
