@@ -180,6 +180,15 @@
           "title": "How to Create the Ideal Candle Label"
         },
         {
+          "description": "https://www.vectornator.io/blog/graphic-design-examples",
+          "link": "https://www.designernews.co/stories/115197-vectornators-12-best-graphic-design-examples",
+          "publishedOn": "2021-05-05T18:40:36.000Z",
+          "wordCount": 173,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Vectornator's 12 Best Graphic Design Examples"
+        },
+        {
           "description": "https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html",
           "link": "https://www.designernews.co/stories/115186-6-ways-to-make-money-with-your-codedesign",
           "publishedOn": "2021-05-05T10:10:16.000Z",
@@ -313,15 +322,6 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "AWS vs Azure vs Google Cloud: Which Cloud Services is better for Enterprises?"
-        },
-        {
-          "description": "https://medium.com/geekculture/how-to-pitch-a-design-system-9a56971062bd",
-          "link": "https://www.designernews.co/stories/115132-how-to-pitch-a-design-system",
-          "publishedOn": "2021-05-03T02:46:15.000Z",
-          "wordCount": 173,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "How to pitch a design system"
         }
       ]
     },
@@ -559,6 +559,15 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://design4users.com/animated-logo-design/",
+          "link": "http://www.webdesignernews.com/external/15-animated-logo-design-concepts",
+          "publishedOn": "2021-05-06T15:28:00.000Z",
+          "wordCount": 420,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "15 Animated Logo Design Concepts"
+        },
+        {
           "description": "https://livecodestream.dev/post/search-on-google-like-a-pro/",
           "link": "http://www.webdesignernews.com/external/search-on-google-like-a-pro",
           "publishedOn": "2021-05-06T14:19:00.000Z",
@@ -580,7 +589,7 @@
           "description": "https://blog.tubikstudio.com/mobile-app-design-concepts/",
           "link": "http://www.webdesignernews.com/external/mobile-design-14-stylish-and-user-friendly-app-design-concepts",
           "publishedOn": "2021-05-06T12:14:00.000Z",
-          "wordCount": 3440,
+          "wordCount": 3436,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Mobile Design: 14 Stylish and User-Friendly App Design Concepts"
@@ -589,7 +598,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/how-to-power-through-designer-apathy/",
           "link": "http://www.webdesignernews.com/external/how-to-power-through-designer-apathy",
           "publishedOn": "2021-05-06T07:32:55.000Z",
-          "wordCount": 1249,
+          "wordCount": 1244,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How To Power Through Designer Apathy"
@@ -616,7 +625,7 @@
           "description": "https://buttercms.com/blog/react-vs-react-native",
           "link": "http://www.webdesignernews.com/external/react-vs-react-native-differences-advantages-limitations",
           "publishedOn": "2021-05-06T07:06:39.000Z",
-          "wordCount": 2868,
+          "wordCount": 2866,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "React vs React Native: Differences, Advantages & Limitations"
@@ -661,7 +670,7 @@
           "description": "https://thenextweb.com/news/instagram-stories-captions",
           "link": "http://www.webdesignernews.com/external/instagram-now-lets-you-add-captions-to-your-stories",
           "publishedOn": "2021-05-05T16:12:00.000Z",
-          "wordCount": 728,
+          "wordCount": 734,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Instagram now lets you add captions to your Stories"
@@ -706,7 +715,7 @@
           "description": "https://thenextweb.com/news/3-bootstrapping-lessons-saas-startup",
           "link": "http://www.webdesignernews.com/external/the-3-most-important-lessons-i-learned-as-a-bootstrapped-founder",
           "publishedOn": "2021-05-05T14:20:44.000Z",
-          "wordCount": 1921,
+          "wordCount": 1919,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The 3 most important lessons I learned as a bootstrapped founder"
@@ -728,15 +737,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Optimize Your WooCommerce Store?s Performance for Higher Conversions (4 Ways)"
-        },
-        {
-          "description": "https://cognition.happycog.com/article/monkey-patching-in-craft",
-          "link": "http://www.webdesignernews.com/external/monkey-patching-in-craft",
-          "publishedOn": "2021-05-04T22:38:59.000Z",
-          "wordCount": 1100,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Monkey Patching in Craft"
         }
       ]
     }
