@@ -559,6 +559,15 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://www.smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
+          "link": "http://www.webdesignernews.com/external/reducing-html-payload-with-next-js-case-study",
+          "publishedOn": "2021-05-05T23:08:00.000Z",
+          "wordCount": 2296,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Reducing HTML Payload With Next.js (Case Study)"
+        },
+        {
           "description": "https://webdesign.tutsplus.com/tutorials/web-fonts-for-email--cms-36847",
           "link": "http://www.webdesignernews.com/external/the-complete-guide-to-web-fonts-in-email",
           "publishedOn": "2021-05-05T20:18:00.000Z",
@@ -589,7 +598,7 @@
           "description": "https://thenextweb.com/news/instagram-stories-captions",
           "link": "http://www.webdesignernews.com/external/instagram-now-lets-you-add-captions-to-your-stories",
           "publishedOn": "2021-05-05T16:12:00.000Z",
-          "wordCount": 714,
+          "wordCount": 736,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Instagram now lets you add captions to your Stories"
@@ -634,7 +643,7 @@
           "description": "https://thenextweb.com/news/3-bootstrapping-lessons-saas-startup",
           "link": "http://www.webdesignernews.com/external/the-3-most-important-lessons-i-learned-as-a-bootstrapped-founder",
           "publishedOn": "2021-05-05T14:20:44.000Z",
-          "wordCount": 1891,
+          "wordCount": 1913,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The 3 most important lessons I learned as a bootstrapped founder"
@@ -724,19 +733,10 @@
           "description": "https://designmodo.com/bootstrap-5-form/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-multiple-steps-form-with-bootstrap-5",
           "publishedOn": "2021-05-04T16:46:00.000Z",
-          "wordCount": 5152,
+          "wordCount": 5136,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Create a Multiple Steps Form with Bootstrap 5"
-        },
-        {
-          "description": "https://www.wired.com/story/how-pixar-uses-hyper-colors-to-hack-your-brain/",
-          "link": "http://www.webdesignernews.com/external/how-pixar-uses-hyper-colors-to-hack-your-brain",
-          "publishedOn": "2021-05-04T15:04:00.000Z",
-          "wordCount": 4061,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "How Pixar Uses Hyper-Colors to Hack Your Brain"
         }
       ]
     }
