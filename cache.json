@@ -559,10 +559,19 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://blog.tubikstudio.com/mobile-app-design-concepts/",
+          "link": "http://www.webdesignernews.com/external/mobile-design-14-stylish-and-user-friendly-app-design-concepts",
+          "publishedOn": "2021-05-06T12:14:00.000Z",
+          "wordCount": 3429,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Mobile Design: 14 Stylish and User-Friendly App Design Concepts"
+        },
+        {
           "description": "https://www.webdesignerdepot.com/2021/05/how-to-power-through-designer-apathy/",
           "link": "http://www.webdesignernews.com/external/how-to-power-through-designer-apathy",
           "publishedOn": "2021-05-06T07:32:55.000Z",
-          "wordCount": 1257,
+          "wordCount": 1248,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How To Power Through Designer Apathy"
@@ -589,7 +598,7 @@
           "description": "https://buttercms.com/blog/react-vs-react-native",
           "link": "http://www.webdesignernews.com/external/react-vs-react-native-differences-advantages-limitations",
           "publishedOn": "2021-05-06T07:06:39.000Z",
-          "wordCount": 2869,
+          "wordCount": 2870,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "React vs React Native: Differences, Advantages & Limitations"
@@ -634,7 +643,7 @@
           "description": "https://thenextweb.com/news/instagram-stories-captions",
           "link": "http://www.webdesignernews.com/external/instagram-now-lets-you-add-captions-to-your-stories",
           "publishedOn": "2021-05-05T16:12:00.000Z",
-          "wordCount": 717,
+          "wordCount": 722,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Instagram now lets you add captions to your Stories"
@@ -679,7 +688,7 @@
           "description": "https://thenextweb.com/news/3-bootstrapping-lessons-saas-startup",
           "link": "http://www.webdesignernews.com/external/the-3-most-important-lessons-i-learned-as-a-bootstrapped-founder",
           "publishedOn": "2021-05-05T14:20:44.000Z",
-          "wordCount": 1907,
+          "wordCount": 1891,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The 3 most important lessons I learned as a bootstrapped founder"
@@ -724,19 +733,10 @@
           "description": "https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/",
           "link": "http://www.webdesignernews.com/external/dynamic-css-masks-with-custom-properties-and-gsap",
           "publishedOn": "2021-05-04T19:51:10.000Z",
-          "wordCount": 3217,
+          "wordCount": 3222,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Dynamic CSS Masks with Custom Properties and GSAP"
-        },
-        {
-          "description": "https://www.frontendpractice.com/",
-          "link": "http://www.webdesignernews.com/external/frontend-practice",
-          "publishedOn": "2021-05-04T19:24:00.000Z",
-          "wordCount": 503,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Frontend Practice"
         }
       ]
     }
