@@ -99,6 +99,33 @@
       "href": "http://www.designernews.co/?format=rss",
       "articles": [
         {
+          "description": "https://cmsinstallation.blogspot.com/2021/04/8-vs-code-plugins-to-improve-your.html",
+          "link": "https://www.designernews.co/stories/115209-8-vs-code-plugins-to-improve-your-productivity",
+          "publishedOn": "2021-05-06T07:45:44.000Z",
+          "wordCount": 170,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "8 VS Code Plugins To Improve Your Productivity"
+        },
+        {
+          "description": "https://cmsinstallation.blogspot.com/2021/04/3-smart-things-worth-spending-your.html",
+          "link": "https://www.designernews.co/stories/115208-3-smart-things-worth-spending-your-money-on-as-a-developer",
+          "publishedOn": "2021-05-06T07:45:14.000Z",
+          "wordCount": 176,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "3 Smart Things Worth Spending Your Money on as a Developer"
+        },
+        {
+          "description": "https://www.zenesys.com/blog/what-is-rpa-and-how-can-it-help-to-grow-your-business",
+          "link": "https://www.designernews.co/stories/115205-what-is-a-rpa-and-how-can-it-help-to-grow-your-business",
+          "publishedOn": "2021-05-06T07:21:42.000Z",
+          "wordCount": 183,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "What is a RPA and How can it Help to Grow Your Business?"
+        },
+        {
           "description": "https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/",
           "link": "https://www.designernews.co/stories/115204-complete-guide-on-how-to-create-an-app-like-bet365",
           "publishedOn": "2021-05-06T04:48:58.000Z",
@@ -252,6 +279,15 @@
           "title": "AWS vs Azure vs Google Cloud: Which Cloud Services is better for Enterprises?"
         },
         {
+          "description": "https://medium.com/geekculture/how-to-pitch-a-design-system-9a56971062bd",
+          "link": "https://www.designernews.co/stories/115132-how-to-pitch-a-design-system",
+          "publishedOn": "2021-05-03T02:46:15.000Z",
+          "wordCount": 167,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "How to pitch a design system"
+        },
+        {
           "description": "https://www.vectornator.io/blog/vectornator-4-1",
           "link": "https://www.designernews.co/stories/115128-vectornator-41--a-new-file-format",
           "publishedOn": "2021-04-30T15:36:10.000Z",
@@ -279,33 +315,6 @@
           "title": "Why we need WaveMakers: Some Thoughts on Leadership & Empowerment"
         },
         {
-          "description": "https://www.themasterpicks.com/3d-logo-factory/",
-          "link": "https://www.designernews.co/stories/115103-3d-logo-factory",
-          "publishedOn": "2021-04-29T13:27:00.000Z",
-          "wordCount": 160,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "3D Logo Factory"
-        },
-        {
-          "description": "https://www.paletter.app",
-          "link": "https://www.designernews.co/stories/115101-show-dn-paletter--create-professional-color-palettes-from-a-single-color",
-          "publishedOn": "2021-04-29T12:14:11.000Z",
-          "wordCount": 386,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "Show DN: Paletter - Create Professional Color Palettes from a Single Color"
-        },
-        {
-          "description": "https://paytable.io",
-          "link": "https://www.designernews.co/stories/115096-the-airtable-membership-platform-addon-is-now-live",
-          "publishedOn": "2021-04-29T10:13:41.000Z",
-          "wordCount": 172,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "The Airtable membership platform add-on is now live!"
-        },
-        {
           "description": "https://www.imaginarycloud.com/blog/web-design-and-development/",
           "link": "https://www.designernews.co/stories/115094-web-design-vs-web-development",
           "publishedOn": "2021-04-29T09:50:32.000Z",
@@ -313,15 +322,6 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "Web Design vs Web Development"
-        },
-        {
-          "description": "https://www.lambdatest.com/newsletter/?utm_source=designernews&utm_medium=blog&utm_campaign=PM-29Apr21&utm_term=organicPosting",
-          "link": "https://www.designernews.co/stories/115090-free-coding-jag--weekly-testing-newsletter-testing-news--tips",
-          "publishedOn": "2021-04-29T08:16:06.000Z",
-          "wordCount": 175,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "Free: Coding Jag - Weekly Testing Newsletter Testing News & Tips"
         }
       ]
     },
@@ -550,6 +550,42 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://www.webdesignerdepot.com/2021/05/how-to-power-through-designer-apathy/",
+          "link": "http://www.webdesignernews.com/external/how-to-power-through-designer-apathy",
+          "publishedOn": "2021-05-06T07:32:55.000Z",
+          "wordCount": 1261,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "How To Power Through Designer Apathy"
+        },
+        {
+          "description": "https://css-tricks.com/is-vendor-prefixing-dead/",
+          "link": "http://www.webdesignernews.com/external/is-vendor-prefixing-dead",
+          "publishedOn": "2021-05-06T07:23:29.000Z",
+          "wordCount": 3080,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Is Vendor Prefixing Dead?"
+        },
+        {
+          "description": "https://blog.getbootstrap.com/2021/05/05/bootstrap-5/",
+          "link": "http://www.webdesignernews.com/external/bootstrap-5-released",
+          "publishedOn": "2021-05-06T07:14:06.000Z",
+          "wordCount": 2603,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Bootstrap 5 Released"
+        },
+        {
+          "description": "https://buttercms.com/blog/react-vs-react-native",
+          "link": "http://www.webdesignernews.com/external/react-vs-react-native-differences-advantages-limitations",
+          "publishedOn": "2021-05-06T07:06:39.000Z",
+          "wordCount": 2870,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "React vs React Native: Differences, Advantages & Limitations"
+        },
+        {
           "description": "https://www.smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "link": "http://www.webdesignernews.com/external/reducing-html-payload-with-next-js-case-study",
           "publishedOn": "2021-05-05T23:08:00.000Z",
@@ -589,7 +625,7 @@
           "description": "https://thenextweb.com/news/instagram-stories-captions",
           "link": "http://www.webdesignernews.com/external/instagram-now-lets-you-add-captions-to-your-stories",
           "publishedOn": "2021-05-05T16:12:00.000Z",
-          "wordCount": 728,
+          "wordCount": 722,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Instagram now lets you add captions to your Stories"
@@ -634,7 +670,7 @@
           "description": "https://thenextweb.com/news/3-bootstrapping-lessons-saas-startup",
           "link": "http://www.webdesignernews.com/external/the-3-most-important-lessons-i-learned-as-a-bootstrapped-founder",
           "publishedOn": "2021-05-05T14:20:44.000Z",
-          "wordCount": 1917,
+          "wordCount": 1905,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The 3 most important lessons I learned as a bootstrapped founder"
@@ -679,7 +715,7 @@
           "description": "https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/",
           "link": "http://www.webdesignernews.com/external/dynamic-css-masks-with-custom-properties-and-gsap",
           "publishedOn": "2021-05-04T19:51:10.000Z",
-          "wordCount": 3219,
+          "wordCount": 3225,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Dynamic CSS Masks with Custom Properties and GSAP"
@@ -692,42 +728,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Frontend Practice"
-        },
-        {
-          "description": "https://uxdesign.cc/from-investigation-to-invitation-the-case-for-co-design-c71ec52e1935",
-          "link": "http://www.webdesignernews.com/external/from-investigation-to-invitation-the-case-for-co-design",
-          "publishedOn": "2021-05-04T18:57:05.000Z",
-          "wordCount": 1880,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "From investigation to invitation: the case for co-design"
-        },
-        {
-          "description": "https://marketsplash.com/slack-alternatives/",
-          "link": "http://www.webdesignernews.com/external/16-best-slack-alternatives-in-2021",
-          "publishedOn": "2021-05-04T18:20:00.000Z",
-          "wordCount": 4128,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "16 Best Slack Alternatives In 2021"
-        },
-        {
-          "description": "https://apptelemetry.io/",
-          "link": "http://www.webdesignernews.com/external/apptelemetry-privacy-first-lightweight-analytics-for-apps",
-          "publishedOn": "2021-05-04T17:42:13.000Z",
-          "wordCount": 711,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "AppTelemetry - Privacy-first lightweight analytics for apps"
-        },
-        {
-          "description": "https://designmodo.com/bootstrap-5-form/",
-          "link": "http://www.webdesignernews.com/external/how-to-create-a-multiple-steps-form-with-bootstrap-5",
-          "publishedOn": "2021-05-04T16:46:00.000Z",
-          "wordCount": 5104,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "How to Create a Multiple Steps Form with Bootstrap 5"
         }
       ]
     }
