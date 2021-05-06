@@ -99,6 +99,15 @@
       "href": "http://www.designernews.co/?format=rss",
       "articles": [
         {
+          "description": "https://swagfair.com/",
+          "link": "https://www.designernews.co/stories/115212-swag-fair--branded-swag-made-by-small-businesses",
+          "publishedOn": "2021-05-06T09:19:21.000Z",
+          "wordCount": 175,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Swag Fair — branded swag made by small businesses"
+        },
+        {
           "description": "https://www.youtube.com/watch?v=BaymAuMBRwA",
           "link": "https://www.designernews.co/stories/115211-product-design-and-uiux-education-what-are-my-options",
           "publishedOn": "2021-05-06T08:54:10.000Z",
@@ -313,15 +322,6 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "Vectornator 4.1 - A New File Format"
-        },
-        {
-          "description": "https://www.themasterpicks.com/improve-your-design-skills/",
-          "link": "https://www.designernews.co/stories/115124-improve-your-design-skills-in-2021",
-          "publishedOn": "2021-04-30T13:08:05.000Z",
-          "wordCount": 165,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "Improve Your Design Skills In 2021"
         }
       ]
     },
@@ -553,7 +553,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/how-to-power-through-designer-apathy/",
           "link": "http://www.webdesignernews.com/external/how-to-power-through-designer-apathy",
           "publishedOn": "2021-05-06T07:32:55.000Z",
-          "wordCount": 1241,
+          "wordCount": 1245,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How To Power Through Designer Apathy"
@@ -580,7 +580,7 @@
           "description": "https://buttercms.com/blog/react-vs-react-native",
           "link": "http://www.webdesignernews.com/external/react-vs-react-native-differences-advantages-limitations",
           "publishedOn": "2021-05-06T07:06:39.000Z",
-          "wordCount": 2870,
+          "wordCount": 2867,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "React vs React Native: Differences, Advantages & Limitations"
@@ -616,7 +616,7 @@
           "description": "https://www.ai.gov/",
           "link": "http://www.webdesignernews.com/external/white-house-launches-artificial-intelligence-website",
           "publishedOn": "2021-05-05T17:56:00.000Z",
-          "wordCount": 736,
+          "wordCount": null,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "White House launches artificial intelligence website"
@@ -625,7 +625,7 @@
           "description": "https://thenextweb.com/news/instagram-stories-captions",
           "link": "http://www.webdesignernews.com/external/instagram-now-lets-you-add-captions-to-your-stories",
           "publishedOn": "2021-05-05T16:12:00.000Z",
-          "wordCount": 745,
+          "wordCount": 723,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Instagram now lets you add captions to your Stories"
@@ -670,7 +670,7 @@
           "description": "https://thenextweb.com/news/3-bootstrapping-lessons-saas-startup",
           "link": "http://www.webdesignernews.com/external/the-3-most-important-lessons-i-learned-as-a-bootstrapped-founder",
           "publishedOn": "2021-05-05T14:20:44.000Z",
-          "wordCount": 1919,
+          "wordCount": 1909,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The 3 most important lessons I learned as a bootstrapped founder"
@@ -715,7 +715,7 @@
           "description": "https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/",
           "link": "http://www.webdesignernews.com/external/dynamic-css-masks-with-custom-properties-and-gsap",
           "publishedOn": "2021-05-04T19:51:10.000Z",
-          "wordCount": 3223,
+          "wordCount": 3222,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Dynamic CSS Masks with Custom Properties and GSAP"
