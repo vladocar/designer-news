@@ -559,10 +559,19 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://gapsystudio.com/blog/ux-writing/",
+          "link": "http://www.webdesignernews.com/external/everything-you-need-to-know-about-ux-writing-in-web-design",
+          "publishedOn": "2021-05-06T16:51:00.000Z",
+          "wordCount": 2238,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Everything You Need to Know About UX Writing In Web Design"
+        },
+        {
           "description": "https://design4users.com/animated-logo-design/",
           "link": "http://www.webdesignernews.com/external/15-animated-logo-design-concepts",
           "publishedOn": "2021-05-06T15:28:00.000Z",
-          "wordCount": 420,
+          "wordCount": 414,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "15 Animated Logo Design Concepts"
@@ -589,7 +598,7 @@
           "description": "https://blog.tubikstudio.com/mobile-app-design-concepts/",
           "link": "http://www.webdesignernews.com/external/mobile-design-14-stylish-and-user-friendly-app-design-concepts",
           "publishedOn": "2021-05-06T12:14:00.000Z",
-          "wordCount": 3436,
+          "wordCount": 3440,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Mobile Design: 14 Stylish and User-Friendly App Design Concepts"
@@ -598,7 +607,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/how-to-power-through-designer-apathy/",
           "link": "http://www.webdesignernews.com/external/how-to-power-through-designer-apathy",
           "publishedOn": "2021-05-06T07:32:55.000Z",
-          "wordCount": 1244,
+          "wordCount": 1277,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How To Power Through Designer Apathy"
@@ -625,7 +634,7 @@
           "description": "https://buttercms.com/blog/react-vs-react-native",
           "link": "http://www.webdesignernews.com/external/react-vs-react-native-differences-advantages-limitations",
           "publishedOn": "2021-05-06T07:06:39.000Z",
-          "wordCount": 2866,
+          "wordCount": 2868,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "React vs React Native: Differences, Advantages & Limitations"
@@ -715,7 +724,7 @@
           "description": "https://thenextweb.com/news/3-bootstrapping-lessons-saas-startup",
           "link": "http://www.webdesignernews.com/external/the-3-most-important-lessons-i-learned-as-a-bootstrapped-founder",
           "publishedOn": "2021-05-05T14:20:44.000Z",
-          "wordCount": 1919,
+          "wordCount": 1899,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The 3 most important lessons I learned as a bootstrapped founder"
@@ -728,15 +737,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Sign up for a one-on-one mentoring session with Anthony Burrill"
-        },
-        {
-          "description": "https://torquemag.io/2021/05/optimize-woocommerce-performance/",
-          "link": "http://www.webdesignernews.com/external/how-to-optimize-your-woocommerce-store-s-performance-for-higher-conversions-4-ways",
-          "publishedOn": "2021-05-04T22:45:00.000Z",
-          "wordCount": 1712,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "How to Optimize Your WooCommerce Store?s Performance for Higher Conversions (4 Ways)"
         }
       ]
     }
