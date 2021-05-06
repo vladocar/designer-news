@@ -99,6 +99,15 @@
       "href": "http://www.designernews.co/?format=rss",
       "articles": [
         {
+          "description": "https://hexcolor.co/gradient-colors",
+          "link": "https://www.designernews.co/stories/115219-beautiful-colored-gradients",
+          "publishedOn": "2021-05-06T13:23:36.000Z",
+          "wordCount": 160,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Beautiful Colored Gradients"
+        },
+        {
           "description": "https://swagfair.com/",
           "link": "https://www.designernews.co/stories/115212-swag-fair--branded-swag-made-by-small-businesses",
           "publishedOn": "2021-05-06T09:19:21.000Z",
@@ -313,15 +322,6 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "How to pitch a design system"
-        },
-        {
-          "description": "https://www.vectornator.io/blog/vectornator-4-1",
-          "link": "https://www.designernews.co/stories/115128-vectornator-41--a-new-file-format",
-          "publishedOn": "2021-04-30T15:36:10.000Z",
-          "wordCount": 168,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "Vectornator 4.1 - A New File Format"
         }
       ]
     },
@@ -559,10 +559,19 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://markodenic.com/html-tips/",
+          "link": "http://www.webdesignernews.com/external/html-tips-and-tricks",
+          "publishedOn": "2021-05-06T13:35:00.000Z",
+          "wordCount": 605,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "HTML Tips and Tricks"
+        },
+        {
           "description": "https://blog.tubikstudio.com/mobile-app-design-concepts/",
           "link": "http://www.webdesignernews.com/external/mobile-design-14-stylish-and-user-friendly-app-design-concepts",
           "publishedOn": "2021-05-06T12:14:00.000Z",
-          "wordCount": 3429,
+          "wordCount": 3433,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Mobile Design: 14 Stylish and User-Friendly App Design Concepts"
@@ -571,7 +580,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/how-to-power-through-designer-apathy/",
           "link": "http://www.webdesignernews.com/external/how-to-power-through-designer-apathy",
           "publishedOn": "2021-05-06T07:32:55.000Z",
-          "wordCount": 1248,
+          "wordCount": 1283,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How To Power Through Designer Apathy"
@@ -598,7 +607,7 @@
           "description": "https://buttercms.com/blog/react-vs-react-native",
           "link": "http://www.webdesignernews.com/external/react-vs-react-native-differences-advantages-limitations",
           "publishedOn": "2021-05-06T07:06:39.000Z",
-          "wordCount": 2870,
+          "wordCount": 2866,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "React vs React Native: Differences, Advantages & Limitations"
@@ -643,7 +652,7 @@
           "description": "https://thenextweb.com/news/instagram-stories-captions",
           "link": "http://www.webdesignernews.com/external/instagram-now-lets-you-add-captions-to-your-stories",
           "publishedOn": "2021-05-05T16:12:00.000Z",
-          "wordCount": 722,
+          "wordCount": 728,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Instagram now lets you add captions to your Stories"
@@ -688,7 +697,7 @@
           "description": "https://thenextweb.com/news/3-bootstrapping-lessons-saas-startup",
           "link": "http://www.webdesignernews.com/external/the-3-most-important-lessons-i-learned-as-a-bootstrapped-founder",
           "publishedOn": "2021-05-05T14:20:44.000Z",
-          "wordCount": 1891,
+          "wordCount": 1911,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The 3 most important lessons I learned as a bootstrapped founder"
@@ -728,15 +737,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Grow Your Agency or Freelance Business"
-        },
-        {
-          "description": "https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/",
-          "link": "http://www.webdesignernews.com/external/dynamic-css-masks-with-custom-properties-and-gsap",
-          "publishedOn": "2021-05-04T19:51:10.000Z",
-          "wordCount": 3222,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Dynamic CSS Masks with Custom Properties and GSAP"
         }
       ]
     }
