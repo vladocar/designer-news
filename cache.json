@@ -99,10 +99,28 @@
       "href": "http://www.designernews.co/?format=rss",
       "articles": [
         {
+          "description": "https://cmsinstallation.blogspot.com/2021/05/7-most-common-git-mistakes.html",
+          "link": "https://www.designernews.co/stories/115238-7-most-common-git-mistakes",
+          "publishedOn": "2021-05-07T11:49:46.000Z",
+          "wordCount": 172,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "7 Most Common Git Mistakes"
+        },
+        {
+          "description": "https://cmsinstallation.blogspot.com/2021/05/5-rules-for-every-code-review.html",
+          "link": "https://www.designernews.co/stories/115237-5-rules-for-every-code-review",
+          "publishedOn": "2021-05-07T11:49:04.000Z",
+          "wordCount": 203,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "5 Rules for Every Code Review"
+        },
+        {
           "description": "https://hexcolor.co/gradient-colors",
           "link": "https://www.designernews.co/stories/115219-beautiful-colored-gradients",
           "publishedOn": "2021-05-06T13:23:36.000Z",
-          "wordCount": 168,
+          "wordCount": 189,
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "Beautiful Colored Gradients"
@@ -304,24 +322,6 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "5 Tips on How To Create The Perfect Freelancer Profile"
-        },
-        {
-          "description": "https://herbertlui.net/a-book-is-a-decision-to-change/",
-          "link": "https://www.designernews.co/stories/115146-when-you-choose-to-read-you-choose-to-change",
-          "publishedOn": "2021-05-03T15:43:23.000Z",
-          "wordCount": 179,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "When You Choose to Read, You Choose to Change"
-        },
-        {
-          "description": "https://www.zenesys.com/blog/role-of-rpa-in-hr-operations",
-          "link": "https://www.designernews.co/stories/115138-role-of-rpa-robotic-process-automation-in-human-resource-hr-operations",
-          "publishedOn": "2021-05-03T09:15:42.000Z",
-          "wordCount": 185,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "Role of RPA (Robotic Process Automation) in Human Resource (HR) Operations"
         }
       ]
     },
@@ -329,9 +329,9 @@
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
         {
-          "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let's get it right.",
+          "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "publishedOn": "2021-05-07T09:55:00.000Z",
+          "publishedOn": "2021-05-07T10:00:00.000Z",
           "wordCount": 4127,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
@@ -571,7 +571,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine/",
           "link": "http://www.webdesignernews.com/external/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine",
           "publishedOn": "2021-05-07T09:05:08.000Z",
-          "wordCount": 1895,
+          "wordCount": 1910,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Create Beautiful WordPress Pages with Optimized Images Using Elementor and ImageEngine"
@@ -643,7 +643,7 @@
           "description": "https://design4users.com/animated-logo-design/",
           "link": "http://www.webdesignernews.com/external/15-animated-logo-design-concepts",
           "publishedOn": "2021-05-06T15:28:00.000Z",
-          "wordCount": 419,
+          "wordCount": 411,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "15 Animated Logo Design Concepts"
@@ -670,7 +670,7 @@
           "description": "https://blog.tubikstudio.com/mobile-app-design-concepts/",
           "link": "http://www.webdesignernews.com/external/mobile-design-14-stylish-and-user-friendly-app-design-concepts",
           "publishedOn": "2021-05-06T12:14:00.000Z",
-          "wordCount": 3419,
+          "wordCount": 3435,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Mobile Design: 14 Stylish and User-Friendly App Design Concepts"
@@ -679,7 +679,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/how-to-power-through-designer-apathy/",
           "link": "http://www.webdesignernews.com/external/how-to-power-through-designer-apathy",
           "publishedOn": "2021-05-06T07:32:55.000Z",
-          "wordCount": 1280,
+          "wordCount": 1279,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How To Power Through Designer Apathy"
