@@ -559,6 +559,15 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://taplytics.com/cross-platform-code-free-visual-experimentation-for-web/",
+          "link": "http://www.webdesignernews.com/external/taplytics-no-code-web-a-b-testing-solution",
+          "publishedOn": "2021-05-07T15:27:00.000Z",
+          "wordCount": 539,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Taplytics No-Code Web A/B Testing Solution"
+        },
+        {
           "description": "https://adamfard.com/blog/figjam-ux-review",
           "link": "http://www.webdesignernews.com/external/figjam-ux-review",
           "publishedOn": "2021-05-07T12:48:00.000Z",
@@ -580,7 +589,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine/",
           "link": "http://www.webdesignernews.com/external/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine",
           "publishedOn": "2021-05-07T09:05:08.000Z",
-          "wordCount": 1894,
+          "wordCount": 1895,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Create Beautiful WordPress Pages with Optimized Images Using Elementor and ImageEngine"
@@ -598,7 +607,7 @@
           "description": "https://requestmetrics.com/web-performance/measure-web-performance",
           "link": "http://www.webdesignernews.com/external/measuring-web-performance-in-2021-the-definitive-guide",
           "publishedOn": "2021-05-07T09:04:28.000Z",
-          "wordCount": 3260,
+          "wordCount": 3265,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Measuring Web Performance in 2021: The Definitive Guide"
@@ -652,7 +661,7 @@
           "description": "https://design4users.com/animated-logo-design/",
           "link": "http://www.webdesignernews.com/external/15-animated-logo-design-concepts",
           "publishedOn": "2021-05-06T15:28:00.000Z",
-          "wordCount": 417,
+          "wordCount": 415,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "15 Animated Logo Design Concepts"
@@ -679,7 +688,7 @@
           "description": "https://blog.tubikstudio.com/mobile-app-design-concepts/",
           "link": "http://www.webdesignernews.com/external/mobile-design-14-stylish-and-user-friendly-app-design-concepts",
           "publishedOn": "2021-05-06T12:14:00.000Z",
-          "wordCount": 3428,
+          "wordCount": 3438,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Mobile Design: 14 Stylish and User-Friendly App Design Concepts"
@@ -688,7 +697,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/how-to-power-through-designer-apathy/",
           "link": "http://www.webdesignernews.com/external/how-to-power-through-designer-apathy",
           "publishedOn": "2021-05-06T07:32:55.000Z",
-          "wordCount": 1274,
+          "wordCount": 1261,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How To Power Through Designer Apathy"
@@ -715,7 +724,7 @@
           "description": "https://buttercms.com/blog/react-vs-react-native",
           "link": "http://www.webdesignernews.com/external/react-vs-react-native-differences-advantages-limitations",
           "publishedOn": "2021-05-06T07:06:39.000Z",
-          "wordCount": 2865,
+          "wordCount": 2868,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "React vs React Native: Differences, Advantages & Limitations"
@@ -728,15 +737,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Reducing HTML Payload With Next.js (Case Study)"
-        },
-        {
-          "description": "https://webdesign.tutsplus.com/tutorials/web-fonts-for-email--cms-36847",
-          "link": "http://www.webdesignernews.com/external/the-complete-guide-to-web-fonts-in-email",
-          "publishedOn": "2021-05-05T20:18:00.000Z",
-          "wordCount": 2910,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "The Complete Guide to Web Fonts in Email"
         }
       ]
     }
