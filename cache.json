@@ -543,21 +543,21 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Growing UX Maturity In Organizations: Education And Training (Part 3)"
-        },
-        {
-          "description": "Have you ever struggled to get the green light on your design proposals? Do you feel like your design process needs to be formalized? Is the COVID19 era becoming a challenge for you when working remotely as a designer? Then keep reading to get to know a methodology to document your design process in this article.",
-          "link": "https://smashingmagazine.com/2021/04/better-documentation-team-communication-product-design-docs/",
-          "publishedOn": "2021-04-08T11:00:00.000Z",
-          "wordCount": 1858,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Better Documentation And Team Communication With Product Design Docs"
         }
       ]
     },
     {
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
+        {
+          "description": "https://github.com/nextapps-de/winbox",
+          "link": "http://www.webdesignernews.com/external/winbox-modern-html5-window-manager-for-the-web",
+          "publishedOn": "2021-05-07T22:35:00.000Z",
+          "wordCount": 3699,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "WinBox ? Modern HTML5 Window Manager for the web"
+        },
         {
           "description": "https://www.itsnicethat.com/articles/juliette-duhe-graphic-design-060521",
           "link": "http://www.webdesignernews.com/external/juliette-duh-creates-typefaces-by-working-like-a-sculptor",
@@ -571,7 +571,7 @@
           "description": "https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html",
           "link": "http://www.webdesignernews.com/external/trendy-web-color-palettes-and-material-design-color-schemes-tools-2",
           "publishedOn": "2021-05-07T20:47:00.000Z",
-          "wordCount": 1427,
+          "wordCount": 1429,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Trendy Web Color Palettes and Material Design Color Schemes & Tools"
@@ -643,7 +643,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine/",
           "link": "http://www.webdesignernews.com/external/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine",
           "publishedOn": "2021-05-07T09:05:08.000Z",
-          "wordCount": 1929,
+          "wordCount": 1920,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Create Beautiful WordPress Pages with Optimized Images Using Elementor and ImageEngine"
@@ -715,7 +715,7 @@
           "description": "https://design4users.com/animated-logo-design/",
           "link": "http://www.webdesignernews.com/external/15-animated-logo-design-concepts",
           "publishedOn": "2021-05-06T15:28:00.000Z",
-          "wordCount": 418,
+          "wordCount": 406,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "15 Animated Logo Design Concepts"
@@ -728,15 +728,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Search on Google like a PRO"
-        },
-        {
-          "description": "https://markodenic.com/html-tips/",
-          "link": "http://www.webdesignernews.com/external/html-tips-and-tricks",
-          "publishedOn": "2021-05-06T13:35:00.000Z",
-          "wordCount": 605,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "HTML Tips and Tricks"
         }
       ]
     }
