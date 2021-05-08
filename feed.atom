@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-08T22:00:44.346Z</id>
+    <id>urn:2021-05-08T23:00:49.307Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-08T22:00:44.346Z</updated>
+    <updated>2021-05-08T23:00:49.307Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Speeding Up Development Process with Bootstrap 5]]></title>
+        <id>https://designmodo.com/development-bootstrap-5/</id>
+        <link href="http://www.webdesignernews.com/external/speeding-up-development-process-with-bootstrap-5"/>
+        <updated>2021-05-08T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[https://designmodo.com/development-bootstrap-5/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Use of Uppercase Sans Serif Typography in Modern Web Design]]></title>
         <id>https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/</id>
@@ -263,16 +273,6 @@
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=3E4ByrptCeo]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customizing Tailwind CSS]]></title>
-        <id>https://allround.io/articles/customizing-tailwind-css</id>
-        <link href="http://www.webdesignernews.com/external/customizing-tailwind-css"/>
-        <updated>2021-05-07T09:05:10.000Z</updated>
-        <summary type="html"><![CDATA[https://allround.io/articles/customizing-tailwind-css]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
