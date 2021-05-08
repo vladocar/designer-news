@@ -550,10 +550,19 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "description": "https://davidwalsh.name/not-all-advice-is-good-advice",
+          "link": "http://www.webdesignernews.com/external/not-all-advice-is-good-advice",
+          "publishedOn": "2021-05-07T23:46:00.000Z",
+          "wordCount": 1530,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Not All Advice is Good Advice"
+        },
+        {
           "description": "https://github.com/nextapps-de/winbox",
           "link": "http://www.webdesignernews.com/external/winbox-modern-html5-window-manager-for-the-web",
           "publishedOn": "2021-05-07T22:35:00.000Z",
-          "wordCount": 3699,
+          "wordCount": 3705,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "WinBox ? Modern HTML5 Window Manager for the web"
@@ -571,7 +580,7 @@
           "description": "https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html",
           "link": "http://www.webdesignernews.com/external/trendy-web-color-palettes-and-material-design-color-schemes-tools-2",
           "publishedOn": "2021-05-07T20:47:00.000Z",
-          "wordCount": 1429,
+          "wordCount": 1427,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Trendy Web Color Palettes and Material Design Color Schemes & Tools"
@@ -643,7 +652,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine/",
           "link": "http://www.webdesignernews.com/external/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine",
           "publishedOn": "2021-05-07T09:05:08.000Z",
-          "wordCount": 1920,
+          "wordCount": 1926,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Create Beautiful WordPress Pages with Optimized Images Using Elementor and ImageEngine"
@@ -715,19 +724,10 @@
           "description": "https://design4users.com/animated-logo-design/",
           "link": "http://www.webdesignernews.com/external/15-animated-logo-design-concepts",
           "publishedOn": "2021-05-06T15:28:00.000Z",
-          "wordCount": 406,
+          "wordCount": 414,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "15 Animated Logo Design Concepts"
-        },
-        {
-          "description": "https://livecodestream.dev/post/search-on-google-like-a-pro/",
-          "link": "http://www.webdesignernews.com/external/search-on-google-like-a-pro",
-          "publishedOn": "2021-05-06T14:19:00.000Z",
-          "wordCount": 1626,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Search on Google like a PRO"
         }
       ]
     }
