@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-08T17:27:25.560Z</id>
+    <id>urn:2021-05-08T18:07:23.866Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-08T17:27:25.560Z</updated>
+    <updated>2021-05-08T18:07:23.866Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Mosaic Chart Using JavaScript]]></title>
+        <id>https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript</id>
+        <link href="http://www.webdesignernews.com/external/how-to-create-a-mosaic-chart-using-javascript"/>
+        <updated>2021-05-08T17:50:00.000Z</updated>
+        <summary type="html"><![CDATA[https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quay - Builds, Analyzes, distributes your container images]]></title>
         <id>https://quay.io/</id>
@@ -261,16 +271,6 @@
         <link href="http://www.webdesignernews.com/external/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine"/>
         <updated>2021-05-07T09:05:08.000Z</updated>
         <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Startup Deck - 290+ Curated Tools & Resources for Startups & Entrepreneurs]]></title>
-        <id>https://startupdeck.io/</id>
-        <link href="http://www.webdesignernews.com/external/startup-deck-290-curated-tools-resources-for-startups-entrepreneurs"/>
-        <updated>2021-05-07T09:04:58.000Z</updated>
-        <summary type="html"><![CDATA[https://startupdeck.io/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>

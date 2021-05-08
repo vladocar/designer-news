@@ -668,6 +668,17 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "id": "https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript",
+          "author": "WebdesignerNews",
+          "description": "https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript",
+          "link": "http://www.webdesignernews.com/external/how-to-create-a-mosaic-chart-using-javascript",
+          "publishedOn": "2021-05-08T17:50:00.000Z",
+          "wordCount": 2534,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "How to Create a Mosaic Chart Using JavaScript"
+        },
+        {
           "id": "https://quay.io/",
           "author": "WebdesignerNews",
           "description": "https://quay.io/",
@@ -717,7 +728,7 @@
           "description": "https://programmerhumor.io/",
           "link": "http://www.webdesignernews.com/external/programmerhumor-humor-only-programmers-can-understand",
           "publishedOn": "2021-05-08T12:24:20.000Z",
-          "wordCount": 847,
+          "wordCount": 835,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "ProgrammerHumor - Humor only programmers can understand"
@@ -728,7 +739,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
           "link": "http://www.webdesignernews.com/external/infographic-youtube-by-the-numbers",
           "publishedOn": "2021-05-08T12:24:07.000Z",
-          "wordCount": 375,
+          "wordCount": 363,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Infographic: YouTube By The Numbers"
@@ -750,7 +761,7 @@
           "description": "https://davidwalsh.name/not-all-advice-is-good-advice",
           "link": "http://www.webdesignernews.com/external/not-all-advice-is-good-advice",
           "publishedOn": "2021-05-07T23:46:00.000Z",
-          "wordCount": 1538,
+          "wordCount": 1542,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Not All Advice is Good Advice"
@@ -761,7 +772,7 @@
           "description": "https://github.com/nextapps-de/winbox",
           "link": "http://www.webdesignernews.com/external/winbox-modern-html5-window-manager-for-the-web",
           "publishedOn": "2021-05-07T22:35:00.000Z",
-          "wordCount": 3705,
+          "wordCount": 3699,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "WinBox ? Modern HTML5 Window Manager for the web"
@@ -783,7 +794,7 @@
           "description": "https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html",
           "link": "http://www.webdesignernews.com/external/trendy-web-color-palettes-and-material-design-color-schemes-tools-2",
           "publishedOn": "2021-05-07T20:47:00.000Z",
-          "wordCount": 1432,
+          "wordCount": 1431,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Trendy Web Color Palettes and Material Design Color Schemes & Tools"
@@ -871,21 +882,10 @@
           "description": "https://www.webdesignerdepot.com/2021/05/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine/",
           "link": "http://www.webdesignernews.com/external/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine",
           "publishedOn": "2021-05-07T09:05:08.000Z",
-          "wordCount": 1926,
+          "wordCount": 1899,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Create Beautiful WordPress Pages with Optimized Images Using Elementor and ImageEngine"
-        },
-        {
-          "id": "https://startupdeck.io/",
-          "author": "WebdesignerNews",
-          "description": "https://startupdeck.io/",
-          "link": "http://www.webdesignernews.com/external/startup-deck-290-curated-tools-resources-for-startups-entrepreneurs",
-          "publishedOn": "2021-05-07T09:04:58.000Z",
-          "wordCount": 225,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Startup Deck - 290+ Curated Tools & Resources for Startups & Entrepreneurs"
         }
       ]
     }
