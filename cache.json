@@ -668,6 +668,17 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "id": "https://quay.io/",
+          "author": "WebdesignerNews",
+          "description": "https://quay.io/",
+          "link": "http://www.webdesignernews.com/external/quay-builds-analyzes-distributes-your-container-images",
+          "publishedOn": "2021-05-08T16:39:00.000Z",
+          "wordCount": 113,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Quay - Builds, Analyzes, distributes your container images"
+        },
+        {
           "id": "https://www.viget.com/articles/how-to-keep-sprint-planning-efficient/",
           "author": "WebdesignerNews",
           "description": "https://www.viget.com/articles/how-to-keep-sprint-planning-efficient/",
@@ -706,7 +717,7 @@
           "description": "https://programmerhumor.io/",
           "link": "http://www.webdesignernews.com/external/programmerhumor-humor-only-programmers-can-understand",
           "publishedOn": "2021-05-08T12:24:20.000Z",
-          "wordCount": 858,
+          "wordCount": 847,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "ProgrammerHumor - Humor only programmers can understand"
@@ -717,7 +728,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
           "link": "http://www.webdesignernews.com/external/infographic-youtube-by-the-numbers",
           "publishedOn": "2021-05-08T12:24:07.000Z",
-          "wordCount": 402,
+          "wordCount": 375,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Infographic: YouTube By The Numbers"
@@ -739,7 +750,7 @@
           "description": "https://davidwalsh.name/not-all-advice-is-good-advice",
           "link": "http://www.webdesignernews.com/external/not-all-advice-is-good-advice",
           "publishedOn": "2021-05-07T23:46:00.000Z",
-          "wordCount": 1540,
+          "wordCount": 1538,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Not All Advice is Good Advice"
@@ -750,7 +761,7 @@
           "description": "https://github.com/nextapps-de/winbox",
           "link": "http://www.webdesignernews.com/external/winbox-modern-html5-window-manager-for-the-web",
           "publishedOn": "2021-05-07T22:35:00.000Z",
-          "wordCount": 3699,
+          "wordCount": 3705,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "WinBox ? Modern HTML5 Window Manager for the web"
@@ -772,7 +783,7 @@
           "description": "https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html",
           "link": "http://www.webdesignernews.com/external/trendy-web-color-palettes-and-material-design-color-schemes-tools-2",
           "publishedOn": "2021-05-07T20:47:00.000Z",
-          "wordCount": 1431,
+          "wordCount": 1432,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Trendy Web Color Palettes and Material Design Color Schemes & Tools"
@@ -860,7 +871,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine/",
           "link": "http://www.webdesignernews.com/external/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine",
           "publishedOn": "2021-05-07T09:05:08.000Z",
-          "wordCount": 1901,
+          "wordCount": 1926,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Create Beautiful WordPress Pages with Optimized Images Using Elementor and ImageEngine"
@@ -875,17 +886,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Startup Deck - 290+ Curated Tools & Resources for Startups & Entrepreneurs"
-        },
-        {
-          "id": "https://requestmetrics.com/web-performance/measure-web-performance",
-          "author": "WebdesignerNews",
-          "description": "https://requestmetrics.com/web-performance/measure-web-performance",
-          "link": "http://www.webdesignernews.com/external/measuring-web-performance-in-2021-the-definitive-guide",
-          "publishedOn": "2021-05-07T09:04:28.000Z",
-          "wordCount": 3265,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Measuring Web Performance in 2021: The Definitive Guide"
         }
       ]
     }

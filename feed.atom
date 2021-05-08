@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-08T16:03:20.360Z</id>
+    <id>urn:2021-05-08T17:27:25.560Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-08T16:03:20.360Z</updated>
+    <updated>2021-05-08T17:27:25.560Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quay - Builds, Analyzes, distributes your container images]]></title>
+        <id>https://quay.io/</id>
+        <link href="http://www.webdesignernews.com/external/quay-builds-analyzes-distributes-your-container-images"/>
+        <updated>2021-05-08T16:39:00.000Z</updated>
+        <summary type="html"><![CDATA[https://quay.io/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Keep Sprint Planning Efficient]]></title>
         <id>https://www.viget.com/articles/how-to-keep-sprint-planning-efficient/</id>
@@ -261,16 +271,6 @@
         <link href="http://www.webdesignernews.com/external/startup-deck-290-curated-tools-resources-for-startups-entrepreneurs"/>
         <updated>2021-05-07T09:04:58.000Z</updated>
         <summary type="html"><![CDATA[https://startupdeck.io/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring Web Performance in 2021: The Definitive Guide]]></title>
-        <id>https://requestmetrics.com/web-performance/measure-web-performance</id>
-        <link href="http://www.webdesignernews.com/external/measuring-web-performance-in-2021-the-definitive-guide"/>
-        <updated>2021-05-07T09:04:28.000Z</updated>
-        <summary type="html"><![CDATA[https://requestmetrics.com/web-performance/measure-web-performance]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
