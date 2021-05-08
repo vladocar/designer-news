@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-08T12:01:01.984Z</id>
+    <id>urn:2021-05-08T13:11:57.903Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-08T12:01:01.984Z</updated>
+    <updated>2021-05-08T13:11:57.903Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ProgrammerHumor - Humor only programmers can understand]]></title>
+        <id>https://programmerhumor.io/</id>
+        <link href="http://www.webdesignernews.com/external/programmerhumor-humor-only-programmers-can-understand"/>
+        <updated>2021-05-08T12:24:20.000Z</updated>
+        <summary type="html"><![CDATA[https://programmerhumor.io/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infographic: YouTube By The Numbers]]></title>
+        <id>https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/</id>
+        <link href="http://www.webdesignernews.com/external/infographic-youtube-by-the-numbers"/>
+        <updated>2021-05-08T12:24:07.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is CSS a Programming Language?]]></title>
+        <id>https://css-tricks.com/is-css-a-programming-language/</id>
+        <link href="http://www.webdesignernews.com/external/is-css-a-programming-language"/>
+        <updated>2021-05-08T12:23:56.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/is-css-a-programming-language/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12 Interesting facts about coding you had no idea about]]></title>
         <id>https://www.designernews.co/stories/115248-12-interesting-facts-about-coding-you-had-no-idea-about</id>
@@ -116,7 +146,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taplytics No-Code Web A/B Testing Solution]]></title>
+        <title type="html"><![CDATA[Taplytics - No-Code Web A/B Testing Solution]]></title>
         <id>https://taplytics.com/cross-platform-code-free-visual-experimentation-for-web/</id>
         <link href="http://www.webdesignernews.com/external/taplytics-no-code-web-a-b-testing-solution"/>
         <updated>2021-05-07T15:27:00.000Z</updated>
@@ -252,36 +282,6 @@ The post 38 Best Fashion Fonts for Modern Designs appeared first on Design Inspi
         <link href="http://www.webdesignernews.com/external/3d-flame-style-illustrations-for-kick-ass-designs"/>
         <updated>2021-05-06T19:34:00.000Z</updated>
         <summary type="html"><![CDATA[https://icons8.com/l/flame/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slidev ? Presentation Slides for Developers]]></title>
-        <id>https://sli.dev/</id>
-        <link href="http://www.webdesignernews.com/external/slidev-presentation-slides-for-developers"/>
-        <updated>2021-05-06T17:51:00.000Z</updated>
-        <summary type="html"><![CDATA[https://sli.dev/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything You Need to Know About UX Writing In Web Design]]></title>
-        <id>https://gapsystudio.com/blog/ux-writing/</id>
-        <link href="http://www.webdesignernews.com/external/everything-you-need-to-know-about-ux-writing-in-web-design"/>
-        <updated>2021-05-06T16:51:00.000Z</updated>
-        <summary type="html"><![CDATA[https://gapsystudio.com/blog/ux-writing/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 Animated Logo Design Concepts]]></title>
-        <id>https://design4users.com/animated-logo-design/</id>
-        <link href="http://www.webdesignernews.com/external/15-animated-logo-design-concepts"/>
-        <updated>2021-05-06T15:28:00.000Z</updated>
-        <summary type="html"><![CDATA[https://design4users.com/animated-logo-design/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>

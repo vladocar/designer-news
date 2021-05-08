@@ -668,12 +668,45 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "id": "https://programmerhumor.io/",
+          "author": "WebdesignerNews",
+          "description": "https://programmerhumor.io/",
+          "link": "http://www.webdesignernews.com/external/programmerhumor-humor-only-programmers-can-understand",
+          "publishedOn": "2021-05-08T12:24:20.000Z",
+          "wordCount": 856,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "ProgrammerHumor - Humor only programmers can understand"
+        },
+        {
+          "id": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
+          "author": "WebdesignerNews",
+          "description": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
+          "link": "http://www.webdesignernews.com/external/infographic-youtube-by-the-numbers",
+          "publishedOn": "2021-05-08T12:24:07.000Z",
+          "wordCount": 361,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Infographic: YouTube By The Numbers"
+        },
+        {
+          "id": "https://css-tricks.com/is-css-a-programming-language/",
+          "author": "WebdesignerNews",
+          "description": "https://css-tricks.com/is-css-a-programming-language/",
+          "link": "http://www.webdesignernews.com/external/is-css-a-programming-language",
+          "publishedOn": "2021-05-08T12:23:56.000Z",
+          "wordCount": 1677,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Is CSS a Programming Language?"
+        },
+        {
           "id": "https://davidwalsh.name/not-all-advice-is-good-advice",
           "author": "WebdesignerNews",
           "description": "https://davidwalsh.name/not-all-advice-is-good-advice",
           "link": "http://www.webdesignernews.com/external/not-all-advice-is-good-advice",
           "publishedOn": "2021-05-07T23:46:00.000Z",
-          "wordCount": 1536,
+          "wordCount": 1526,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Not All Advice is Good Advice"
@@ -706,7 +739,7 @@
           "description": "https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html",
           "link": "http://www.webdesignernews.com/external/trendy-web-color-palettes-and-material-design-color-schemes-tools-2",
           "publishedOn": "2021-05-07T20:47:00.000Z",
-          "wordCount": 1428,
+          "wordCount": 1431,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Trendy Web Color Palettes and Material Design Color Schemes & Tools"
@@ -764,7 +797,7 @@
           "wordCount": 539,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
-          "title": "Taplytics No-Code Web A/B Testing Solution"
+          "title": "Taplytics - No-Code Web A/B Testing Solution"
         },
         {
           "id": "https://adamfard.com/blog/figjam-ux-review",
@@ -794,7 +827,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine/",
           "link": "http://www.webdesignernews.com/external/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine",
           "publishedOn": "2021-05-07T09:05:08.000Z",
-          "wordCount": 1902,
+          "wordCount": 1889,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Create Beautiful WordPress Pages with Optimized Images Using Elementor and ImageEngine"
@@ -853,39 +886,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "3D Flame style illustrations for kick-ass designs"
-        },
-        {
-          "id": "https://sli.dev/",
-          "author": "WebdesignerNews",
-          "description": "https://sli.dev/",
-          "link": "http://www.webdesignernews.com/external/slidev-presentation-slides-for-developers",
-          "publishedOn": "2021-05-06T17:51:00.000Z",
-          "wordCount": 75,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Slidev ? Presentation Slides for Developers"
-        },
-        {
-          "id": "https://gapsystudio.com/blog/ux-writing/",
-          "author": "WebdesignerNews",
-          "description": "https://gapsystudio.com/blog/ux-writing/",
-          "link": "http://www.webdesignernews.com/external/everything-you-need-to-know-about-ux-writing-in-web-design",
-          "publishedOn": "2021-05-06T16:51:00.000Z",
-          "wordCount": 2238,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Everything You Need to Know About UX Writing In Web Design"
-        },
-        {
-          "id": "https://design4users.com/animated-logo-design/",
-          "author": "WebdesignerNews",
-          "description": "https://design4users.com/animated-logo-design/",
-          "link": "http://www.webdesignernews.com/external/15-animated-logo-design-concepts",
-          "publishedOn": "2021-05-06T15:28:00.000Z",
-          "wordCount": 416,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "15 Animated Logo Design Concepts"
         }
       ]
     }
