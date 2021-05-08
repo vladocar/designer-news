@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-08T14:00:31.498Z</id>
+    <id>urn:2021-05-08T15:00:38.290Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-08T14:00:31.498Z</updated>
+    <updated>2021-05-08T15:00:38.290Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Different Ways to Use Card Sorting]]></title>
+        <id>https://hackernoon.com/different-ways-to-use-card-sorting-551i34q8</id>
+        <link href="http://www.webdesignernews.com/external/different-ways-to-use-card-sorting"/>
+        <updated>2021-05-08T14:07:00.000Z</updated>
+        <summary type="html"><![CDATA[https://hackernoon.com/different-ways-to-use-card-sorting-551i34q8]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crossbar.io ? Open source platform for distributed and microservice apps]]></title>
         <id>https://Crossbar.io/</id>
@@ -272,16 +282,6 @@ The post 38 Best Fashion Fonts for Modern Designs appeared first on Design Inspi
         <link href="http://www.webdesignernews.com/external/ecommere-ui-design-12-tips-to-start-selling-today-2021"/>
         <updated>2021-05-06T21:01:00.000Z</updated>
         <summary type="html"><![CDATA[https://torquemag.io/2021/05/ecommere-ui-design/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft?s new font: Your work will soon take on a new character]]></title>
-        <id>https://uxdesign.cc/your-work-will-soon-take-on-a-new-character-c1be620fe8ea</id>
-        <link href="http://www.webdesignernews.com/external/microsoft-s-new-font-your-work-will-soon-take-on-a-new-character"/>
-        <updated>2021-05-06T20:19:00.000Z</updated>
-        <summary type="html"><![CDATA[https://uxdesign.cc/your-work-will-soon-take-on-a-new-character-c1be620fe8ea]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
