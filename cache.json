@@ -119,6 +119,39 @@
       "href": "http://www.designernews.co/?format=rss",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115248-12-interesting-facts-about-coding-you-had-no-idea-about",
+          "author": "Designer News Feed",
+          "description": "https://cmsinstallation.blogspot.com/2021/04/12-interesting-facts-about-coding-you.html",
+          "link": "https://www.designernews.co/stories/115248-12-interesting-facts-about-coding-you-had-no-idea-about",
+          "publishedOn": "2021-05-08T11:31:42.000Z",
+          "wordCount": 175,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "12 Interesting facts about coding you had no idea about"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115247-7-themes-to-make-your-vs-code-look-beautiful",
+          "author": "Designer News Feed",
+          "description": "https://cmsinstallation.blogspot.com/2021/05/7-themes-to-make-your-vs-code-look.html",
+          "link": "https://www.designernews.co/stories/115247-7-themes-to-make-your-vs-code-look-beautiful",
+          "publishedOn": "2021-05-08T11:30:52.000Z",
+          "wordCount": 173,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "7 Themes to Make Your VS Code Look Beautiful"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115246-hire-mobile-app-developer-",
+          "author": "Designer News Feed",
+          "description": "https://www.webcluesinfotech.com/hire-dedicated-mobile-app-developers/",
+          "link": "https://www.designernews.co/stories/115246-hire-mobile-app-developer-",
+          "publishedOn": "2021-05-08T11:22:06.000Z",
+          "wordCount": 162,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Hire Mobile App Developer"
+        },
+        {
           "id": "https://www.designernews.co/stories/115238-7-most-common-git-mistakes",
           "author": "Designer News Feed",
           "description": "https://cmsinstallation.blogspot.com/2021/05/7-most-common-git-mistakes.html",
@@ -359,39 +392,6 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "Data Visualization: The What, Why and How"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115154-top-uiux-resources--articles-from-april",
-          "author": "Designer News Feed",
-          "description": "https://dailydevlinks.com/top-ui-ux-resources-articles-from-april/",
-          "link": "https://www.designernews.co/stories/115154-top-uiux-resources--articles-from-april",
-          "publishedOn": "2021-05-04T06:36:25.000Z",
-          "wordCount": 171,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "Top UI/UX Resources & Articles from April"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115152-figma-website-kickoff-template",
-          "author": "Designer News Feed",
-          "description": "https://www.figma.com/community/file/971115398245880536/Website-Kickoff-by-Human-Deluxe",
-          "link": "https://www.designernews.co/stories/115152-figma-website-kickoff-template",
-          "publishedOn": "2021-05-03T18:43:03.000Z",
-          "wordCount": 165,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "Figma Website Kickoff Template"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115149-5-common-css-mistakes-developers-make",
-          "author": "Designer News Feed",
-          "description": "https://cmsinstallation.blogspot.com/2021/05/5-common-css-mistakes-developers-make.html",
-          "link": "https://www.designernews.co/stories/115149-5-common-css-mistakes-developers-make",
-          "publishedOn": "2021-05-03T16:00:43.000Z",
-          "wordCount": 167,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "5 Common CSS mistakes developers make"
         }
       ]
     },
@@ -673,7 +673,7 @@
           "description": "https://davidwalsh.name/not-all-advice-is-good-advice",
           "link": "http://www.webdesignernews.com/external/not-all-advice-is-good-advice",
           "publishedOn": "2021-05-07T23:46:00.000Z",
-          "wordCount": 1551,
+          "wordCount": 1536,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Not All Advice is Good Advice"
@@ -684,7 +684,7 @@
           "description": "https://github.com/nextapps-de/winbox",
           "link": "http://www.webdesignernews.com/external/winbox-modern-html5-window-manager-for-the-web",
           "publishedOn": "2021-05-07T22:35:00.000Z",
-          "wordCount": 3705,
+          "wordCount": 3699,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "WinBox ? Modern HTML5 Window Manager for the web"
@@ -706,7 +706,7 @@
           "description": "https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html",
           "link": "http://www.webdesignernews.com/external/trendy-web-color-palettes-and-material-design-color-schemes-tools-2",
           "publishedOn": "2021-05-07T20:47:00.000Z",
-          "wordCount": 1433,
+          "wordCount": 1428,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Trendy Web Color Palettes and Material Design Color Schemes & Tools"
@@ -794,7 +794,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine/",
           "link": "http://www.webdesignernews.com/external/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine",
           "publishedOn": "2021-05-07T09:05:08.000Z",
-          "wordCount": 1908,
+          "wordCount": 1902,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Create Beautiful WordPress Pages with Optimized Images Using Elementor and ImageEngine"
@@ -882,7 +882,7 @@
           "description": "https://design4users.com/animated-logo-design/",
           "link": "http://www.webdesignernews.com/external/15-animated-logo-design-concepts",
           "publishedOn": "2021-05-06T15:28:00.000Z",
-          "wordCount": 417,
+          "wordCount": 416,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "15 Animated Logo Design Concepts"

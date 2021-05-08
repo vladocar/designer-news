@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-08T11:00:49.371Z</id>
+    <id>urn:2021-05-08T12:01:01.984Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-08T11:00:49.371Z</updated>
+    <updated>2021-05-08T12:01:01.984Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[12 Interesting facts about coding you had no idea about]]></title>
+        <id>https://www.designernews.co/stories/115248-12-interesting-facts-about-coding-you-had-no-idea-about</id>
+        <link href="https://www.designernews.co/stories/115248-12-interesting-facts-about-coding-you-had-no-idea-about"/>
+        <updated>2021-05-08T11:31:42.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/12-interesting-facts-about-coding-you.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Themes to Make Your VS Code Look Beautiful]]></title>
+        <id>https://www.designernews.co/stories/115247-7-themes-to-make-your-vs-code-look-beautiful</id>
+        <link href="https://www.designernews.co/stories/115247-7-themes-to-make-your-vs-code-look-beautiful"/>
+        <updated>2021-05-08T11:30:52.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/7-themes-to-make-your-vs-code-look.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hire Mobile App Developer]]></title>
+        <id>https://www.designernews.co/stories/115246-hire-mobile-app-developer-</id>
+        <link href="https://www.designernews.co/stories/115246-hire-mobile-app-developer-"/>
+        <updated>2021-05-08T11:22:06.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/hire-dedicated-mobile-app-developers/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Not All Advice is Good Advice]]></title>
         <id>https://davidwalsh.name/not-all-advice-is-good-advice</id>
@@ -497,16 +527,6 @@ The post 42 Best Old English Fonts appeared first on Design Inspiration.]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top UI/UX Resources & Articles from April]]></title>
-        <id>https://www.designernews.co/stories/115154-top-uiux-resources--articles-from-april</id>
-        <link href="https://www.designernews.co/stories/115154-top-uiux-resources--articles-from-april"/>
-        <updated>2021-05-04T06:36:25.000Z</updated>
-        <summary type="html"><![CDATA[https://dailydevlinks.com/top-ui-ux-resources-articles-from-april/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
         <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
         <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
@@ -514,26 +534,6 @@ The post 42 Best Old English Fonts appeared first on Design Inspiration.]]></sum
         <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Figma Website Kickoff Template]]></title>
-        <id>https://www.designernews.co/stories/115152-figma-website-kickoff-template</id>
-        <link href="https://www.designernews.co/stories/115152-figma-website-kickoff-template"/>
-        <updated>2021-05-03T18:43:03.000Z</updated>
-        <summary type="html"><![CDATA[https://www.figma.com/community/file/971115398245880536/Website-Kickoff-by-Human-Deluxe]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Common CSS mistakes developers make]]></title>
-        <id>https://www.designernews.co/stories/115149-5-common-css-mistakes-developers-make</id>
-        <link href="https://www.designernews.co/stories/115149-5-common-css-mistakes-developers-make"/>
-        <updated>2021-05-03T16:00:43.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/5-common-css-mistakes-developers-make.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
