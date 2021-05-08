@@ -668,12 +668,23 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "id": "https://www.viget.com/articles/how-to-keep-sprint-planning-efficient/",
+          "author": "WebdesignerNews",
+          "description": "https://www.viget.com/articles/how-to-keep-sprint-planning-efficient/",
+          "link": "http://www.webdesignernews.com/external/how-to-keep-sprint-planning-efficient",
+          "publishedOn": "2021-05-08T15:47:00.000Z",
+          "wordCount": 2190,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "How to Keep Sprint Planning Efficient"
+        },
+        {
           "id": "https://hackernoon.com/different-ways-to-use-card-sorting-551i34q8",
           "author": "WebdesignerNews",
           "description": "https://hackernoon.com/different-ways-to-use-card-sorting-551i34q8",
           "link": "http://www.webdesignernews.com/external/different-ways-to-use-card-sorting",
           "publishedOn": "2021-05-08T14:07:00.000Z",
-          "wordCount": 1376,
+          "wordCount": 1381,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Different Ways to Use Card Sorting"
@@ -695,7 +706,7 @@
           "description": "https://programmerhumor.io/",
           "link": "http://www.webdesignernews.com/external/programmerhumor-humor-only-programmers-can-understand",
           "publishedOn": "2021-05-08T12:24:20.000Z",
-          "wordCount": 880,
+          "wordCount": 858,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "ProgrammerHumor - Humor only programmers can understand"
@@ -706,7 +717,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
           "link": "http://www.webdesignernews.com/external/infographic-youtube-by-the-numbers",
           "publishedOn": "2021-05-08T12:24:07.000Z",
-          "wordCount": 380,
+          "wordCount": 402,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Infographic: YouTube By The Numbers"
@@ -728,7 +739,7 @@
           "description": "https://davidwalsh.name/not-all-advice-is-good-advice",
           "link": "http://www.webdesignernews.com/external/not-all-advice-is-good-advice",
           "publishedOn": "2021-05-07T23:46:00.000Z",
-          "wordCount": 1533,
+          "wordCount": 1540,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Not All Advice is Good Advice"
@@ -849,7 +860,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine/",
           "link": "http://www.webdesignernews.com/external/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine",
           "publishedOn": "2021-05-07T09:05:08.000Z",
-          "wordCount": 1917,
+          "wordCount": 1901,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Create Beautiful WordPress Pages with Optimized Images Using Elementor and ImageEngine"
@@ -875,17 +886,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Measuring Web Performance in 2021: The Definitive Guide"
-        },
-        {
-          "id": "https://torquemag.io/2021/05/ecommere-ui-design/",
-          "author": "WebdesignerNews",
-          "description": "https://torquemag.io/2021/05/ecommere-ui-design/",
-          "link": "http://www.webdesignernews.com/external/ecommere-ui-design-12-tips-to-start-selling-today-2021",
-          "publishedOn": "2021-05-06T21:01:00.000Z",
-          "wordCount": 2900,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Ecommere UI Design: 12 Tips to Start Selling Today (2021)"
         }
       ]
     }
