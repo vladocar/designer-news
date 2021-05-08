@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2021-05-08T06:01:05.890Z</id>
+    <title>osmos::feed</title>
+    <updated>2021-05-08T06:01:05.890Z</updated>
+    <generator>osmosfeed 1.5.0</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Not All Advice is Good Advice]]></title>
+        <id>https://davidwalsh.name/not-all-advice-is-good-advice</id>
+        <link href="http://www.webdesignernews.com/external/not-all-advice-is-good-advice"/>
+        <updated>2021-05-07T23:46:00.000Z</updated>
+        <summary type="html"><![CDATA[https://davidwalsh.name/not-all-advice-is-good-advice]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WinBox ? Modern HTML5 Window Manager for the web]]></title>
+        <id>https://github.com/nextapps-de/winbox</id>
+        <link href="http://www.webdesignernews.com/external/winbox-modern-html5-window-manager-for-the-web"/>
+        <updated>2021-05-07T22:35:00.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/nextapps-de/winbox]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juliette Duh� creates typefaces by working like a sculptor]]></title>
+        <id>https://www.itsnicethat.com/articles/juliette-duhe-graphic-design-060521</id>
+        <link href="http://www.webdesignernews.com/external/juliette-duh-creates-typefaces-by-working-like-a-sculptor"/>
+        <updated>2021-05-07T21:11:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/juliette-duhe-graphic-design-060521]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trendy Web Color Palettes and Material Design Color Schemes & Tools]]></title>
+        <id>https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html</id>
+        <link href="http://www.webdesignernews.com/external/trendy-web-color-palettes-and-material-design-color-schemes-tools-2"/>
+        <updated>2021-05-07T20:47:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dependency Managers Don?t Manage Your Dependencies]]></title>
+        <id>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</id>
+        <link href="http://www.webdesignernews.com/external/dependency-managers-don-t-manage-your-dependencies"/>
+        <updated>2021-05-07T19:01:00.000Z</updated>
+        <summary type="html"><![CDATA[https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bootstrap 5 Stable - World's most popular framework based on vanilla JavaScript]]></title>
+        <id>https://getbootstrap.com/</id>
+        <link href="http://www.webdesignernews.com/external/bootstrap-5-stable-world-s-most-popular-framework-based-on-vanilla-javascript"/>
+        <updated>2021-05-07T18:12:00.000Z</updated>
+        <summary type="html"><![CDATA[https://getbootstrap.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Idemeum - Passwordless login with one-click, biometric, or QR-code]]></title>
+        <id>https://idemeum.com/</id>
+        <link href="http://www.webdesignernews.com/external/idemeum-passwordless-login-with-one-click-biometric-or-qr-code"/>
+        <updated>2021-05-07T17:03:00.000Z</updated>
+        <summary type="html"><![CDATA[https://idemeum.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mantine]]></title>
+        <id>https://mantine.dev/</id>
+        <link href="http://www.webdesignernews.com/external/mantine"/>
+        <updated>2021-05-07T16:33:00.000Z</updated>
+        <summary type="html"><![CDATA[https://mantine.dev/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taplytics No-Code Web A/B Testing Solution]]></title>
+        <id>https://taplytics.com/cross-platform-code-free-visual-experimentation-for-web/</id>
+        <link href="http://www.webdesignernews.com/external/taplytics-no-code-web-a-b-testing-solution"/>
+        <updated>2021-05-07T15:27:00.000Z</updated>
+        <summary type="html"><![CDATA[https://taplytics.com/cross-platform-code-free-visual-experimentation-for-web/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FigJam UX Review]]></title>
+        <id>https://adamfard.com/blog/figjam-ux-review</id>
+        <link href="http://www.webdesignernews.com/external/figjam-ux-review"/>
+        <updated>2021-05-07T12:48:00.000Z</updated>
+        <summary type="html"><![CDATA[https://adamfard.com/blog/figjam-ux-review]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Most Common Git Mistakes]]></title>
+        <id>https://www.designernews.co/stories/115238-7-most-common-git-mistakes</id>
+        <link href="https://www.designernews.co/stories/115238-7-most-common-git-mistakes"/>
+        <updated>2021-05-07T11:49:46.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/7-most-common-git-mistakes.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Rules for Every Code Review]]></title>
+        <id>https://www.designernews.co/stories/115237-5-rules-for-every-code-review</id>
+        <link href="https://www.designernews.co/stories/115237-5-rules-for-every-code-review"/>
+        <updated>2021-05-07T11:49:04.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/5-rules-for-every-code-review.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
+        <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
+        <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
+        <updated>2021-05-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Valeriia Panina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Amazing Games to learn basic Principles of UI Design]]></title>
+        <id>https://www.designernews.co/stories/115231-10-amazing-games-to-learn-basic-principles-of-ui-design</id>
+        <link href="https://www.designernews.co/stories/115231-10-amazing-games-to-learn-basic-principles-of-ui-design"/>
+        <updated>2021-05-07T09:50:15.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=3E4ByrptCeo]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customizing Tailwind CSS]]></title>
+        <id>https://allround.io/articles/customizing-tailwind-css</id>
+        <link href="http://www.webdesignernews.com/external/customizing-tailwind-css"/>
+        <updated>2021-05-07T09:05:10.000Z</updated>
+        <summary type="html"><![CDATA[https://allround.io/articles/customizing-tailwind-css]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Beautiful WordPress Pages with Optimized Images Using Elementor and ImageEngine]]></title>
+        <id>https://www.webdesignerdepot.com/2021/05/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine/</id>
+        <link href="http://www.webdesignernews.com/external/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine"/>
+        <updated>2021-05-07T09:05:08.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Startup Deck - 290+ Curated Tools & Resources for Startups & Entrepreneurs]]></title>
+        <id>https://startupdeck.io/</id>
+        <link href="http://www.webdesignernews.com/external/startup-deck-290-curated-tools-resources-for-startups-entrepreneurs"/>
+        <updated>2021-05-07T09:04:58.000Z</updated>
+        <summary type="html"><![CDATA[https://startupdeck.io/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Web Performance in 2021: The Definitive Guide]]></title>
+        <id>https://requestmetrics.com/web-performance/measure-web-performance</id>
+        <link href="http://www.webdesignernews.com/external/measuring-web-performance-in-2021-the-definitive-guide"/>
+        <updated>2021-05-07T09:04:28.000Z</updated>
+        <summary type="html"><![CDATA[https://requestmetrics.com/web-performance/measure-web-performance]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[38 Best Fashion Fonts for Modern Designs]]></title>
+        <id>https://www.designinspiration.info/?p=2432</id>
+        <link href="https://www.designinspiration.info/fashion-fonts/"/>
+        <updated>2021-05-06T21:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Looking for some sleek fashion fonts with elegant look for your modern designs? Look no further. When someone mentions Fashion, people might not necessarily think of fonts. However, the fact is that typography plays an important role in any design. Here you’ll find some fantastic fashion fonts that will help
+The post 38 Best Fashion Fonts for Modern Designs appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ecommere UI Design: 12 Tips to Start Selling Today (2021)]]></title>
+        <id>https://torquemag.io/2021/05/ecommere-ui-design/</id>
+        <link href="http://www.webdesignernews.com/external/ecommere-ui-design-12-tips-to-start-selling-today-2021"/>
+        <updated>2021-05-06T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[https://torquemag.io/2021/05/ecommere-ui-design/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft?s new font: Your work will soon take on a new character]]></title>
+        <id>https://uxdesign.cc/your-work-will-soon-take-on-a-new-character-c1be620fe8ea</id>
+        <link href="http://www.webdesignernews.com/external/microsoft-s-new-font-your-work-will-soon-take-on-a-new-character"/>
+        <updated>2021-05-06T20:19:00.000Z</updated>
+        <summary type="html"><![CDATA[https://uxdesign.cc/your-work-will-soon-take-on-a-new-character-c1be620fe8ea]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Flame style illustrations for kick-ass designs]]></title>
+        <id>https://icons8.com/l/flame/</id>
+        <link href="http://www.webdesignernews.com/external/3d-flame-style-illustrations-for-kick-ass-designs"/>
+        <updated>2021-05-06T19:34:00.000Z</updated>
+        <summary type="html"><![CDATA[https://icons8.com/l/flame/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slidev ? Presentation Slides for Developers]]></title>
+        <id>https://sli.dev/</id>
+        <link href="http://www.webdesignernews.com/external/slidev-presentation-slides-for-developers"/>
+        <updated>2021-05-06T17:51:00.000Z</updated>
+        <summary type="html"><![CDATA[https://sli.dev/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything You Need to Know About UX Writing In Web Design]]></title>
+        <id>https://gapsystudio.com/blog/ux-writing/</id>
+        <link href="http://www.webdesignernews.com/external/everything-you-need-to-know-about-ux-writing-in-web-design"/>
+        <updated>2021-05-06T16:51:00.000Z</updated>
+        <summary type="html"><![CDATA[https://gapsystudio.com/blog/ux-writing/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Animated Logo Design Concepts]]></title>
+        <id>https://design4users.com/animated-logo-design/</id>
+        <link href="http://www.webdesignernews.com/external/15-animated-logo-design-concepts"/>
+        <updated>2021-05-06T15:28:00.000Z</updated>
+        <summary type="html"><![CDATA[https://design4users.com/animated-logo-design/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beautiful Colored Gradients]]></title>
+        <id>https://www.designernews.co/stories/115219-beautiful-colored-gradients</id>
+        <link href="https://www.designernews.co/stories/115219-beautiful-colored-gradients"/>
+        <updated>2021-05-06T13:23:36.000Z</updated>
+        <summary type="html"><![CDATA[https://hexcolor.co/gradient-colors]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
+        <updated>2021-05-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carson Shold)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swag Fair — branded swag made by small businesses]]></title>
+        <id>https://www.designernews.co/stories/115212-swag-fair--branded-swag-made-by-small-businesses</id>
+        <link href="https://www.designernews.co/stories/115212-swag-fair--branded-swag-made-by-small-businesses"/>
+        <updated>2021-05-06T09:19:21.000Z</updated>
+        <summary type="html"><![CDATA[https://swagfair.com/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Design and UI/UX Education: What are my options?]]></title>
+        <id>https://www.designernews.co/stories/115211-product-design-and-uiux-education-what-are-my-options</id>
+        <link href="https://www.designernews.co/stories/115211-product-design-and-uiux-education-what-are-my-options"/>
+        <updated>2021-05-06T08:54:10.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=BaymAuMBRwA]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1.5H tutorial for the Bootstrap v5 STABLE that was finally released yesterday]]></title>
+        <id>https://www.designernews.co/stories/115210-15h-tutorial-for-the-bootstrap-v5-stable-that-was-finally-released-yesterday</id>
+        <link href="https://www.designernews.co/stories/115210-15h-tutorial-for-the-bootstrap-v5-stable-that-was-finally-released-yesterday"/>
+        <updated>2021-05-06T08:53:53.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=rQryOSyfXmI&list=PLl1gkwYU90QkvmT4uLM5jzLsotJZtLHgW]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 VS Code Plugins To Improve Your Productivity]]></title>
+        <id>https://www.designernews.co/stories/115209-8-vs-code-plugins-to-improve-your-productivity</id>
+        <link href="https://www.designernews.co/stories/115209-8-vs-code-plugins-to-improve-your-productivity"/>
+        <updated>2021-05-06T07:45:44.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/8-vs-code-plugins-to-improve-your.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Smart Things Worth Spending Your Money on as a Developer]]></title>
+        <id>https://www.designernews.co/stories/115208-3-smart-things-worth-spending-your-money-on-as-a-developer</id>
+        <link href="https://www.designernews.co/stories/115208-3-smart-things-worth-spending-your-money-on-as-a-developer"/>
+        <updated>2021-05-06T07:45:14.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/3-smart-things-worth-spending-your.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a RPA and How can it Help to Grow Your Business?]]></title>
+        <id>https://www.designernews.co/stories/115205-what-is-a-rpa-and-how-can-it-help-to-grow-your-business</id>
+        <link href="https://www.designernews.co/stories/115205-what-is-a-rpa-and-how-can-it-help-to-grow-your-business"/>
+        <updated>2021-05-06T07:21:42.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/blog/what-is-rpa-and-how-can-it-help-to-grow-your-business]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete guide on how to create an app like Bet365]]></title>
+        <id>https://www.designernews.co/stories/115204-complete-guide-on-how-to-create-an-app-like-bet365</id>
+        <link href="https://www.designernews.co/stories/115204-complete-guide-on-how-to-create-an-app-like-bet365"/>
+        <updated>2021-05-06T04:48:58.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create the Ideal Candle Label]]></title>
+        <id>https://www.designernews.co/stories/115198-how-to-create-the-ideal-candle-label</id>
+        <link href="https://www.designernews.co/stories/115198-how-to-create-the-ideal-candle-label"/>
+        <updated>2021-05-05T18:43:51.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vectornator.io/blog/candle-labels]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vectornator's 12 Best Graphic Design Examples]]></title>
+        <id>https://www.designernews.co/stories/115197-vectornators-12-best-graphic-design-examples</id>
+        <link href="https://www.designernews.co/stories/115197-vectornators-12-best-graphic-design-examples"/>
+        <updated>2021-05-05T18:40:36.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vectornator.io/blog/graphic-design-examples]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alternative of DesignerNews.co]]></title>
+        <id>https://www.designernews.co/stories/115191-alternative-of-designernewsco</id>
+        <link href="https://www.designernews.co/stories/115191-alternative-of-designernewsco"/>
+        <updated>2021-05-05T12:46:40.000Z</updated>
+        <summary type="html"><![CDATA[Hi all !
+
+Sad story today. After many years of daily use of Designer News, I feel that DN is becoming less and less relevant for design community exchanges.
+
+There are still many cool links or interesting discussion on this platform, but - to me at least - , there are also way too many "empty" articles or non-relevant/self-promotion links.
+
+I think I don't like DN anymore.
+
+- What's your feeling/opinion about it ?
+- Do you use any alternative to DN (like dev.to but for designer) ? A place where you…]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
+        <updated>2021-05-05T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Liran Cohen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Ways To Make Money With Your Code/Design]]></title>
+        <id>https://www.designernews.co/stories/115186-6-ways-to-make-money-with-your-codedesign</id>
+        <link href="https://www.designernews.co/stories/115186-6-ways-to-make-money-with-your-codedesign"/>
+        <updated>2021-05-05T10:10:16.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best keyboards for programming in 2021]]></title>
+        <id>https://www.designernews.co/stories/115185-best-keyboards-for-programming-in-2021</id>
+        <link href="https://www.designernews.co/stories/115185-best-keyboards-for-programming-in-2021"/>
+        <updated>2021-05-05T10:06:40.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My startup needs better UX. Should I hire a full-time designer?]]></title>
+        <id>https://www.designernews.co/stories/115175-my-startup-needs-better-ux-should-i-hire-a-fulltime-designer</id>
+        <link href="https://www.designernews.co/stories/115175-my-startup-needs-better-ux-should-i-hire-a-fulltime-designer"/>
+        <updated>2021-05-04T21:46:49.000Z</updated>
+        <summary type="html"><![CDATA[https://next.waveguide.io/p/my-startup-needs-better-ux-should]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
+        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
+        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
+        <updated>2021-05-04T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Tobias Günther)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Game Prototypes in Figma using Interactive Components]]></title>
+        <id>https://www.designernews.co/stories/115165-creating-game-prototypes-in-figma-using-interactive-components</id>
+        <link href="https://www.designernews.co/stories/115165-creating-game-prototypes-in-figma-using-interactive-components"/>
+        <updated>2021-05-04T14:29:43.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=XrF7-Ds-0YQ]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 VSCode Extensions That Every Web designer and Developer Should Use]]></title>
+        <id>https://www.designernews.co/stories/115160-13-vscode-extensions-that-every-web-designer-and-developer-should-use</id>
+        <link href="https://www.designernews.co/stories/115160-13-vscode-extensions-that-every-web-designer-and-developer-should-use"/>
+        <updated>2021-05-04T11:41:21.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/03/13-vscode-extensions-that-every-web.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Psychology of Clubhouse’s User Retention (...and churn)]]></title>
+        <id>https://www.designernews.co/stories/115159-the-psychology-of-clubhouses-user-retention-and-churn</id>
+        <link href="https://www.designernews.co/stories/115159-the-psychology-of-clubhouses-user-retention-and-churn"/>
+        <updated>2021-05-04T11:31:25.000Z</updated>
+        <summary type="html"><![CDATA[https://growth.design/case-studies/clubhouse-user-retention/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[42 Best Old English Fonts]]></title>
+        <id>https://www.designinspiration.info/?p=2421</id>
+        <link href="https://www.designinspiration.info/old-english-fonts/"/>
+        <updated>2021-05-04T11:22:18.000Z</updated>
+        <summary type="html"><![CDATA[Cool Old English Fonts. We&#8217;ve collected the most beautiful and elegant fonts that can be used in any design project. Take a look. Gothic lettering or blackletter is a letter style in which the letters are calligraphic, and were developed as a rapid handwriting for Latin. As such, they are
+The post 42 Best Old English Fonts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 UI/UX Design Trends to watch in 2021]]></title>
+        <id>https://www.designernews.co/stories/115156-top-10-uiux-design-trends-to-watch-in-2021</id>
+        <link href="https://www.designernews.co/stories/115156-top-10-uiux-design-trends-to-watch-in-2021"/>
+        <updated>2021-05-04T08:21:20.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/blog/top-10-ui-ux-design-trends-to-watch-in-2021]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Visualization: The What, Why and How]]></title>
+        <id>https://www.designernews.co/stories/115155-data-visualization-the-what-why-and-how</id>
+        <link href="https://www.designernews.co/stories/115155-data-visualization-the-what-why-and-how"/>
+        <updated>2021-05-04T06:55:38.000Z</updated>
+        <summary type="html"><![CDATA[https://drawer.design/blog/data-visualization-the-what-why-and-how/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top UI/UX Resources & Articles from April]]></title>
+        <id>https://www.designernews.co/stories/115154-top-uiux-resources--articles-from-april</id>
+        <link href="https://www.designernews.co/stories/115154-top-uiux-resources--articles-from-april"/>
+        <updated>2021-05-04T06:36:25.000Z</updated>
+        <summary type="html"><![CDATA[https://dailydevlinks.com/top-ui-ux-resources-articles-from-april/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
+        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
+        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
+        <updated>2021-05-04T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Figma Website Kickoff Template]]></title>
+        <id>https://www.designernews.co/stories/115152-figma-website-kickoff-template</id>
+        <link href="https://www.designernews.co/stories/115152-figma-website-kickoff-template"/>
+        <updated>2021-05-03T18:43:03.000Z</updated>
+        <summary type="html"><![CDATA[https://www.figma.com/community/file/971115398245880536/Website-Kickoff-by-Human-Deluxe]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Common CSS mistakes developers make]]></title>
+        <id>https://www.designernews.co/stories/115149-5-common-css-mistakes-developers-make</id>
+        <link href="https://www.designernews.co/stories/115149-5-common-css-mistakes-developers-make"/>
+        <updated>2021-05-03T16:00:43.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/5-common-css-mistakes-developers-make.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Evolution Of Jamstack]]></title>
+        <id>https://smashingmagazine.com/2021/05/evolution-jamstack/</id>
+        <link href="https://smashingmagazine.com/2021/05/evolution-jamstack/"/>
+        <updated>2021-05-03T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26 Best Baseball Fonts]]></title>
+        <id>https://www.designinspiration.info/?p=2345</id>
+        <link href="https://www.designinspiration.info/baseball-fonts/"/>
+        <updated>2021-04-30T23:02:21.000Z</updated>
+        <summary type="html"><![CDATA[This is the coolest list of baseball fonts on the internet. In this article, we have collected unique baseball fonts and presets. These baseball fonts can be used to create any kind of sports related designs. Baseball is one of the most popular sports in the United States. Fans from
+The post 26 Best Baseball Fonts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
+        <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
+        <updated>2021-04-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18 Best Coffee Fonts for Cool Designs]]></title>
+        <id>https://www.designinspiration.info/?p=2380</id>
+        <link href="https://www.designinspiration.info/coffee-fonts/"/>
+        <updated>2021-04-29T22:07:15.000Z</updated>
+        <summary type="html"><![CDATA[I’m sure everyone loves coffee. Let me introduce our list of best coffee fonts. Discover these amazing fonts and make your designs more attractable. Coffee is of course, one of the most popular topics of conversation. It’s a drink that is sometimes synonymous with relaxing or sociability. For art and
+The post 18 Best Coffee Fonts for Cool Designs appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Humble `<img>` Element And Core Web Vitals]]></title>
+        <id>https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/</id>
+        <link href="https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
+        <updated>2021-04-29T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Addy Osmani)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 Best Paper Cut Out Fonts]]></title>
+        <id>https://www.designinspiration.info/?p=2340</id>
+        <link href="https://www.designinspiration.info/paper-cut-out-fonts/"/>
+        <updated>2021-04-28T23:55:06.000Z</updated>
+        <summary type="html"><![CDATA[We selected the best paper cutout fonts that are really creative, inventive and high-quality. Not only they look great, but they also contain alternative characters. Paper cut-out fonts are growing in popularity and we are quite sure that some of you created quite a few papercraft designs based on it.
+The post 20 Best Paper Cut Out Fonts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Image Optimization, A New Smashing Book By Addy Osmani]]></title>
+        <id>https://smashingmagazine.com/2021/04/image-optimization-pre-release/</id>
+        <link href="https://smashingmagazine.com/2021/04/image-optimization-pre-release/"/>
+        <updated>2021-04-28T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Easing Functions For CSS Animations And Transitions]]></title>
+        <id>https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/</id>
+        <link href="https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/"/>
+        <updated>2021-04-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Bake Layers Of Accessibility Testing Into Your Process]]></title>
+        <id>https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/</id>
+        <link href="https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/"/>
+        <updated>2021-04-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early &mdash; when it’s easier and cheaper to fix them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best places to buy fonts for commercial use]]></title>
+        <id>https://www.designinspiration.info/?p=1874</id>
+        <link href="https://www.designinspiration.info/best-places-to-buy-fonts-for-commercial-use/"/>
+        <updated>2021-04-26T09:10:16.000Z</updated>
+        <summary type="html"><![CDATA[Wondering where you can buy fonts for commercial use? We have compared some of the biggest websites where you can buy fonts for commercial use, each website has its own pros and cons, so you can choose the best one that fits your needs. Where to buy fonts? There are
+The post Best places to buy fonts for commercial use appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 Best Monogram Fonts]]></title>
+        <id>https://www.designinspiration.info/?p=2257</id>
+        <link href="https://www.designinspiration.info/monogram-fonts/"/>
+        <updated>2021-04-23T09:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Finding the best monogram font for your project doesn’t have to be a daunting task. You just need you recognize the qualities that separate a fantastic font from an average one. That&#8217;s why we looked through all of the fonts listed and provided you with 30+ of ours personal favorite
+The post 30 Best Monogram Fonts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
+        <id>https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</id>
+        <link href="https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/"/>
+        <updated>2021-04-23T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 Best Embroidery Fonts]]></title>
+        <id>https://www.designinspiration.info/?p=2250</id>
+        <link href="https://www.designinspiration.info/embroidery-fonts/"/>
+        <updated>2021-04-22T20:13:55.000Z</updated>
+        <summary type="html"><![CDATA[Looking for embroidery fonts? Here is our handpicked selection from decorative fonts inspired by embroidery and sewing, looking as natural as possible. Ideal for branding, logos, headlines, labels, posters, inspirational messages and any kind of design that you want to give an artisanal look and feel. All fonts are also
+The post 20 Best Embroidery Fonts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: The Ordinary Made Extraordinary (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2021/04/web-design-done-well-part1/</id>
+        <link href="https://smashingmagazine.com/2021/04/web-design-done-well-part1/"/>
+        <updated>2021-04-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide To Incremental Static Regeneration (ISR) With Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/"/>
+        <updated>2021-04-21T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Lee Robinson)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Distressed Effect with Photoshop Brushes in a non destructive way?]]></title>
+        <id>https://www.designinspiration.info/?p=1819</id>
+        <link href="https://www.designinspiration.info/how-to-make-a-distressed-effect-with-photoshop-brushes-in-a-non-destructive-way/"/>
+        <updated>2021-04-21T08:44:00.000Z</updated>
+        <summary type="html"><![CDATA[If you are searching for a quick and easy way to make vintage distressed effects in Photoshop you came to the right place. We will show you a non destructive technique using vector mask and photoshop retro distressed brushes. Select the photoshop layer with the main object (in our case
+The post How to Make a Distressed Effect with Photoshop Brushes in a non destructive way? appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Content Is Such A Fundamental Part Of The Web Design Process]]></title>
+        <id>https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/</id>
+        <link href="https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/"/>
+        <updated>2021-04-21T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Matt Saunders)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making GraphQL Work In WordPress]]></title>
+        <id>https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/</id>
+        <link href="https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/"/>
+        <updated>2021-04-20T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An In-Depth Guide To Measuring Core Web Vitals]]></title>
+        <id>https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/</id>
+        <link href="https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/"/>
+        <updated>2021-04-19T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[42 Best Gothic Fonts for Your Cool Designs]]></title>
+        <id>https://www.designinspiration.info/?p=2024</id>
+        <link href="https://www.designinspiration.info/best-gothic-fonts/"/>
+        <updated>2021-04-18T11:50:01.000Z</updated>
+        <summary type="html"><![CDATA[Cool Gothic Fonts. We&#8217;ve collected the most beautiful and elegant fonts that can be used in any design project. Take a look. Gothic lettering or blackletter is a letter style in which the letters are calligraphic, and were developed as a rapid handwriting for Latin. As such, they are all
+The post 42 Best Gothic Fonts for Your Cool Designs appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven Mistakes To Avoid In Your Technical Interviews]]></title>
+        <id>https://smashingmagazine.com/2021/04/mistakes-technical-interviews/</id>
+        <link href="https://smashingmagazine.com/2021/04/mistakes-technical-interviews/"/>
+        <updated>2021-04-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Emma Bostian)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Get Web Design Clients Fast (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/</id>
+        <link href="https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/"/>
+        <updated>2021-04-15T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephen Roe)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Cats With Love: New Navigation, Guides And Workshops]]></title>
+        <id>https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/</id>
+        <link href="https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/"/>
+        <updated>2021-04-15T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overflow Issues In CSS]]></title>
+        <id>https://smashingmagazine.com/2021/04/css-overflow-issues/</id>
+        <link href="https://smashingmagazine.com/2021/04/css-overflow-issues/"/>
+        <updated>2021-04-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Video Streaming App With Nuxt.js, Node And Express]]></title>
+        <id>https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/</id>
+        <link href="https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/"/>
+        <updated>2021-04-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Deven Rathore)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide To HTML Email]]></title>
+        <id>https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/</id>
+        <link href="https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/"/>
+        <updated>2021-04-12T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Growing UX Maturity In Organizations: Education And Training (Part 3)]]></title>
+        <id>https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/</id>
+        <link href="https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/"/>
+        <updated>2021-04-09T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[UX practitioners can play an important role in growing the UX maturity of the organizations and product teams they work with. This final article in a three-part series presents two additional tactics: education of staff on UX principles and processes.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+</feed>
