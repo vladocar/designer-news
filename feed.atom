@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-08T20:02:01.625Z</id>
+    <id>urn:2021-05-08T21:00:48.349Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-08T20:02:01.625Z</updated>
+    <updated>2021-05-08T21:00:48.349Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Use of Uppercase Sans Serif Typography in Modern Web Design]]></title>
+        <id>https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/</id>
+        <link href="http://www.webdesignernews.com/external/the-use-of-uppercase-sans-serif-typography-in-modern-web-design"/>
+        <updated>2021-05-08T20:23:00.000Z</updated>
+        <summary type="html"><![CDATA[https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Mosaic Chart Using JavaScript]]></title>
         <id>https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript</id>
@@ -261,16 +271,6 @@
         <link href="http://www.webdesignernews.com/external/customizing-tailwind-css"/>
         <updated>2021-05-07T09:05:10.000Z</updated>
         <summary type="html"><![CDATA[https://allround.io/articles/customizing-tailwind-css]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Beautiful WordPress Pages with Optimized Images Using Elementor and ImageEngine]]></title>
-        <id>https://www.webdesignerdepot.com/2021/05/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine/</id>
-        <link href="http://www.webdesignernews.com/external/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine"/>
-        <updated>2021-05-07T09:05:08.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
