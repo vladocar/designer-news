@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-08T13:11:57.903Z</id>
+    <id>urn:2021-05-08T14:00:31.498Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-08T13:11:57.903Z</updated>
+    <updated>2021-05-08T14:00:31.498Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crossbar.io ? Open source platform for distributed and microservice apps]]></title>
+        <id>https://Crossbar.io/</id>
+        <link href="http://www.webdesignernews.com/external/crossbar-io-open-source-platform-for-distributed-and-microservice-apps"/>
+        <updated>2021-05-08T13:40:00.000Z</updated>
+        <summary type="html"><![CDATA[https://Crossbar.io/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ProgrammerHumor - Humor only programmers can understand]]></title>
         <id>https://programmerhumor.io/</id>
@@ -272,16 +282,6 @@ The post 38 Best Fashion Fonts for Modern Designs appeared first on Design Inspi
         <link href="http://www.webdesignernews.com/external/microsoft-s-new-font-your-work-will-soon-take-on-a-new-character"/>
         <updated>2021-05-06T20:19:00.000Z</updated>
         <summary type="html"><![CDATA[https://uxdesign.cc/your-work-will-soon-take-on-a-new-character-c1be620fe8ea]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Flame style illustrations for kick-ass designs]]></title>
-        <id>https://icons8.com/l/flame/</id>
-        <link href="http://www.webdesignernews.com/external/3d-flame-style-illustrations-for-kick-ass-designs"/>
-        <updated>2021-05-06T19:34:00.000Z</updated>
-        <summary type="html"><![CDATA[https://icons8.com/l/flame/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>

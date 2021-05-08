@@ -668,12 +668,23 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "id": "https://Crossbar.io/",
+          "author": "WebdesignerNews",
+          "description": "https://Crossbar.io/",
+          "link": "http://www.webdesignernews.com/external/crossbar-io-open-source-platform-for-distributed-and-microservice-apps",
+          "publishedOn": "2021-05-08T13:40:00.000Z",
+          "wordCount": 1314,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Crossbar.io ? Open source platform for distributed and microservice apps"
+        },
+        {
           "id": "https://programmerhumor.io/",
           "author": "WebdesignerNews",
           "description": "https://programmerhumor.io/",
           "link": "http://www.webdesignernews.com/external/programmerhumor-humor-only-programmers-can-understand",
           "publishedOn": "2021-05-08T12:24:20.000Z",
-          "wordCount": 856,
+          "wordCount": 868,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "ProgrammerHumor - Humor only programmers can understand"
@@ -684,7 +695,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
           "link": "http://www.webdesignernews.com/external/infographic-youtube-by-the-numbers",
           "publishedOn": "2021-05-08T12:24:07.000Z",
-          "wordCount": 361,
+          "wordCount": 368,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Infographic: YouTube By The Numbers"
@@ -706,7 +717,7 @@
           "description": "https://davidwalsh.name/not-all-advice-is-good-advice",
           "link": "http://www.webdesignernews.com/external/not-all-advice-is-good-advice",
           "publishedOn": "2021-05-07T23:46:00.000Z",
-          "wordCount": 1526,
+          "wordCount": 1538,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Not All Advice is Good Advice"
@@ -739,7 +750,7 @@
           "description": "https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html",
           "link": "http://www.webdesignernews.com/external/trendy-web-color-palettes-and-material-design-color-schemes-tools-2",
           "publishedOn": "2021-05-07T20:47:00.000Z",
-          "wordCount": 1431,
+          "wordCount": 1433,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Trendy Web Color Palettes and Material Design Color Schemes & Tools"
@@ -827,7 +838,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine/",
           "link": "http://www.webdesignernews.com/external/create-beautiful-wordpress-pages-with-optimized-images-using-elementor-and-imageengine",
           "publishedOn": "2021-05-07T09:05:08.000Z",
-          "wordCount": 1889,
+          "wordCount": 1908,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Create Beautiful WordPress Pages with Optimized Images Using Elementor and ImageEngine"
@@ -875,17 +886,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Microsoft?s new font: Your work will soon take on a new character"
-        },
-        {
-          "id": "https://icons8.com/l/flame/",
-          "author": "WebdesignerNews",
-          "description": "https://icons8.com/l/flame/",
-          "link": "http://www.webdesignernews.com/external/3d-flame-style-illustrations-for-kick-ass-designs",
-          "publishedOn": "2021-05-06T19:34:00.000Z",
-          "wordCount": 618,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "3D Flame style illustrations for kick-ass designs"
         }
       ]
     }
