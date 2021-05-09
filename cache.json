@@ -119,6 +119,17 @@
       "href": "http://www.designernews.co/?format=rss",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115253-mothers-day-marketing-5-infographics-we-love",
+          "author": "Designer News Feed",
+          "description": "https://marketsplash.com/mothers-day-marketing/",
+          "link": "https://www.designernews.co/stories/115253-mothers-day-marketing-5-infographics-we-love",
+          "publishedOn": "2021-05-09T15:05:59.000Z",
+          "wordCount": 169,
+          "sourceHref": "http://www.designernews.co/?format=rss",
+          "sourceTitle": "Designer News Feed",
+          "title": "Mother’s Day Marketing: 5 Infographics We Love"
+        },
+        {
           "id": "https://www.designernews.co/stories/115248-12-interesting-facts-about-coding-you-had-no-idea-about",
           "author": "Designer News Feed",
           "description": "https://cmsinstallation.blogspot.com/2021/04/12-interesting-facts-about-coding-you.html",
@@ -359,17 +370,6 @@
           "sourceHref": "http://www.designernews.co/?format=rss",
           "sourceTitle": "Designer News Feed",
           "title": "13 VSCode Extensions That Every Web designer and Developer Should Use"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115159-the-psychology-of-clubhouses-user-retention-and-churn",
-          "author": "Designer News Feed",
-          "description": "https://growth.design/case-studies/clubhouse-user-retention/",
-          "link": "https://www.designernews.co/stories/115159-the-psychology-of-clubhouses-user-retention-and-churn",
-          "publishedOn": "2021-05-04T11:31:25.000Z",
-          "wordCount": 172,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
-          "title": "The Psychology of Clubhouse’s User Retention (...and churn)"
         },
         {
           "id": "https://www.designernews.co/stories/115156-top-10-uiux-design-trends-to-watch-in-2021",
@@ -662,7 +662,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3084,
+          "wordCount": 3061,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
@@ -706,7 +706,7 @@
           "description": "https://designmodo.com/development-bootstrap-5/",
           "link": "http://www.webdesignernews.com/external/speeding-up-development-process-with-bootstrap-5",
           "publishedOn": "2021-05-08T22:19:00.000Z",
-          "wordCount": 4739,
+          "wordCount": 4777,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Speeding Up Development Process with Bootstrap 5"
@@ -717,7 +717,7 @@
           "description": "https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/",
           "link": "http://www.webdesignernews.com/external/the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
           "publishedOn": "2021-05-08T20:23:00.000Z",
-          "wordCount": 3505,
+          "wordCount": 3503,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The Use of Uppercase Sans Serif Typography in Modern Web Design"
@@ -728,7 +728,7 @@
           "description": "https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-mosaic-chart-using-javascript",
           "publishedOn": "2021-05-08T17:50:00.000Z",
-          "wordCount": 2532,
+          "wordCount": 2537,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Create a Mosaic Chart Using JavaScript"
@@ -794,7 +794,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
           "link": "http://www.webdesignernews.com/external/infographic-youtube-by-the-numbers",
           "publishedOn": "2021-05-08T12:24:07.000Z",
-          "wordCount": 365,
+          "wordCount": 360,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Infographic: YouTube By The Numbers"
@@ -805,7 +805,7 @@
           "description": "https://css-tricks.com/is-css-a-programming-language/",
           "link": "http://www.webdesignernews.com/external/is-css-a-programming-language",
           "publishedOn": "2021-05-08T12:23:56.000Z",
-          "wordCount": 1918,
+          "wordCount": 2031,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Is CSS a Programming Language?"
@@ -816,7 +816,7 @@
           "description": "https://davidwalsh.name/not-all-advice-is-good-advice",
           "link": "http://www.webdesignernews.com/external/not-all-advice-is-good-advice",
           "publishedOn": "2021-05-07T23:46:00.000Z",
-          "wordCount": 1536,
+          "wordCount": 1527,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Not All Advice is Good Advice"
@@ -827,7 +827,7 @@
           "description": "https://github.com/nextapps-de/winbox",
           "link": "http://www.webdesignernews.com/external/winbox-modern-html5-window-manager-for-the-web",
           "publishedOn": "2021-05-07T22:35:00.000Z",
-          "wordCount": 3700,
+          "wordCount": 3694,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "WinBox ? Modern HTML5 Window Manager for the web"
@@ -849,7 +849,7 @@
           "description": "https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html",
           "link": "http://www.webdesignernews.com/external/trendy-web-color-palettes-and-material-design-color-schemes-tools-2",
           "publishedOn": "2021-05-07T20:47:00.000Z",
-          "wordCount": 1431,
+          "wordCount": 1429,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Trendy Web Color Palettes and Material Design Color Schemes & Tools"

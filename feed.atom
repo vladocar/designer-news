@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-09T15:00:39.983Z</id>
+    <id>urn:2021-05-09T16:04:03.704Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T15:00:39.983Z</updated>
+    <updated>2021-05-09T16:04:03.704Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mother’s Day Marketing: 5 Infographics We Love]]></title>
+        <id>https://www.designernews.co/stories/115253-mothers-day-marketing-5-infographics-we-love</id>
+        <link href="https://www.designernews.co/stories/115253-mothers-day-marketing-5-infographics-we-love"/>
+        <updated>2021-05-09T15:05:59.000Z</updated>
+        <summary type="html"><![CDATA[https://marketsplash.com/mothers-day-marketing/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beat imposter syndrome by developing ?true confidence? as a software engineer]]></title>
         <id>https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication</id>
@@ -481,16 +491,6 @@ I think I don't like DN anymore.
         <link href="https://www.designernews.co/stories/115160-13-vscode-extensions-that-every-web-designer-and-developer-should-use"/>
         <updated>2021-05-04T11:41:21.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/03/13-vscode-extensions-that-every-web.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Psychology of Clubhouse’s User Retention (...and churn)]]></title>
-        <id>https://www.designernews.co/stories/115159-the-psychology-of-clubhouses-user-retention-and-churn</id>
-        <link href="https://www.designernews.co/stories/115159-the-psychology-of-clubhouses-user-retention-and-churn"/>
-        <updated>2021-05-04T11:31:25.000Z</updated>
-        <summary type="html"><![CDATA[https://growth.design/case-studies/clubhouse-user-retention/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
