@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-09T22:00:51.549Z</id>
+    <id>urn:2021-05-09T23:00:36.622Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T22:00:51.549Z</updated>
+    <updated>2021-05-09T23:00:36.622Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google will soon automatically enroll users in 2FA]]></title>
+        <id>https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default</id>
+        <link href="http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa"/>
+        <updated>2021-05-09T22:22:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hoverify 2.0 - All-in-one browser extension for web development]]></title>
         <id>https://www.tryhoverify.com/</id>
@@ -233,16 +243,6 @@
         <summary type="html"><![CDATA[https://www.webcluesinfotech.com/hire-dedicated-mobile-app-developers/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not All Advice is Good Advice]]></title>
-        <id>https://davidwalsh.name/not-all-advice-is-good-advice</id>
-        <link href="http://www.webdesignernews.com/external/not-all-advice-is-good-advice"/>
-        <updated>2021-05-07T23:46:00.000Z</updated>
-        <summary type="html"><![CDATA[https://davidwalsh.name/not-all-advice-is-good-advice]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
