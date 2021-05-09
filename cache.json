@@ -650,17 +650,6 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Complete Guide To HTML Email"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "UX practitioners can play an important role in growing the UX maturity of the organizations and product teams they work with. This final article in a three-part series presents two additional tactics: education of staff on UX principles and processes.",
-          "link": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
-          "publishedOn": "2021-04-09T19:30:00.000Z",
-          "wordCount": 5988,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Growing UX Maturity In Organizations: Education And Training (Part 3)"
         }
       ]
     },
@@ -673,7 +662,7 @@
           "description": "https://designmodo.com/development-bootstrap-5/",
           "link": "http://www.webdesignernews.com/external/speeding-up-development-process-with-bootstrap-5",
           "publishedOn": "2021-05-08T22:19:00.000Z",
-          "wordCount": 4729,
+          "wordCount": 4777,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Speeding Up Development Process with Bootstrap 5"
@@ -684,7 +673,7 @@
           "description": "https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/",
           "link": "http://www.webdesignernews.com/external/the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
           "publishedOn": "2021-05-08T20:23:00.000Z",
-          "wordCount": 3503,
+          "wordCount": 3502,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The Use of Uppercase Sans Serif Typography in Modern Web Design"
@@ -695,7 +684,7 @@
           "description": "https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-mosaic-chart-using-javascript",
           "publishedOn": "2021-05-08T17:50:00.000Z",
-          "wordCount": 2528,
+          "wordCount": 2533,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Create a Mosaic Chart Using JavaScript"
@@ -761,7 +750,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
           "link": "http://www.webdesignernews.com/external/infographic-youtube-by-the-numbers",
           "publishedOn": "2021-05-08T12:24:07.000Z",
-          "wordCount": 384,
+          "wordCount": 371,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Infographic: YouTube By The Numbers"
@@ -783,7 +772,7 @@
           "description": "https://davidwalsh.name/not-all-advice-is-good-advice",
           "link": "http://www.webdesignernews.com/external/not-all-advice-is-good-advice",
           "publishedOn": "2021-05-07T23:46:00.000Z",
-          "wordCount": 1526,
+          "wordCount": 1540,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Not All Advice is Good Advice"
@@ -816,7 +805,7 @@
           "description": "https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html",
           "link": "http://www.webdesignernews.com/external/trendy-web-color-palettes-and-material-design-color-schemes-tools-2",
           "publishedOn": "2021-05-07T20:47:00.000Z",
-          "wordCount": 1427,
+          "wordCount": 1433,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Trendy Web Color Palettes and Material Design Color Schemes & Tools"
