@@ -657,12 +657,45 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "id": "https://uxdesign.cc/3d-prototyping-tools-for-2d-ux-designers-220493c98bd8",
+          "author": "WebdesignerNews",
+          "description": "https://uxdesign.cc/3d-prototyping-tools-for-2d-ux-designers-220493c98bd8",
+          "link": "http://www.webdesignernews.com/external/3d-prototyping-tools-for-2d-designers",
+          "publishedOn": "2021-05-09T13:36:34.000Z",
+          "wordCount": 2643,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "3D prototyping tools for 2D designers"
+        },
+        {
+          "id": "https://webdesign.tutsplus.com/tutorials/a-to-z-of-figma-tips-tricks--cms-36837",
+          "author": "WebdesignerNews",
+          "description": "https://webdesign.tutsplus.com/tutorials/a-to-z-of-figma-tips-tricks--cms-36837",
+          "link": "http://www.webdesignernews.com/external/a-to-z-of-figma-tips-tricks",
+          "publishedOn": "2021-05-09T13:36:21.000Z",
+          "wordCount": 2652,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "A to Z of Figma: Tips & Tricks!"
+        },
+        {
+          "id": "https://www.smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
+          "author": "WebdesignerNews",
+          "description": "https://www.smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
+          "link": "http://www.webdesignernews.com/external/how-to-organize-product-related-assets-and-collaborate-better",
+          "publishedOn": "2021-05-09T13:33:18.000Z",
+          "wordCount": 4127,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "How To Organize Product-Related Assets And Collaborate Better"
+        },
+        {
           "id": "https://designmodo.com/development-bootstrap-5/",
           "author": "WebdesignerNews",
           "description": "https://designmodo.com/development-bootstrap-5/",
           "link": "http://www.webdesignernews.com/external/speeding-up-development-process-with-bootstrap-5",
           "publishedOn": "2021-05-08T22:19:00.000Z",
-          "wordCount": 4777,
+          "wordCount": 4739,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Speeding Up Development Process with Bootstrap 5"
@@ -673,7 +706,7 @@
           "description": "https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/",
           "link": "http://www.webdesignernews.com/external/the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
           "publishedOn": "2021-05-08T20:23:00.000Z",
-          "wordCount": 3503,
+          "wordCount": 3506,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The Use of Uppercase Sans Serif Typography in Modern Web Design"
@@ -684,7 +717,7 @@
           "description": "https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-mosaic-chart-using-javascript",
           "publishedOn": "2021-05-08T17:50:00.000Z",
-          "wordCount": 2530,
+          "wordCount": 2532,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Create a Mosaic Chart Using JavaScript"
@@ -772,7 +805,7 @@
           "description": "https://davidwalsh.name/not-all-advice-is-good-advice",
           "link": "http://www.webdesignernews.com/external/not-all-advice-is-good-advice",
           "publishedOn": "2021-05-07T23:46:00.000Z",
-          "wordCount": 1535,
+          "wordCount": 1533,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Not All Advice is Good Advice"
@@ -805,7 +838,7 @@
           "description": "https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html",
           "link": "http://www.webdesignernews.com/external/trendy-web-color-palettes-and-material-design-color-schemes-tools-2",
           "publishedOn": "2021-05-07T20:47:00.000Z",
-          "wordCount": 1433,
+          "wordCount": 1427,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Trendy Web Color Palettes and Material Design Color Schemes & Tools"
@@ -842,39 +875,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Idemeum - Passwordless login with one-click, biometric, or QR-code"
-        },
-        {
-          "id": "https://mantine.dev/",
-          "author": "WebdesignerNews",
-          "description": "https://mantine.dev/",
-          "link": "http://www.webdesignernews.com/external/mantine",
-          "publishedOn": "2021-05-07T16:33:00.000Z",
-          "wordCount": 342,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Mantine"
-        },
-        {
-          "id": "https://taplytics.com/cross-platform-code-free-visual-experimentation-for-web/",
-          "author": "WebdesignerNews",
-          "description": "https://taplytics.com/cross-platform-code-free-visual-experimentation-for-web/",
-          "link": "http://www.webdesignernews.com/external/taplytics-no-code-web-a-b-testing-solution",
-          "publishedOn": "2021-05-07T15:27:00.000Z",
-          "wordCount": 539,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Taplytics - No-Code Web A/B Testing Solution"
-        },
-        {
-          "id": "https://adamfard.com/blog/figjam-ux-review",
-          "author": "WebdesignerNews",
-          "description": "https://adamfard.com/blog/figjam-ux-review",
-          "link": "http://www.webdesignernews.com/external/figjam-ux-review",
-          "publishedOn": "2021-05-07T12:48:00.000Z",
-          "wordCount": 2722,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "FigJam UX Review"
         }
       ]
     }

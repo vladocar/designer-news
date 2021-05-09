@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-09T13:12:00.075Z</id>
+    <id>urn:2021-05-09T14:00:40.987Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T13:12:00.075Z</updated>
+    <updated>2021-05-09T14:00:40.987Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3D prototyping tools for 2D designers]]></title>
+        <id>https://uxdesign.cc/3d-prototyping-tools-for-2d-ux-designers-220493c98bd8</id>
+        <link href="http://www.webdesignernews.com/external/3d-prototyping-tools-for-2d-designers"/>
+        <updated>2021-05-09T13:36:34.000Z</updated>
+        <summary type="html"><![CDATA[https://uxdesign.cc/3d-prototyping-tools-for-2d-ux-designers-220493c98bd8]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A to Z of Figma: Tips & Tricks!]]></title>
+        <id>https://webdesign.tutsplus.com/tutorials/a-to-z-of-figma-tips-tricks--cms-36837</id>
+        <link href="http://www.webdesignernews.com/external/a-to-z-of-figma-tips-tricks"/>
+        <updated>2021-05-09T13:36:21.000Z</updated>
+        <summary type="html"><![CDATA[https://webdesign.tutsplus.com/tutorials/a-to-z-of-figma-tips-tricks--cms-36837]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
+        <id>https://www.smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-organize-product-related-assets-and-collaborate-better"/>
+        <updated>2021-05-09T13:33:18.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Speeding Up Development Process with Bootstrap 5]]></title>
         <id>https://designmodo.com/development-bootstrap-5/</id>
@@ -201,36 +231,6 @@
         <link href="http://www.webdesignernews.com/external/idemeum-passwordless-login-with-one-click-biometric-or-qr-code"/>
         <updated>2021-05-07T17:03:00.000Z</updated>
         <summary type="html"><![CDATA[https://idemeum.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mantine]]></title>
-        <id>https://mantine.dev/</id>
-        <link href="http://www.webdesignernews.com/external/mantine"/>
-        <updated>2021-05-07T16:33:00.000Z</updated>
-        <summary type="html"><![CDATA[https://mantine.dev/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taplytics - No-Code Web A/B Testing Solution]]></title>
-        <id>https://taplytics.com/cross-platform-code-free-visual-experimentation-for-web/</id>
-        <link href="http://www.webdesignernews.com/external/taplytics-no-code-web-a-b-testing-solution"/>
-        <updated>2021-05-07T15:27:00.000Z</updated>
-        <summary type="html"><![CDATA[https://taplytics.com/cross-platform-code-free-visual-experimentation-for-web/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FigJam UX Review]]></title>
-        <id>https://adamfard.com/blog/figjam-ux-review</id>
-        <link href="http://www.webdesignernews.com/external/figjam-ux-review"/>
-        <updated>2021-05-07T12:48:00.000Z</updated>
-        <summary type="html"><![CDATA[https://adamfard.com/blog/figjam-ux-review]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
