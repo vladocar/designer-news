@@ -657,6 +657,17 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "id": "https://www.tryhoverify.com/",
+          "author": "WebdesignerNews",
+          "description": "https://www.tryhoverify.com/",
+          "link": "http://www.webdesignernews.com/external/hoverify-2-0-all-in-one-browser-extension-for-web-development",
+          "publishedOn": "2021-05-09T21:06:00.000Z",
+          "wordCount": 835,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Hoverify 2.0 - All-in-one browser extension for web development"
+        },
+        {
           "id": "https://zeezide.de/en/products/svgshaper/index.html",
           "author": "WebdesignerNews",
           "description": "https://zeezide.de/en/products/svgshaper/index.html",
@@ -706,7 +717,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3073,
+          "wordCount": 3080,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
@@ -750,7 +761,7 @@
           "description": "https://designmodo.com/development-bootstrap-5/",
           "link": "http://www.webdesignernews.com/external/speeding-up-development-process-with-bootstrap-5",
           "publishedOn": "2021-05-08T22:19:00.000Z",
-          "wordCount": 4777,
+          "wordCount": 4739,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Speeding Up Development Process with Bootstrap 5"
@@ -772,7 +783,7 @@
           "description": "https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-mosaic-chart-using-javascript",
           "publishedOn": "2021-05-08T17:50:00.000Z",
-          "wordCount": 2536,
+          "wordCount": 2523,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Create a Mosaic Chart Using JavaScript"
@@ -805,7 +816,7 @@
           "description": "https://hackernoon.com/different-ways-to-use-card-sorting-551i34q8",
           "link": "http://www.webdesignernews.com/external/different-ways-to-use-card-sorting",
           "publishedOn": "2021-05-08T14:07:00.000Z",
-          "wordCount": 1387,
+          "wordCount": 1385,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Different Ways to Use Card Sorting"
@@ -838,7 +849,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
           "link": "http://www.webdesignernews.com/external/infographic-youtube-by-the-numbers",
           "publishedOn": "2021-05-08T12:24:07.000Z",
-          "wordCount": 377,
+          "wordCount": 373,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Infographic: YouTube By The Numbers"
@@ -860,21 +871,10 @@
           "description": "https://davidwalsh.name/not-all-advice-is-good-advice",
           "link": "http://www.webdesignernews.com/external/not-all-advice-is-good-advice",
           "publishedOn": "2021-05-07T23:46:00.000Z",
-          "wordCount": 1540,
+          "wordCount": 1529,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Not All Advice is Good Advice"
-        },
-        {
-          "id": "https://github.com/nextapps-de/winbox",
-          "author": "WebdesignerNews",
-          "description": "https://github.com/nextapps-de/winbox",
-          "link": "http://www.webdesignernews.com/external/winbox-modern-html5-window-manager-for-the-web",
-          "publishedOn": "2021-05-07T22:35:00.000Z",
-          "wordCount": 3700,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "WinBox ? Modern HTML5 Window Manager for the web"
         }
       ]
     }

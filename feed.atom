@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-09T21:00:48.897Z</id>
+    <id>urn:2021-05-09T22:00:51.549Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T21:00:48.897Z</updated>
+    <updated>2021-05-09T22:00:51.549Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hoverify 2.0 - All-in-one browser extension for web development]]></title>
+        <id>https://www.tryhoverify.com/</id>
+        <link href="http://www.webdesignernews.com/external/hoverify-2-0-all-in-one-browser-extension-for-web-development"/>
+        <updated>2021-05-09T21:06:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.tryhoverify.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SVG Shaper for SwiftUI - Easily convert SVGs to SwiftUI shapes]]></title>
         <id>https://zeezide.de/en/products/svgshaper/index.html</id>
@@ -231,16 +241,6 @@
         <link href="http://www.webdesignernews.com/external/not-all-advice-is-good-advice"/>
         <updated>2021-05-07T23:46:00.000Z</updated>
         <summary type="html"><![CDATA[https://davidwalsh.name/not-all-advice-is-good-advice]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WinBox ? Modern HTML5 Window Manager for the web]]></title>
-        <id>https://github.com/nextapps-de/winbox</id>
-        <link href="http://www.webdesignernews.com/external/winbox-modern-html5-window-manager-for-the-web"/>
-        <updated>2021-05-07T22:35:00.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/nextapps-de/winbox]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
