@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-09T17:28:37.153Z</id>
+    <id>urn:2021-05-09T18:07:56.302Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T17:28:37.153Z</updated>
+    <updated>2021-05-09T18:07:56.302Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Clear Your Cache in WordPress]]></title>
+        <id>https://www.quicksprout.com/how-to-clear-your-cache-in-wordpress/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-clear-your-cache-in-wordpress"/>
+        <updated>2021-05-09T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.quicksprout.com/how-to-clear-your-cache-in-wordpress/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Facebook Cover Maker - Make your profile pic look integrated with your cover photo]]></title>
         <id>https://quotescover.com/tools/facebook-cover-photo-maker</id>
@@ -231,16 +241,6 @@
         <link href="http://www.webdesignernews.com/external/trendy-web-color-palettes-and-material-design-color-schemes-tools-2"/>
         <updated>2021-05-07T20:47:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dependency Managers Don?t Manage Your Dependencies]]></title>
-        <id>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</id>
-        <link href="http://www.webdesignernews.com/external/dependency-managers-don-t-manage-your-dependencies"/>
-        <updated>2021-05-07T19:01:00.000Z</updated>
-        <summary type="html"><![CDATA[https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
