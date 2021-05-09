@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-09T16:04:03.704Z</id>
+    <id>urn:2021-05-09T17:28:37.153Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T16:04:03.704Z</updated>
+    <updated>2021-05-09T17:28:37.153Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Facebook Cover Maker - Make your profile pic look integrated with your cover photo]]></title>
+        <id>https://quotescover.com/tools/facebook-cover-photo-maker</id>
+        <link href="http://www.webdesignernews.com/external/facebook-cover-maker-make-your-profile-pic-look-integrated-with-your-cover-photo"/>
+        <updated>2021-05-09T16:54:00.000Z</updated>
+        <summary type="html"><![CDATA[https://quotescover.com/tools/facebook-cover-photo-maker]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mother’s Day Marketing: 5 Infographics We Love]]></title>
         <id>https://www.designernews.co/stories/115253-mothers-day-marketing-5-infographics-we-love</id>
@@ -231,16 +241,6 @@
         <link href="http://www.webdesignernews.com/external/dependency-managers-don-t-manage-your-dependencies"/>
         <updated>2021-05-07T19:01:00.000Z</updated>
         <summary type="html"><![CDATA[https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bootstrap 5 Stable - World's most popular framework based on vanilla JavaScript]]></title>
-        <id>https://getbootstrap.com/</id>
-        <link href="http://www.webdesignernews.com/external/bootstrap-5-stable-world-s-most-popular-framework-based-on-vanilla-javascript"/>
-        <updated>2021-05-07T18:12:00.000Z</updated>
-        <summary type="html"><![CDATA[https://getbootstrap.com/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
