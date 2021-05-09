@@ -657,6 +657,17 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "id": "https://explained-from-first-principles.com/email/",
+          "author": "WebdesignerNews",
+          "description": "https://explained-from-first-principles.com/email/",
+          "link": "http://www.webdesignernews.com/external/email-explained-from-first-principles",
+          "publishedOn": "2021-05-09T18:39:00.000Z",
+          "wordCount": 95158,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Email Explained from First Principles"
+        },
+        {
           "id": "https://www.quicksprout.com/how-to-clear-your-cache-in-wordpress/",
           "author": "WebdesignerNews",
           "description": "https://www.quicksprout.com/how-to-clear-your-cache-in-wordpress/",
@@ -684,7 +695,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3082,
+          "wordCount": 3076,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
@@ -750,7 +761,7 @@
           "description": "https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-mosaic-chart-using-javascript",
           "publishedOn": "2021-05-08T17:50:00.000Z",
-          "wordCount": 2535,
+          "wordCount": 2533,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "How to Create a Mosaic Chart Using JavaScript"
@@ -816,7 +827,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
           "link": "http://www.webdesignernews.com/external/infographic-youtube-by-the-numbers",
           "publishedOn": "2021-05-08T12:24:07.000Z",
-          "wordCount": 405,
+          "wordCount": 370,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Infographic: YouTube By The Numbers"
@@ -838,7 +849,7 @@
           "description": "https://davidwalsh.name/not-all-advice-is-good-advice",
           "link": "http://www.webdesignernews.com/external/not-all-advice-is-good-advice",
           "publishedOn": "2021-05-07T23:46:00.000Z",
-          "wordCount": 1535,
+          "wordCount": 1538,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Not All Advice is Good Advice"
@@ -864,17 +875,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Juliette Duh� creates typefaces by working like a sculptor"
-        },
-        {
-          "id": "https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html",
-          "author": "WebdesignerNews",
-          "description": "https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html",
-          "link": "http://www.webdesignernews.com/external/trendy-web-color-palettes-and-material-design-color-schemes-tools-2",
-          "publishedOn": "2021-05-07T20:47:00.000Z",
-          "wordCount": 1428,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Trendy Web Color Palettes and Material Design Color Schemes & Tools"
         }
       ]
     }

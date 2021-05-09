@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-09T18:07:56.302Z</id>
+    <id>urn:2021-05-09T19:04:45.799Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T18:07:56.302Z</updated>
+    <updated>2021-05-09T19:04:45.799Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Email Explained from First Principles]]></title>
+        <id>https://explained-from-first-principles.com/email/</id>
+        <link href="http://www.webdesignernews.com/external/email-explained-from-first-principles"/>
+        <updated>2021-05-09T18:39:00.000Z</updated>
+        <summary type="html"><![CDATA[https://explained-from-first-principles.com/email/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Clear Your Cache in WordPress]]></title>
         <id>https://www.quicksprout.com/how-to-clear-your-cache-in-wordpress/</id>
@@ -231,16 +241,6 @@
         <link href="http://www.webdesignernews.com/external/juliette-duh-creates-typefaces-by-working-like-a-sculptor"/>
         <updated>2021-05-07T21:11:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/juliette-duhe-graphic-design-060521]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trendy Web Color Palettes and Material Design Color Schemes & Tools]]></title>
-        <id>https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html</id>
-        <link href="http://www.webdesignernews.com/external/trendy-web-color-palettes-and-material-design-color-schemes-tools-2"/>
-        <updated>2021-05-07T20:47:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
