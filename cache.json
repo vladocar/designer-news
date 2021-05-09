@@ -657,6 +657,17 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "id": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
+          "author": "WebdesignerNews",
+          "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
+          "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
+          "publishedOn": "2021-05-09T14:29:00.000Z",
+          "wordCount": 3084,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
+        },
+        {
           "id": "https://uxdesign.cc/3d-prototyping-tools-for-2d-ux-designers-220493c98bd8",
           "author": "WebdesignerNews",
           "description": "https://uxdesign.cc/3d-prototyping-tools-for-2d-ux-designers-220493c98bd8",
@@ -706,7 +717,7 @@
           "description": "https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/",
           "link": "http://www.webdesignernews.com/external/the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
           "publishedOn": "2021-05-08T20:23:00.000Z",
-          "wordCount": 3506,
+          "wordCount": 3505,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The Use of Uppercase Sans Serif Typography in Modern Web Design"
@@ -783,7 +794,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
           "link": "http://www.webdesignernews.com/external/infographic-youtube-by-the-numbers",
           "publishedOn": "2021-05-08T12:24:07.000Z",
-          "wordCount": 389,
+          "wordCount": 365,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Infographic: YouTube By The Numbers"
@@ -794,7 +805,7 @@
           "description": "https://css-tricks.com/is-css-a-programming-language/",
           "link": "http://www.webdesignernews.com/external/is-css-a-programming-language",
           "publishedOn": "2021-05-08T12:23:56.000Z",
-          "wordCount": 1677,
+          "wordCount": 1918,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Is CSS a Programming Language?"
@@ -805,7 +816,7 @@
           "description": "https://davidwalsh.name/not-all-advice-is-good-advice",
           "link": "http://www.webdesignernews.com/external/not-all-advice-is-good-advice",
           "publishedOn": "2021-05-07T23:46:00.000Z",
-          "wordCount": 1533,
+          "wordCount": 1536,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Not All Advice is Good Advice"
@@ -838,7 +849,7 @@
           "description": "https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html",
           "link": "http://www.webdesignernews.com/external/trendy-web-color-palettes-and-material-design-color-schemes-tools-2",
           "publishedOn": "2021-05-07T20:47:00.000Z",
-          "wordCount": 1427,
+          "wordCount": 1431,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Trendy Web Color Palettes and Material Design Color Schemes & Tools"
@@ -864,17 +875,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Bootstrap 5 Stable - World's most popular framework based on vanilla JavaScript"
-        },
-        {
-          "id": "https://idemeum.com/",
-          "author": "WebdesignerNews",
-          "description": "https://idemeum.com/",
-          "link": "http://www.webdesignernews.com/external/idemeum-passwordless-login-with-one-click-biometric-or-qr-code",
-          "publishedOn": "2021-05-07T17:03:00.000Z",
-          "wordCount": 431,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Idemeum - Passwordless login with one-click, biometric, or QR-code"
         }
       ]
     }

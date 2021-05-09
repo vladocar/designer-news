@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-09T14:00:40.987Z</id>
+    <id>urn:2021-05-09T15:00:39.983Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T14:00:40.987Z</updated>
+    <updated>2021-05-09T15:00:39.983Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Beat imposter syndrome by developing ?true confidence? as a software engineer]]></title>
+        <id>https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication</id>
+        <link href="http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer"/>
+        <updated>2021-05-09T14:29:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D prototyping tools for 2D designers]]></title>
         <id>https://uxdesign.cc/3d-prototyping-tools-for-2d-ux-designers-220493c98bd8</id>
@@ -221,16 +231,6 @@
         <link href="http://www.webdesignernews.com/external/bootstrap-5-stable-world-s-most-popular-framework-based-on-vanilla-javascript"/>
         <updated>2021-05-07T18:12:00.000Z</updated>
         <summary type="html"><![CDATA[https://getbootstrap.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idemeum - Passwordless login with one-click, biometric, or QR-code]]></title>
-        <id>https://idemeum.com/</id>
-        <link href="http://www.webdesignernews.com/external/idemeum-passwordless-login-with-one-click-biometric-or-qr-code"/>
-        <updated>2021-05-07T17:03:00.000Z</updated>
-        <summary type="html"><![CDATA[https://idemeum.com/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
