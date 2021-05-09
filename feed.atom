@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-09T20:00:46.654Z</id>
+    <id>urn:2021-05-09T21:00:48.897Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T20:00:46.654Z</updated>
+    <updated>2021-05-09T21:00:48.897Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SVG Shaper for SwiftUI - Easily convert SVGs to SwiftUI shapes]]></title>
+        <id>https://zeezide.de/en/products/svgshaper/index.html</id>
+        <link href="http://www.webdesignernews.com/external/svg-shaper-for-swiftui-easily-convert-svgs-to-swiftui-shapes"/>
+        <updated>2021-05-09T20:28:00.000Z</updated>
+        <summary type="html"><![CDATA[https://zeezide.de/en/products/svgshaper/index.html]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Email Explained from First Principles]]></title>
         <id>https://explained-from-first-principles.com/email/</id>
@@ -231,16 +241,6 @@
         <link href="http://www.webdesignernews.com/external/winbox-modern-html5-window-manager-for-the-web"/>
         <updated>2021-05-07T22:35:00.000Z</updated>
         <summary type="html"><![CDATA[https://github.com/nextapps-de/winbox]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Juliette Duh� creates typefaces by working like a sculptor]]></title>
-        <id>https://www.itsnicethat.com/articles/juliette-duhe-graphic-design-060521</id>
-        <link href="http://www.webdesignernews.com/external/juliette-duh-creates-typefaces-by-working-like-a-sculptor"/>
-        <updated>2021-05-07T21:11:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/juliette-duhe-graphic-design-060521]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>

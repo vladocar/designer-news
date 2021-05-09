@@ -657,6 +657,17 @@
       "href": "http://feeds.feedburner.com/webdesignernews",
       "articles": [
         {
+          "id": "https://zeezide.de/en/products/svgshaper/index.html",
+          "author": "WebdesignerNews",
+          "description": "https://zeezide.de/en/products/svgshaper/index.html",
+          "link": "http://www.webdesignernews.com/external/svg-shaper-for-swiftui-easily-convert-svgs-to-swiftui-shapes",
+          "publishedOn": "2021-05-09T20:28:00.000Z",
+          "wordCount": 433,
+          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
+          "sourceTitle": "WebdesignerNews",
+          "title": "SVG Shaper for SwiftUI - Easily convert SVGs to SwiftUI shapes"
+        },
+        {
           "id": "https://explained-from-first-principles.com/email/",
           "author": "WebdesignerNews",
           "description": "https://explained-from-first-principles.com/email/",
@@ -695,7 +706,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3070,
+          "wordCount": 3073,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
@@ -750,7 +761,7 @@
           "description": "https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/",
           "link": "http://www.webdesignernews.com/external/the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
           "publishedOn": "2021-05-08T20:23:00.000Z",
-          "wordCount": 3505,
+          "wordCount": 3503,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "The Use of Uppercase Sans Serif Typography in Modern Web Design"
@@ -827,7 +838,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
           "link": "http://www.webdesignernews.com/external/infographic-youtube-by-the-numbers",
           "publishedOn": "2021-05-08T12:24:07.000Z",
-          "wordCount": 371,
+          "wordCount": 377,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Infographic: YouTube By The Numbers"
@@ -838,7 +849,7 @@
           "description": "https://css-tricks.com/is-css-a-programming-language/",
           "link": "http://www.webdesignernews.com/external/is-css-a-programming-language",
           "publishedOn": "2021-05-08T12:23:56.000Z",
-          "wordCount": 2523,
+          "wordCount": 2031,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Is CSS a Programming Language?"
@@ -849,7 +860,7 @@
           "description": "https://davidwalsh.name/not-all-advice-is-good-advice",
           "link": "http://www.webdesignernews.com/external/not-all-advice-is-good-advice",
           "publishedOn": "2021-05-07T23:46:00.000Z",
-          "wordCount": 1536,
+          "wordCount": 1540,
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "Not All Advice is Good Advice"
@@ -864,17 +875,6 @@
           "sourceHref": "http://feeds.feedburner.com/webdesignernews",
           "sourceTitle": "WebdesignerNews",
           "title": "WinBox ? Modern HTML5 Window Manager for the web"
-        },
-        {
-          "id": "https://www.itsnicethat.com/articles/juliette-duhe-graphic-design-060521",
-          "author": "WebdesignerNews",
-          "description": "https://www.itsnicethat.com/articles/juliette-duhe-graphic-design-060521",
-          "link": "http://www.webdesignernews.com/external/juliette-duh-creates-typefaces-by-working-like-a-sculptor",
-          "publishedOn": "2021-05-07T21:11:00.000Z",
-          "wordCount": 1007,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
-          "title": "Juliette Duh� creates typefaces by working like a sculptor"
         }
       ]
     }
