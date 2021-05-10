@@ -558,6 +558,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/",
+          "author": null,
+          "description": "https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/",
+          "link": "http://www.webdesignernews.com/external/how-to-fix-the-invalid-json-error-in-wordpress-beginner-s-guide",
+          "publishedOn": "2021-05-10T17:42:00.000Z",
+          "wordCount": 2501,
+          "title": "How to Fix The Invalid JSON Error in WordPress (Beginner?s Guide)"
+        },
+        {
           "id": "https://shuffle.dev/marketplace/artemis",
           "author": null,
           "description": "https://shuffle.dev/marketplace/artemis",
@@ -626,7 +635,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 721,
+          "wordCount": 706,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
@@ -680,7 +689,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3070,
+          "wordCount": 3076,
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
         },
         {
@@ -716,7 +725,7 @@
           "description": "https://designmodo.com/development-bootstrap-5/",
           "link": "http://www.webdesignernews.com/external/speeding-up-development-process-with-bootstrap-5",
           "publishedOn": "2021-05-08T22:19:00.000Z",
-          "wordCount": 4761,
+          "wordCount": 4777,
           "title": "Speeding Up Development Process with Bootstrap 5"
         },
         {
@@ -725,17 +734,8 @@
           "description": "https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/",
           "link": "http://www.webdesignernews.com/external/the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
           "publishedOn": "2021-05-08T20:23:00.000Z",
-          "wordCount": 3504,
+          "wordCount": 3505,
           "title": "The Use of Uppercase Sans Serif Typography in Modern Web Design"
-        },
-        {
-          "id": "https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript",
-          "author": null,
-          "description": "https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript",
-          "link": "http://www.webdesignernews.com/external/how-to-create-a-mosaic-chart-using-javascript",
-          "publishedOn": "2021-05-08T17:50:00.000Z",
-          "wordCount": 2534,
-          "title": "How to Create a Mosaic Chart Using JavaScript"
         }
       ]
     }

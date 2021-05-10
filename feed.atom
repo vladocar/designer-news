@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T17:31:52.193Z</id>
+    <id>urn:2021-05-10T18:13:42.639Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T17:31:52.193Z</updated>
+    <updated>2021-05-10T18:13:42.639Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Fix The Invalid JSON Error in WordPress (Beginner?s Guide)]]></title>
+        <id>https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-fix-the-invalid-json-error-in-wordpress-beginner-s-guide"/>
+        <updated>2021-05-10T17:42:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Artemis Dashboard UI Library for Tailwind CSS]]></title>
         <id>https://shuffle.dev/marketplace/artemis</id>
@@ -281,16 +291,6 @@
         <link href="http://www.webdesignernews.com/external/the-use-of-uppercase-sans-serif-typography-in-modern-web-design"/>
         <updated>2021-05-08T20:23:00.000Z</updated>
         <summary type="html"><![CDATA[https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Mosaic Chart Using JavaScript]]></title>
-        <id>https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript</id>
-        <link href="http://www.webdesignernews.com/external/how-to-create-a-mosaic-chart-using-javascript"/>
-        <updated>2021-05-08T17:50:00.000Z</updated>
-        <summary type="html"><![CDATA[https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
