@@ -1,7 +1,9 @@
 {
   "sources": [
     {
-      "href": "https://www.designinspiration.info/feed/",
+      "title": "Design Inspiration",
+      "feedUrl": "https://www.designinspiration.info/feed/",
+      "siteUrl": "https://www.designinspiration.info",
       "articles": [
         {
           "id": "https://www.designinspiration.info/?p=2432",
@@ -10,8 +12,6 @@
           "link": "https://www.designinspiration.info/fashion-fonts/",
           "publishedOn": "2021-05-06T21:13:22.000Z",
           "wordCount": 3899,
-          "sourceHref": "https://www.designinspiration.info/feed/",
-          "sourceTitle": "Design Inspiration",
           "title": "38 Best Fashion Fonts for Modern Designs"
         },
         {
@@ -21,8 +21,6 @@
           "link": "https://www.designinspiration.info/old-english-fonts/",
           "publishedOn": "2021-05-04T11:22:18.000Z",
           "wordCount": 3794,
-          "sourceHref": "https://www.designinspiration.info/feed/",
-          "sourceTitle": "Design Inspiration",
           "title": "42 Best Old English Fonts"
         },
         {
@@ -32,8 +30,6 @@
           "link": "https://www.designinspiration.info/baseball-fonts/",
           "publishedOn": "2021-04-30T23:02:21.000Z",
           "wordCount": 2315,
-          "sourceHref": "https://www.designinspiration.info/feed/",
-          "sourceTitle": "Design Inspiration",
           "title": "26 Best Baseball Fonts"
         },
         {
@@ -43,8 +39,6 @@
           "link": "https://www.designinspiration.info/coffee-fonts/",
           "publishedOn": "2021-04-29T22:07:15.000Z",
           "wordCount": 1661,
-          "sourceHref": "https://www.designinspiration.info/feed/",
-          "sourceTitle": "Design Inspiration",
           "title": "18 Best Coffee Fonts for Cool Designs"
         },
         {
@@ -54,8 +48,6 @@
           "link": "https://www.designinspiration.info/paper-cut-out-fonts/",
           "publishedOn": "2021-04-28T23:55:06.000Z",
           "wordCount": 2246,
-          "sourceHref": "https://www.designinspiration.info/feed/",
-          "sourceTitle": "Design Inspiration",
           "title": "20 Best Paper Cut Out Fonts"
         },
         {
@@ -65,8 +57,6 @@
           "link": "https://www.designinspiration.info/best-places-to-buy-fonts-for-commercial-use/",
           "publishedOn": "2021-04-26T09:10:16.000Z",
           "wordCount": 1055,
-          "sourceHref": "https://www.designinspiration.info/feed/",
-          "sourceTitle": "Design Inspiration",
           "title": "Best places to buy fonts for commercial use"
         },
         {
@@ -76,8 +66,6 @@
           "link": "https://www.designinspiration.info/monogram-fonts/",
           "publishedOn": "2021-04-23T09:17:15.000Z",
           "wordCount": 2370,
-          "sourceHref": "https://www.designinspiration.info/feed/",
-          "sourceTitle": "Design Inspiration",
           "title": "30 Best Monogram Fonts"
         },
         {
@@ -87,8 +75,6 @@
           "link": "https://www.designinspiration.info/embroidery-fonts/",
           "publishedOn": "2021-04-22T20:13:55.000Z",
           "wordCount": 2138,
-          "sourceHref": "https://www.designinspiration.info/feed/",
-          "sourceTitle": "Design Inspiration",
           "title": "20 Best Embroidery Fonts"
         },
         {
@@ -98,8 +84,6 @@
           "link": "https://www.designinspiration.info/how-to-make-a-distressed-effect-with-photoshop-brushes-in-a-non-destructive-way/",
           "publishedOn": "2021-04-21T08:44:00.000Z",
           "wordCount": 753,
-          "sourceHref": "https://www.designinspiration.info/feed/",
-          "sourceTitle": "Design Inspiration",
           "title": "How to Make a Distressed Effect with Photoshop Brushes in a non destructive way?"
         },
         {
@@ -109,294 +93,246 @@
           "link": "https://www.designinspiration.info/best-gothic-fonts/",
           "publishedOn": "2021-04-18T11:50:01.000Z",
           "wordCount": 3807,
-          "sourceHref": "https://www.designinspiration.info/feed/",
-          "sourceTitle": "Design Inspiration",
           "title": "42 Best Gothic Fonts for Your Cool Designs"
         }
       ]
     },
     {
-      "href": "http://www.designernews.co/?format=rss",
+      "title": "Designer News Feed",
+      "feedUrl": "http://www.designernews.co/?format=rss",
+      "siteUrl": "/",
       "articles": [
         {
           "id": "https://www.designernews.co/stories/115262-the-22-genius-products-that-will-make-working-easier-from-home",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/05/the-22-genius-products-that-will-make.html",
           "link": "https://www.designernews.co/stories/115262-the-22-genius-products-that-will-make-working-easier-from-home",
           "publishedOn": "2021-05-10T06:31:58.000Z",
-          "wordCount": 177,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
+          "wordCount": 225,
           "title": "The 22 Genius Products That Will Make Working Easier From Home"
         },
         {
           "id": "https://www.designernews.co/stories/115256--5-tips-on-how-to-create-the-perfect-freelancer-profile-",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/05/5-tips-on-how-to-create-perfect.html",
           "link": "https://www.designernews.co/stories/115256--5-tips-on-how-to-create-the-perfect-freelancer-profile-",
           "publishedOn": "2021-05-10T06:15:24.000Z",
           "wordCount": 176,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "5 Tips on How To Create The Perfect Freelancer Profile"
         },
         {
           "id": "https://www.designernews.co/stories/115255-customer-service-automation-with-rpa-chatbots",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://www.zenesys.com/blog/customer-service-automation-with-rpa-chatbots",
           "link": "https://www.designernews.co/stories/115255-customer-service-automation-with-rpa-chatbots",
           "publishedOn": "2021-05-10T05:21:52.000Z",
           "wordCount": 168,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "Customer Service Automation with RPA Chatbots"
         },
         {
           "id": "https://www.designernews.co/stories/115253-mothers-day-marketing-5-infographics-we-love",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://marketsplash.com/mothers-day-marketing/",
           "link": "https://www.designernews.co/stories/115253-mothers-day-marketing-5-infographics-we-love",
           "publishedOn": "2021-05-09T15:05:59.000Z",
           "wordCount": 169,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "Mother’s Day Marketing: 5 Infographics We Love"
         },
         {
           "id": "https://www.designernews.co/stories/115248-12-interesting-facts-about-coding-you-had-no-idea-about",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/04/12-interesting-facts-about-coding-you.html",
           "link": "https://www.designernews.co/stories/115248-12-interesting-facts-about-coding-you-had-no-idea-about",
           "publishedOn": "2021-05-08T11:31:42.000Z",
           "wordCount": 175,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "12 Interesting facts about coding you had no idea about"
         },
         {
           "id": "https://www.designernews.co/stories/115247-7-themes-to-make-your-vs-code-look-beautiful",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/05/7-themes-to-make-your-vs-code-look.html",
           "link": "https://www.designernews.co/stories/115247-7-themes-to-make-your-vs-code-look-beautiful",
           "publishedOn": "2021-05-08T11:30:52.000Z",
           "wordCount": 173,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "7 Themes to Make Your VS Code Look Beautiful"
         },
         {
           "id": "https://www.designernews.co/stories/115246-hire-mobile-app-developer-",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://www.webcluesinfotech.com/hire-dedicated-mobile-app-developers/",
           "link": "https://www.designernews.co/stories/115246-hire-mobile-app-developer-",
           "publishedOn": "2021-05-08T11:22:06.000Z",
           "wordCount": 162,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "Hire Mobile App Developer"
         },
         {
           "id": "https://www.designernews.co/stories/115238-7-most-common-git-mistakes",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/05/7-most-common-git-mistakes.html",
           "link": "https://www.designernews.co/stories/115238-7-most-common-git-mistakes",
           "publishedOn": "2021-05-07T11:49:46.000Z",
           "wordCount": 165,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "7 Most Common Git Mistakes"
         },
         {
           "id": "https://www.designernews.co/stories/115237-5-rules-for-every-code-review",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/05/5-rules-for-every-code-review.html",
           "link": "https://www.designernews.co/stories/115237-5-rules-for-every-code-review",
           "publishedOn": "2021-05-07T11:49:04.000Z",
           "wordCount": 196,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "5 Rules for Every Code Review"
         },
         {
           "id": "https://www.designernews.co/stories/115231-10-amazing-games-to-learn-basic-principles-of-ui-design",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://www.youtube.com/watch?v=3E4ByrptCeo",
           "link": "https://www.designernews.co/stories/115231-10-amazing-games-to-learn-basic-principles-of-ui-design",
           "publishedOn": "2021-05-07T09:50:15.000Z",
           "wordCount": 175,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "10 Amazing Games to learn basic Principles of UI Design"
         },
         {
           "id": "https://www.designernews.co/stories/115219-beautiful-colored-gradients",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://hexcolor.co/gradient-colors",
           "link": "https://www.designernews.co/stories/115219-beautiful-colored-gradients",
           "publishedOn": "2021-05-06T13:23:36.000Z",
           "wordCount": 182,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "Beautiful Colored Gradients"
         },
         {
           "id": "https://www.designernews.co/stories/115212-swag-fair--branded-swag-made-by-small-businesses",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://swagfair.com/",
           "link": "https://www.designernews.co/stories/115212-swag-fair--branded-swag-made-by-small-businesses",
           "publishedOn": "2021-05-06T09:19:21.000Z",
           "wordCount": 176,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "Swag Fair — branded swag made by small businesses"
         },
         {
           "id": "https://www.designernews.co/stories/115211-product-design-and-uiux-education-what-are-my-options",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://www.youtube.com/watch?v=BaymAuMBRwA",
           "link": "https://www.designernews.co/stories/115211-product-design-and-uiux-education-what-are-my-options",
           "publishedOn": "2021-05-06T08:54:10.000Z",
           "wordCount": 173,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "Product Design and UI/UX Education: What are my options?"
         },
         {
           "id": "https://www.designernews.co/stories/115210-15h-tutorial-for-the-bootstrap-v5-stable-that-was-finally-released-yesterday",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://www.youtube.com/watch?v=rQryOSyfXmI&list=PLl1gkwYU90QkvmT4uLM5jzLsotJZtLHgW",
           "link": "https://www.designernews.co/stories/115210-15h-tutorial-for-the-bootstrap-v5-stable-that-was-finally-released-yesterday",
           "publishedOn": "2021-05-06T08:53:53.000Z",
           "wordCount": 178,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "1.5H tutorial for the Bootstrap v5 STABLE that was finally released yesterday"
         },
         {
           "id": "https://www.designernews.co/stories/115209-8-vs-code-plugins-to-improve-your-productivity",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/04/8-vs-code-plugins-to-improve-your.html",
           "link": "https://www.designernews.co/stories/115209-8-vs-code-plugins-to-improve-your-productivity",
           "publishedOn": "2021-05-06T07:45:44.000Z",
           "wordCount": 189,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "8 VS Code Plugins To Improve Your Productivity"
         },
         {
           "id": "https://www.designernews.co/stories/115208-3-smart-things-worth-spending-your-money-on-as-a-developer",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/04/3-smart-things-worth-spending-your.html",
           "link": "https://www.designernews.co/stories/115208-3-smart-things-worth-spending-your-money-on-as-a-developer",
           "publishedOn": "2021-05-06T07:45:14.000Z",
           "wordCount": 191,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "3 Smart Things Worth Spending Your Money on as a Developer"
         },
         {
           "id": "https://www.designernews.co/stories/115205-what-is-a-rpa-and-how-can-it-help-to-grow-your-business",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://www.zenesys.com/blog/what-is-rpa-and-how-can-it-help-to-grow-your-business",
           "link": "https://www.designernews.co/stories/115205-what-is-a-rpa-and-how-can-it-help-to-grow-your-business",
           "publishedOn": "2021-05-06T07:21:42.000Z",
           "wordCount": 184,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "What is a RPA and How can it Help to Grow Your Business?"
         },
         {
           "id": "https://www.designernews.co/stories/115204-complete-guide-on-how-to-create-an-app-like-bet365",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/",
           "link": "https://www.designernews.co/stories/115204-complete-guide-on-how-to-create-an-app-like-bet365",
           "publishedOn": "2021-05-06T04:48:58.000Z",
           "wordCount": 175,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "Complete guide on how to create an app like Bet365"
         },
         {
           "id": "https://www.designernews.co/stories/115198-how-to-create-the-ideal-candle-label",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://www.vectornator.io/blog/candle-labels",
           "link": "https://www.designernews.co/stories/115198-how-to-create-the-ideal-candle-label",
           "publishedOn": "2021-05-05T18:43:51.000Z",
           "wordCount": 170,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "How to Create the Ideal Candle Label"
         },
         {
           "id": "https://www.designernews.co/stories/115197-vectornators-12-best-graphic-design-examples",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://www.vectornator.io/blog/graphic-design-examples",
           "link": "https://www.designernews.co/stories/115197-vectornators-12-best-graphic-design-examples",
           "publishedOn": "2021-05-05T18:40:36.000Z",
           "wordCount": 168,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "Vectornator's 12 Best Graphic Design Examples"
         },
         {
           "id": "https://www.designernews.co/stories/115191-alternative-of-designernewsco",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "Hi all !\r\n\r\nSad story today. After many years of daily use of Designer News, I feel that DN is becoming less and less relevant for design community exchanges.\r\n\r\nThere are still many cool links or interesting discussion on this platform, but - to me at least - , there are also way too many \"empty\" articles or non-relevant/self-promotion links.\r\n\r\nI think I don't like DN anymore.\r\n\r\n- What's your feeling/opinion about it ?\r\n- Do you use any alternative to DN (like dev.to but for designer) ? A place where you…",
           "link": "https://www.designernews.co/stories/115191-alternative-of-designernewsco",
           "publishedOn": "2021-05-05T12:46:40.000Z",
           "wordCount": 261,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "Alternative of DesignerNews.co"
         },
         {
           "id": "https://www.designernews.co/stories/115186-6-ways-to-make-money-with-your-codedesign",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html",
           "link": "https://www.designernews.co/stories/115186-6-ways-to-make-money-with-your-codedesign",
           "publishedOn": "2021-05-05T10:10:16.000Z",
           "wordCount": 171,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "6 Ways To Make Money With Your Code/Design"
         },
         {
           "id": "https://www.designernews.co/stories/115185-best-keyboards-for-programming-in-2021",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html",
           "link": "https://www.designernews.co/stories/115185-best-keyboards-for-programming-in-2021",
           "publishedOn": "2021-05-05T10:06:40.000Z",
           "wordCount": 179,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "Best keyboards for programming in 2021"
         },
         {
           "id": "https://www.designernews.co/stories/115175-my-startup-needs-better-ux-should-i-hire-a-fulltime-designer",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://next.waveguide.io/p/my-startup-needs-better-ux-should",
           "link": "https://www.designernews.co/stories/115175-my-startup-needs-better-ux-should-i-hire-a-fulltime-designer",
           "publishedOn": "2021-05-04T21:46:49.000Z",
           "wordCount": 178,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "My startup needs better UX. Should I hire a full-time designer?"
         },
         {
           "id": "https://www.designernews.co/stories/115165-creating-game-prototypes-in-figma-using-interactive-components",
-          "author": "Designer News Feed",
+          "author": null,
           "description": "https://www.youtube.com/watch?v=XrF7-Ds-0YQ",
           "link": "https://www.designernews.co/stories/115165-creating-game-prototypes-in-figma-using-interactive-components",
           "publishedOn": "2021-05-04T14:29:43.000Z",
           "wordCount": 214,
-          "sourceHref": "http://www.designernews.co/?format=rss",
-          "sourceTitle": "Designer News Feed",
           "title": "Creating Game Prototypes in Figma using Interactive Components"
         }
       ]
     },
     {
-      "href": "https://www.smashingmagazine.com/feed/",
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
           "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
@@ -405,8 +341,6 @@
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
           "wordCount": 4127,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "How To Organize Product-Related Assets And Collaborate Better"
         },
         {
@@ -416,8 +350,6 @@
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
           "wordCount": 2617,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Improving The Performance Of Shopify Themes (Case Study)"
         },
         {
@@ -427,8 +359,6 @@
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
           "wordCount": 2296,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Reducing HTML Payload With Next.js (Case Study)"
         },
         {
@@ -438,8 +368,6 @@
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
           "wordCount": 1791,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Guide To Undoing Mistakes With Git"
         },
         {
@@ -449,8 +377,6 @@
           "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
           "publishedOn": "2021-05-04T05:00:00.000Z",
           "wordCount": 6993,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
         },
         {
@@ -460,8 +386,6 @@
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
           "wordCount": 2141,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "The Evolution Of Jamstack"
         },
         {
@@ -471,8 +395,6 @@
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
           "wordCount": 2139,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "May Is In The Air (2021 Wallpapers Edition)"
         },
         {
@@ -482,8 +404,6 @@
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
           "wordCount": 5325,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "The Humble `<img>` Element And Core Web Vitals"
         },
         {
@@ -493,8 +413,6 @@
           "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
           "publishedOn": "2021-04-28T13:20:00.000Z",
           "wordCount": 2130,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
         },
         {
@@ -504,8 +422,6 @@
           "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
           "publishedOn": "2021-04-27T12:00:00.000Z",
           "wordCount": 2623,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Understanding Easing Functions For CSS Animations And Transitions"
         },
         {
@@ -515,8 +431,6 @@
           "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
           "publishedOn": "2021-04-26T11:00:00.000Z",
           "wordCount": 3279,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
         },
         {
@@ -526,8 +440,6 @@
           "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
           "publishedOn": "2021-04-23T08:30:00.000Z",
           "wordCount": 2431,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
         },
         {
@@ -537,8 +449,6 @@
           "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
           "publishedOn": "2021-04-22T14:00:00.000Z",
           "wordCount": 1764,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
         },
         {
@@ -548,8 +458,6 @@
           "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
           "publishedOn": "2021-04-21T13:55:00.000Z",
           "wordCount": 1929,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
         },
         {
@@ -559,8 +467,6 @@
           "link": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
           "publishedOn": "2021-04-21T08:30:00.000Z",
           "wordCount": 2998,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
         },
         {
@@ -570,8 +476,6 @@
           "link": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
           "publishedOn": "2021-04-20T09:00:00.000Z",
           "wordCount": 3482,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Making GraphQL Work In WordPress"
         },
         {
@@ -581,8 +485,6 @@
           "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
           "publishedOn": "2021-04-19T08:30:00.000Z",
           "wordCount": 7206,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "An In-Depth Guide To Measuring Core Web Vitals"
         },
         {
@@ -592,8 +494,6 @@
           "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
           "publishedOn": "2021-04-16T09:00:00.000Z",
           "wordCount": 2912,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Seven Mistakes To Avoid In Your Technical Interviews"
         },
         {
@@ -603,8 +503,6 @@
           "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
           "publishedOn": "2021-04-15T11:00:00.000Z",
           "wordCount": 3522,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "How To Get Web Design Clients Fast (Part 2)"
         },
         {
@@ -614,8 +512,6 @@
           "link": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
           "publishedOn": "2021-04-15T10:30:00.000Z",
           "wordCount": 967,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "From Cats With Love: New Navigation, Guides And Workshops"
         },
         {
@@ -625,8 +521,6 @@
           "link": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
           "publishedOn": "2021-04-14T11:00:00.000Z",
           "wordCount": 1917,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Overflow Issues In CSS"
         },
         {
@@ -636,8 +530,6 @@
           "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
           "publishedOn": "2021-04-13T14:00:00.000Z",
           "wordCount": 3154,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
         },
         {
@@ -647,237 +539,197 @@
           "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
           "publishedOn": "2021-04-12T12:30:00.000Z",
           "wordCount": 3142,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Complete Guide To HTML Email"
         }
       ]
     },
     {
-      "href": "http://feeds.feedburner.com/webdesignernews",
+      "title": "WebdesignerNews",
+      "feedUrl": "http://feeds.feedburner.com/webdesignernews",
+      "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
           "id": "https://torquemag.io/2021/05/5-tips-on-redesigning-a-wordpress-membership-site/",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://torquemag.io/2021/05/5-tips-on-redesigning-a-wordpress-membership-site/",
           "link": "http://www.webdesignernews.com/external/5-tips-on-redesigning-a-wordpress-membership-site",
           "publishedOn": "2021-05-09T23:48:00.000Z",
           "wordCount": 1813,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
           "title": "5 Tips on Redesigning a WordPress Membership Site"
         },
         {
           "id": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 709,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
+          "wordCount": 708,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
           "id": "https://www.tryhoverify.com/",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://www.tryhoverify.com/",
           "link": "http://www.webdesignernews.com/external/hoverify-2-0-all-in-one-browser-extension-for-web-development",
           "publishedOn": "2021-05-09T21:06:00.000Z",
           "wordCount": 835,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
           "title": "Hoverify 2.0 - All-in-one browser extension for web development"
         },
         {
           "id": "https://zeezide.de/en/products/svgshaper/index.html",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://zeezide.de/en/products/svgshaper/index.html",
           "link": "http://www.webdesignernews.com/external/svg-shaper-for-swiftui-easily-convert-svgs-to-swiftui-shapes",
           "publishedOn": "2021-05-09T20:28:00.000Z",
           "wordCount": 433,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
           "title": "SVG Shaper for SwiftUI - Easily convert SVGs to SwiftUI shapes"
         },
         {
           "id": "https://explained-from-first-principles.com/email/",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://explained-from-first-principles.com/email/",
           "link": "http://www.webdesignernews.com/external/email-explained-from-first-principles",
           "publishedOn": "2021-05-09T18:39:00.000Z",
           "wordCount": 95158,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
           "title": "Email Explained from First Principles"
         },
         {
           "id": "https://www.quicksprout.com/how-to-clear-your-cache-in-wordpress/",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://www.quicksprout.com/how-to-clear-your-cache-in-wordpress/",
           "link": "http://www.webdesignernews.com/external/how-to-clear-your-cache-in-wordpress",
           "publishedOn": "2021-05-09T17:40:00.000Z",
           "wordCount": 2593,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
           "title": "How to Clear Your Cache in WordPress"
         },
         {
           "id": "https://quotescover.com/tools/facebook-cover-photo-maker",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://quotescover.com/tools/facebook-cover-photo-maker",
           "link": "http://www.webdesignernews.com/external/facebook-cover-maker-make-your-profile-pic-look-integrated-with-your-cover-photo",
           "publishedOn": "2021-05-09T16:54:00.000Z",
           "wordCount": 1369,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
           "title": "Facebook Cover Maker - Make your profile pic look integrated with your cover photo"
         },
         {
           "id": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3075,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
+          "wordCount": 3071,
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
         },
         {
           "id": "https://uxdesign.cc/3d-prototyping-tools-for-2d-ux-designers-220493c98bd8",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://uxdesign.cc/3d-prototyping-tools-for-2d-ux-designers-220493c98bd8",
           "link": "http://www.webdesignernews.com/external/3d-prototyping-tools-for-2d-designers",
           "publishedOn": "2021-05-09T13:36:34.000Z",
           "wordCount": 2637,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
           "title": "3D prototyping tools for 2D designers"
         },
         {
           "id": "https://webdesign.tutsplus.com/tutorials/a-to-z-of-figma-tips-tricks--cms-36837",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://webdesign.tutsplus.com/tutorials/a-to-z-of-figma-tips-tricks--cms-36837",
           "link": "http://www.webdesignernews.com/external/a-to-z-of-figma-tips-tricks",
           "publishedOn": "2021-05-09T13:36:21.000Z",
           "wordCount": 2652,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
           "title": "A to Z of Figma: Tips & Tricks!"
         },
         {
           "id": "https://www.smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://www.smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "link": "http://www.webdesignernews.com/external/how-to-organize-product-related-assets-and-collaborate-better",
           "publishedOn": "2021-05-09T13:33:18.000Z",
           "wordCount": 4127,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
           "title": "How To Organize Product-Related Assets And Collaborate Better"
         },
         {
           "id": "https://designmodo.com/development-bootstrap-5/",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://designmodo.com/development-bootstrap-5/",
           "link": "http://www.webdesignernews.com/external/speeding-up-development-process-with-bootstrap-5",
           "publishedOn": "2021-05-08T22:19:00.000Z",
-          "wordCount": 4729,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
+          "wordCount": 4761,
           "title": "Speeding Up Development Process with Bootstrap 5"
         },
         {
           "id": "https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/",
           "link": "http://www.webdesignernews.com/external/the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
           "publishedOn": "2021-05-08T20:23:00.000Z",
           "wordCount": 3503,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
           "title": "The Use of Uppercase Sans Serif Typography in Modern Web Design"
         },
         {
           "id": "https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-mosaic-chart-using-javascript",
           "publishedOn": "2021-05-08T17:50:00.000Z",
-          "wordCount": 2534,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
+          "wordCount": 2545,
           "title": "How to Create a Mosaic Chart Using JavaScript"
         },
         {
           "id": "https://quay.io/",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://quay.io/",
           "link": "http://www.webdesignernews.com/external/quay-builds-analyzes-distributes-your-container-images",
           "publishedOn": "2021-05-08T16:39:00.000Z",
           "wordCount": 113,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
           "title": "Quay - Builds, Analyzes, distributes your container images"
         },
         {
           "id": "https://www.viget.com/articles/how-to-keep-sprint-planning-efficient/",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://www.viget.com/articles/how-to-keep-sprint-planning-efficient/",
           "link": "http://www.webdesignernews.com/external/how-to-keep-sprint-planning-efficient",
           "publishedOn": "2021-05-08T15:47:00.000Z",
           "wordCount": 2190,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
           "title": "How to Keep Sprint Planning Efficient"
         },
         {
           "id": "https://hackernoon.com/different-ways-to-use-card-sorting-551i34q8",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://hackernoon.com/different-ways-to-use-card-sorting-551i34q8",
           "link": "http://www.webdesignernews.com/external/different-ways-to-use-card-sorting",
           "publishedOn": "2021-05-08T14:07:00.000Z",
           "wordCount": 1385,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
           "title": "Different Ways to Use Card Sorting"
         },
         {
           "id": "https://Crossbar.io/",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://Crossbar.io/",
           "link": "http://www.webdesignernews.com/external/crossbar-io-open-source-platform-for-distributed-and-microservice-apps",
           "publishedOn": "2021-05-08T13:40:00.000Z",
           "wordCount": 1314,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
           "title": "Crossbar.io ? Open source platform for distributed and microservice apps"
         },
         {
           "id": "https://programmerhumor.io/",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://programmerhumor.io/",
           "link": "http://www.webdesignernews.com/external/programmerhumor-humor-only-programmers-can-understand",
           "publishedOn": "2021-05-08T12:24:20.000Z",
           "wordCount": 771,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
           "title": "ProgrammerHumor - Humor only programmers can understand"
         },
         {
           "id": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
-          "author": "WebdesignerNews",
+          "author": null,
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
           "link": "http://www.webdesignernews.com/external/infographic-youtube-by-the-numbers",
           "publishedOn": "2021-05-08T12:24:07.000Z",
-          "wordCount": 377,
-          "sourceHref": "http://feeds.feedburner.com/webdesignernews",
-          "sourceTitle": "WebdesignerNews",
+          "wordCount": 359,
           "title": "Infographic: YouTube By The Numbers"
         }
       ]
     }
   ],
-  "cliVersion": "1.5.0"
+  "cliVersion": "1.6.0"
 }
