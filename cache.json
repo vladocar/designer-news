@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115352-what-does-it-mean-to-be-a-creative-person",
+          "author": null,
+          "description": "https://herbertlui.net/what-it-means-to-be-a-creative-person/",
+          "link": "https://www.designernews.co/stories/115352-what-does-it-mean-to-be-a-creative-person",
+          "publishedOn": "2021-05-10T18:17:56.000Z",
+          "wordCount": 173,
+          "title": "What Does It Mean to Be a Creative Person?"
+        },
+        {
           "id": "https://www.designernews.co/stories/115347-sponsor-design-is-the-premier-domain-extension-for-professional-and-aspiring-designers-grab-yours-for-free-today",
           "author": null,
           "description": "https://porkbun.com/tld/design?coupon=DNSTORY21C&utm_source=DesignerNews&utm_medium=Newsletter_Ad&utm_campaign=May_2021",
@@ -110,6 +119,15 @@
           "publishedOn": "2021-05-10T15:55:20.000Z",
           "wordCount": 186,
           "title": "Sponsor: .design is the premier domain extension for professional and aspiring designers. Grab yours for free today."
+        },
+        {
+          "id": "https://www.designernews.co/stories/115345-revision-path-ep-398-joseph-cuillier-multidisciplinary-artist-founder-and-codirector-of-the-black-school",
+          "author": null,
+          "description": "https://revisionpath.com/joseph-cuillier/",
+          "link": "https://www.designernews.co/stories/115345-revision-path-ep-398-joseph-cuillier-multidisciplinary-artist-founder-and-codirector-of-the-black-school",
+          "publishedOn": "2021-05-10T12:58:19.000Z",
+          "wordCount": 341,
+          "title": "Revision Path Ep. 398: Joseph Cuillier, multidisciplinary artist, founder and co-director of The Black School"
         },
         {
           "id": "https://www.designernews.co/stories/115342-create-amazing-mockups-with-these-5-figma-plugins",
@@ -299,24 +317,6 @@
           "publishedOn": "2021-05-06T04:48:58.000Z",
           "wordCount": 176,
           "title": "Complete guide on how to create an app like Bet365"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115191-alternative-of-designernewsco",
-          "author": null,
-          "description": "Hi all !\r\n\r\nSad story today. After many years of daily use of Designer News, I feel that DN is becoming less and less relevant for design community exchanges.\r\n\r\nThere are still many cool links or interesting discussion on this platform, but - to me at least - , there are also way too many \"empty\" articles or non-relevant/self-promotion links.\r\n\r\nI think I don't like DN anymore.\r\n\r\n- What's your feeling/opinion about it ?\r\n- Do you use any alternative to DN (like dev.to but for designer) ? A place where you…",
-          "link": "https://www.designernews.co/stories/115191-alternative-of-designernewsco",
-          "publishedOn": "2021-05-05T12:46:40.000Z",
-          "wordCount": 262,
-          "title": "Alternative of DesignerNews.co"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115186-6-ways-to-make-money-with-your-codedesign",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html",
-          "link": "https://www.designernews.co/stories/115186-6-ways-to-make-money-with-your-codedesign",
-          "publishedOn": "2021-05-05T10:10:16.000Z",
-          "wordCount": 172,
-          "title": "6 Ways To Make Money With Your Code/Design"
         },
         {
           "id": "https://www.designernews.co/stories/115185-best-keyboards-for-programming-in-2021",
@@ -635,7 +635,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 706,
+          "wordCount": 711,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
@@ -689,7 +689,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3076,
+          "wordCount": 3086,
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
         },
         {
@@ -725,7 +725,7 @@
           "description": "https://designmodo.com/development-bootstrap-5/",
           "link": "http://www.webdesignernews.com/external/speeding-up-development-process-with-bootstrap-5",
           "publishedOn": "2021-05-08T22:19:00.000Z",
-          "wordCount": 4777,
+          "wordCount": 4761,
           "title": "Speeding Up Development Process with Bootstrap 5"
         },
         {
@@ -734,7 +734,7 @@
           "description": "https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/",
           "link": "http://www.webdesignernews.com/external/the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
           "publishedOn": "2021-05-08T20:23:00.000Z",
-          "wordCount": 3505,
+          "wordCount": 3502,
           "title": "The Use of Uppercase Sans Serif Typography in Modern Web Design"
         }
       ]

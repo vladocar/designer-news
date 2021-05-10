@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T18:13:42.639Z</id>
+    <id>urn:2021-05-10T19:09:27.618Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T18:13:42.639Z</updated>
+    <updated>2021-05-10T19:09:27.618Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Does It Mean to Be a Creative Person?]]></title>
+        <id>https://www.designernews.co/stories/115352-what-does-it-mean-to-be-a-creative-person</id>
+        <link href="https://www.designernews.co/stories/115352-what-does-it-mean-to-be-a-creative-person"/>
+        <updated>2021-05-10T18:17:56.000Z</updated>
+        <summary type="html"><![CDATA[https://herbertlui.net/what-it-means-to-be-a-creative-person/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Fix The Invalid JSON Error in WordPress (Beginner?s Guide)]]></title>
         <id>https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/</id>
@@ -83,6 +93,16 @@
         <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revision Path Ep. 398: Joseph Cuillier, multidisciplinary artist, founder and co-director of The Black School]]></title>
+        <id>https://www.designernews.co/stories/115345-revision-path-ep-398-joseph-cuillier-multidisciplinary-artist-founder-and-codirector-of-the-black-school</id>
+        <link href="https://www.designernews.co/stories/115345-revision-path-ep-398-joseph-cuillier-multidisciplinary-artist-founder-and-codirector-of-the-black-school"/>
+        <updated>2021-05-10T12:58:19.000Z</updated>
+        <summary type="html"><![CDATA[https://revisionpath.com/joseph-cuillier/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -467,25 +487,6 @@ The post 38 Best Fashion Fonts for Modern Designs appeared first on Design Inspi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alternative of DesignerNews.co]]></title>
-        <id>https://www.designernews.co/stories/115191-alternative-of-designernewsco</id>
-        <link href="https://www.designernews.co/stories/115191-alternative-of-designernewsco"/>
-        <updated>2021-05-05T12:46:40.000Z</updated>
-        <summary type="html"><![CDATA[Hi all !
-
-Sad story today. After many years of daily use of Designer News, I feel that DN is becoming less and less relevant for design community exchanges.
-
-There are still many cool links or interesting discussion on this platform, but - to me at least - , there are also way too many "empty" articles or non-relevant/self-promotion links.
-
-I think I don't like DN anymore.
-
-- What's your feeling/opinion about it ?
-- Do you use any alternative to DN (like dev.to but for designer) ? A place where you…]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
         <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
         <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
@@ -493,16 +494,6 @@ I think I don't like DN anymore.
         <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Liran Cohen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Ways To Make Money With Your Code/Design]]></title>
-        <id>https://www.designernews.co/stories/115186-6-ways-to-make-money-with-your-codedesign</id>
-        <link href="https://www.designernews.co/stories/115186-6-ways-to-make-money-with-your-codedesign"/>
-        <updated>2021-05-05T10:10:16.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
