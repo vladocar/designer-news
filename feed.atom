@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T15:00:38.224Z</id>
+    <id>urn:2021-05-10T16:03:04.863Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T15:00:38.224Z</updated>
+    <updated>2021-05-10T16:03:04.863Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sponsor: .design is the premier domain extension for professional and aspiring designers. Grab yours for free today.]]></title>
+        <id>https://www.designernews.co/stories/115347-sponsor-design-is-the-premier-domain-extension-for-professional-and-aspiring-designers-grab-yours-for-free-today</id>
+        <link href="https://www.designernews.co/stories/115347-sponsor-design-is-the-premier-domain-extension-for-professional-and-aspiring-designers-grab-yours-for-free-today"/>
+        <updated>2021-05-10T15:55:20.000Z</updated>
+        <summary type="html"><![CDATA[https://porkbun.com/tld/design?coupon=DNSTORY21C&utm_source=DesignerNews&utm_medium=Newsletter_Ad&utm_campaign=May_2021]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Simple things are complicated: making a show password option]]></title>
         <id>https://technology.blog.gov.uk/2021/04/19/simple-things-are-complicated-making-a-show-password-option/</id>
@@ -452,16 +462,6 @@ The post 38 Best Fashion Fonts for Modern Designs appeared first on Design Inspi
         <link href="https://www.designernews.co/stories/115204-complete-guide-on-how-to-create-an-app-like-bet365"/>
         <updated>2021-05-06T04:48:58.000Z</updated>
         <summary type="html"><![CDATA[https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create the Ideal Candle Label]]></title>
-        <id>https://www.designernews.co/stories/115198-how-to-create-the-ideal-candle-label</id>
-        <link href="https://www.designernews.co/stories/115198-how-to-create-the-ideal-candle-label"/>
-        <updated>2021-05-05T18:43:51.000Z</updated>
-        <summary type="html"><![CDATA[https://www.vectornator.io/blog/candle-labels]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
