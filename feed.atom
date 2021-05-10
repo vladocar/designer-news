@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T16:03:04.863Z</id>
+    <id>urn:2021-05-10T17:31:52.193Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T16:03:04.863Z</updated>
+    <updated>2021-05-10T17:31:52.193Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Artemis Dashboard UI Library for Tailwind CSS]]></title>
+        <id>https://shuffle.dev/marketplace/artemis</id>
+        <link href="http://www.webdesignernews.com/external/artemis-dashboard-ui-library-for-tailwind-css"/>
+        <updated>2021-05-10T16:31:00.000Z</updated>
+        <summary type="html"><![CDATA[https://shuffle.dev/marketplace/artemis]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sponsor: .design is the premier domain extension for professional and aspiring designers. Grab yours for free today.]]></title>
         <id>https://www.designernews.co/stories/115347-sponsor-design-is-the-premier-domain-extension-for-professional-and-aspiring-designers-grab-yours-for-free-today</id>
@@ -106,9 +116,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 22 Genius Products That Will Make Working Easier From Home]]></title>
-        <id>https://www.designernews.co/stories/115262-the-22-genius-products-that-will-make-working-easier-from-home</id>
-        <link href="https://www.designernews.co/stories/115262-the-22-genius-products-that-will-make-working-easier-from-home"/>
+        <title type="html"><![CDATA[The 22  Products That Will Make Working Easier From Home]]></title>
+        <id>https://www.designernews.co/stories/115262-the-22--products-that-will-make-working-easier-from-home</id>
+        <link href="https://www.designernews.co/stories/115262-the-22--products-that-will-make-working-easier-from-home"/>
         <updated>2021-05-10T06:31:58.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/the-22-genius-products-that-will-make.html]]></summary>
         <author>
@@ -281,16 +291,6 @@
         <link href="http://www.webdesignernews.com/external/how-to-create-a-mosaic-chart-using-javascript"/>
         <updated>2021-05-08T17:50:00.000Z</updated>
         <summary type="html"><![CDATA[https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quay - Builds, Analyzes, distributes your container images]]></title>
-        <id>https://quay.io/</id>
-        <link href="http://www.webdesignernews.com/external/quay-builds-analyzes-distributes-your-container-images"/>
-        <updated>2021-05-08T16:39:00.000Z</updated>
-        <summary type="html"><![CDATA[https://quay.io/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>

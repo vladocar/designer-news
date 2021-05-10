@@ -139,13 +139,13 @@
           "title": "The Use of Uppercase Sans Serif Typography in Modern Web Design"
         },
         {
-          "id": "https://www.designernews.co/stories/115262-the-22-genius-products-that-will-make-working-easier-from-home",
+          "id": "https://www.designernews.co/stories/115262-the-22--products-that-will-make-working-easier-from-home",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/05/the-22-genius-products-that-will-make.html",
-          "link": "https://www.designernews.co/stories/115262-the-22-genius-products-that-will-make-working-easier-from-home",
+          "link": "https://www.designernews.co/stories/115262-the-22--products-that-will-make-working-easier-from-home",
           "publishedOn": "2021-05-10T06:31:58.000Z",
-          "wordCount": 289,
-          "title": "The 22 Genius Products That Will Make Working Easier From Home"
+          "wordCount": 287,
+          "title": "The 22  Products That Will Make Working Easier From Home"
         },
         {
           "id": "https://www.designernews.co/stories/115256--5-tips-on-how-to-create-the-perfect-freelancer-profile-",
@@ -558,6 +558,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://shuffle.dev/marketplace/artemis",
+          "author": null,
+          "description": "https://shuffle.dev/marketplace/artemis",
+          "link": "http://www.webdesignernews.com/external/artemis-dashboard-ui-library-for-tailwind-css",
+          "publishedOn": "2021-05-10T16:31:00.000Z",
+          "wordCount": 670,
+          "title": "Artemis Dashboard UI Library for Tailwind CSS"
+        },
+        {
           "id": "https://technology.blog.gov.uk/2021/04/19/simple-things-are-complicated-making-a-show-password-option/",
           "author": null,
           "description": "https://technology.blog.gov.uk/2021/04/19/simple-things-are-complicated-making-a-show-password-option/",
@@ -617,7 +626,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 707,
+          "wordCount": 721,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
@@ -707,7 +716,7 @@
           "description": "https://designmodo.com/development-bootstrap-5/",
           "link": "http://www.webdesignernews.com/external/speeding-up-development-process-with-bootstrap-5",
           "publishedOn": "2021-05-08T22:19:00.000Z",
-          "wordCount": 4772,
+          "wordCount": 4761,
           "title": "Speeding Up Development Process with Bootstrap 5"
         },
         {
@@ -725,17 +734,8 @@
           "description": "https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-mosaic-chart-using-javascript",
           "publishedOn": "2021-05-08T17:50:00.000Z",
-          "wordCount": 2532,
+          "wordCount": 2534,
           "title": "How to Create a Mosaic Chart Using JavaScript"
-        },
-        {
-          "id": "https://quay.io/",
-          "author": null,
-          "description": "https://quay.io/",
-          "link": "http://www.webdesignernews.com/external/quay-builds-analyzes-distributes-your-container-images",
-          "publishedOn": "2021-05-08T16:39:00.000Z",
-          "wordCount": 113,
-          "title": "Quay - Builds, Analyzes, distributes your container images"
         }
       ]
     }
