@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T09:00:47.029Z</id>
+    <id>urn:2021-05-10T10:00:41.511Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T09:00:47.029Z</updated>
+    <updated>2021-05-10T10:00:41.511Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Use of Uppercase Sans Serif Typography in Modern Web Design]]></title>
+        <id>https://www.designernews.co/stories/115279-the-use-of-uppercase-sans-serif-typography-in-modern-web-design</id>
+        <link href="https://www.designernews.co/stories/115279-the-use-of-uppercase-sans-serif-typography-in-modern-web-design"/>
+        <updated>2021-05-10T09:09:04.000Z</updated>
+        <summary type="html"><![CDATA[https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 22 Genius Products That Will Make Working Easier From Home]]></title>
         <id>https://www.designernews.co/stories/115262-the-22-genius-products-that-will-make-working-easier-from-home</id>
@@ -503,16 +513,6 @@ I think I don't like DN anymore.
         <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Game Prototypes in Figma using Interactive Components]]></title>
-        <id>https://www.designernews.co/stories/115165-creating-game-prototypes-in-figma-using-interactive-components</id>
-        <link href="https://www.designernews.co/stories/115165-creating-game-prototypes-in-figma-using-interactive-components"/>
-        <updated>2021-05-04T14:29:43.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=XrF7-Ds-0YQ]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>

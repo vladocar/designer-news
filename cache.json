@@ -56,7 +56,7 @@
           "description": "Wondering where you can buy fonts for commercial use? We have compared some of the biggest websites where you can buy fonts for commercial use, each website has its own pros and cons, so you can choose the best one that fits your needs. Where to buy fonts? There are\nThe post Best places to buy fonts for commercial use appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/best-places-to-buy-fonts-for-commercial-use/",
           "publishedOn": "2021-04-26T09:10:16.000Z",
-          "wordCount": 1055,
+          "wordCount": 1046,
           "title": "Best places to buy fonts for commercial use"
         },
         {
@@ -102,6 +102,15 @@
       "feedUrl": "http://www.designernews.co/?format=rss",
       "siteUrl": "/",
       "articles": [
+        {
+          "id": "https://www.designernews.co/stories/115279-the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
+          "author": null,
+          "description": "https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/",
+          "link": "https://www.designernews.co/stories/115279-the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
+          "publishedOn": "2021-05-10T09:09:04.000Z",
+          "wordCount": 175,
+          "title": "The Use of Uppercase Sans Serif Typography in Modern Web Design"
+        },
         {
           "id": "https://www.designernews.co/stories/115262-the-22-genius-products-that-will-make-working-easier-from-home",
           "author": null,
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-04T21:46:49.000Z",
           "wordCount": 178,
           "title": "My startup needs better UX. Should I hire a full-time designer?"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115165-creating-game-prototypes-in-figma-using-interactive-components",
-          "author": null,
-          "description": "https://www.youtube.com/watch?v=XrF7-Ds-0YQ",
-          "link": "https://www.designernews.co/stories/115165-creating-game-prototypes-in-figma-using-interactive-components",
-          "publishedOn": "2021-05-04T14:29:43.000Z",
-          "wordCount": 214,
-          "title": "Creating Game Prototypes in Figma using Interactive Components"
         }
       ]
     },
@@ -563,7 +563,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 730,
+          "wordCount": 715,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
@@ -617,7 +617,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3080,
+          "wordCount": 3071,
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
         },
         {
@@ -653,7 +653,7 @@
           "description": "https://designmodo.com/development-bootstrap-5/",
           "link": "http://www.webdesignernews.com/external/speeding-up-development-process-with-bootstrap-5",
           "publishedOn": "2021-05-08T22:19:00.000Z",
-          "wordCount": 4777,
+          "wordCount": 4729,
           "title": "Speeding Up Development Process with Bootstrap 5"
         },
         {
@@ -662,7 +662,7 @@
           "description": "https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/",
           "link": "http://www.webdesignernews.com/external/the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
           "publishedOn": "2021-05-08T20:23:00.000Z",
-          "wordCount": 3509,
+          "wordCount": 3505,
           "title": "The Use of Uppercase Sans Serif Typography in Modern Web Design"
         },
         {
@@ -671,7 +671,7 @@
           "description": "https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-mosaic-chart-using-javascript",
           "publishedOn": "2021-05-08T17:50:00.000Z",
-          "wordCount": 2531,
+          "wordCount": 2540,
           "title": "How to Create a Mosaic Chart Using JavaScript"
         },
         {
@@ -698,7 +698,7 @@
           "description": "https://hackernoon.com/different-ways-to-use-card-sorting-551i34q8",
           "link": "http://www.webdesignernews.com/external/different-ways-to-use-card-sorting",
           "publishedOn": "2021-05-08T14:07:00.000Z",
-          "wordCount": 1384,
+          "wordCount": 1382,
           "title": "Different Ways to Use Card Sorting"
         },
         {
@@ -725,7 +725,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
           "link": "http://www.webdesignernews.com/external/infographic-youtube-by-the-numbers",
           "publishedOn": "2021-05-08T12:24:07.000Z",
-          "wordCount": 368,
+          "wordCount": 370,
           "title": "Infographic: YouTube By The Numbers"
         }
       ]
