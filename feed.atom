@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T11:00:41.384Z</id>
+    <id>urn:2021-05-10T12:00:55.411Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T11:00:41.384Z</updated>
+    <updated>2021-05-10T12:00:55.411Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[HOT: The First Branding Tool That Defines The Brand Archetype Automatically!]]></title>
+        <id>https://www.designernews.co/stories/115341-hot-the-first-branding-tool-that-defines-the-brand-archetype-automatically</id>
+        <link href="https://www.designernews.co/stories/115341-hot-the-first-branding-tool-that-defines-the-brand-archetype-automatically"/>
+        <updated>2021-05-10T11:38:18.000Z</updated>
+        <summary type="html"><![CDATA[https://www.instagram.com/p/COsJXGxhx75/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
+        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
+        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
+        <updated>2021-05-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Use of Uppercase Sans Serif Typography in Modern Web Design]]></title>
         <id>https://www.designernews.co/stories/115279-the-use-of-uppercase-sans-serif-typography-in-modern-web-design</id>
@@ -491,16 +511,6 @@ I think I don't like DN anymore.
         <link href="https://www.designernews.co/stories/115185-best-keyboards-for-programming-in-2021"/>
         <updated>2021-05-05T10:06:40.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My startup needs better UX. Should I hire a full-time designer?]]></title>
-        <id>https://www.designernews.co/stories/115175-my-startup-needs-better-ux-should-i-hire-a-fulltime-designer</id>
-        <link href="https://www.designernews.co/stories/115175-my-startup-needs-better-ux-should-i-hire-a-fulltime-designer"/>
-        <updated>2021-05-04T21:46:49.000Z</updated>
-        <summary type="html"><![CDATA[https://next.waveguide.io/p/my-startup-needs-better-ux-should]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>

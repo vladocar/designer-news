@@ -103,12 +103,21 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115341-hot-the-first-branding-tool-that-defines-the-brand-archetype-automatically",
+          "author": null,
+          "description": "https://www.instagram.com/p/COsJXGxhx75/",
+          "link": "https://www.designernews.co/stories/115341-hot-the-first-branding-tool-that-defines-the-brand-archetype-automatically",
+          "publishedOn": "2021-05-10T11:38:18.000Z",
+          "wordCount": 175,
+          "title": "HOT: The First Branding Tool That Defines The Brand Archetype Automatically!"
+        },
+        {
           "id": "https://www.designernews.co/stories/115279-the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
           "author": null,
           "description": "https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/",
           "link": "https://www.designernews.co/stories/115279-the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
           "publishedOn": "2021-05-10T09:09:04.000Z",
-          "wordCount": 175,
+          "wordCount": 174,
           "title": "The Use of Uppercase Sans Serif Typography in Modern Web Design"
         },
         {
@@ -117,7 +126,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/05/the-22-genius-products-that-will-make.html",
           "link": "https://www.designernews.co/stories/115262-the-22-genius-products-that-will-make-working-easier-from-home",
           "publishedOn": "2021-05-10T06:31:58.000Z",
-          "wordCount": 248,
+          "wordCount": 263,
           "title": "The 22 Genius Products That Will Make Working Easier From Home"
         },
         {
@@ -126,7 +135,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/05/5-tips-on-how-to-create-perfect.html",
           "link": "https://www.designernews.co/stories/115256--5-tips-on-how-to-create-the-perfect-freelancer-profile-",
           "publishedOn": "2021-05-10T06:15:24.000Z",
-          "wordCount": 176,
+          "wordCount": 175,
           "title": "5 Tips on How To Create The Perfect Freelancer Profile"
         },
         {
@@ -135,7 +144,7 @@
           "description": "https://www.zenesys.com/blog/customer-service-automation-with-rpa-chatbots",
           "link": "https://www.designernews.co/stories/115255-customer-service-automation-with-rpa-chatbots",
           "publishedOn": "2021-05-10T05:21:52.000Z",
-          "wordCount": 168,
+          "wordCount": 167,
           "title": "Customer Service Automation with RPA Chatbots"
         },
         {
@@ -144,7 +153,7 @@
           "description": "https://marketsplash.com/mothers-day-marketing/",
           "link": "https://www.designernews.co/stories/115253-mothers-day-marketing-5-infographics-we-love",
           "publishedOn": "2021-05-09T15:05:59.000Z",
-          "wordCount": 169,
+          "wordCount": 168,
           "title": "Mother’s Day Marketing: 5 Infographics We Love"
         },
         {
@@ -153,7 +162,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/04/12-interesting-facts-about-coding-you.html",
           "link": "https://www.designernews.co/stories/115248-12-interesting-facts-about-coding-you-had-no-idea-about",
           "publishedOn": "2021-05-08T11:31:42.000Z",
-          "wordCount": 175,
+          "wordCount": 174,
           "title": "12 Interesting facts about coding you had no idea about"
         },
         {
@@ -162,7 +171,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/05/7-themes-to-make-your-vs-code-look.html",
           "link": "https://www.designernews.co/stories/115247-7-themes-to-make-your-vs-code-look-beautiful",
           "publishedOn": "2021-05-08T11:30:52.000Z",
-          "wordCount": 173,
+          "wordCount": 172,
           "title": "7 Themes to Make Your VS Code Look Beautiful"
         },
         {
@@ -171,7 +180,7 @@
           "description": "https://www.webcluesinfotech.com/hire-dedicated-mobile-app-developers/",
           "link": "https://www.designernews.co/stories/115246-hire-mobile-app-developer-",
           "publishedOn": "2021-05-08T11:22:06.000Z",
-          "wordCount": 162,
+          "wordCount": 161,
           "title": "Hire Mobile App Developer"
         },
         {
@@ -180,7 +189,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/05/7-most-common-git-mistakes.html",
           "link": "https://www.designernews.co/stories/115238-7-most-common-git-mistakes",
           "publishedOn": "2021-05-07T11:49:46.000Z",
-          "wordCount": 165,
+          "wordCount": 164,
           "title": "7 Most Common Git Mistakes"
         },
         {
@@ -189,7 +198,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/05/5-rules-for-every-code-review.html",
           "link": "https://www.designernews.co/stories/115237-5-rules-for-every-code-review",
           "publishedOn": "2021-05-07T11:49:04.000Z",
-          "wordCount": 196,
+          "wordCount": 195,
           "title": "5 Rules for Every Code Review"
         },
         {
@@ -198,7 +207,7 @@
           "description": "https://www.youtube.com/watch?v=3E4ByrptCeo",
           "link": "https://www.designernews.co/stories/115231-10-amazing-games-to-learn-basic-principles-of-ui-design",
           "publishedOn": "2021-05-07T09:50:15.000Z",
-          "wordCount": 175,
+          "wordCount": 174,
           "title": "10 Amazing Games to learn basic Principles of UI Design"
         },
         {
@@ -207,7 +216,7 @@
           "description": "https://hexcolor.co/gradient-colors",
           "link": "https://www.designernews.co/stories/115219-beautiful-colored-gradients",
           "publishedOn": "2021-05-06T13:23:36.000Z",
-          "wordCount": 182,
+          "wordCount": 181,
           "title": "Beautiful Colored Gradients"
         },
         {
@@ -216,7 +225,7 @@
           "description": "https://swagfair.com/",
           "link": "https://www.designernews.co/stories/115212-swag-fair--branded-swag-made-by-small-businesses",
           "publishedOn": "2021-05-06T09:19:21.000Z",
-          "wordCount": 176,
+          "wordCount": 175,
           "title": "Swag Fair — branded swag made by small businesses"
         },
         {
@@ -225,7 +234,7 @@
           "description": "https://www.youtube.com/watch?v=BaymAuMBRwA",
           "link": "https://www.designernews.co/stories/115211-product-design-and-uiux-education-what-are-my-options",
           "publishedOn": "2021-05-06T08:54:10.000Z",
-          "wordCount": 173,
+          "wordCount": 172,
           "title": "Product Design and UI/UX Education: What are my options?"
         },
         {
@@ -234,7 +243,7 @@
           "description": "https://www.youtube.com/watch?v=rQryOSyfXmI&list=PLl1gkwYU90QkvmT4uLM5jzLsotJZtLHgW",
           "link": "https://www.designernews.co/stories/115210-15h-tutorial-for-the-bootstrap-v5-stable-that-was-finally-released-yesterday",
           "publishedOn": "2021-05-06T08:53:53.000Z",
-          "wordCount": 178,
+          "wordCount": 177,
           "title": "1.5H tutorial for the Bootstrap v5 STABLE that was finally released yesterday"
         },
         {
@@ -243,7 +252,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/04/8-vs-code-plugins-to-improve-your.html",
           "link": "https://www.designernews.co/stories/115209-8-vs-code-plugins-to-improve-your-productivity",
           "publishedOn": "2021-05-06T07:45:44.000Z",
-          "wordCount": 189,
+          "wordCount": 188,
           "title": "8 VS Code Plugins To Improve Your Productivity"
         },
         {
@@ -252,7 +261,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/04/3-smart-things-worth-spending-your.html",
           "link": "https://www.designernews.co/stories/115208-3-smart-things-worth-spending-your-money-on-as-a-developer",
           "publishedOn": "2021-05-06T07:45:14.000Z",
-          "wordCount": 191,
+          "wordCount": 190,
           "title": "3 Smart Things Worth Spending Your Money on as a Developer"
         },
         {
@@ -261,7 +270,7 @@
           "description": "https://www.zenesys.com/blog/what-is-rpa-and-how-can-it-help-to-grow-your-business",
           "link": "https://www.designernews.co/stories/115205-what-is-a-rpa-and-how-can-it-help-to-grow-your-business",
           "publishedOn": "2021-05-06T07:21:42.000Z",
-          "wordCount": 184,
+          "wordCount": 183,
           "title": "What is a RPA and How can it Help to Grow Your Business?"
         },
         {
@@ -270,7 +279,7 @@
           "description": "https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/",
           "link": "https://www.designernews.co/stories/115204-complete-guide-on-how-to-create-an-app-like-bet365",
           "publishedOn": "2021-05-06T04:48:58.000Z",
-          "wordCount": 175,
+          "wordCount": 174,
           "title": "Complete guide on how to create an app like Bet365"
         },
         {
@@ -279,7 +288,7 @@
           "description": "https://www.vectornator.io/blog/candle-labels",
           "link": "https://www.designernews.co/stories/115198-how-to-create-the-ideal-candle-label",
           "publishedOn": "2021-05-05T18:43:51.000Z",
-          "wordCount": 170,
+          "wordCount": 169,
           "title": "How to Create the Ideal Candle Label"
         },
         {
@@ -288,7 +297,7 @@
           "description": "https://www.vectornator.io/blog/graphic-design-examples",
           "link": "https://www.designernews.co/stories/115197-vectornators-12-best-graphic-design-examples",
           "publishedOn": "2021-05-05T18:40:36.000Z",
-          "wordCount": 168,
+          "wordCount": 167,
           "title": "Vectornator's 12 Best Graphic Design Examples"
         },
         {
@@ -297,7 +306,7 @@
           "description": "Hi all !\r\n\r\nSad story today. After many years of daily use of Designer News, I feel that DN is becoming less and less relevant for design community exchanges.\r\n\r\nThere are still many cool links or interesting discussion on this platform, but - to me at least - , there are also way too many \"empty\" articles or non-relevant/self-promotion links.\r\n\r\nI think I don't like DN anymore.\r\n\r\n- What's your feeling/opinion about it ?\r\n- Do you use any alternative to DN (like dev.to but for designer) ? A place where you…",
           "link": "https://www.designernews.co/stories/115191-alternative-of-designernewsco",
           "publishedOn": "2021-05-05T12:46:40.000Z",
-          "wordCount": 261,
+          "wordCount": 260,
           "title": "Alternative of DesignerNews.co"
         },
         {
@@ -306,7 +315,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html",
           "link": "https://www.designernews.co/stories/115186-6-ways-to-make-money-with-your-codedesign",
           "publishedOn": "2021-05-05T10:10:16.000Z",
-          "wordCount": 171,
+          "wordCount": 170,
           "title": "6 Ways To Make Money With Your Code/Design"
         },
         {
@@ -315,17 +324,8 @@
           "description": "https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html",
           "link": "https://www.designernews.co/stories/115185-best-keyboards-for-programming-in-2021",
           "publishedOn": "2021-05-05T10:06:40.000Z",
-          "wordCount": 179,
-          "title": "Best keyboards for programming in 2021"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115175-my-startup-needs-better-ux-should-i-hire-a-fulltime-designer",
-          "author": null,
-          "description": "https://next.waveguide.io/p/my-startup-needs-better-ux-should",
-          "link": "https://www.designernews.co/stories/115175-my-startup-needs-better-ux-should-i-hire-a-fulltime-designer",
-          "publishedOn": "2021-05-04T21:46:49.000Z",
           "wordCount": 178,
-          "title": "My startup needs better UX. Should I hire a full-time designer?"
+          "title": "Best keyboards for programming in 2021"
         }
       ]
     },
@@ -334,6 +334,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
+          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
+          "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
+          "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
+          "publishedOn": "2021-05-10T11:00:00.000Z",
+          "wordCount": 6310,
+          "title": "Get Started With React By Building A Whac-A-Mole Game"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "author": "hello@smashingmagazine.com (Valeriia Panina)",
@@ -563,7 +572,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 727,
+          "wordCount": 715,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
@@ -617,7 +626,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3079,
+          "wordCount": 3078,
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
         },
         {
@@ -653,7 +662,7 @@
           "description": "https://designmodo.com/development-bootstrap-5/",
           "link": "http://www.webdesignernews.com/external/speeding-up-development-process-with-bootstrap-5",
           "publishedOn": "2021-05-08T22:19:00.000Z",
-          "wordCount": 4777,
+          "wordCount": 4739,
           "title": "Speeding Up Development Process with Bootstrap 5"
         },
         {
@@ -662,7 +671,7 @@
           "description": "https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/",
           "link": "http://www.webdesignernews.com/external/the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
           "publishedOn": "2021-05-08T20:23:00.000Z",
-          "wordCount": 3502,
+          "wordCount": 3508,
           "title": "The Use of Uppercase Sans Serif Typography in Modern Web Design"
         },
         {
@@ -671,7 +680,7 @@
           "description": "https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-mosaic-chart-using-javascript",
           "publishedOn": "2021-05-08T17:50:00.000Z",
-          "wordCount": 2550,
+          "wordCount": 2538,
           "title": "How to Create a Mosaic Chart Using JavaScript"
         },
         {
@@ -716,7 +725,7 @@
           "description": "https://programmerhumor.io/",
           "link": "http://www.webdesignernews.com/external/programmerhumor-humor-only-programmers-can-understand",
           "publishedOn": "2021-05-08T12:24:20.000Z",
-          "wordCount": 771,
+          "wordCount": 779,
           "title": "ProgrammerHumor - Humor only programmers can understand"
         },
         {
@@ -725,7 +734,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-youtube-by-the-numbers/",
           "link": "http://www.webdesignernews.com/external/infographic-youtube-by-the-numbers",
           "publishedOn": "2021-05-08T12:24:07.000Z",
-          "wordCount": 351,
+          "wordCount": 372,
           "title": "Infographic: YouTube By The Numbers"
         }
       ]
