@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T19:09:27.618Z</id>
+    <id>urn:2021-05-10T20:00:44.272Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T19:09:27.618Z</updated>
+    <updated>2021-05-10T20:00:44.272Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mother?s Day Marketing: 5 Infographics We Love]]></title>
+        <id>https://marketsplash.com/mothers-day-marketing/</id>
+        <link href="http://www.webdesignernews.com/external/mother-s-day-marketing-5-infographics-we-love"/>
+        <updated>2021-05-10T19:09:00.000Z</updated>
+        <summary type="html"><![CDATA[https://marketsplash.com/mothers-day-marketing/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Does It Mean to Be a Creative Person?]]></title>
         <id>https://www.designernews.co/stories/115352-what-does-it-mean-to-be-a-creative-person</id>
@@ -301,16 +311,6 @@
         <link href="http://www.webdesignernews.com/external/speeding-up-development-process-with-bootstrap-5"/>
         <updated>2021-05-08T22:19:00.000Z</updated>
         <summary type="html"><![CDATA[https://designmodo.com/development-bootstrap-5/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Use of Uppercase Sans Serif Typography in Modern Web Design]]></title>
-        <id>https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/</id>
-        <link href="http://www.webdesignernews.com/external/the-use-of-uppercase-sans-serif-typography-in-modern-web-design"/>
-        <updated>2021-05-08T20:23:00.000Z</updated>
-        <summary type="html"><![CDATA[https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
