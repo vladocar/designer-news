@@ -6,12 +6,21 @@
       "siteUrl": "https://www.designinspiration.info",
       "articles": [
         {
+          "id": "https://www.designinspiration.info/?p=2462",
+          "author": "Editorial Staff",
+          "description": "If you are biker, or just love the look of motorcycle fonts – this collection is for you! Bikers know that the best way to make their bikes unique is to add unique and cool motorcycle parts. The font is the heart for any bike club or brand. The fonts\nThe post 14 Best Biker Fonts appeared first on Design Inspiration.",
+          "link": "https://www.designinspiration.info/biker-fonts/",
+          "publishedOn": "2021-05-10T22:56:38.000Z",
+          "wordCount": 1575,
+          "title": "14 Best Biker Fonts"
+        },
+        {
           "id": "https://www.designinspiration.info/?p=2432",
           "author": "Editorial Staff",
           "description": "Looking for some sleek fashion fonts with elegant look for your modern designs? Look no further. When someone mentions Fashion, people might not necessarily think of fonts. However, the fact is that typography plays an important role in any design. Here you’ll find some fantastic fashion fonts that will help\nThe post 38 Best Fashion Fonts for Modern Designs appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/fashion-fonts/",
           "publishedOn": "2021-05-06T21:13:22.000Z",
-          "wordCount": 3899,
+          "wordCount": 3905,
           "title": "38 Best Fashion Fonts for Modern Designs"
         },
         {
@@ -85,15 +94,6 @@
           "publishedOn": "2021-04-21T08:44:00.000Z",
           "wordCount": 753,
           "title": "How to Make a Distressed Effect with Photoshop Brushes in a non destructive way?"
-        },
-        {
-          "id": "https://www.designinspiration.info/?p=2024",
-          "author": "Editorial Staff",
-          "description": "Cool Gothic Fonts. We&#8217;ve collected the most beautiful and elegant fonts that can be used in any design project. Take a look. Gothic lettering or blackletter is a letter style in which the letters are calligraphic, and were developed as a rapid handwriting for Latin. As such, they are all\nThe post 42 Best Gothic Fonts for Your Cool Designs appeared first on Design Inspiration.",
-          "link": "https://www.designinspiration.info/best-gothic-fonts/",
-          "publishedOn": "2021-04-18T11:50:01.000Z",
-          "wordCount": 3807,
-          "title": "42 Best Gothic Fonts for Your Cool Designs"
         }
       ]
     },
@@ -558,6 +558,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.thoughtworks.com/insights/blog/why-you-should-invest-good-developer-experience-today",
+          "author": null,
+          "description": "https://www.thoughtworks.com/insights/blog/why-you-should-invest-good-developer-experience-today",
+          "link": "http://www.webdesignernews.com/external/why-you-should-invest-in-good-developer-experience-today",
+          "publishedOn": "2021-05-10T22:05:00.000Z",
+          "wordCount": 1509,
+          "title": "Why you should invest in good Developer Experience today"
+        },
+        {
           "id": "https://csshint.com/css-wave-animation/",
           "author": null,
           "description": "https://csshint.com/css-wave-animation/",
@@ -653,7 +662,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 712,
+          "wordCount": 711,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
@@ -727,15 +736,6 @@
           "publishedOn": "2021-05-09T13:36:21.000Z",
           "wordCount": 2652,
           "title": "A to Z of Figma: Tips & Tricks!"
-        },
-        {
-          "id": "https://www.smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "author": null,
-          "description": "https://www.smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "link": "http://www.webdesignernews.com/external/how-to-organize-product-related-assets-and-collaborate-better",
-          "publishedOn": "2021-05-09T13:33:18.000Z",
-          "wordCount": 4127,
-          "title": "How To Organize Product-Related Assets And Collaborate Better"
         }
       ]
     }

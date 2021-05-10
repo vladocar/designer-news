@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T22:00:35.360Z</id>
+    <id>urn:2021-05-10T23:00:52.317Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T22:00:35.360Z</updated>
+    <updated>2021-05-10T23:00:52.317Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[14 Best Biker Fonts]]></title>
+        <id>https://www.designinspiration.info/?p=2462</id>
+        <link href="https://www.designinspiration.info/biker-fonts/"/>
+        <updated>2021-05-10T22:56:38.000Z</updated>
+        <summary type="html"><![CDATA[If you are biker, or just love the look of motorcycle fonts – this collection is for you! Bikers know that the best way to make their bikes unique is to add unique and cool motorcycle parts. The font is the heart for any bike club or brand. The fonts
+The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why you should invest in good Developer Experience today]]></title>
+        <id>https://www.thoughtworks.com/insights/blog/why-you-should-invest-good-developer-experience-today</id>
+        <link href="http://www.webdesignernews.com/external/why-you-should-invest-in-good-developer-experience-today"/>
+        <updated>2021-05-10T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.thoughtworks.com/insights/blog/why-you-should-invest-good-developer-experience-today]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10+ CSS Wave Animation Examples]]></title>
         <id>https://csshint.com/css-wave-animation/</id>
@@ -301,16 +322,6 @@
         <link href="http://www.webdesignernews.com/external/a-to-z-of-figma-tips-tricks"/>
         <updated>2021-05-09T13:36:21.000Z</updated>
         <summary type="html"><![CDATA[https://webdesign.tutsplus.com/tutorials/a-to-z-of-figma-tips-tricks--cms-36837]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
-        <id>https://www.smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-organize-product-related-assets-and-collaborate-better"/>
-        <updated>2021-05-09T13:33:18.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
@@ -732,17 +743,6 @@ The post How to Make a Distressed Effect with Photoshop Brushes in a non destruc
         <summary type="html"><![CDATA[How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[42 Best Gothic Fonts for Your Cool Designs]]></title>
-        <id>https://www.designinspiration.info/?p=2024</id>
-        <link href="https://www.designinspiration.info/best-gothic-fonts/"/>
-        <updated>2021-04-18T11:50:01.000Z</updated>
-        <summary type="html"><![CDATA[Cool Gothic Fonts. We&#8217;ve collected the most beautiful and elegant fonts that can be used in any design project. Take a look. Gothic lettering or blackletter is a letter style in which the letters are calligraphic, and were developed as a rapid handwriting for Latin. As such, they are all
-The post 42 Best Gothic Fonts for Your Cool Designs appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
