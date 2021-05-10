@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T21:00:38.104Z</id>
+    <id>urn:2021-05-10T22:00:35.360Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T21:00:38.104Z</updated>
+    <updated>2021-05-10T22:00:35.360Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10+ CSS Wave Animation Examples]]></title>
+        <id>https://csshint.com/css-wave-animation/</id>
+        <link href="http://www.webdesignernews.com/external/10-css-wave-animation-examples"/>
+        <updated>2021-05-10T21:23:00.000Z</updated>
+        <summary type="html"><![CDATA[https://csshint.com/css-wave-animation/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mother?s Day Marketing: 5 Infographics We Love]]></title>
         <id>https://marketsplash.com/mothers-day-marketing/</id>
@@ -301,16 +311,6 @@
         <link href="http://www.webdesignernews.com/external/how-to-organize-product-related-assets-and-collaborate-better"/>
         <updated>2021-05-09T13:33:18.000Z</updated>
         <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speeding Up Development Process with Bootstrap 5]]></title>
-        <id>https://designmodo.com/development-bootstrap-5/</id>
-        <link href="http://www.webdesignernews.com/external/speeding-up-development-process-with-bootstrap-5"/>
-        <updated>2021-05-08T22:19:00.000Z</updated>
-        <summary type="html"><![CDATA[https://designmodo.com/development-bootstrap-5/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>

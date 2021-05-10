@@ -558,6 +558,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://csshint.com/css-wave-animation/",
+          "author": null,
+          "description": "https://csshint.com/css-wave-animation/",
+          "link": "http://www.webdesignernews.com/external/10-css-wave-animation-examples",
+          "publishedOn": "2021-05-10T21:23:00.000Z",
+          "wordCount": 531,
+          "title": "10+ CSS Wave Animation Examples"
+        },
+        {
           "id": "https://marketsplash.com/mothers-day-marketing/",
           "author": null,
           "description": "https://marketsplash.com/mothers-day-marketing/",
@@ -644,7 +653,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 707,
+          "wordCount": 712,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
@@ -680,7 +689,7 @@
           "description": "https://www.quicksprout.com/how-to-clear-your-cache-in-wordpress/",
           "link": "http://www.webdesignernews.com/external/how-to-clear-your-cache-in-wordpress",
           "publishedOn": "2021-05-09T17:40:00.000Z",
-          "wordCount": 2572,
+          "wordCount": 2593,
           "title": "How to Clear Your Cache in WordPress"
         },
         {
@@ -698,7 +707,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3078,
+          "wordCount": 3066,
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
         },
         {
@@ -707,7 +716,7 @@
           "description": "https://uxdesign.cc/3d-prototyping-tools-for-2d-ux-designers-220493c98bd8",
           "link": "http://www.webdesignernews.com/external/3d-prototyping-tools-for-2d-designers",
           "publishedOn": "2021-05-09T13:36:34.000Z",
-          "wordCount": 2637,
+          "wordCount": 2529,
           "title": "3D prototyping tools for 2D designers"
         },
         {
@@ -727,15 +736,6 @@
           "publishedOn": "2021-05-09T13:33:18.000Z",
           "wordCount": 4127,
           "title": "How To Organize Product-Related Assets And Collaborate Better"
-        },
-        {
-          "id": "https://designmodo.com/development-bootstrap-5/",
-          "author": null,
-          "description": "https://designmodo.com/development-bootstrap-5/",
-          "link": "http://www.webdesignernews.com/external/speeding-up-development-process-with-bootstrap-5",
-          "publishedOn": "2021-05-08T22:19:00.000Z",
-          "wordCount": 4729,
-          "title": "Speeding Up Development Process with Bootstrap 5"
         }
       ]
     }
