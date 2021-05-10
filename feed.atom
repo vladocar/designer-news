@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T13:13:02.558Z</id>
+    <id>urn:2021-05-10T14:00:42.269Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T13:13:02.558Z</updated>
+    <updated>2021-05-10T14:00:42.269Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create Amazing Mockups with these 5 Figma Plugins]]></title>
+        <id>https://www.designernews.co/stories/115342-create-amazing-mockups-with-these-5-figma-plugins</id>
+        <link href="https://www.designernews.co/stories/115342-create-amazing-mockups-with-these-5-figma-plugins"/>
+        <updated>2021-05-10T11:54:18.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=XVbw79i3poc]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HOT: The First Branding Tool That Defines The Brand Archetype Automatically!]]></title>
         <id>https://www.designernews.co/stories/115341-hot-the-first-branding-tool-that-defines-the-brand-archetype-automatically</id>
@@ -452,16 +462,6 @@ The post 38 Best Fashion Fonts for Modern Designs appeared first on Design Inspi
         <link href="https://www.designernews.co/stories/115198-how-to-create-the-ideal-candle-label"/>
         <updated>2021-05-05T18:43:51.000Z</updated>
         <summary type="html"><![CDATA[https://www.vectornator.io/blog/candle-labels]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vectornator's 12 Best Graphic Design Examples]]></title>
-        <id>https://www.designernews.co/stories/115197-vectornators-12-best-graphic-design-examples</id>
-        <link href="https://www.designernews.co/stories/115197-vectornators-12-best-graphic-design-examples"/>
-        <updated>2021-05-05T18:40:36.000Z</updated>
-        <summary type="html"><![CDATA[https://www.vectornator.io/blog/graphic-design-examples]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
