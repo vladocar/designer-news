@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-11T13:14:26.684Z</id>
+    <id>urn:2021-05-11T14:00:49.674Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T13:14:26.684Z</updated>
+    <updated>2021-05-11T14:00:49.674Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
+        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
+        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
+        <updated>2021-05-11T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Free Illustrator Shadow Text Effect]]></title>
         <id>https://www.designernews.co/stories/115374-10-free-illustrator-shadow-text-effect</id>

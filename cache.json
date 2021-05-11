@@ -20,7 +20,7 @@
           "description": "If you are biker, or just love the look of motorcycle fonts – this collection is for you! Bikers know that the best way to make their bikes unique is to add unique and cool motorcycle parts. The font is the heart for any bike club or brand. The fonts\nThe post 14 Best Biker Fonts appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/biker-fonts/",
           "publishedOn": "2021-05-10T22:56:38.000Z",
-          "wordCount": 1575,
+          "wordCount": 1585,
           "title": "14 Best Biker Fonts"
         },
         {
@@ -335,6 +335,15 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
+          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
+          "description": "A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.",
+          "link": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
+          "publishedOn": "2021-05-11T13:30:00.000Z",
+          "wordCount": 4874,
+          "title": "A Primer On CSS Container Queries"
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
           "author": "hello@smashingmagazine.com (Amanda Annandale)",
           "description": "At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours &mdash; but how?",
@@ -457,7 +466,7 @@
           "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
           "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
           "publishedOn": "2021-04-23T08:30:00.000Z",
-          "wordCount": 2431,
+          "wordCount": 2430,
           "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
         },
         {
@@ -617,7 +626,7 @@
           "description": "https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/",
           "link": "http://www.webdesignernews.com/external/how-to-fix-the-invalid-json-error-in-wordpress-beginner-s-guide",
           "publishedOn": "2021-05-10T17:42:00.000Z",
-          "wordCount": 2510,
+          "wordCount": 2490,
           "title": "How to Fix The Invalid JSON Error in WordPress (Beginner?s Guide)"
         },
         {
@@ -689,7 +698,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 737,
+          "wordCount": 715,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
@@ -725,7 +734,7 @@
           "description": "https://www.quicksprout.com/how-to-clear-your-cache-in-wordpress/",
           "link": "http://www.webdesignernews.com/external/how-to-clear-your-cache-in-wordpress",
           "publishedOn": "2021-05-09T17:40:00.000Z",
-          "wordCount": 2593,
+          "wordCount": 2572,
           "title": "How to Clear Your Cache in WordPress"
         },
         {
@@ -743,7 +752,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3076,
+          "wordCount": 3072,
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
         }
       ]
