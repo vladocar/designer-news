@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-11T07:05:44.304Z</id>
+    <id>urn:2021-05-11T08:00:44.542Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T07:05:44.304Z</updated>
+    <updated>2021-05-11T08:00:44.542Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to move away from dark UX patterns]]></title>
+        <id>https://www.designernews.co/stories/115360-how-to-move-away-from-dark-ux-patterns</id>
+        <link href="https://www.designernews.co/stories/115360-how-to-move-away-from-dark-ux-patterns"/>
+        <updated>2021-05-11T07:38:25.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.plantapp.io/post/how-to-move-away-from-dark-ux-patterns]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Complete guide on how to create an app like Airbnb]]></title>
         <id>https://www.designernews.co/stories/115357-complete-guide-on-how-to-create-an-app-like-airbnb</id>
@@ -493,16 +503,6 @@ The post 38 Best Fashion Fonts for Modern Designs appeared first on Design Inspi
         <link href="https://www.designernews.co/stories/115208-3-smart-things-worth-spending-your-money-on-as-a-developer"/>
         <updated>2021-05-06T07:45:14.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/3-smart-things-worth-spending-your.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a RPA and How can it Help to Grow Your Business?]]></title>
-        <id>https://www.designernews.co/stories/115205-what-is-a-rpa-and-how-can-it-help-to-grow-your-business</id>
-        <link href="https://www.designernews.co/stories/115205-what-is-a-rpa-and-how-can-it-help-to-grow-your-business"/>
-        <updated>2021-05-06T07:21:42.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/what-is-rpa-and-how-can-it-help-to-grow-your-business]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>

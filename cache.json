@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115360-how-to-move-away-from-dark-ux-patterns",
+          "author": null,
+          "description": "https://blog.plantapp.io/post/how-to-move-away-from-dark-ux-patterns",
+          "link": "https://www.designernews.co/stories/115360-how-to-move-away-from-dark-ux-patterns",
+          "publishedOn": "2021-05-11T07:38:25.000Z",
+          "wordCount": 169,
+          "title": "How to move away from dark UX patterns"
+        },
+        {
           "id": "https://www.designernews.co/stories/115357-complete-guide-on-how-to-create-an-app-like-airbnb",
           "author": null,
           "description": "https://www.webcluesinfotech.com/cost-to-develop-an-app-like-airbnb/",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-06T07:45:14.000Z",
           "wordCount": 190,
           "title": "3 Smart Things Worth Spending Your Money on as a Developer"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115205-what-is-a-rpa-and-how-can-it-help-to-grow-your-business",
-          "author": null,
-          "description": "https://www.zenesys.com/blog/what-is-rpa-and-how-can-it-help-to-grow-your-business",
-          "link": "https://www.designernews.co/stories/115205-what-is-a-rpa-and-how-can-it-help-to-grow-your-business",
-          "publishedOn": "2021-05-06T07:21:42.000Z",
-          "wordCount": 183,
-          "title": "What is a RPA and How can it Help to Grow Your Business?"
         }
       ]
     },
@@ -680,7 +680,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 715,
+          "wordCount": 727,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
@@ -734,7 +734,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3080,
+          "wordCount": 3078,
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
         }
       ]
