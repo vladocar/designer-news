@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115365-8-vs-code-plugins-to-improve-your-productivity",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/04/8-vs-code-plugins-to-improve-your.html",
+          "link": "https://www.designernews.co/stories/115365-8-vs-code-plugins-to-improve-your-productivity",
+          "publishedOn": "2021-05-11T09:32:45.000Z",
+          "wordCount": 170,
+          "title": "8 VS Code Plugins To Improve Your Productivity"
+        },
+        {
           "id": "https://www.designernews.co/stories/115363-react-bootstrap-5",
           "author": null,
           "description": "https://www.producthunt.com/posts/react-bootstrap-5",
@@ -110,15 +119,6 @@
           "publishedOn": "2021-05-11T08:45:53.000Z",
           "wordCount": 168,
           "title": "React Bootstrap 5"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115362-bootstrap-5-with-reactjs--useful-tool-1-on-product-hunt-today",
-          "author": null,
-          "description": "https://www.producthunt.com/posts/react-bootstrap-5",
-          "link": "https://www.designernews.co/stories/115362-bootstrap-5-with-reactjs--useful-tool-1-on-product-hunt-today",
-          "publishedOn": "2021-05-11T08:23:10.000Z",
-          "wordCount": 177,
-          "title": "Bootstrap 5 with ReactJS - useful tool, #1 on Product Hunt today"
         },
         {
           "id": "https://www.designernews.co/stories/115361-what-is-intelligent-process-automation-and-how-does-it-differ-from-robotic-process-automation",
@@ -608,7 +608,7 @@
           "description": "https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/",
           "link": "http://www.webdesignernews.com/external/how-to-fix-the-invalid-json-error-in-wordpress-beginner-s-guide",
           "publishedOn": "2021-05-10T17:42:00.000Z",
-          "wordCount": 2494,
+          "wordCount": 2509,
           "title": "How to Fix The Invalid JSON Error in WordPress (Beginner?s Guide)"
         },
         {
@@ -680,7 +680,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 716,
+          "wordCount": 711,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {

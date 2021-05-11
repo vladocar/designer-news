@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-11T09:00:44.903Z</id>
+    <id>urn:2021-05-11T10:00:45.740Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T09:00:44.903Z</updated>
+    <updated>2021-05-11T10:00:45.740Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[React Bootstrap 5]]></title>
-        <id>https://www.designernews.co/stories/115363-react-bootstrap-5</id>
-        <link href="https://www.designernews.co/stories/115363-react-bootstrap-5"/>
-        <updated>2021-05-11T08:45:53.000Z</updated>
-        <summary type="html"><![CDATA[https://www.producthunt.com/posts/react-bootstrap-5]]></summary>
+        <title type="html"><![CDATA[8 VS Code Plugins To Improve Your Productivity]]></title>
+        <id>https://www.designernews.co/stories/115365-8-vs-code-plugins-to-improve-your-productivity</id>
+        <link href="https://www.designernews.co/stories/115365-8-vs-code-plugins-to-improve-your-productivity"/>
+        <updated>2021-05-11T09:32:45.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/8-vs-code-plugins-to-improve-your.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bootstrap 5 with ReactJS - useful tool, #1 on Product Hunt today]]></title>
-        <id>https://www.designernews.co/stories/115362-bootstrap-5-with-reactjs--useful-tool-1-on-product-hunt-today</id>
-        <link href="https://www.designernews.co/stories/115362-bootstrap-5-with-reactjs--useful-tool-1-on-product-hunt-today"/>
-        <updated>2021-05-11T08:23:10.000Z</updated>
+        <title type="html"><![CDATA[React Bootstrap 5]]></title>
+        <id>https://www.designernews.co/stories/115363-react-bootstrap-5</id>
+        <link href="https://www.designernews.co/stories/115363-react-bootstrap-5"/>
+        <updated>2021-05-11T08:45:53.000Z</updated>
         <summary type="html"><![CDATA[https://www.producthunt.com/posts/react-bootstrap-5]]></summary>
         <author>
             <name>Designer News Feed</name>
