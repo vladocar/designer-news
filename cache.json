@@ -576,6 +576,69 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
+          "author": null,
+          "description": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
+          "link": "http://www.webdesignernews.com/external/game-developers-break-silence-around-salaries",
+          "publishedOn": "2021-05-11T15:59:34.000Z",
+          "wordCount": 1328,
+          "title": "Game developers break silence around salaries"
+        },
+        {
+          "id": "https://raw.studio/blog/how-headspace-designs-for-mindfulness/",
+          "author": null,
+          "description": "https://raw.studio/blog/how-headspace-designs-for-mindfulness/",
+          "link": "http://www.webdesignernews.com/external/case-study-how-headspace-designs-for-mindfulness",
+          "publishedOn": "2021-05-11T15:59:22.000Z",
+          "wordCount": 2078,
+          "title": "Case Study: How Headspace Designs for Mindfulness"
+        },
+        {
+          "id": "https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/",
+          "author": null,
+          "description": "https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/",
+          "link": "http://www.webdesignernews.com/external/component-level-art-direction-with-css-container-queries",
+          "publishedOn": "2021-05-11T15:59:18.000Z",
+          "wordCount": 1403,
+          "title": "Component-level art direction with CSS Container Queries"
+        },
+        {
+          "id": "https://csshell.dev/",
+          "author": null,
+          "description": "https://csshell.dev/",
+          "link": "http://www.webdesignernews.com/external/css-hell-to-hell-with-bad-css",
+          "publishedOn": "2021-05-11T15:59:16.000Z",
+          "wordCount": 295,
+          "title": "CSS Hell - To Hell with bad CSS!"
+        },
+        {
+          "id": "https://www.webdesignerdepot.com/2021/05/26-exciting-new-tools-for-designers-may-2021/",
+          "author": null,
+          "description": "https://www.webdesignerdepot.com/2021/05/26-exciting-new-tools-for-designers-may-2021/",
+          "link": "http://www.webdesignernews.com/external/26-exciting-new-tools-for-designers-may-2021",
+          "publishedOn": "2021-05-11T15:59:12.000Z",
+          "wordCount": 1627,
+          "title": "26 Exciting New Tools For Designers, May 2021"
+        },
+        {
+          "id": "https://stumbled.cc/",
+          "author": null,
+          "description": "https://stumbled.cc/",
+          "link": "http://www.webdesignernews.com/external/stumbled",
+          "publishedOn": "2021-05-11T15:58:17.000Z",
+          "wordCount": 130,
+          "title": "Stumbled"
+        },
+        {
+          "id": "https://uxdesign.cc/design-analysis-the-first-encounter-in-ghost-of-tsushima-62eb54b1624b",
+          "author": null,
+          "description": "https://uxdesign.cc/design-analysis-the-first-encounter-in-ghost-of-tsushima-62eb54b1624b",
+          "link": "http://www.webdesignernews.com/external/design-analysis-the-first-encounter-in-ghost-of-tsushima",
+          "publishedOn": "2021-05-11T14:34:00.000Z",
+          "wordCount": 1959,
+          "title": "Design analysis: The first encounter in Ghost of Tsushima"
+        },
+        {
           "id": "https://markde.netlify.app/",
           "author": null,
           "description": "https://markde.netlify.app/",
@@ -626,7 +689,7 @@
           "description": "https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/",
           "link": "http://www.webdesignernews.com/external/how-to-fix-the-invalid-json-error-in-wordpress-beginner-s-guide",
           "publishedOn": "2021-05-10T17:42:00.000Z",
-          "wordCount": 2493,
+          "wordCount": 2496,
           "title": "How to Fix The Invalid JSON Error in WordPress (Beginner?s Guide)"
         },
         {
@@ -691,69 +754,6 @@
           "publishedOn": "2021-05-09T23:48:00.000Z",
           "wordCount": 1813,
           "title": "5 Tips on Redesigning a WordPress Membership Site"
-        },
-        {
-          "id": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
-          "author": null,
-          "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
-          "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
-          "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 730,
-          "title": "Google will soon automatically enroll users in 2FA"
-        },
-        {
-          "id": "https://www.tryhoverify.com/",
-          "author": null,
-          "description": "https://www.tryhoverify.com/",
-          "link": "http://www.webdesignernews.com/external/hoverify-2-0-all-in-one-browser-extension-for-web-development",
-          "publishedOn": "2021-05-09T21:06:00.000Z",
-          "wordCount": 835,
-          "title": "Hoverify 2.0 - All-in-one browser extension for web development"
-        },
-        {
-          "id": "https://zeezide.de/en/products/svgshaper/index.html",
-          "author": null,
-          "description": "https://zeezide.de/en/products/svgshaper/index.html",
-          "link": "http://www.webdesignernews.com/external/svg-shaper-for-swiftui-easily-convert-svgs-to-swiftui-shapes",
-          "publishedOn": "2021-05-09T20:28:00.000Z",
-          "wordCount": 433,
-          "title": "SVG Shaper for SwiftUI - Easily convert SVGs to SwiftUI shapes"
-        },
-        {
-          "id": "https://explained-from-first-principles.com/email/",
-          "author": null,
-          "description": "https://explained-from-first-principles.com/email/",
-          "link": "http://www.webdesignernews.com/external/email-explained-from-first-principles",
-          "publishedOn": "2021-05-09T18:39:00.000Z",
-          "wordCount": 95182,
-          "title": "Email Explained from First Principles"
-        },
-        {
-          "id": "https://www.quicksprout.com/how-to-clear-your-cache-in-wordpress/",
-          "author": null,
-          "description": "https://www.quicksprout.com/how-to-clear-your-cache-in-wordpress/",
-          "link": "http://www.webdesignernews.com/external/how-to-clear-your-cache-in-wordpress",
-          "publishedOn": "2021-05-09T17:40:00.000Z",
-          "wordCount": 2593,
-          "title": "How to Clear Your Cache in WordPress"
-        },
-        {
-          "id": "https://quotescover.com/tools/facebook-cover-photo-maker",
-          "author": null,
-          "description": "https://quotescover.com/tools/facebook-cover-photo-maker",
-          "link": "http://www.webdesignernews.com/external/facebook-cover-maker-make-your-profile-pic-look-integrated-with-your-cover-photo",
-          "publishedOn": "2021-05-09T16:54:00.000Z",
-          "wordCount": 1377,
-          "title": "Facebook Cover Maker - Make your profile pic look integrated with your cover photo"
-        },
-        {
-          "id": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
-          "author": null,
-          "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
-          "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
-          "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3069,
-          "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
         }
       ]
     }

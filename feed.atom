@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-11T15:00:27.662Z</id>
+    <id>urn:2021-05-11T16:05:35.772Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T15:00:27.662Z</updated>
+    <updated>2021-05-11T16:05:35.772Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Game developers break silence around salaries]]></title>
+        <id>https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html</id>
+        <link href="http://www.webdesignernews.com/external/game-developers-break-silence-around-salaries"/>
+        <updated>2021-05-11T15:59:34.000Z</updated>
+        <summary type="html"><![CDATA[https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Case Study: How Headspace Designs for Mindfulness]]></title>
+        <id>https://raw.studio/blog/how-headspace-designs-for-mindfulness/</id>
+        <link href="http://www.webdesignernews.com/external/case-study-how-headspace-designs-for-mindfulness"/>
+        <updated>2021-05-11T15:59:22.000Z</updated>
+        <summary type="html"><![CDATA[https://raw.studio/blog/how-headspace-designs-for-mindfulness/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Component-level art direction with CSS Container Queries]]></title>
+        <id>https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/</id>
+        <link href="http://www.webdesignernews.com/external/component-level-art-direction-with-css-container-queries"/>
+        <updated>2021-05-11T15:59:18.000Z</updated>
+        <summary type="html"><![CDATA[https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Hell - To Hell with bad CSS!]]></title>
+        <id>https://csshell.dev/</id>
+        <link href="http://www.webdesignernews.com/external/css-hell-to-hell-with-bad-css"/>
+        <updated>2021-05-11T15:59:16.000Z</updated>
+        <summary type="html"><![CDATA[https://csshell.dev/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26 Exciting New Tools For Designers, May 2021]]></title>
+        <id>https://www.webdesignerdepot.com/2021/05/26-exciting-new-tools-for-designers-may-2021/</id>
+        <link href="http://www.webdesignernews.com/external/26-exciting-new-tools-for-designers-may-2021"/>
+        <updated>2021-05-11T15:59:12.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/26-exciting-new-tools-for-designers-may-2021/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stumbled]]></title>
+        <id>https://stumbled.cc/</id>
+        <link href="http://www.webdesignernews.com/external/stumbled"/>
+        <updated>2021-05-11T15:58:17.000Z</updated>
+        <summary type="html"><![CDATA[https://stumbled.cc/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design analysis: The first encounter in Ghost of Tsushima]]></title>
+        <id>https://uxdesign.cc/design-analysis-the-first-encounter-in-ghost-of-tsushima-62eb54b1624b</id>
+        <link href="http://www.webdesignernews.com/external/design-analysis-the-first-encounter-in-ghost-of-tsushima"/>
+        <updated>2021-05-11T14:34:00.000Z</updated>
+        <summary type="html"><![CDATA[https://uxdesign.cc/design-analysis-the-first-encounter-in-ghost-of-tsushima-62eb54b1624b]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
         <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
@@ -358,66 +428,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google will soon automatically enroll users in 2FA]]></title>
-        <id>https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default</id>
-        <link href="http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa"/>
-        <updated>2021-05-09T22:22:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoverify 2.0 - All-in-one browser extension for web development]]></title>
-        <id>https://www.tryhoverify.com/</id>
-        <link href="http://www.webdesignernews.com/external/hoverify-2-0-all-in-one-browser-extension-for-web-development"/>
-        <updated>2021-05-09T21:06:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.tryhoverify.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG Shaper for SwiftUI - Easily convert SVGs to SwiftUI shapes]]></title>
-        <id>https://zeezide.de/en/products/svgshaper/index.html</id>
-        <link href="http://www.webdesignernews.com/external/svg-shaper-for-swiftui-easily-convert-svgs-to-swiftui-shapes"/>
-        <updated>2021-05-09T20:28:00.000Z</updated>
-        <summary type="html"><![CDATA[https://zeezide.de/en/products/svgshaper/index.html]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Email Explained from First Principles]]></title>
-        <id>https://explained-from-first-principles.com/email/</id>
-        <link href="http://www.webdesignernews.com/external/email-explained-from-first-principles"/>
-        <updated>2021-05-09T18:39:00.000Z</updated>
-        <summary type="html"><![CDATA[https://explained-from-first-principles.com/email/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Clear Your Cache in WordPress]]></title>
-        <id>https://www.quicksprout.com/how-to-clear-your-cache-in-wordpress/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-clear-your-cache-in-wordpress"/>
-        <updated>2021-05-09T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.quicksprout.com/how-to-clear-your-cache-in-wordpress/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook Cover Maker - Make your profile pic look integrated with your cover photo]]></title>
-        <id>https://quotescover.com/tools/facebook-cover-photo-maker</id>
-        <link href="http://www.webdesignernews.com/external/facebook-cover-maker-make-your-profile-pic-look-integrated-with-your-cover-photo"/>
-        <updated>2021-05-09T16:54:00.000Z</updated>
-        <summary type="html"><![CDATA[https://quotescover.com/tools/facebook-cover-photo-maker]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mother’s Day Marketing: 5 Infographics We Love]]></title>
         <id>https://www.designernews.co/stories/115253-mothers-day-marketing-5-infographics-we-love</id>
         <link href="https://www.designernews.co/stories/115253-mothers-day-marketing-5-infographics-we-love"/>
@@ -425,16 +435,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[https://marketsplash.com/mothers-day-marketing/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beat imposter syndrome by developing ?true confidence? as a software engineer]]></title>
-        <id>https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication</id>
-        <link href="http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer"/>
-        <updated>2021-05-09T14:29:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
