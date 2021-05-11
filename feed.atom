@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-11T21:00:42.401Z</id>
+    <id>urn:2021-05-11T22:00:46.540Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T21:00:42.401Z</updated>
+    <updated>2021-05-11T22:00:46.540Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UX Lexicon]]></title>
+        <id>https://www.curiositytank.com/ux-lexicon</id>
+        <link href="http://www.webdesignernews.com/external/ux-lexicon"/>
+        <updated>2021-05-11T21:36:37.000Z</updated>
+        <summary type="html"><![CDATA[https://www.curiositytank.com/ux-lexicon]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI diversity groups snub future funding from Google over staff treatment]]></title>
+        <id>https://thenextweb.com/news/diversity-in-ai-groups-snub-future-funding-from-google-over-staff-treatment-timnit-gebru</id>
+        <link href="http://www.webdesignernews.com/external/ai-diversity-groups-snub-future-funding-from-google-over-staff-treatment"/>
+        <updated>2021-05-11T21:16:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/diversity-in-ai-groups-snub-future-funding-from-google-over-staff-treatment-timnit-gebru]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visual Cues to Help Users Perceive Drag-and-Drop]]></title>
         <id>https://uxmovement.com/buttons/visual-cues-to-help-users-perceive-drag-and-drop/</id>
@@ -335,26 +355,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[https://porkbun.com/tld/design?coupon=DNSTORY21C&utm_source=DesignerNews&utm_medium=Newsletter_Ad&utm_campaign=May_2021]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple things are complicated: making a show password option]]></title>
-        <id>https://technology.blog.gov.uk/2021/04/19/simple-things-are-complicated-making-a-show-password-option/</id>
-        <link href="http://www.webdesignernews.com/external/simple-things-are-complicated-making-a-show-password-option"/>
-        <updated>2021-05-10T14:24:00.000Z</updated>
-        <summary type="html"><![CDATA[https://technology.blog.gov.uk/2021/04/19/simple-things-are-complicated-making-a-show-password-option/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debugging Vertical Layouts in 2021]]></title>
-        <id>https://chenhuijing.com/blog/debugging-vertical-layouts-in-2021/</id>
-        <link href="http://www.webdesignernews.com/external/debugging-vertical-layouts-in-2021"/>
-        <updated>2021-05-10T14:19:57.000Z</updated>
-        <summary type="html"><![CDATA[https://chenhuijing.com/blog/debugging-vertical-layouts-in-2021/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
