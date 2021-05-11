@@ -558,6 +558,24 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://markde.netlify.app/",
+          "author": null,
+          "description": "https://markde.netlify.app/",
+          "link": "http://www.webdesignernews.com/external/markde-an-editor-for-writing-multiple-formats-of-markdown-text",
+          "publishedOn": "2021-05-10T23:17:00.000Z",
+          "wordCount": 12,
+          "title": "MARKDE - An editor for writing multiple formats of markdown text"
+        },
+        {
+          "id": "https://speckyboy.com/absentee-web-design-client/",
+          "author": null,
+          "description": "https://speckyboy.com/absentee-web-design-client/",
+          "link": "http://www.webdesignernews.com/external/dealing-with-an-absentee-web-design-client",
+          "publishedOn": "2021-05-10T23:08:48.000Z",
+          "wordCount": 1411,
+          "title": "Dealing With an Absentee Web Design Client"
+        },
+        {
           "id": "https://www.thoughtworks.com/insights/blog/why-you-should-invest-good-developer-experience-today",
           "author": null,
           "description": "https://www.thoughtworks.com/insights/blog/why-you-should-invest-good-developer-experience-today",
@@ -590,7 +608,7 @@
           "description": "https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/",
           "link": "http://www.webdesignernews.com/external/how-to-fix-the-invalid-json-error-in-wordpress-beginner-s-guide",
           "publishedOn": "2021-05-10T17:42:00.000Z",
-          "wordCount": 2500,
+          "wordCount": 2489,
           "title": "How to Fix The Invalid JSON Error in WordPress (Beginner?s Guide)"
         },
         {
@@ -662,7 +680,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 711,
+          "wordCount": 724,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
@@ -716,26 +734,8 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3066,
+          "wordCount": 3070,
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
-        },
-        {
-          "id": "https://uxdesign.cc/3d-prototyping-tools-for-2d-ux-designers-220493c98bd8",
-          "author": null,
-          "description": "https://uxdesign.cc/3d-prototyping-tools-for-2d-ux-designers-220493c98bd8",
-          "link": "http://www.webdesignernews.com/external/3d-prototyping-tools-for-2d-designers",
-          "publishedOn": "2021-05-09T13:36:34.000Z",
-          "wordCount": 2529,
-          "title": "3D prototyping tools for 2D designers"
-        },
-        {
-          "id": "https://webdesign.tutsplus.com/tutorials/a-to-z-of-figma-tips-tricks--cms-36837",
-          "author": null,
-          "description": "https://webdesign.tutsplus.com/tutorials/a-to-z-of-figma-tips-tricks--cms-36837",
-          "link": "http://www.webdesignernews.com/external/a-to-z-of-figma-tips-tricks",
-          "publishedOn": "2021-05-09T13:36:21.000Z",
-          "wordCount": 2652,
-          "title": "A to Z of Figma: Tips & Tricks!"
         }
       ]
     }

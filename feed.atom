@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T23:00:52.317Z</id>
+    <id>urn:2021-05-11T00:01:25.471Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T23:00:52.317Z</updated>
+    <updated>2021-05-11T00:01:25.471Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MARKDE - An editor for writing multiple formats of markdown text]]></title>
+        <id>https://markde.netlify.app/</id>
+        <link href="http://www.webdesignernews.com/external/markde-an-editor-for-writing-multiple-formats-of-markdown-text"/>
+        <updated>2021-05-10T23:17:00.000Z</updated>
+        <summary type="html"><![CDATA[https://markde.netlify.app/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dealing With an Absentee Web Design Client]]></title>
+        <id>https://speckyboy.com/absentee-web-design-client/</id>
+        <link href="http://www.webdesignernews.com/external/dealing-with-an-absentee-web-design-client"/>
+        <updated>2021-05-10T23:08:48.000Z</updated>
+        <summary type="html"><![CDATA[https://speckyboy.com/absentee-web-design-client/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14 Best Biker Fonts]]></title>
         <id>https://www.designinspiration.info/?p=2462</id>
@@ -302,26 +322,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <link href="http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer"/>
         <updated>2021-05-09T14:29:00.000Z</updated>
         <summary type="html"><![CDATA[https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D prototyping tools for 2D designers]]></title>
-        <id>https://uxdesign.cc/3d-prototyping-tools-for-2d-ux-designers-220493c98bd8</id>
-        <link href="http://www.webdesignernews.com/external/3d-prototyping-tools-for-2d-designers"/>
-        <updated>2021-05-09T13:36:34.000Z</updated>
-        <summary type="html"><![CDATA[https://uxdesign.cc/3d-prototyping-tools-for-2d-ux-designers-220493c98bd8]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A to Z of Figma: Tips & Tricks!]]></title>
-        <id>https://webdesign.tutsplus.com/tutorials/a-to-z-of-figma-tips-tricks--cms-36837</id>
-        <link href="http://www.webdesignernews.com/external/a-to-z-of-figma-tips-tricks"/>
-        <updated>2021-05-09T13:36:21.000Z</updated>
-        <summary type="html"><![CDATA[https://webdesign.tutsplus.com/tutorials/a-to-z-of-figma-tips-tricks--cms-36837]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
