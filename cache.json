@@ -576,12 +576,21 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.uxpin.com/studio/blog/rapid-development-process-paypal/",
+          "author": null,
+          "description": "https://www.uxpin.com/studio/blog/rapid-development-process-paypal/",
+          "link": "http://www.webdesignernews.com/external/how-to-create-a-rapid-development-process-for-digital-products-lessons-from-paypal",
+          "publishedOn": "2021-05-11T17:28:00.000Z",
+          "wordCount": 1366,
+          "title": "How to Create a Rapid Development Process for Digital Products: Lessons from PayPal"
+        },
+        {
           "id": "https://thenextweb.com/news/chinas-digital-currency-yuan-is-coming-major-economies-need-to-follow-syndication",
           "author": null,
           "description": "https://thenextweb.com/news/chinas-digital-currency-yuan-is-coming-major-economies-need-to-follow-syndication",
           "link": "http://www.webdesignernews.com/external/china-s-digital-currency-is-coming-other-major-economies-need-to-follow-suit",
           "publishedOn": "2021-05-11T16:39:00.000Z",
-          "wordCount": 1564,
+          "wordCount": 1541,
           "title": "China?s digital currency is coming - other major economies need to follow suit"
         },
         {
@@ -590,7 +599,7 @@
           "description": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
           "link": "http://www.webdesignernews.com/external/game-developers-break-silence-around-salaries",
           "publishedOn": "2021-05-11T15:59:34.000Z",
-          "wordCount": 1328,
+          "wordCount": 1316,
           "title": "Game developers break silence around salaries"
         },
         {
@@ -626,7 +635,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/26-exciting-new-tools-for-designers-may-2021/",
           "link": "http://www.webdesignernews.com/external/26-exciting-new-tools-for-designers-may-2021",
           "publishedOn": "2021-05-11T15:59:12.000Z",
-          "wordCount": 1596,
+          "wordCount": 1593,
           "title": "26 Exciting New Tools For Designers, May 2021"
         },
         {
@@ -635,7 +644,7 @@
           "description": "https://stumbled.cc/",
           "link": "http://www.webdesignernews.com/external/stumbled",
           "publishedOn": "2021-05-11T15:58:17.000Z",
-          "wordCount": 130,
+          "wordCount": 131,
           "title": "Stumbled"
         },
         {
@@ -707,7 +716,7 @@
           "description": "https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/",
           "link": "http://www.webdesignernews.com/external/how-to-fix-the-invalid-json-error-in-wordpress-beginner-s-guide",
           "publishedOn": "2021-05-10T17:42:00.000Z",
-          "wordCount": 2502,
+          "wordCount": 2499,
           "title": "How to Fix The Invalid JSON Error in WordPress (Beginner?s Guide)"
         },
         {
@@ -745,15 +754,6 @@
           "publishedOn": "2021-05-10T14:19:44.000Z",
           "wordCount": 1534,
           "title": "10 common graphic design interview questions (& how to answer them)"
-        },
-        {
-          "id": "https://blog.alexdevero.com/reacts-useref-hook/",
-          "author": null,
-          "description": "https://blog.alexdevero.com/reacts-useref-hook/",
-          "link": "http://www.webdesignernews.com/external/reacts-useref-hook-what-it-is-and-how-to-use-it",
-          "publishedOn": "2021-05-10T14:19:29.000Z",
-          "wordCount": 1840,
-          "title": "Reacts useRef Hook: What It Is and How to Use It"
         }
       ]
     }

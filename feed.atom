@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-11T17:31:22.319Z</id>
+    <id>urn:2021-05-11T18:13:56.672Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T17:31:22.319Z</updated>
+    <updated>2021-05-11T18:13:56.672Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Rapid Development Process for Digital Products: Lessons from PayPal]]></title>
+        <id>https://www.uxpin.com/studio/blog/rapid-development-process-paypal/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-create-a-rapid-development-process-for-digital-products-lessons-from-paypal"/>
+        <updated>2021-05-11T17:28:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/rapid-development-process-paypal/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China?s digital currency is coming - other major economies need to follow suit]]></title>
         <id>https://thenextweb.com/news/chinas-digital-currency-yuan-is-coming-major-economies-need-to-follow-syndication</id>
@@ -333,16 +343,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <link href="http://www.webdesignernews.com/external/10-common-graphic-design-interview-questions-how-to-answer-them"/>
         <updated>2021-05-10T14:19:44.000Z</updated>
         <summary type="html"><![CDATA[https://dribbble.com/stories/2021/05/10/graphic-design-interview-questions]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reacts useRef Hook: What It Is and How to Use It]]></title>
-        <id>https://blog.alexdevero.com/reacts-useref-hook/</id>
-        <link href="http://www.webdesignernews.com/external/reacts-useref-hook-what-it-is-and-how-to-use-it"/>
-        <updated>2021-05-10T14:19:29.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.alexdevero.com/reacts-useref-hook/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
