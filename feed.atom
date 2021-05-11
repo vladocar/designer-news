@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-11T22:00:46.540Z</id>
+    <id>urn:2021-05-11T23:00:44.340Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T22:00:46.540Z</updated>
+    <updated>2021-05-11T23:00:44.340Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Should I use Hotwire with Craft?]]></title>
+        <id>https://www.viget.com/articles/should-i-use-hotwire-with-craft/</id>
+        <link href="http://www.webdesignernews.com/external/should-i-use-hotwire-with-craft"/>
+        <updated>2021-05-11T22:53:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.viget.com/articles/should-i-use-hotwire-with-craft/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UX Lexicon]]></title>
         <id>https://www.curiositytank.com/ux-lexicon</id>
@@ -333,16 +343,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <link href="http://www.webdesignernews.com/external/how-to-fix-the-invalid-json-error-in-wordpress-beginner-s-guide"/>
         <updated>2021-05-10T17:42:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artemis Dashboard UI Library for Tailwind CSS]]></title>
-        <id>https://shuffle.dev/marketplace/artemis</id>
-        <link href="http://www.webdesignernews.com/external/artemis-dashboard-ui-library-for-tailwind-css"/>
-        <updated>2021-05-10T16:31:00.000Z</updated>
-        <summary type="html"><![CDATA[https://shuffle.dev/marketplace/artemis]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
