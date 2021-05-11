@@ -335,6 +335,15 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
+          "author": "hello@smashingmagazine.com (Amanda Annandale)",
+          "description": "At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours &mdash; but how?",
+          "link": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
+          "publishedOn": "2021-05-11T10:00:00.000Z",
+          "wordCount": 1958,
+          "title": "The Conference Platform We Use For Our Online Events: Hopin"
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "author": "hello@smashingmagazine.com (Jhey Tompkins)",
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
@@ -608,7 +617,7 @@
           "description": "https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/",
           "link": "http://www.webdesignernews.com/external/how-to-fix-the-invalid-json-error-in-wordpress-beginner-s-guide",
           "publishedOn": "2021-05-10T17:42:00.000Z",
-          "wordCount": 2509,
+          "wordCount": 2502,
           "title": "How to Fix The Invalid JSON Error in WordPress (Beginner?s Guide)"
         },
         {
@@ -680,7 +689,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 711,
+          "wordCount": 734,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
@@ -734,7 +743,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3076,
+          "wordCount": 3069,
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
         }
       ]

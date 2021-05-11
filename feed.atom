@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-11T10:00:45.740Z</id>
+    <id>urn:2021-05-11T11:00:31.144Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T10:00:45.740Z</updated>
+    <updated>2021-05-11T11:00:31.144Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
+        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
+        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
+        <updated>2021-05-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours &mdash; but how?]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 VS Code Plugins To Improve Your Productivity]]></title>
         <id>https://www.designernews.co/stories/115365-8-vs-code-plugins-to-improve-your-productivity</id>
