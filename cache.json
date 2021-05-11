@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115356-thinking-in-design-its-not-about-the-aesthetics",
+          "author": null,
+          "description": "https://gumroad.com/anumitha#fvTzD",
+          "link": "https://www.designernews.co/stories/115356-thinking-in-design-its-not-about-the-aesthetics",
+          "publishedOn": "2021-05-11T02:32:07.000Z",
+          "wordCount": 202,
+          "title": "Thinking in design: It's not about the aesthetics."
+        },
+        {
           "id": "https://www.designernews.co/stories/115352-what-does-it-mean-to-be-a-creative-person",
           "author": null,
           "description": "https://herbertlui.net/what-it-means-to-be-a-creative-person/",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-06T04:48:58.000Z",
           "wordCount": 179,
           "title": "Complete guide on how to create an app like Bet365"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115185-best-keyboards-for-programming-in-2021",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html",
-          "link": "https://www.designernews.co/stories/115185-best-keyboards-for-programming-in-2021",
-          "publishedOn": "2021-05-05T10:06:40.000Z",
-          "wordCount": 183,
-          "title": "Best keyboards for programming in 2021"
         }
       ]
     },
@@ -608,7 +608,7 @@
           "description": "https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/",
           "link": "http://www.webdesignernews.com/external/how-to-fix-the-invalid-json-error-in-wordpress-beginner-s-guide",
           "publishedOn": "2021-05-10T17:42:00.000Z",
-          "wordCount": 2496,
+          "wordCount": 2493,
           "title": "How to Fix The Invalid JSON Error in WordPress (Beginner?s Guide)"
         },
         {
@@ -680,7 +680,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 719,
+          "wordCount": 709,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
@@ -716,7 +716,7 @@
           "description": "https://www.quicksprout.com/how-to-clear-your-cache-in-wordpress/",
           "link": "http://www.webdesignernews.com/external/how-to-clear-your-cache-in-wordpress",
           "publishedOn": "2021-05-09T17:40:00.000Z",
-          "wordCount": 2572,
+          "wordCount": 2593,
           "title": "How to Clear Your Cache in WordPress"
         },
         {
@@ -734,7 +734,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3076,
+          "wordCount": 3082,
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
         }
       ]
