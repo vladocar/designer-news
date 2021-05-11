@@ -103,6 +103,33 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115363-react-bootstrap-5",
+          "author": null,
+          "description": "https://www.producthunt.com/posts/react-bootstrap-5",
+          "link": "https://www.designernews.co/stories/115363-react-bootstrap-5",
+          "publishedOn": "2021-05-11T08:45:53.000Z",
+          "wordCount": 168,
+          "title": "React Bootstrap 5"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115362-bootstrap-5-with-reactjs--useful-tool-1-on-product-hunt-today",
+          "author": null,
+          "description": "https://www.producthunt.com/posts/react-bootstrap-5",
+          "link": "https://www.designernews.co/stories/115362-bootstrap-5-with-reactjs--useful-tool-1-on-product-hunt-today",
+          "publishedOn": "2021-05-11T08:23:10.000Z",
+          "wordCount": 177,
+          "title": "Bootstrap 5 with ReactJS - useful tool, #1 on Product Hunt today"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115361-what-is-intelligent-process-automation-and-how-does-it-differ-from-robotic-process-automation",
+          "author": null,
+          "description": "https://www.zenesys.com/blog/what-is-intelligent-process-automation-and-how-does-it-differs-from-robotic-process-automation",
+          "link": "https://www.designernews.co/stories/115361-what-is-intelligent-process-automation-and-how-does-it-differ-from-robotic-process-automation",
+          "publishedOn": "2021-05-11T08:17:35.000Z",
+          "wordCount": 183,
+          "title": "What is Intelligent Process Automation and How Does it Differ from Robotic Process Automation?"
+        },
+        {
           "id": "https://www.designernews.co/stories/115360-how-to-move-away-from-dark-ux-patterns",
           "author": null,
           "description": "https://blog.plantapp.io/post/how-to-move-away-from-dark-ux-patterns",
@@ -283,24 +310,6 @@
           "title": "Beautiful Colored Gradients"
         },
         {
-          "id": "https://www.designernews.co/stories/115212-swag-fair--branded-swag-made-by-small-businesses",
-          "author": null,
-          "description": "https://swagfair.com/",
-          "link": "https://www.designernews.co/stories/115212-swag-fair--branded-swag-made-by-small-businesses",
-          "publishedOn": "2021-05-06T09:19:21.000Z",
-          "wordCount": 175,
-          "title": "Swag Fair — branded swag made by small businesses"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115211-product-design-and-uiux-education-what-are-my-options",
-          "author": null,
-          "description": "https://www.youtube.com/watch?v=BaymAuMBRwA",
-          "link": "https://www.designernews.co/stories/115211-product-design-and-uiux-education-what-are-my-options",
-          "publishedOn": "2021-05-06T08:54:10.000Z",
-          "wordCount": 172,
-          "title": "Product Design and UI/UX Education: What are my options?"
-        },
-        {
           "id": "https://www.designernews.co/stories/115210-15h-tutorial-for-the-bootstrap-v5-stable-that-was-finally-released-yesterday",
           "author": null,
           "description": "https://www.youtube.com/watch?v=rQryOSyfXmI&list=PLl1gkwYU90QkvmT4uLM5jzLsotJZtLHgW",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-06T07:45:44.000Z",
           "wordCount": 188,
           "title": "8 VS Code Plugins To Improve Your Productivity"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115208-3-smart-things-worth-spending-your-money-on-as-a-developer",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/04/3-smart-things-worth-spending-your.html",
-          "link": "https://www.designernews.co/stories/115208-3-smart-things-worth-spending-your-money-on-as-a-developer",
-          "publishedOn": "2021-05-06T07:45:14.000Z",
-          "wordCount": 190,
-          "title": "3 Smart Things Worth Spending Your Money on as a Developer"
         }
       ]
     },
@@ -608,7 +608,7 @@
           "description": "https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/",
           "link": "http://www.webdesignernews.com/external/how-to-fix-the-invalid-json-error-in-wordpress-beginner-s-guide",
           "publishedOn": "2021-05-10T17:42:00.000Z",
-          "wordCount": 2490,
+          "wordCount": 2494,
           "title": "How to Fix The Invalid JSON Error in WordPress (Beginner?s Guide)"
         },
         {
@@ -680,7 +680,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 727,
+          "wordCount": 716,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
@@ -734,7 +734,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3078,
+          "wordCount": 3076,
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
         }
       ]
