@@ -6,6 +6,15 @@
       "siteUrl": "https://www.designinspiration.info",
       "articles": [
         {
+          "id": "https://www.designinspiration.info/?p=2494",
+          "author": "Editorial Staff",
+          "description": "We bring you 10 free one click Illustrator Graphics Styles for applying text shadow effect. All text shadow effects can be applied to any text or font in Illustrator and also can be easily customized. The Graphic Stiles can be customized in the Appearance panel (Window > Appearance) and you\nThe post 10 Free Illustrator Shadow Text Effect (Graphic Styles) appeared first on Design Inspiration.",
+          "link": "https://www.designinspiration.info/free-illustrator-shadow-text-effect-graphic-styles/",
+          "publishedOn": "2021-05-11T12:34:13.000Z",
+          "wordCount": 479,
+          "title": "10 Free Illustrator Shadow Text Effect (Graphic Styles)"
+        },
+        {
           "id": "https://www.designinspiration.info/?p=2462",
           "author": "Editorial Staff",
           "description": "If you are biker, or just love the look of motorcycle fonts – this collection is for you! Bikers know that the best way to make their bikes unique is to add unique and cool motorcycle parts. The font is the heart for any bike club or brand. The fonts\nThe post 14 Best Biker Fonts appeared first on Design Inspiration.",
@@ -85,15 +94,6 @@
           "publishedOn": "2021-04-22T20:13:55.000Z",
           "wordCount": 2138,
           "title": "20 Best Embroidery Fonts"
-        },
-        {
-          "id": "https://www.designinspiration.info/?p=1819",
-          "author": "Editorial Staff",
-          "description": "If you are searching for a quick and easy way to make vintage distressed effects in Photoshop you came to the right place. We will show you a non destructive technique using vector mask and photoshop retro distressed brushes. Select the photoshop layer with the main object (in our case\nThe post How to Make a Distressed Effect with Photoshop Brushes in a non destructive way? appeared first on Design Inspiration.",
-          "link": "https://www.designinspiration.info/how-to-make-a-distressed-effect-with-photoshop-brushes-in-a-non-destructive-way/",
-          "publishedOn": "2021-04-21T08:44:00.000Z",
-          "wordCount": 753,
-          "title": "How to Make a Distressed Effect with Photoshop Brushes in a non destructive way?"
         }
       ]
     },
@@ -102,6 +102,24 @@
       "feedUrl": "http://www.designernews.co/?format=rss",
       "siteUrl": "/",
       "articles": [
+        {
+          "id": "https://www.designernews.co/stories/115374-10-free-illustrator-shadow-text-effect",
+          "author": null,
+          "description": "https://www.designinspiration.info/free-illustrator-shadow-text-effect-graphic-styles/",
+          "link": "https://www.designernews.co/stories/115374-10-free-illustrator-shadow-text-effect",
+          "publishedOn": "2021-05-11T12:40:51.000Z",
+          "wordCount": 166,
+          "title": "10 Free Illustrator Shadow Text Effect"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115373-figma-design-kit-for-tailwind-css",
+          "author": null,
+          "description": "https://www.figma.com/community/file/973638860086718856",
+          "link": "https://www.designernews.co/stories/115373-figma-design-kit-for-tailwind-css",
+          "publishedOn": "2021-05-11T12:17:05.000Z",
+          "wordCount": 165,
+          "title": "Figma design kit for Tailwind CSS"
+        },
         {
           "id": "https://www.designernews.co/stories/115365-8-vs-code-plugins-to-improve-your-productivity",
           "author": null,
@@ -308,24 +326,6 @@
           "publishedOn": "2021-05-06T13:23:36.000Z",
           "wordCount": 181,
           "title": "Beautiful Colored Gradients"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115210-15h-tutorial-for-the-bootstrap-v5-stable-that-was-finally-released-yesterday",
-          "author": null,
-          "description": "https://www.youtube.com/watch?v=rQryOSyfXmI&list=PLl1gkwYU90QkvmT4uLM5jzLsotJZtLHgW",
-          "link": "https://www.designernews.co/stories/115210-15h-tutorial-for-the-bootstrap-v5-stable-that-was-finally-released-yesterday",
-          "publishedOn": "2021-05-06T08:53:53.000Z",
-          "wordCount": 177,
-          "title": "1.5H tutorial for the Bootstrap v5 STABLE that was finally released yesterday"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115209-8-vs-code-plugins-to-improve-your-productivity",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/04/8-vs-code-plugins-to-improve-your.html",
-          "link": "https://www.designernews.co/stories/115209-8-vs-code-plugins-to-improve-your-productivity",
-          "publishedOn": "2021-05-06T07:45:44.000Z",
-          "wordCount": 188,
-          "title": "8 VS Code Plugins To Improve Your Productivity"
         }
       ]
     },
@@ -617,7 +617,7 @@
           "description": "https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/",
           "link": "http://www.webdesignernews.com/external/how-to-fix-the-invalid-json-error-in-wordpress-beginner-s-guide",
           "publishedOn": "2021-05-10T17:42:00.000Z",
-          "wordCount": 2498,
+          "wordCount": 2510,
           "title": "How to Fix The Invalid JSON Error in WordPress (Beginner?s Guide)"
         },
         {
@@ -689,7 +689,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 726,
+          "wordCount": 737,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
@@ -725,7 +725,7 @@
           "description": "https://www.quicksprout.com/how-to-clear-your-cache-in-wordpress/",
           "link": "http://www.webdesignernews.com/external/how-to-clear-your-cache-in-wordpress",
           "publishedOn": "2021-05-09T17:40:00.000Z",
-          "wordCount": 2572,
+          "wordCount": 2593,
           "title": "How to Clear Your Cache in WordPress"
         },
         {
@@ -743,7 +743,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3086,
+          "wordCount": 3076,
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
         }
       ]

@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-11T12:02:01.506Z</id>
+    <id>urn:2021-05-11T13:14:26.684Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T12:02:01.506Z</updated>
+    <updated>2021-05-11T13:14:26.684Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10 Free Illustrator Shadow Text Effect]]></title>
+        <id>https://www.designernews.co/stories/115374-10-free-illustrator-shadow-text-effect</id>
+        <link href="https://www.designernews.co/stories/115374-10-free-illustrator-shadow-text-effect"/>
+        <updated>2021-05-11T12:40:51.000Z</updated>
+        <summary type="html"><![CDATA[https://www.designinspiration.info/free-illustrator-shadow-text-effect-graphic-styles/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Free Illustrator Shadow Text Effect (Graphic Styles)]]></title>
+        <id>https://www.designinspiration.info/?p=2494</id>
+        <link href="https://www.designinspiration.info/free-illustrator-shadow-text-effect-graphic-styles/"/>
+        <updated>2021-05-11T12:34:13.000Z</updated>
+        <summary type="html"><![CDATA[We bring you 10 free one click Illustrator Graphics Styles for applying text shadow effect. All text shadow effects can be applied to any text or font in Illustrator and also can be easily customized. The Graphic Stiles can be customized in the Appearance panel (Window > Appearance) and you
+The post 10 Free Illustrator Shadow Text Effect (Graphic Styles) appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Figma design kit for Tailwind CSS]]></title>
+        <id>https://www.designernews.co/stories/115373-figma-design-kit-for-tailwind-css</id>
+        <link href="https://www.designernews.co/stories/115373-figma-design-kit-for-tailwind-css"/>
+        <updated>2021-05-11T12:17:05.000Z</updated>
+        <summary type="html"><![CDATA[https://www.figma.com/community/file/973638860086718856]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
         <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
@@ -498,26 +529,6 @@ The post 38 Best Fashion Fonts for Modern Designs appeared first on Design Inspi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1.5H tutorial for the Bootstrap v5 STABLE that was finally released yesterday]]></title>
-        <id>https://www.designernews.co/stories/115210-15h-tutorial-for-the-bootstrap-v5-stable-that-was-finally-released-yesterday</id>
-        <link href="https://www.designernews.co/stories/115210-15h-tutorial-for-the-bootstrap-v5-stable-that-was-finally-released-yesterday"/>
-        <updated>2021-05-06T08:53:53.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=rQryOSyfXmI&list=PLl1gkwYU90QkvmT4uLM5jzLsotJZtLHgW]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 VS Code Plugins To Improve Your Productivity]]></title>
-        <id>https://www.designernews.co/stories/115209-8-vs-code-plugins-to-improve-your-productivity</id>
-        <link href="https://www.designernews.co/stories/115209-8-vs-code-plugins-to-improve-your-productivity"/>
-        <updated>2021-05-06T07:45:44.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/8-vs-code-plugins-to-improve-your.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
         <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
         <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
@@ -712,17 +723,6 @@ The post 20 Best Embroidery Fonts appeared first on Design Inspiration.]]></summ
         <summary type="html"><![CDATA[Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Lee Robinson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Distressed Effect with Photoshop Brushes in a non destructive way?]]></title>
-        <id>https://www.designinspiration.info/?p=1819</id>
-        <link href="https://www.designinspiration.info/how-to-make-a-distressed-effect-with-photoshop-brushes-in-a-non-destructive-way/"/>
-        <updated>2021-04-21T08:44:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are searching for a quick and easy way to make vintage distressed effects in Photoshop you came to the right place. We will show you a non destructive technique using vector mask and photoshop retro distressed brushes. Select the photoshop layer with the main object (in our case
-The post How to Make a Distressed Effect with Photoshop Brushes in a non destructive way? appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
