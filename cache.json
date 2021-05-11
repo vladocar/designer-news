@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115382-sketch-in-2021-and-beyond",
+          "author": null,
+          "description": "https://www.sketch.com/blog/2021/05/11/sketch-in-2021-and-beyond/",
+          "link": "https://www.designernews.co/stories/115382-sketch-in-2021-and-beyond",
+          "publishedOn": "2021-05-11T17:43:01.000Z",
+          "wordCount": 161,
+          "title": "Sketch: in 2021 and beyond"
+        },
+        {
           "id": "https://www.designernews.co/stories/115374-10-free-illustrator-shadow-text-effect",
           "author": null,
           "description": "https://www.designinspiration.info/free-illustrator-shadow-text-effect-graphic-styles/",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-07T09:50:15.000Z",
           "wordCount": 172,
           "title": "10 Amazing Games to learn basic Principles of UI Design"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115219-beautiful-colored-gradients",
-          "author": null,
-          "description": "https://hexcolor.co/gradient-colors",
-          "link": "https://www.designernews.co/stories/115219-beautiful-colored-gradients",
-          "publishedOn": "2021-05-06T13:23:36.000Z",
-          "wordCount": 179,
-          "title": "Beautiful Colored Gradients"
         }
       ]
     },
@@ -576,6 +576,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://uxmovement.com/buttons/visual-cues-to-help-users-perceive-drag-and-drop/",
+          "author": null,
+          "description": "https://uxmovement.com/buttons/visual-cues-to-help-users-perceive-drag-and-drop/",
+          "link": "http://www.webdesignernews.com/external/visual-cues-to-help-users-perceive-drag-and-drop",
+          "publishedOn": "2021-05-11T20:36:43.000Z",
+          "wordCount": 418,
+          "title": "Visual Cues to Help Users Perceive Drag-and-Drop"
+        },
+        {
           "id": "https://www.uxpin.com/studio/blog/rapid-development-process-paypal/",
           "author": null,
           "description": "https://www.uxpin.com/studio/blog/rapid-development-process-paypal/",
@@ -590,7 +599,7 @@
           "description": "https://thenextweb.com/news/chinas-digital-currency-yuan-is-coming-major-economies-need-to-follow-syndication",
           "link": "http://www.webdesignernews.com/external/china-s-digital-currency-is-coming-other-major-economies-need-to-follow-suit",
           "publishedOn": "2021-05-11T16:39:00.000Z",
-          "wordCount": 1561,
+          "wordCount": 1553,
           "title": "China?s digital currency is coming - other major economies need to follow suit"
         },
         {
@@ -599,7 +608,7 @@
           "description": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
           "link": "http://www.webdesignernews.com/external/game-developers-break-silence-around-salaries",
           "publishedOn": "2021-05-11T15:59:34.000Z",
-          "wordCount": 1321,
+          "wordCount": 1347,
           "title": "Game developers break silence around salaries"
         },
         {
@@ -635,7 +644,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/26-exciting-new-tools-for-designers-may-2021/",
           "link": "http://www.webdesignernews.com/external/26-exciting-new-tools-for-designers-may-2021",
           "publishedOn": "2021-05-11T15:59:12.000Z",
-          "wordCount": 1583,
+          "wordCount": 1592,
           "title": "26 Exciting New Tools For Designers, May 2021"
         },
         {
@@ -644,7 +653,7 @@
           "description": "https://stumbled.cc/",
           "link": "http://www.webdesignernews.com/external/stumbled",
           "publishedOn": "2021-05-11T15:58:17.000Z",
-          "wordCount": 129,
+          "wordCount": 126,
           "title": "Stumbled"
         },
         {
@@ -716,7 +725,7 @@
           "description": "https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/",
           "link": "http://www.webdesignernews.com/external/how-to-fix-the-invalid-json-error-in-wordpress-beginner-s-guide",
           "publishedOn": "2021-05-10T17:42:00.000Z",
-          "wordCount": 2502,
+          "wordCount": 2495,
           "title": "How to Fix The Invalid JSON Error in WordPress (Beginner?s Guide)"
         },
         {
@@ -745,15 +754,6 @@
           "publishedOn": "2021-05-10T14:19:57.000Z",
           "wordCount": 1105,
           "title": "Debugging Vertical Layouts in 2021"
-        },
-        {
-          "id": "https://dribbble.com/stories/2021/05/10/graphic-design-interview-questions",
-          "author": null,
-          "description": "https://dribbble.com/stories/2021/05/10/graphic-design-interview-questions",
-          "link": "http://www.webdesignernews.com/external/10-common-graphic-design-interview-questions-how-to-answer-them",
-          "publishedOn": "2021-05-10T14:19:44.000Z",
-          "wordCount": 1534,
-          "title": "10 common graphic design interview questions (& how to answer them)"
         }
       ]
     }

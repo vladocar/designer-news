@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-11T20:00:43.561Z</id>
+    <id>urn:2021-05-11T21:00:42.401Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T20:00:43.561Z</updated>
+    <updated>2021-05-11T21:00:42.401Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Visual Cues to Help Users Perceive Drag-and-Drop]]></title>
+        <id>https://uxmovement.com/buttons/visual-cues-to-help-users-perceive-drag-and-drop/</id>
+        <link href="http://www.webdesignernews.com/external/visual-cues-to-help-users-perceive-drag-and-drop"/>
+        <updated>2021-05-11T20:36:43.000Z</updated>
+        <summary type="html"><![CDATA[https://uxmovement.com/buttons/visual-cues-to-help-users-perceive-drag-and-drop/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sketch: in 2021 and beyond]]></title>
+        <id>https://www.designernews.co/stories/115382-sketch-in-2021-and-beyond</id>
+        <link href="https://www.designernews.co/stories/115382-sketch-in-2021-and-beyond"/>
+        <updated>2021-05-11T17:43:01.000Z</updated>
+        <summary type="html"><![CDATA[https://www.sketch.com/blog/2021/05/11/sketch-in-2021-and-beyond/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Rapid Development Process for Digital Products: Lessons from PayPal]]></title>
         <id>https://www.uxpin.com/studio/blog/rapid-development-process-paypal/</id>
@@ -338,16 +358,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 common graphic design interview questions (& how to answer them)]]></title>
-        <id>https://dribbble.com/stories/2021/05/10/graphic-design-interview-questions</id>
-        <link href="http://www.webdesignernews.com/external/10-common-graphic-design-interview-questions-how-to-answer-them"/>
-        <updated>2021-05-10T14:19:44.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/05/10/graphic-design-interview-questions]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Revision Path Ep. 398: Joseph Cuillier, multidisciplinary artist, founder and co-director of The Black School]]></title>
         <id>https://www.designernews.co/stories/115345-revision-path-ep-398-joseph-cuillier-multidisciplinary-artist-founder-and-codirector-of-the-black-school</id>
         <link href="https://www.designernews.co/stories/115345-revision-path-ep-398-joseph-cuillier-multidisciplinary-artist-founder-and-codirector-of-the-black-school"/>
@@ -516,16 +526,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
 The post 38 Best Fashion Fonts for Modern Designs appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beautiful Colored Gradients]]></title>
-        <id>https://www.designernews.co/stories/115219-beautiful-colored-gradients</id>
-        <link href="https://www.designernews.co/stories/115219-beautiful-colored-gradients"/>
-        <updated>2021-05-06T13:23:36.000Z</updated>
-        <summary type="html"><![CDATA[https://hexcolor.co/gradient-colors]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
