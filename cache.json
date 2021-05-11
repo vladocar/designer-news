@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115357-complete-guide-on-how-to-create-an-app-like-airbnb",
+          "author": null,
+          "description": "https://www.webcluesinfotech.com/cost-to-develop-an-app-like-airbnb/",
+          "link": "https://www.designernews.co/stories/115357-complete-guide-on-how-to-create-an-app-like-airbnb",
+          "publishedOn": "2021-05-11T03:49:37.000Z",
+          "wordCount": 178,
+          "title": "Complete guide on how to create an app like Airbnb"
+        },
+        {
           "id": "https://www.designernews.co/stories/115356-thinking-in-design-its-not-about-the-aesthetics",
           "author": null,
           "description": "https://gumroad.com/anumitha#fvTzD",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-06T07:21:42.000Z",
           "wordCount": 188,
           "title": "What is a RPA and How can it Help to Grow Your Business?"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115204-complete-guide-on-how-to-create-an-app-like-bet365",
-          "author": null,
-          "description": "https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/",
-          "link": "https://www.designernews.co/stories/115204-complete-guide-on-how-to-create-an-app-like-bet365",
-          "publishedOn": "2021-05-06T04:48:58.000Z",
-          "wordCount": 179,
-          "title": "Complete guide on how to create an app like Bet365"
         }
       ]
     },
@@ -608,7 +608,7 @@
           "description": "https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/",
           "link": "http://www.webdesignernews.com/external/how-to-fix-the-invalid-json-error-in-wordpress-beginner-s-guide",
           "publishedOn": "2021-05-10T17:42:00.000Z",
-          "wordCount": 2493,
+          "wordCount": 2496,
           "title": "How to Fix The Invalid JSON Error in WordPress (Beginner?s Guide)"
         },
         {
@@ -680,7 +680,7 @@
           "description": "https://thenextweb.com/news/google-will-automatically-enroll-users-in-2fa-two-factor-authentication-by-default",
           "link": "http://www.webdesignernews.com/external/google-will-soon-automatically-enroll-users-in-2fa",
           "publishedOn": "2021-05-09T22:22:00.000Z",
-          "wordCount": 709,
+          "wordCount": 716,
           "title": "Google will soon automatically enroll users in 2FA"
         },
         {
@@ -734,7 +734,7 @@
           "description": "https://thenextweb.com/news/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer-syndication",
           "link": "http://www.webdesignernews.com/external/beat-imposter-syndrome-by-developing-true-confidence-as-a-software-engineer",
           "publishedOn": "2021-05-09T14:29:00.000Z",
-          "wordCount": 3082,
+          "wordCount": 3075,
           "title": "Beat imposter syndrome by developing ?true confidence? as a software engineer"
         }
       ]
