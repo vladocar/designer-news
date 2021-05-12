@@ -585,6 +585,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.smashingmagazine.com/2021/05/little-smashing-stories/",
+          "author": null,
+          "description": "https://www.smashingmagazine.com/2021/05/little-smashing-stories/",
+          "link": "http://www.webdesignernews.com/external/little-smashing-stories",
+          "publishedOn": "2021-05-12T18:46:17.000Z",
+          "wordCount": 1993,
+          "title": "Little Smashing Stories"
+        },
+        {
           "id": "https://www.desqk.com/",
           "author": null,
           "description": "https://www.desqk.com/",
@@ -644,7 +653,7 @@
           "description": "https://thenextweb.com/news/german-regulator-bans-facebook-from-processing-whatsapp-user-data",
           "link": "http://www.webdesignernews.com/external/facebook-banned-from-processing-whatsapp-user-data-in-germany",
           "publishedOn": "2021-05-12T13:14:00.000Z",
-          "wordCount": 843,
+          "wordCount": 822,
           "title": "Facebook banned from processing WhatsApp user data in Germany"
         },
         {
@@ -698,7 +707,7 @@
           "description": "https://thenextweb.com/news/diversity-in-ai-groups-snub-future-funding-from-google-over-staff-treatment-timnit-gebru",
           "link": "http://www.webdesignernews.com/external/ai-diversity-groups-snub-future-funding-from-google-over-staff-treatment",
           "publishedOn": "2021-05-11T21:16:00.000Z",
-          "wordCount": 913,
+          "wordCount": 891,
           "title": "AI diversity groups snub future funding from Google over staff treatment"
         },
         {
@@ -725,7 +734,7 @@
           "description": "https://thenextweb.com/news/chinas-digital-currency-yuan-is-coming-major-economies-need-to-follow-syndication",
           "link": "http://www.webdesignernews.com/external/china-s-digital-currency-is-coming-other-major-economies-need-to-follow-suit",
           "publishedOn": "2021-05-11T16:39:00.000Z",
-          "wordCount": 1554,
+          "wordCount": 1543,
           "title": "China?s digital currency is coming - other major economies need to follow suit"
         },
         {
@@ -734,7 +743,7 @@
           "description": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
           "link": "http://www.webdesignernews.com/external/game-developers-break-silence-around-salaries",
           "publishedOn": "2021-05-11T15:59:34.000Z",
-          "wordCount": 1367,
+          "wordCount": 1334,
           "title": "Game developers break silence around salaries"
         },
         {
@@ -754,15 +763,6 @@
           "publishedOn": "2021-05-11T15:59:18.000Z",
           "wordCount": 1403,
           "title": "Component-level art direction with CSS Container Queries"
-        },
-        {
-          "id": "https://csshell.dev/",
-          "author": null,
-          "description": "https://csshell.dev/",
-          "link": "http://www.webdesignernews.com/external/css-hell-to-hell-with-bad-css",
-          "publishedOn": "2021-05-11T15:59:16.000Z",
-          "wordCount": 295,
-          "title": "CSS Hell - To Hell with bad CSS!"
         }
       ]
     }

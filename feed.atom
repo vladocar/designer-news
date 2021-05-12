@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-12T18:17:35.211Z</id>
+    <id>urn:2021-05-12T19:14:11.125Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T18:17:35.211Z</updated>
+    <updated>2021-05-12T19:14:11.125Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Little Smashing Stories]]></title>
+        <id>https://www.smashingmagazine.com/2021/05/little-smashing-stories/</id>
+        <link href="http://www.webdesignernews.com/external/little-smashing-stories"/>
+        <updated>2021-05-12T18:46:17.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/little-smashing-stories/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Desqk - An app for the future of project management]]></title>
         <id>https://www.desqk.com/</id>
@@ -281,16 +291,6 @@
         <link href="http://www.webdesignernews.com/external/component-level-art-direction-with-css-container-queries"/>
         <updated>2021-05-11T15:59:18.000Z</updated>
         <summary type="html"><![CDATA[https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Hell - To Hell with bad CSS!]]></title>
-        <id>https://csshell.dev/</id>
-        <link href="http://www.webdesignernews.com/external/css-hell-to-hell-with-bad-css"/>
-        <updated>2021-05-11T15:59:16.000Z</updated>
-        <summary type="html"><![CDATA[https://csshell.dev/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
