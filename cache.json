@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115402-how-prototyping-with-numbers-uncovers-viability-of-ideas-",
+          "author": null,
+          "description": "https://d.mba/stories/how-lilli-used-prototyping-with-numbers-to-explore-the-viability-of-a-new-business-idea",
+          "link": "https://www.designernews.co/stories/115402-how-prototyping-with-numbers-uncovers-viability-of-ideas-",
+          "publishedOn": "2021-05-12T15:04:08.000Z",
+          "wordCount": 177,
+          "title": "How prototyping with numbers uncovers viability of ideas"
+        },
+        {
           "id": "https://www.designernews.co/stories/115400-payload-a-cms-built-specifically-for-digital-design-agencies-is-now-live-on-product-hunt",
           "author": null,
           "description": "https://www.producthunt.com/posts/payload-cms",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-09T15:05:59.000Z",
           "wordCount": 175,
           "title": "Mother’s Day Marketing: 5 Infographics We Love"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115248-12-interesting-facts-about-coding-you-had-no-idea-about",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/04/12-interesting-facts-about-coding-you.html",
-          "link": "https://www.designernews.co/stories/115248-12-interesting-facts-about-coding-you-had-no-idea-about",
-          "publishedOn": "2021-05-08T11:31:42.000Z",
-          "wordCount": 181,
-          "title": "12 Interesting facts about coding you had no idea about"
         }
       ]
     },
@@ -635,7 +635,7 @@
           "description": "https://thenextweb.com/news/german-regulator-bans-facebook-from-processing-whatsapp-user-data",
           "link": "http://www.webdesignernews.com/external/facebook-banned-from-processing-whatsapp-user-data-in-germany",
           "publishedOn": "2021-05-12T13:14:00.000Z",
-          "wordCount": 841,
+          "wordCount": 832,
           "title": "Facebook banned from processing WhatsApp user data in Germany"
         },
         {
@@ -689,7 +689,7 @@
           "description": "https://thenextweb.com/news/diversity-in-ai-groups-snub-future-funding-from-google-over-staff-treatment-timnit-gebru",
           "link": "http://www.webdesignernews.com/external/ai-diversity-groups-snub-future-funding-from-google-over-staff-treatment",
           "publishedOn": "2021-05-11T21:16:00.000Z",
-          "wordCount": 899,
+          "wordCount": 885,
           "title": "AI diversity groups snub future funding from Google over staff treatment"
         },
         {
@@ -716,7 +716,7 @@
           "description": "https://thenextweb.com/news/chinas-digital-currency-yuan-is-coming-major-economies-need-to-follow-syndication",
           "link": "http://www.webdesignernews.com/external/china-s-digital-currency-is-coming-other-major-economies-need-to-follow-suit",
           "publishedOn": "2021-05-11T16:39:00.000Z",
-          "wordCount": 1543,
+          "wordCount": 1542,
           "title": "China?s digital currency is coming - other major economies need to follow suit"
         },
         {
@@ -725,7 +725,7 @@
           "description": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
           "link": "http://www.webdesignernews.com/external/game-developers-break-silence-around-salaries",
           "publishedOn": "2021-05-11T15:59:34.000Z",
-          "wordCount": 1353,
+          "wordCount": 1336,
           "title": "Game developers break silence around salaries"
         },
         {
@@ -761,7 +761,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/26-exciting-new-tools-for-designers-may-2021/",
           "link": "http://www.webdesignernews.com/external/26-exciting-new-tools-for-designers-may-2021",
           "publishedOn": "2021-05-11T15:59:12.000Z",
-          "wordCount": 1594,
+          "wordCount": 1589,
           "title": "26 Exciting New Tools For Designers, May 2021"
         }
       ]
