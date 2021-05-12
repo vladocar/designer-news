@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-12T20:00:42.287Z</id>
+    <id>urn:2021-05-12T21:00:45.576Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T20:00:42.287Z</updated>
+    <updated>2021-05-12T21:00:45.576Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How image search works at Dropbox]]></title>
+        <id>https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox</id>
+        <link href="http://www.webdesignernews.com/external/how-image-search-works-at-dropbox"/>
+        <updated>2021-05-12T20:43:02.000Z</updated>
+        <summary type="html"><![CDATA[https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iconic icons]]></title>
+        <id>https://iconic.app/</id>
+        <link href="http://www.webdesignernews.com/external/iconic-icons"/>
+        <updated>2021-05-12T19:59:00.000Z</updated>
+        <summary type="html"><![CDATA[https://iconic.app/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Little Smashing Stories]]></title>
         <id>https://www.smashingmagazine.com/2021/05/little-smashing-stories/</id>
@@ -271,26 +291,6 @@
         <link href="http://www.webdesignernews.com/external/game-developers-break-silence-around-salaries"/>
         <updated>2021-05-11T15:59:34.000Z</updated>
         <summary type="html"><![CDATA[https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Case Study: How Headspace Designs for Mindfulness]]></title>
-        <id>https://raw.studio/blog/how-headspace-designs-for-mindfulness/</id>
-        <link href="http://www.webdesignernews.com/external/case-study-how-headspace-designs-for-mindfulness"/>
-        <updated>2021-05-11T15:59:22.000Z</updated>
-        <summary type="html"><![CDATA[https://raw.studio/blog/how-headspace-designs-for-mindfulness/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Component-level art direction with CSS Container Queries]]></title>
-        <id>https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/</id>
-        <link href="http://www.webdesignernews.com/external/component-level-art-direction-with-css-container-queries"/>
-        <updated>2021-05-11T15:59:18.000Z</updated>
-        <summary type="html"><![CDATA[https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
