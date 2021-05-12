@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-12T17:35:23.164Z</id>
+    <id>urn:2021-05-12T18:17:35.211Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T17:35:23.164Z</updated>
+    <updated>2021-05-12T18:17:35.211Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Desqk - An app for the future of project management]]></title>
+        <id>https://www.desqk.com/</id>
+        <link href="http://www.webdesignernews.com/external/desqk-an-app-for-the-future-of-project-management"/>
+        <updated>2021-05-12T17:31:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.desqk.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How prototyping with numbers uncovers viability of ideas]]></title>
         <id>https://www.designernews.co/stories/115402-how-prototyping-with-numbers-uncovers-viability-of-ideas-</id>
@@ -281,16 +291,6 @@
         <link href="http://www.webdesignernews.com/external/css-hell-to-hell-with-bad-css"/>
         <updated>2021-05-11T15:59:16.000Z</updated>
         <summary type="html"><![CDATA[https://csshell.dev/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[26 Exciting New Tools For Designers, May 2021]]></title>
-        <id>https://www.webdesignerdepot.com/2021/05/26-exciting-new-tools-for-designers-may-2021/</id>
-        <link href="http://www.webdesignernews.com/external/26-exciting-new-tools-for-designers-may-2021"/>
-        <updated>2021-05-11T15:59:12.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/26-exciting-new-tools-for-designers-may-2021/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
