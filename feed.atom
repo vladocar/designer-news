@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-12T04:08:22.347Z</id>
+    <id>urn:2021-05-12T05:12:17.721Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T04:08:22.347Z</updated>
+    <updated>2021-05-12T05:12:17.721Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[6 Ways To Make Money With Your Code]]></title>
+        <id>https://www.designernews.co/stories/115391-6-ways-to-make-money-with-your-code</id>
+        <link href="https://www.designernews.co/stories/115391-6-ways-to-make-money-with-your-code"/>
+        <updated>2021-05-12T04:59:52.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best keyboards for programming/designing in 2021]]></title>
+        <id>https://www.designernews.co/stories/115389-best-keyboards-for-programmingdesigning-in-2021</id>
+        <link href="https://www.designernews.co/stories/115389-best-keyboards-for-programmingdesigning-in-2021"/>
+        <updated>2021-05-12T04:56:49.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Preserving Syrian design history and graphics in the Arab world: Meet the Syrian Design Archive]]></title>
         <id>https://www.itsnicethat.com/features/syrian-design-archive-graphic-design-110521</id>
@@ -478,16 +498,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 Most Common Git Mistakes]]></title>
-        <id>https://www.designernews.co/stories/115238-7-most-common-git-mistakes</id>
-        <link href="https://www.designernews.co/stories/115238-7-most-common-git-mistakes"/>
-        <updated>2021-05-07T11:49:46.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/7-most-common-git-mistakes.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[5 Rules for Every Code Review]]></title>
         <id>https://www.designernews.co/stories/115237-5-rules-for-every-code-review</id>
         <link href="https://www.designernews.co/stories/115237-5-rules-for-every-code-review"/>
@@ -505,16 +515,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Valeriia Panina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Amazing Games to learn basic Principles of UI Design]]></title>
-        <id>https://www.designernews.co/stories/115231-10-amazing-games-to-learn-basic-principles-of-ui-design</id>
-        <link href="https://www.designernews.co/stories/115231-10-amazing-games-to-learn-basic-principles-of-ui-design"/>
-        <updated>2021-05-07T09:50:15.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=3E4ByrptCeo]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>

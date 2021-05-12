@@ -103,6 +103,24 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115391-6-ways-to-make-money-with-your-code",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html",
+          "link": "https://www.designernews.co/stories/115391-6-ways-to-make-money-with-your-code",
+          "publishedOn": "2021-05-12T04:59:52.000Z",
+          "wordCount": 172,
+          "title": "6 Ways To Make Money With Your Code"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115389-best-keyboards-for-programmingdesigning-in-2021",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html",
+          "link": "https://www.designernews.co/stories/115389-best-keyboards-for-programmingdesigning-in-2021",
+          "publishedOn": "2021-05-12T04:56:49.000Z",
+          "wordCount": 168,
+          "title": "Best keyboards for programming/designing in 2021"
+        },
+        {
           "id": "https://www.designernews.co/stories/115382-sketch-in-2021-and-beyond",
           "author": null,
           "description": "https://www.sketch.com/blog/2021/05/11/sketch-in-2021-and-beyond/",
@@ -301,15 +319,6 @@
           "title": "Hire Mobile App Developer"
         },
         {
-          "id": "https://www.designernews.co/stories/115238-7-most-common-git-mistakes",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/05/7-most-common-git-mistakes.html",
-          "link": "https://www.designernews.co/stories/115238-7-most-common-git-mistakes",
-          "publishedOn": "2021-05-07T11:49:46.000Z",
-          "wordCount": 166,
-          "title": "7 Most Common Git Mistakes"
-        },
-        {
           "id": "https://www.designernews.co/stories/115237-5-rules-for-every-code-review",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/05/5-rules-for-every-code-review.html",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-07T11:49:04.000Z",
           "wordCount": 197,
           "title": "5 Rules for Every Code Review"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115231-10-amazing-games-to-learn-basic-principles-of-ui-design",
-          "author": null,
-          "description": "https://www.youtube.com/watch?v=3E4ByrptCeo",
-          "link": "https://www.designernews.co/stories/115231-10-amazing-games-to-learn-basic-principles-of-ui-design",
-          "publishedOn": "2021-05-07T09:50:15.000Z",
-          "wordCount": 176,
-          "title": "10 Amazing Games to learn basic Principles of UI Design"
         }
       ]
     },
@@ -599,7 +599,7 @@
           "description": "https://thenextweb.com/news/diversity-in-ai-groups-snub-future-funding-from-google-over-staff-treatment-timnit-gebru",
           "link": "http://www.webdesignernews.com/external/ai-diversity-groups-snub-future-funding-from-google-over-staff-treatment",
           "publishedOn": "2021-05-11T21:16:00.000Z",
-          "wordCount": 902,
+          "wordCount": 901,
           "title": "AI diversity groups snub future funding from Google over staff treatment"
         },
         {
@@ -635,7 +635,7 @@
           "description": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
           "link": "http://www.webdesignernews.com/external/game-developers-break-silence-around-salaries",
           "publishedOn": "2021-05-11T15:59:34.000Z",
-          "wordCount": 1363,
+          "wordCount": 1419,
           "title": "Game developers break silence around salaries"
         },
         {
@@ -671,7 +671,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/26-exciting-new-tools-for-designers-may-2021/",
           "link": "http://www.webdesignernews.com/external/26-exciting-new-tools-for-designers-may-2021",
           "publishedOn": "2021-05-11T15:59:12.000Z",
-          "wordCount": 1599,
+          "wordCount": 1593,
           "title": "26 Exciting New Tools For Designers, May 2021"
         },
         {
@@ -680,7 +680,7 @@
           "description": "https://stumbled.cc/",
           "link": "http://www.webdesignernews.com/external/stumbled",
           "publishedOn": "2021-05-11T15:58:17.000Z",
-          "wordCount": 130,
+          "wordCount": 131,
           "title": "Stumbled"
         },
         {
