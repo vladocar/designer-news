@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-12T12:00:53.612Z</id>
+    <id>urn:2021-05-12T13:18:09.400Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T12:00:53.612Z</updated>
+    <updated>2021-05-12T13:18:09.400Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
+        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
+        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
+        <updated>2021-05-12T12:42:00.000Z</updated>
+        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. [Subscribe to the newsletter](http://smashingmagazine.com/the-smashing-newsletter/) so you don’t miss the next one.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payload, a CMS built specifically for digital design agencies, is now live on Product Hunt!]]></title>
+        <id>https://www.designernews.co/stories/115400-payload-a-cms-built-specifically-for-digital-design-agencies-is-now-live-on-product-hunt</id>
+        <link href="https://www.designernews.co/stories/115400-payload-a-cms-built-specifically-for-digital-design-agencies-is-now-live-on-product-hunt"/>
+        <updated>2021-05-12T12:37:35.000Z</updated>
+        <summary type="html"><![CDATA[https://www.producthunt.com/posts/payload-cms]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brand Experience Canvas Figma Template]]></title>
+        <id>https://www.designernews.co/stories/115398-brand-experience-canvas-figma-template</id>
+        <link href="https://www.designernews.co/stories/115398-brand-experience-canvas-figma-template"/>
+        <updated>2021-05-12T11:56:17.000Z</updated>
+        <summary type="html"><![CDATA[https://www.figma.com/community/file/974278511242705439/Brand-Experience-Canvas-by-Human-Deluxe]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Updates & new features to Paytable; The Airtable membership tool to monetize your Airtable data]]></title>
         <id>https://www.designernews.co/stories/115397-updates--new-features-to-paytable-the-airtable-membership-tool-to-monetize-your-airtable-data</id>
@@ -493,26 +523,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <link href="https://www.designernews.co/stories/115248-12-interesting-facts-about-coding-you-had-no-idea-about"/>
         <updated>2021-05-08T11:31:42.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/12-interesting-facts-about-coding-you.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Themes to Make Your VS Code Look Beautiful]]></title>
-        <id>https://www.designernews.co/stories/115247-7-themes-to-make-your-vs-code-look-beautiful</id>
-        <link href="https://www.designernews.co/stories/115247-7-themes-to-make-your-vs-code-look-beautiful"/>
-        <updated>2021-05-08T11:30:52.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/7-themes-to-make-your-vs-code-look.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hire Mobile App Developer]]></title>
-        <id>https://www.designernews.co/stories/115246-hire-mobile-app-developer-</id>
-        <link href="https://www.designernews.co/stories/115246-hire-mobile-app-developer-"/>
-        <updated>2021-05-08T11:22:06.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/hire-dedicated-mobile-app-developers/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
