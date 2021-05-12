@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115397-updates--new-features-to-paytable-the-airtable-membership-tool-to-monetize-your-airtable-data",
+          "author": null,
+          "description": "https://community.airtable.com/t/updates-new-features-to-paytable-the-airtable-membership-tool-to-monetize-your-airtable-data/40300",
+          "link": "https://www.designernews.co/stories/115397-updates--new-features-to-paytable-the-airtable-membership-tool-to-monetize-your-airtable-data",
+          "publishedOn": "2021-05-12T10:39:38.000Z",
+          "wordCount": 188,
+          "title": "Updates & new features to Paytable; The Airtable membership tool to monetize your Airtable data"
+        },
+        {
           "id": "https://www.designernews.co/stories/115391-6-ways-to-make-money-with-your-code",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-08T11:22:06.000Z",
           "wordCount": 163,
           "title": "Hire Mobile App Developer"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115237-5-rules-for-every-code-review",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/05/5-rules-for-every-code-review.html",
-          "link": "https://www.designernews.co/stories/115237-5-rules-for-every-code-review",
-          "publishedOn": "2021-05-07T11:49:04.000Z",
-          "wordCount": 197,
-          "title": "5 Rules for Every Code Review"
         }
       ]
     },
@@ -608,7 +608,7 @@
           "description": "https://thenextweb.com/news/diversity-in-ai-groups-snub-future-funding-from-google-over-staff-treatment-timnit-gebru",
           "link": "http://www.webdesignernews.com/external/ai-diversity-groups-snub-future-funding-from-google-over-staff-treatment",
           "publishedOn": "2021-05-11T21:16:00.000Z",
-          "wordCount": 885,
+          "wordCount": 888,
           "title": "AI diversity groups snub future funding from Google over staff treatment"
         },
         {
@@ -635,7 +635,7 @@
           "description": "https://thenextweb.com/news/chinas-digital-currency-yuan-is-coming-major-economies-need-to-follow-syndication",
           "link": "http://www.webdesignernews.com/external/china-s-digital-currency-is-coming-other-major-economies-need-to-follow-suit",
           "publishedOn": "2021-05-11T16:39:00.000Z",
-          "wordCount": 1548,
+          "wordCount": 1537,
           "title": "China?s digital currency is coming - other major economies need to follow suit"
         },
         {
@@ -644,7 +644,7 @@
           "description": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
           "link": "http://www.webdesignernews.com/external/game-developers-break-silence-around-salaries",
           "publishedOn": "2021-05-11T15:59:34.000Z",
-          "wordCount": 1362,
+          "wordCount": 1383,
           "title": "Game developers break silence around salaries"
         },
         {
@@ -680,7 +680,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/26-exciting-new-tools-for-designers-may-2021/",
           "link": "http://www.webdesignernews.com/external/26-exciting-new-tools-for-designers-may-2021",
           "publishedOn": "2021-05-11T15:59:12.000Z",
-          "wordCount": 1597,
+          "wordCount": 1585,
           "title": "26 Exciting New Tools For Designers, May 2021"
         },
         {
@@ -689,7 +689,7 @@
           "description": "https://stumbled.cc/",
           "link": "http://www.webdesignernews.com/external/stumbled",
           "publishedOn": "2021-05-11T15:58:17.000Z",
-          "wordCount": 130,
+          "wordCount": 124,
           "title": "Stumbled"
         },
         {

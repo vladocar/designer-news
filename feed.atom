@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-12T10:00:52.106Z</id>
+    <id>urn:2021-05-12T11:00:38.703Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T10:00:52.106Z</updated>
+    <updated>2021-05-12T11:00:38.703Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Updates & new features to Paytable; The Airtable membership tool to monetize your Airtable data]]></title>
+        <id>https://www.designernews.co/stories/115397-updates--new-features-to-paytable-the-airtable-membership-tool-to-monetize-your-airtable-data</id>
+        <link href="https://www.designernews.co/stories/115397-updates--new-features-to-paytable-the-airtable-membership-tool-to-monetize-your-airtable-data"/>
+        <updated>2021-05-12T10:39:38.000Z</updated>
+        <summary type="html"><![CDATA[https://community.airtable.com/t/updates-new-features-to-paytable-the-airtable-membership-tool-to-monetize-your-airtable-data/40300]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Little Smashing Stories]]></title>
         <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
@@ -503,16 +513,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <link href="https://www.designernews.co/stories/115246-hire-mobile-app-developer-"/>
         <updated>2021-05-08T11:22:06.000Z</updated>
         <summary type="html"><![CDATA[https://www.webcluesinfotech.com/hire-dedicated-mobile-app-developers/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Rules for Every Code Review]]></title>
-        <id>https://www.designernews.co/stories/115237-5-rules-for-every-code-review</id>
-        <link href="https://www.designernews.co/stories/115237-5-rules-for-every-code-review"/>
-        <updated>2021-05-07T11:49:04.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/5-rules-for-every-code-review.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
