@@ -1,16 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-12T13:18:09.400Z</id>
+    <id>urn:2021-05-12T14:00:57.379Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T13:18:09.400Z</updated>
+    <updated>2021-05-12T14:00:57.379Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Schema.org launches its schema markup validator tool]]></title>
+        <id>https://searchengineland.com/schema-org-launches-its-schema-markup-validator-tool-348590</id>
+        <link href="http://www.webdesignernews.com/external/schema-org-launches-its-schema-markup-validator-tool"/>
+        <updated>2021-05-12T13:34:38.000Z</updated>
+        <summary type="html"><![CDATA[https://searchengineland.com/schema-org-launches-its-schema-markup-validator-tool-348590]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As a Freelance Designer, What Is Your Unique Selling Point?]]></title>
+        <id>https://speckyboy.com/freelance-designer-unique-selling-point/</id>
+        <link href="http://www.webdesignernews.com/external/as-a-freelance-designer-what-is-your-unique-selling-point"/>
+        <updated>2021-05-12T13:34:36.000Z</updated>
+        <summary type="html"><![CDATA[https://speckyboy.com/freelance-designer-unique-selling-point/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover Figma: A Practical Guide]]></title>
+        <id>https://marcandrew.me/discover-figma-a-practical-guide/</id>
+        <link href="http://www.webdesignernews.com/external/discover-figma-a-practical-guide"/>
+        <updated>2021-05-12T13:34:09.000Z</updated>
+        <summary type="html"><![CDATA[https://marcandrew.me/discover-figma-a-practical-guide/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sketch: in 2021 and beyond]]></title>
+        <id>https://www.sketch.com/blog/2021/05/11/sketch-in-2021-and-beyond/</id>
+        <link href="http://www.webdesignernews.com/external/sketch-in-2021-and-beyond"/>
+        <updated>2021-05-12T13:33:19.000Z</updated>
+        <summary type="html"><![CDATA[https://www.sketch.com/blog/2021/05/11/sketch-in-2021-and-beyond/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grilli Type designs a bespoke typeface for Pinterest that lets pinned imagery ?shine?]]></title>
+        <id>https://www.itsnicethat.com/news/grilli-type-made-thought-pinterest-sans-typography-graphic-design-120521</id>
+        <link href="http://www.webdesignernews.com/external/grilli-type-designs-a-bespoke-typeface-for-pinterest-that-lets-pinned-imagery-shine"/>
+        <updated>2021-05-12T13:33:12.000Z</updated>
+        <summary type="html"><![CDATA[https://www.itsnicethat.com/news/grilli-type-made-thought-pinterest-sans-typography-graphic-design-120521]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook banned from processing WhatsApp user data in Germany]]></title>
+        <id>https://thenextweb.com/news/german-regulator-bans-facebook-from-processing-whatsapp-user-data</id>
+        <link href="http://www.webdesignernews.com/external/facebook-banned-from-processing-whatsapp-user-data-in-germany"/>
+        <updated>2021-05-12T13:14:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/german-regulator-bans-facebook-from-processing-whatsapp-user-data]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
         <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
         <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
         <updated>2021-05-12T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. [Subscribe to the newsletter](http://smashingmagazine.com/the-smashing-newsletter/) so you don’t miss the next one.]]></summary>
+        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
@@ -26,6 +86,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wisepath - All in one tool for teams, chat, task and docs]]></title>
+        <id>https://wisepath.io/</id>
+        <link href="http://www.webdesignernews.com/external/wisepath-all-in-one-tool-for-teams-chat-task-and-docs"/>
+        <updated>2021-05-12T12:06:00.000Z</updated>
+        <summary type="html"><![CDATA[https://wisepath.io/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Brand Experience Canvas Figma Template]]></title>
         <id>https://www.designernews.co/stories/115398-brand-experience-canvas-figma-template</id>
         <link href="https://www.designernews.co/stories/115398-brand-experience-canvas-figma-template"/>
@@ -33,6 +103,16 @@
         <summary type="html"><![CDATA[https://www.figma.com/community/file/974278511242705439/Brand-Experience-Canvas-by-Human-Deluxe]]></summary>
         <author>
             <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designers, want to change the world? Read this first]]></title>
+        <id>https://www.fastcompany.com/90625774/designers-want-to-change-the-world-read-this-first</id>
+        <link href="http://www.webdesignernews.com/external/designers-want-to-change-the-world-read-this-first"/>
+        <updated>2021-05-12T11:08:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.fastcompany.com/90625774/designers-want-to-change-the-world-read-this-first]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -206,26 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stumbled]]></title>
-        <id>https://stumbled.cc/</id>
-        <link href="http://www.webdesignernews.com/external/stumbled"/>
-        <updated>2021-05-11T15:58:17.000Z</updated>
-        <summary type="html"><![CDATA[https://stumbled.cc/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design analysis: The first encounter in Ghost of Tsushima]]></title>
-        <id>https://uxdesign.cc/design-analysis-the-first-encounter-in-ghost-of-tsushima-62eb54b1624b</id>
-        <link href="http://www.webdesignernews.com/external/design-analysis-the-first-encounter-in-ghost-of-tsushima"/>
-        <updated>2021-05-11T14:34:00.000Z</updated>
-        <summary type="html"><![CDATA[https://uxdesign.cc/design-analysis-the-first-encounter-in-ghost-of-tsushima-62eb54b1624b]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
         <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
         <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
@@ -264,16 +324,6 @@ The post 10 Free Illustrator Shadow Text Effect (Graphic Styles) appeared first 
         <summary type="html"><![CDATA[https://www.figma.com/community/file/973638860086718856]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
-        <id>https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
-        <link href="http://www.webdesignernews.com/external/a-primer-on-css-container-queries"/>
-        <updated>2021-05-11T12:03:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -347,26 +397,6 @@ The post 10 Free Illustrator Shadow Text Effect (Graphic Styles) appeared first 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MARKDE - An editor for writing multiple formats of markdown text]]></title>
-        <id>https://markde.netlify.app/</id>
-        <link href="http://www.webdesignernews.com/external/markde-an-editor-for-writing-multiple-formats-of-markdown-text"/>
-        <updated>2021-05-10T23:17:00.000Z</updated>
-        <summary type="html"><![CDATA[https://markde.netlify.app/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dealing With an Absentee Web Design Client]]></title>
-        <id>https://speckyboy.com/absentee-web-design-client/</id>
-        <link href="http://www.webdesignernews.com/external/dealing-with-an-absentee-web-design-client"/>
-        <updated>2021-05-10T23:08:48.000Z</updated>
-        <summary type="html"><![CDATA[https://speckyboy.com/absentee-web-design-client/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[14 Best Biker Fonts]]></title>
         <id>https://www.designinspiration.info/?p=2462</id>
         <link href="https://www.designinspiration.info/biker-fonts/"/>
@@ -375,36 +405,6 @@ The post 10 Free Illustrator Shadow Text Effect (Graphic Styles) appeared first 
 The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why you should invest in good Developer Experience today]]></title>
-        <id>https://www.thoughtworks.com/insights/blog/why-you-should-invest-good-developer-experience-today</id>
-        <link href="http://www.webdesignernews.com/external/why-you-should-invest-in-good-developer-experience-today"/>
-        <updated>2021-05-10T22:05:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.thoughtworks.com/insights/blog/why-you-should-invest-good-developer-experience-today]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10+ CSS Wave Animation Examples]]></title>
-        <id>https://csshint.com/css-wave-animation/</id>
-        <link href="http://www.webdesignernews.com/external/10-css-wave-animation-examples"/>
-        <updated>2021-05-10T21:23:00.000Z</updated>
-        <summary type="html"><![CDATA[https://csshint.com/css-wave-animation/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mother?s Day Marketing: 5 Infographics We Love]]></title>
-        <id>https://marketsplash.com/mothers-day-marketing/</id>
-        <link href="http://www.webdesignernews.com/external/mother-s-day-marketing-5-infographics-we-love"/>
-        <updated>2021-05-10T19:09:00.000Z</updated>
-        <summary type="html"><![CDATA[https://marketsplash.com/mothers-day-marketing/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>

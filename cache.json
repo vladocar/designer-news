@@ -337,10 +337,10 @@
         {
           "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. [Subscribe to the newsletter](http://smashingmagazine.com/the-smashing-newsletter/) so you don’t miss the next one.",
+          "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
           "publishedOn": "2021-05-12T12:42:00.000Z",
-          "wordCount": 3419,
+          "wordCount": 3443,
           "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker"
         },
         {
@@ -585,6 +585,78 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://searchengineland.com/schema-org-launches-its-schema-markup-validator-tool-348590",
+          "author": null,
+          "description": "https://searchengineland.com/schema-org-launches-its-schema-markup-validator-tool-348590",
+          "link": "http://www.webdesignernews.com/external/schema-org-launches-its-schema-markup-validator-tool",
+          "publishedOn": "2021-05-12T13:34:38.000Z",
+          "wordCount": 1029,
+          "title": "Schema.org launches its schema markup validator tool"
+        },
+        {
+          "id": "https://speckyboy.com/freelance-designer-unique-selling-point/",
+          "author": null,
+          "description": "https://speckyboy.com/freelance-designer-unique-selling-point/",
+          "link": "http://www.webdesignernews.com/external/as-a-freelance-designer-what-is-your-unique-selling-point",
+          "publishedOn": "2021-05-12T13:34:36.000Z",
+          "wordCount": 1649,
+          "title": "As a Freelance Designer, What Is Your Unique Selling Point?"
+        },
+        {
+          "id": "https://marcandrew.me/discover-figma-a-practical-guide/",
+          "author": null,
+          "description": "https://marcandrew.me/discover-figma-a-practical-guide/",
+          "link": "http://www.webdesignernews.com/external/discover-figma-a-practical-guide",
+          "publishedOn": "2021-05-12T13:34:09.000Z",
+          "wordCount": 2605,
+          "title": "Discover Figma: A Practical Guide"
+        },
+        {
+          "id": "https://www.sketch.com/blog/2021/05/11/sketch-in-2021-and-beyond/",
+          "author": null,
+          "description": "https://www.sketch.com/blog/2021/05/11/sketch-in-2021-and-beyond/",
+          "link": "http://www.webdesignernews.com/external/sketch-in-2021-and-beyond",
+          "publishedOn": "2021-05-12T13:33:19.000Z",
+          "wordCount": 844,
+          "title": "Sketch: in 2021 and beyond"
+        },
+        {
+          "id": "https://www.itsnicethat.com/news/grilli-type-made-thought-pinterest-sans-typography-graphic-design-120521",
+          "author": null,
+          "description": "https://www.itsnicethat.com/news/grilli-type-made-thought-pinterest-sans-typography-graphic-design-120521",
+          "link": "http://www.webdesignernews.com/external/grilli-type-designs-a-bespoke-typeface-for-pinterest-that-lets-pinned-imagery-shine",
+          "publishedOn": "2021-05-12T13:33:12.000Z",
+          "wordCount": 813,
+          "title": "Grilli Type designs a bespoke typeface for Pinterest that lets pinned imagery ?shine?"
+        },
+        {
+          "id": "https://thenextweb.com/news/german-regulator-bans-facebook-from-processing-whatsapp-user-data",
+          "author": null,
+          "description": "https://thenextweb.com/news/german-regulator-bans-facebook-from-processing-whatsapp-user-data",
+          "link": "http://www.webdesignernews.com/external/facebook-banned-from-processing-whatsapp-user-data-in-germany",
+          "publishedOn": "2021-05-12T13:14:00.000Z",
+          "wordCount": 825,
+          "title": "Facebook banned from processing WhatsApp user data in Germany"
+        },
+        {
+          "id": "https://wisepath.io/",
+          "author": null,
+          "description": "https://wisepath.io/",
+          "link": "http://www.webdesignernews.com/external/wisepath-all-in-one-tool-for-teams-chat-task-and-docs",
+          "publishedOn": "2021-05-12T12:06:00.000Z",
+          "wordCount": 1,
+          "title": "Wisepath - All in one tool for teams, chat, task and docs"
+        },
+        {
+          "id": "https://www.fastcompany.com/90625774/designers-want-to-change-the-world-read-this-first",
+          "author": null,
+          "description": "https://www.fastcompany.com/90625774/designers-want-to-change-the-world-read-this-first",
+          "link": "http://www.webdesignernews.com/external/designers-want-to-change-the-world-read-this-first",
+          "publishedOn": "2021-05-12T11:08:00.000Z",
+          "wordCount": 2001,
+          "title": "Designers, want to change the world? Read this first"
+        },
+        {
           "id": "https://www.itsnicethat.com/features/syrian-design-archive-graphic-design-110521",
           "author": null,
           "description": "https://www.itsnicethat.com/features/syrian-design-archive-graphic-design-110521",
@@ -617,7 +689,7 @@
           "description": "https://thenextweb.com/news/diversity-in-ai-groups-snub-future-funding-from-google-over-staff-treatment-timnit-gebru",
           "link": "http://www.webdesignernews.com/external/ai-diversity-groups-snub-future-funding-from-google-over-staff-treatment",
           "publishedOn": "2021-05-11T21:16:00.000Z",
-          "wordCount": 898,
+          "wordCount": 897,
           "title": "AI diversity groups snub future funding from Google over staff treatment"
         },
         {
@@ -644,7 +716,7 @@
           "description": "https://thenextweb.com/news/chinas-digital-currency-yuan-is-coming-major-economies-need-to-follow-syndication",
           "link": "http://www.webdesignernews.com/external/china-s-digital-currency-is-coming-other-major-economies-need-to-follow-suit",
           "publishedOn": "2021-05-11T16:39:00.000Z",
-          "wordCount": 1543,
+          "wordCount": 1549,
           "title": "China?s digital currency is coming - other major economies need to follow suit"
         },
         {
@@ -653,7 +725,7 @@
           "description": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
           "link": "http://www.webdesignernews.com/external/game-developers-break-silence-around-salaries",
           "publishedOn": "2021-05-11T15:59:34.000Z",
-          "wordCount": 1302,
+          "wordCount": 1344,
           "title": "Game developers break silence around salaries"
         },
         {
@@ -689,80 +761,8 @@
           "description": "https://www.webdesignerdepot.com/2021/05/26-exciting-new-tools-for-designers-may-2021/",
           "link": "http://www.webdesignernews.com/external/26-exciting-new-tools-for-designers-may-2021",
           "publishedOn": "2021-05-11T15:59:12.000Z",
-          "wordCount": 1612,
+          "wordCount": 1587,
           "title": "26 Exciting New Tools For Designers, May 2021"
-        },
-        {
-          "id": "https://stumbled.cc/",
-          "author": null,
-          "description": "https://stumbled.cc/",
-          "link": "http://www.webdesignernews.com/external/stumbled",
-          "publishedOn": "2021-05-11T15:58:17.000Z",
-          "wordCount": 127,
-          "title": "Stumbled"
-        },
-        {
-          "id": "https://uxdesign.cc/design-analysis-the-first-encounter-in-ghost-of-tsushima-62eb54b1624b",
-          "author": null,
-          "description": "https://uxdesign.cc/design-analysis-the-first-encounter-in-ghost-of-tsushima-62eb54b1624b",
-          "link": "http://www.webdesignernews.com/external/design-analysis-the-first-encounter-in-ghost-of-tsushima",
-          "publishedOn": "2021-05-11T14:34:00.000Z",
-          "wordCount": 1973,
-          "title": "Design analysis: The first encounter in Ghost of Tsushima"
-        },
-        {
-          "id": "https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
-          "author": null,
-          "description": "https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
-          "link": "http://www.webdesignernews.com/external/a-primer-on-css-container-queries",
-          "publishedOn": "2021-05-11T12:03:00.000Z",
-          "wordCount": 4874,
-          "title": "A Primer On CSS Container Queries"
-        },
-        {
-          "id": "https://markde.netlify.app/",
-          "author": null,
-          "description": "https://markde.netlify.app/",
-          "link": "http://www.webdesignernews.com/external/markde-an-editor-for-writing-multiple-formats-of-markdown-text",
-          "publishedOn": "2021-05-10T23:17:00.000Z",
-          "wordCount": 12,
-          "title": "MARKDE - An editor for writing multiple formats of markdown text"
-        },
-        {
-          "id": "https://speckyboy.com/absentee-web-design-client/",
-          "author": null,
-          "description": "https://speckyboy.com/absentee-web-design-client/",
-          "link": "http://www.webdesignernews.com/external/dealing-with-an-absentee-web-design-client",
-          "publishedOn": "2021-05-10T23:08:48.000Z",
-          "wordCount": 1411,
-          "title": "Dealing With an Absentee Web Design Client"
-        },
-        {
-          "id": "https://www.thoughtworks.com/insights/blog/why-you-should-invest-good-developer-experience-today",
-          "author": null,
-          "description": "https://www.thoughtworks.com/insights/blog/why-you-should-invest-good-developer-experience-today",
-          "link": "http://www.webdesignernews.com/external/why-you-should-invest-in-good-developer-experience-today",
-          "publishedOn": "2021-05-10T22:05:00.000Z",
-          "wordCount": 1509,
-          "title": "Why you should invest in good Developer Experience today"
-        },
-        {
-          "id": "https://csshint.com/css-wave-animation/",
-          "author": null,
-          "description": "https://csshint.com/css-wave-animation/",
-          "link": "http://www.webdesignernews.com/external/10-css-wave-animation-examples",
-          "publishedOn": "2021-05-10T21:23:00.000Z",
-          "wordCount": 531,
-          "title": "10+ CSS Wave Animation Examples"
-        },
-        {
-          "id": "https://marketsplash.com/mothers-day-marketing/",
-          "author": null,
-          "description": "https://marketsplash.com/mothers-day-marketing/",
-          "link": "http://www.webdesignernews.com/external/mother-s-day-marketing-5-infographics-we-love",
-          "publishedOn": "2021-05-10T19:09:00.000Z",
-          "wordCount": 1167,
-          "title": "Mother?s Day Marketing: 5 Infographics We Love"
         }
       ]
     }
