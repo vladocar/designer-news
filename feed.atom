@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-12T21:00:45.576Z</id>
+    <id>urn:2021-05-12T22:00:48.556Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T21:00:45.576Z</updated>
+    <updated>2021-05-12T22:00:48.556Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Just Use Email ? How to Use Email for Everything]]></title>
+        <id>https://www.justuseemail.com/</id>
+        <link href="http://www.webdesignernews.com/external/just-use-email-how-to-use-email-for-everything"/>
+        <updated>2021-05-12T21:34:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.justuseemail.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18 Best Tropical Fonts for Summer Designs]]></title>
+        <id>https://www.designinspiration.info/?p=2464</id>
+        <link href="https://www.designinspiration.info/tropical-fonts/"/>
+        <updated>2021-05-12T21:15:11.000Z</updated>
+        <summary type="html"><![CDATA[Finding the right tropical fonts for your projects may not be a simple task. With this collection, we gathered some of the best tropical fonts for you to use in your projects. The range in appearance and use are diverse but they are generally well suited for summer themes or
+The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How image search works at Dropbox]]></title>
         <id>https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox</id>
@@ -281,16 +302,6 @@
         <link href="http://www.webdesignernews.com/external/china-s-digital-currency-is-coming-other-major-economies-need-to-follow-suit"/>
         <updated>2021-05-11T16:39:00.000Z</updated>
         <summary type="html"><![CDATA[https://thenextweb.com/news/chinas-digital-currency-yuan-is-coming-major-economies-need-to-follow-syndication]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game developers break silence around salaries]]></title>
-        <id>https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html</id>
-        <link href="http://www.webdesignernews.com/external/game-developers-break-silence-around-salaries"/>
-        <updated>2021-05-11T15:59:34.000Z</updated>
-        <summary type="html"><![CDATA[https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
@@ -722,17 +733,6 @@ The post 30 Best Monogram Fonts appeared first on Design Inspiration.]]></summar
         <summary type="html"><![CDATA[The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 Best Embroidery Fonts]]></title>
-        <id>https://www.designinspiration.info/?p=2250</id>
-        <link href="https://www.designinspiration.info/embroidery-fonts/"/>
-        <updated>2021-04-22T20:13:55.000Z</updated>
-        <summary type="html"><![CDATA[Looking for embroidery fonts? Here is our handpicked selection from decorative fonts inspired by embroidery and sewing, looking as natural as possible. Ideal for branding, logos, headlines, labels, posters, inspirational messages and any kind of design that you want to give an artisanal look and feel. All fonts are also
-The post 20 Best Embroidery Fonts appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
