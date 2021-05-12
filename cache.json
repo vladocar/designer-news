@@ -335,6 +335,15 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.",
+          "link": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
+          "publishedOn": "2021-05-12T07:57:00.000Z",
+          "wordCount": 2000,
+          "title": "Little Smashing Stories"
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
           "author": "hello@smashingmagazine.com (Stephanie Eckles)",
           "description": "A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.",
@@ -599,7 +608,7 @@
           "description": "https://thenextweb.com/news/diversity-in-ai-groups-snub-future-funding-from-google-over-staff-treatment-timnit-gebru",
           "link": "http://www.webdesignernews.com/external/ai-diversity-groups-snub-future-funding-from-google-over-staff-treatment",
           "publishedOn": "2021-05-11T21:16:00.000Z",
-          "wordCount": 900,
+          "wordCount": 890,
           "title": "AI diversity groups snub future funding from Google over staff treatment"
         },
         {
@@ -626,7 +635,7 @@
           "description": "https://thenextweb.com/news/chinas-digital-currency-yuan-is-coming-major-economies-need-to-follow-syndication",
           "link": "http://www.webdesignernews.com/external/china-s-digital-currency-is-coming-other-major-economies-need-to-follow-suit",
           "publishedOn": "2021-05-11T16:39:00.000Z",
-          "wordCount": 1544,
+          "wordCount": 1548,
           "title": "China?s digital currency is coming - other major economies need to follow suit"
         },
         {
@@ -671,7 +680,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/26-exciting-new-tools-for-designers-may-2021/",
           "link": "http://www.webdesignernews.com/external/26-exciting-new-tools-for-designers-may-2021",
           "publishedOn": "2021-05-11T15:59:12.000Z",
-          "wordCount": 1616,
+          "wordCount": 1596,
           "title": "26 Exciting New Tools For Designers, May 2021"
         },
         {
@@ -680,7 +689,7 @@
           "description": "https://stumbled.cc/",
           "link": "http://www.webdesignernews.com/external/stumbled",
           "publishedOn": "2021-05-11T15:58:17.000Z",
-          "wordCount": 125,
+          "wordCount": 126,
           "title": "Stumbled"
         },
         {
