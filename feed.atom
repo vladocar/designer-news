@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-11T23:00:44.340Z</id>
+    <id>urn:2021-05-12T00:02:16.489Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T23:00:44.340Z</updated>
+    <updated>2021-05-12T00:02:16.489Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Preserving Syrian design history and graphics in the Arab world: Meet the Syrian Design Archive]]></title>
+        <id>https://www.itsnicethat.com/features/syrian-design-archive-graphic-design-110521</id>
+        <link href="http://www.webdesignernews.com/external/preserving-syrian-design-history-and-graphics-in-the-arab-world-meet-the-syrian-design-archive"/>
+        <updated>2021-05-11T23:22:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.itsnicethat.com/features/syrian-design-archive-graphic-design-110521]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Should I use Hotwire with Craft?]]></title>
         <id>https://www.viget.com/articles/should-i-use-hotwire-with-craft/</id>
@@ -335,16 +345,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[https://herbertlui.net/what-it-means-to-be-a-creative-person/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix The Invalid JSON Error in WordPress (Beginner?s Guide)]]></title>
-        <id>https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-fix-the-invalid-json-error-in-wordpress-beginner-s-guide"/>
-        <updated>2021-05-10T17:42:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-invalid-json-error-in-wordpress-beginners-guide/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
