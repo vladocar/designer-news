@@ -108,7 +108,7 @@
           "description": "https://www.sketch.com/blog/2021/05/11/sketch-in-2021-and-beyond/",
           "link": "https://www.designernews.co/stories/115382-sketch-in-2021-and-beyond",
           "publishedOn": "2021-05-11T17:43:01.000Z",
-          "wordCount": 165,
+          "wordCount": 184,
           "title": "Sketch: in 2021 and beyond"
         },
         {
@@ -558,15 +558,6 @@
           "publishedOn": "2021-04-13T14:00:00.000Z",
           "wordCount": 3154,
           "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.",
-          "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
-          "publishedOn": "2021-04-12T12:30:00.000Z",
-          "wordCount": 3142,
-          "title": "A Complete Guide To HTML Email"
         }
       ]
     },
@@ -608,7 +599,7 @@
           "description": "https://thenextweb.com/news/diversity-in-ai-groups-snub-future-funding-from-google-over-staff-treatment-timnit-gebru",
           "link": "http://www.webdesignernews.com/external/ai-diversity-groups-snub-future-funding-from-google-over-staff-treatment",
           "publishedOn": "2021-05-11T21:16:00.000Z",
-          "wordCount": 892,
+          "wordCount": 899,
           "title": "AI diversity groups snub future funding from Google over staff treatment"
         },
         {
@@ -635,7 +626,7 @@
           "description": "https://thenextweb.com/news/chinas-digital-currency-yuan-is-coming-major-economies-need-to-follow-syndication",
           "link": "http://www.webdesignernews.com/external/china-s-digital-currency-is-coming-other-major-economies-need-to-follow-suit",
           "publishedOn": "2021-05-11T16:39:00.000Z",
-          "wordCount": 1551,
+          "wordCount": 1557,
           "title": "China?s digital currency is coming - other major economies need to follow suit"
         },
         {
@@ -644,7 +635,7 @@
           "description": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
           "link": "http://www.webdesignernews.com/external/game-developers-break-silence-around-salaries",
           "publishedOn": "2021-05-11T15:59:34.000Z",
-          "wordCount": 1363,
+          "wordCount": 1338,
           "title": "Game developers break silence around salaries"
         },
         {
@@ -680,7 +671,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/26-exciting-new-tools-for-designers-may-2021/",
           "link": "http://www.webdesignernews.com/external/26-exciting-new-tools-for-designers-may-2021",
           "publishedOn": "2021-05-11T15:59:12.000Z",
-          "wordCount": 1597,
+          "wordCount": 1587,
           "title": "26 Exciting New Tools For Designers, May 2021"
         },
         {
@@ -689,7 +680,7 @@
           "description": "https://stumbled.cc/",
           "link": "http://www.webdesignernews.com/external/stumbled",
           "publishedOn": "2021-05-11T15:58:17.000Z",
-          "wordCount": 130,
+          "wordCount": 125,
           "title": "Stumbled"
         },
         {
@@ -698,7 +689,7 @@
           "description": "https://uxdesign.cc/design-analysis-the-first-encounter-in-ghost-of-tsushima-62eb54b1624b",
           "link": "http://www.webdesignernews.com/external/design-analysis-the-first-encounter-in-ghost-of-tsushima",
           "publishedOn": "2021-05-11T14:34:00.000Z",
-          "wordCount": 1961,
+          "wordCount": 1973,
           "title": "Design analysis: The first encounter in Ghost of Tsushima"
         },
         {

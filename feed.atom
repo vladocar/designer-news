@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-12T00:02:16.489Z</id>
+    <id>urn:2021-05-12T01:55:45.235Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T00:02:16.489Z</updated>
+    <updated>2021-05-12T01:55:45.235Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -813,16 +813,6 @@ The post 20 Best Embroidery Fonts appeared first on Design Inspiration.]]></summ
         <summary type="html"><![CDATA[In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Deven Rathore)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide To HTML Email]]></title>
-        <id>https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/</id>
-        <link href="https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/"/>
-        <updated>2021-04-12T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
