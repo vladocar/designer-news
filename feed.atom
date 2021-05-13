@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-13T19:14:56.569Z</id>
+    <id>urn:2021-05-13T20:01:11.778Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T19:14:56.569Z</updated>
+    <updated>2021-05-13T20:01:11.778Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Focus on the Basics: Must-Have Features for Your eCommerce Website]]></title>
+        <id>https://speckyboy.com/must-have-features-ecommerce-website/</id>
+        <link href="http://www.webdesignernews.com/external/a-focus-on-the-basics-must-have-features-for-your-ecommerce-website"/>
+        <updated>2021-05-13T19:41:00.000Z</updated>
+        <summary type="html"><![CDATA[https://speckyboy.com/must-have-features-ecommerce-website/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We built our OWN Notion API → Email directly into anywhere in your Notion (it’s FREE to use)]]></title>
+        <id>https://www.designernews.co/stories/115442-we-built-our-own-notion-api--email-directly-into-anywhere-in-your-notion-its-free-to-use</id>
+        <link href="https://www.designernews.co/stories/115442-we-built-our-own-notion-api--email-directly-into-anywhere-in-your-notion-its-free-to-use"/>
+        <updated>2021-05-13T19:34:00.000Z</updated>
+        <summary type="html"><![CDATA[https://Hitsnag.com]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yes, You Need a Design Process]]></title>
         <id>https://wiredcraft.com/blog/yes-you-need-a-design-process/</id>
@@ -297,16 +317,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grilli Type designs a bespoke typeface for Pinterest that lets pinned imagery ?shine?]]></title>
-        <id>https://www.itsnicethat.com/news/grilli-type-made-thought-pinterest-sans-typography-graphic-design-120521</id>
-        <link href="http://www.webdesignernews.com/external/grilli-type-designs-a-bespoke-typeface-for-pinterest-that-lets-pinned-imagery-shine"/>
-        <updated>2021-05-12T13:33:12.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/news/grilli-type-made-thought-pinterest-sans-typography-graphic-design-120521]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
         <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
         <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
@@ -514,16 +524,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <link href="https://www.designernews.co/stories/115347-sponsor-design-is-the-premier-domain-extension-for-professional-and-aspiring-designers-grab-yours-for-free-today"/>
         <updated>2021-05-10T15:55:20.000Z</updated>
         <summary type="html"><![CDATA[https://porkbun.com/tld/design?coupon=DNSTORY21C&utm_source=DesignerNews&utm_medium=Newsletter_Ad&utm_campaign=May_2021]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Amazing Mockups with these 5 Figma Plugins]]></title>
-        <id>https://www.designernews.co/stories/115342-create-amazing-mockups-with-these-5-figma-plugins</id>
-        <link href="https://www.designernews.co/stories/115342-create-amazing-mockups-with-these-5-figma-plugins"/>
-        <updated>2021-05-10T11:54:18.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=XVbw79i3poc]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>

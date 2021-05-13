@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115442-we-built-our-own-notion-api--email-directly-into-anywhere-in-your-notion-its-free-to-use",
+          "author": null,
+          "description": "https://Hitsnag.com",
+          "link": "https://www.designernews.co/stories/115442-we-built-our-own-notion-api--email-directly-into-anywhere-in-your-notion-its-free-to-use",
+          "publishedOn": "2021-05-13T19:34:00.000Z",
+          "wordCount": 194,
+          "title": "We built our OWN Notion API → Email directly into anywhere in your Notion (it’s FREE to use)"
+        },
+        {
           "id": "https://www.designernews.co/stories/115430-want-to-find-your-passion-start-with-the-objects-you-love",
           "author": null,
           "description": "https://herbertlui.net/how-to-find-your-passion-with-objects/",
@@ -234,7 +243,7 @@
           "description": "https://www.sketch.com/blog/2021/05/11/sketch-in-2021-and-beyond/",
           "link": "https://www.designernews.co/stories/115382-sketch-in-2021-and-beyond",
           "publishedOn": "2021-05-11T17:43:01.000Z",
-          "wordCount": 185,
+          "wordCount": 229,
           "title": "Sketch: in 2021 and beyond"
         },
         {
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-10T15:55:20.000Z",
           "wordCount": 187,
           "title": "Sponsor: .design is the premier domain extension for professional and aspiring designers. Grab yours for free today."
-        },
-        {
-          "id": "https://www.designernews.co/stories/115342-create-amazing-mockups-with-these-5-figma-plugins",
-          "author": null,
-          "description": "https://www.youtube.com/watch?v=XVbw79i3poc",
-          "link": "https://www.designernews.co/stories/115342-create-amazing-mockups-with-these-5-figma-plugins",
-          "publishedOn": "2021-05-10T11:54:18.000Z",
-          "wordCount": 186,
-          "title": "Create Amazing Mockups with these 5 Figma Plugins"
         }
       ]
     },
@@ -576,6 +576,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://speckyboy.com/must-have-features-ecommerce-website/",
+          "author": null,
+          "description": "https://speckyboy.com/must-have-features-ecommerce-website/",
+          "link": "http://www.webdesignernews.com/external/a-focus-on-the-basics-must-have-features-for-your-ecommerce-website",
+          "publishedOn": "2021-05-13T19:41:00.000Z",
+          "wordCount": 1413,
+          "title": "A Focus on the Basics: Must-Have Features for Your eCommerce Website"
+        },
+        {
           "id": "https://wiredcraft.com/blog/yes-you-need-a-design-process/",
           "author": null,
           "description": "https://wiredcraft.com/blog/yes-you-need-a-design-process/",
@@ -662,7 +671,7 @@
           "description": "https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned",
           "link": "http://www.webdesignernews.com/external/my-startup-tripled-in-size-in-2020-here-s-what-i-learned",
           "publishedOn": "2021-05-12T23:54:00.000Z",
-          "wordCount": 1517,
+          "wordCount": 1529,
           "title": "My startup tripled in size in 2020: Here?s what I learned"
         },
         {
@@ -745,15 +754,6 @@
           "publishedOn": "2021-05-12T13:33:19.000Z",
           "wordCount": 844,
           "title": "Sketch: in 2021 and beyond"
-        },
-        {
-          "id": "https://www.itsnicethat.com/news/grilli-type-made-thought-pinterest-sans-typography-graphic-design-120521",
-          "author": null,
-          "description": "https://www.itsnicethat.com/news/grilli-type-made-thought-pinterest-sans-typography-graphic-design-120521",
-          "link": "http://www.webdesignernews.com/external/grilli-type-designs-a-bespoke-typeface-for-pinterest-that-lets-pinned-imagery-shine",
-          "publishedOn": "2021-05-12T13:33:12.000Z",
-          "wordCount": 817,
-          "title": "Grilli Type designs a bespoke typeface for Pinterest that lets pinned imagery ?shine?"
         }
       ]
     }
