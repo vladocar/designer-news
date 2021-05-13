@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-13T04:10:17.226Z</id>
+    <id>urn:2021-05-13T05:13:16.686Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T04:10:17.226Z</updated>
+    <updated>2021-05-13T05:13:16.686Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sublime Text 3 Plugins That Every Developer Must Use]]></title>
+        <id>https://www.designernews.co/stories/115412-sublime-text-3-plugins-that-every-developer-must-use</id>
+        <link href="https://www.designernews.co/stories/115412-sublime-text-3-plugins-that-every-developer-must-use"/>
+        <updated>2021-05-13T04:22:11.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/sublime-text-3-plugins-that-every.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 Best Gifts For Developers/Coders/Programmers]]></title>
+        <id>https://www.designernews.co/stories/115411-11-best-gifts-for-developerscodersprogrammers</id>
+        <link href="https://www.designernews.co/stories/115411-11-best-gifts-for-developerscodersprogrammers"/>
+        <updated>2021-05-13T04:20:30.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/11-best-gifts-for-developerscodersprogr.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My startup tripled in size in 2020: Here?s what I learned]]></title>
         <id>https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned</id>
@@ -489,16 +509,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Use of Uppercase Sans Serif Typography in Modern Web Design]]></title>
-        <id>https://www.designernews.co/stories/115279-the-use-of-uppercase-sans-serif-typography-in-modern-web-design</id>
-        <link href="https://www.designernews.co/stories/115279-the-use-of-uppercase-sans-serif-typography-in-modern-web-design"/>
-        <updated>2021-05-10T09:09:04.000Z</updated>
-        <summary type="html"><![CDATA[https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The 22  Products That Will Make Working Easier From Home]]></title>
         <id>https://www.designernews.co/stories/115262-the-22--products-that-will-make-working-easier-from-home</id>
         <link href="https://www.designernews.co/stories/115262-the-22--products-that-will-make-working-easier-from-home"/>
@@ -524,16 +534,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <link href="https://www.designernews.co/stories/115255-customer-service-automation-with-rpa-chatbots"/>
         <updated>2021-05-10T05:21:52.000Z</updated>
         <summary type="html"><![CDATA[https://www.zenesys.com/blog/customer-service-automation-with-rpa-chatbots]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mother’s Day Marketing: 5 Infographics We Love]]></title>
-        <id>https://www.designernews.co/stories/115253-mothers-day-marketing-5-infographics-we-love</id>
-        <link href="https://www.designernews.co/stories/115253-mothers-day-marketing-5-infographics-we-love"/>
-        <updated>2021-05-09T15:05:59.000Z</updated>
-        <summary type="html"><![CDATA[https://marketsplash.com/mothers-day-marketing/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>

@@ -103,6 +103,24 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115412-sublime-text-3-plugins-that-every-developer-must-use",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/04/sublime-text-3-plugins-that-every.html",
+          "link": "https://www.designernews.co/stories/115412-sublime-text-3-plugins-that-every-developer-must-use",
+          "publishedOn": "2021-05-13T04:22:11.000Z",
+          "wordCount": 176,
+          "title": "Sublime Text 3 Plugins That Every Developer Must Use"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115411-11-best-gifts-for-developerscodersprogrammers",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/05/11-best-gifts-for-developerscodersprogr.html",
+          "link": "https://www.designernews.co/stories/115411-11-best-gifts-for-developerscodersprogrammers",
+          "publishedOn": "2021-05-13T04:20:30.000Z",
+          "wordCount": 168,
+          "title": "11 Best Gifts For Developers/Coders/Programmers"
+        },
+        {
           "id": "https://www.designernews.co/stories/115402-how-prototyping-with-numbers-uncovers-viability-of-ideas-",
           "author": null,
           "description": "https://d.mba/stories/how-lilli-used-prototyping-with-numbers-to-explore-the-viability-of-a-new-business-idea",
@@ -283,15 +301,6 @@
           "title": "HOT: The First Branding Tool That Defines The Brand Archetype Automatically!"
         },
         {
-          "id": "https://www.designernews.co/stories/115279-the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
-          "author": null,
-          "description": "https://qodeinteractive.com/magazine/uppercase-sans-serif-typography-in-modern-web-design/",
-          "link": "https://www.designernews.co/stories/115279-the-use-of-uppercase-sans-serif-typography-in-modern-web-design",
-          "publishedOn": "2021-05-10T09:09:04.000Z",
-          "wordCount": 178,
-          "title": "The Use of Uppercase Sans Serif Typography in Modern Web Design"
-        },
-        {
           "id": "https://www.designernews.co/stories/115262-the-22--products-that-will-make-working-easier-from-home",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/05/the-22-genius-products-that-will-make.html",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-10T05:21:52.000Z",
           "wordCount": 171,
           "title": "Customer Service Automation with RPA Chatbots"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115253-mothers-day-marketing-5-infographics-we-love",
-          "author": null,
-          "description": "https://marketsplash.com/mothers-day-marketing/",
-          "link": "https://www.designernews.co/stories/115253-mothers-day-marketing-5-infographics-we-love",
-          "publishedOn": "2021-05-09T15:05:59.000Z",
-          "wordCount": 172,
-          "title": "Mother’s Day Marketing: 5 Infographics We Love"
         }
       ]
     },
@@ -581,7 +581,7 @@
           "description": "https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned",
           "link": "http://www.webdesignernews.com/external/my-startup-tripled-in-size-in-2020-here-s-what-i-learned",
           "publishedOn": "2021-05-12T23:54:00.000Z",
-          "wordCount": 1529,
+          "wordCount": 1545,
           "title": "My startup tripled in size in 2020: Here?s what I learned"
         },
         {
@@ -680,7 +680,7 @@
           "description": "https://thenextweb.com/news/german-regulator-bans-facebook-from-processing-whatsapp-user-data",
           "link": "http://www.webdesignernews.com/external/facebook-banned-from-processing-whatsapp-user-data-in-germany",
           "publishedOn": "2021-05-12T13:14:00.000Z",
-          "wordCount": 832,
+          "wordCount": 826,
           "title": "Facebook banned from processing WhatsApp user data in Germany"
         },
         {
@@ -734,7 +734,7 @@
           "description": "https://thenextweb.com/news/diversity-in-ai-groups-snub-future-funding-from-google-over-staff-treatment-timnit-gebru",
           "link": "http://www.webdesignernews.com/external/ai-diversity-groups-snub-future-funding-from-google-over-staff-treatment",
           "publishedOn": "2021-05-11T21:16:00.000Z",
-          "wordCount": 893,
+          "wordCount": 892,
           "title": "AI diversity groups snub future funding from Google over staff treatment"
         },
         {
