@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-13T15:00:52.436Z</id>
+    <id>urn:2021-05-13T16:09:53.276Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T15:00:52.436Z</updated>
+    <updated>2021-05-13T16:09:53.276Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Storybook addons for CSS]]></title>
+        <id>https://storybook.js.org/blog/storybook-addons-for-css/</id>
+        <link href="http://www.webdesignernews.com/external/storybook-addons-for-css"/>
+        <updated>2021-05-13T15:59:00.000Z</updated>
+        <summary type="html"><![CDATA[https://storybook.js.org/blog/storybook-addons-for-css/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Minimalist Design: Why Is It So Effective?]]></title>
         <id>https://marketsplash.com/minimalist-design/</id>
@@ -314,16 +324,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         <summary type="html"><![CDATA[https://www.figma.com/community/file/974278511242705439/Brand-Experience-Canvas-by-Human-Deluxe]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designers, want to change the world? Read this first]]></title>
-        <id>https://www.fastcompany.com/90625774/designers-want-to-change-the-world-read-this-first</id>
-        <link href="http://www.webdesignernews.com/external/designers-want-to-change-the-world-read-this-first"/>
-        <updated>2021-05-12T11:08:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.fastcompany.com/90625774/designers-want-to-change-the-world-read-this-first]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
