@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-13T21:00:41.569Z</id>
+    <id>urn:2021-05-13T22:00:46.837Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T21:00:41.569Z</updated>
+    <updated>2021-05-13T22:00:46.837Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Neoco - Curated set of 300+ tools & patterns for brighter business]]></title>
+        <id>https://neoco.io/</id>
+        <link href="http://www.webdesignernews.com/external/neoco-curated-set-of-300-tools-patterns-for-brighter-business"/>
+        <updated>2021-05-13T21:14:00.000Z</updated>
+        <summary type="html"><![CDATA[https://neoco.io/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
         <id>https://css-tricks.com/making-disabled-buttons-more-inclusive/</id>
@@ -302,16 +312,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         <link href="http://www.webdesignernews.com/external/as-a-freelance-designer-what-is-your-unique-selling-point"/>
         <updated>2021-05-12T13:34:36.000Z</updated>
         <summary type="html"><![CDATA[https://speckyboy.com/freelance-designer-unique-selling-point/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discover Figma: A Practical Guide]]></title>
-        <id>https://marcandrew.me/discover-figma-a-practical-guide/</id>
-        <link href="http://www.webdesignernews.com/external/discover-figma-a-practical-guide"/>
-        <updated>2021-05-12T13:34:09.000Z</updated>
-        <summary type="html"><![CDATA[https://marcandrew.me/discover-figma-a-practical-guide/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
