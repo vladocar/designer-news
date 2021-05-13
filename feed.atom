@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-13T11:02:03.278Z</id>
+    <id>urn:2021-05-13T12:01:30.426Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T11:02:03.278Z</updated>
+    <updated>2021-05-13T12:01:30.426Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“As designers, we should help shed light on these topics, but we also have the ability to do so in beautiful and hopeful ways.“]]></title>
+        <id>https://www.designernews.co/stories/115429-as-designers-we-should-help-shed-light-on-these-topics-but-we-also-have-the-ability-to-do-so-in-beautiful-and-hopeful-ways</id>
+        <link href="https://www.designernews.co/stories/115429-as-designers-we-should-help-shed-light-on-these-topics-but-we-also-have-the-ability-to-do-so-in-beautiful-and-hopeful-ways"/>
+        <updated>2021-05-13T11:53:29.000Z</updated>
+        <summary type="html"><![CDATA[https://gingersauce.co/person-of-the-month-an-illustrator-sandrine-anne/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design A T-Shirt With Vector Graphics]]></title>
+        <id>https://www.designernews.co/stories/115425-design-a-tshirt-with-vector-graphics</id>
+        <link href="https://www.designernews.co/stories/115425-design-a-tshirt-with-vector-graphics"/>
+        <updated>2021-05-13T10:26:30.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vectornator.io/blog/t-shirt-design]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minimalist Design & User Interface Examples: Why Are They So Effective?]]></title>
+        <id>https://www.designernews.co/stories/115424-minimalist-design--user-interface-examples-why-are-they-so-effective</id>
+        <link href="https://www.designernews.co/stories/115424-minimalist-design--user-interface-examples-why-are-they-so-effective"/>
+        <updated>2021-05-13T10:21:48.000Z</updated>
+        <summary type="html"><![CDATA[https://marketsplash.com/minimalist-design/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
         <id>https://www.smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
@@ -479,16 +509,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revision Path Ep. 398: Joseph Cuillier, multidisciplinary artist, founder and co-director of The Black School]]></title>
-        <id>https://www.designernews.co/stories/115345-revision-path-ep-398-joseph-cuillier-multidisciplinary-artist-founder-and-codirector-of-the-black-school</id>
-        <link href="https://www.designernews.co/stories/115345-revision-path-ep-398-joseph-cuillier-multidisciplinary-artist-founder-and-codirector-of-the-black-school"/>
-        <updated>2021-05-10T12:58:19.000Z</updated>
-        <summary type="html"><![CDATA[https://revisionpath.com/joseph-cuillier/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Create Amazing Mockups with these 5 Figma Plugins]]></title>
         <id>https://www.designernews.co/stories/115342-create-amazing-mockups-with-these-5-figma-plugins</id>
         <link href="https://www.designernews.co/stories/115342-create-amazing-mockups-with-these-5-figma-plugins"/>
@@ -516,26 +536,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 22  Products That Will Make Working Easier From Home]]></title>
-        <id>https://www.designernews.co/stories/115262-the-22--products-that-will-make-working-easier-from-home</id>
-        <link href="https://www.designernews.co/stories/115262-the-22--products-that-will-make-working-easier-from-home"/>
-        <updated>2021-05-10T06:31:58.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/the-22-genius-products-that-will-make.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Tips on How To Create The Perfect Freelancer Profile]]></title>
-        <id>https://www.designernews.co/stories/115256--5-tips-on-how-to-create-the-perfect-freelancer-profile-</id>
-        <link href="https://www.designernews.co/stories/115256--5-tips-on-how-to-create-the-perfect-freelancer-profile-"/>
-        <updated>2021-05-10T06:15:24.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/5-tips-on-how-to-create-perfect.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>

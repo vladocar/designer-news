@@ -103,6 +103,33 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115429-as-designers-we-should-help-shed-light-on-these-topics-but-we-also-have-the-ability-to-do-so-in-beautiful-and-hopeful-ways",
+          "author": null,
+          "description": "https://gingersauce.co/person-of-the-month-an-illustrator-sandrine-anne/",
+          "link": "https://www.designernews.co/stories/115429-as-designers-we-should-help-shed-light-on-these-topics-but-we-also-have-the-ability-to-do-so-in-beautiful-and-hopeful-ways",
+          "publishedOn": "2021-05-13T11:53:29.000Z",
+          "wordCount": 205,
+          "title": "“As designers, we should help shed light on these topics, but we also have the ability to do so in beautiful and hopeful ways.“"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115425-design-a-tshirt-with-vector-graphics",
+          "author": null,
+          "description": "https://www.vectornator.io/blog/t-shirt-design",
+          "link": "https://www.designernews.co/stories/115425-design-a-tshirt-with-vector-graphics",
+          "publishedOn": "2021-05-13T10:26:30.000Z",
+          "wordCount": 171,
+          "title": "Design A T-Shirt With Vector Graphics"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115424-minimalist-design--user-interface-examples-why-are-they-so-effective",
+          "author": null,
+          "description": "https://marketsplash.com/minimalist-design/",
+          "link": "https://www.designernews.co/stories/115424-minimalist-design--user-interface-examples-why-are-they-so-effective",
+          "publishedOn": "2021-05-13T10:21:48.000Z",
+          "wordCount": 181,
+          "title": "Minimalist Design & User Interface Examples: Why Are They So Effective?"
+        },
+        {
           "id": "https://www.designernews.co/stories/115416-the-ultimate-guide-to-hyperautomation",
           "author": null,
           "description": "https://www.zenesys.com/blog/the-ultimate-guide-to-hyperautomation",
@@ -283,15 +310,6 @@
           "title": "Sponsor: .design is the premier domain extension for professional and aspiring designers. Grab yours for free today."
         },
         {
-          "id": "https://www.designernews.co/stories/115345-revision-path-ep-398-joseph-cuillier-multidisciplinary-artist-founder-and-codirector-of-the-black-school",
-          "author": null,
-          "description": "https://revisionpath.com/joseph-cuillier/",
-          "link": "https://www.designernews.co/stories/115345-revision-path-ep-398-joseph-cuillier-multidisciplinary-artist-founder-and-codirector-of-the-black-school",
-          "publishedOn": "2021-05-10T12:58:19.000Z",
-          "wordCount": 343,
-          "title": "Revision Path Ep. 398: Joseph Cuillier, multidisciplinary artist, founder and co-director of The Black School"
-        },
-        {
           "id": "https://www.designernews.co/stories/115342-create-amazing-mockups-with-these-5-figma-plugins",
           "author": null,
           "description": "https://www.youtube.com/watch?v=XVbw79i3poc",
@@ -308,24 +326,6 @@
           "publishedOn": "2021-05-10T11:38:18.000Z",
           "wordCount": 179,
           "title": "HOT: The First Branding Tool That Defines The Brand Archetype Automatically!"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115262-the-22--products-that-will-make-working-easier-from-home",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/05/the-22-genius-products-that-will-make.html",
-          "link": "https://www.designernews.co/stories/115262-the-22--products-that-will-make-working-easier-from-home",
-          "publishedOn": "2021-05-10T06:31:58.000Z",
-          "wordCount": 289,
-          "title": "The 22  Products That Will Make Working Easier From Home"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115256--5-tips-on-how-to-create-the-perfect-freelancer-profile-",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/05/5-tips-on-how-to-create-perfect.html",
-          "link": "https://www.designernews.co/stories/115256--5-tips-on-how-to-create-the-perfect-freelancer-profile-",
-          "publishedOn": "2021-05-10T06:15:24.000Z",
-          "wordCount": 179,
-          "title": "5 Tips on How To Create The Perfect Freelancer Profile"
         }
       ]
     },
@@ -617,7 +617,7 @@
           "description": "https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned",
           "link": "http://www.webdesignernews.com/external/my-startup-tripled-in-size-in-2020-here-s-what-i-learned",
           "publishedOn": "2021-05-12T23:54:00.000Z",
-          "wordCount": 1527,
+          "wordCount": 1536,
           "title": "My startup tripled in size in 2020: Here?s what I learned"
         },
         {
@@ -707,7 +707,7 @@
           "description": "https://www.itsnicethat.com/news/grilli-type-made-thought-pinterest-sans-typography-graphic-design-120521",
           "link": "http://www.webdesignernews.com/external/grilli-type-designs-a-bespoke-typeface-for-pinterest-that-lets-pinned-imagery-shine",
           "publishedOn": "2021-05-12T13:33:12.000Z",
-          "wordCount": 813,
+          "wordCount": 817,
           "title": "Grilli Type designs a bespoke typeface for Pinterest that lets pinned imagery ?shine?"
         },
         {
@@ -716,7 +716,7 @@
           "description": "https://thenextweb.com/news/german-regulator-bans-facebook-from-processing-whatsapp-user-data",
           "link": "http://www.webdesignernews.com/external/facebook-banned-from-processing-whatsapp-user-data-in-germany",
           "publishedOn": "2021-05-12T13:14:00.000Z",
-          "wordCount": 830,
+          "wordCount": 813,
           "title": "Facebook banned from processing WhatsApp user data in Germany"
         },
         {
