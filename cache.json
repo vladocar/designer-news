@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115416-the-ultimate-guide-to-hyperautomation",
+          "author": null,
+          "description": "https://www.zenesys.com/blog/the-ultimate-guide-to-hyperautomation",
+          "link": "https://www.designernews.co/stories/115416-the-ultimate-guide-to-hyperautomation",
+          "publishedOn": "2021-05-13T07:43:46.000Z",
+          "wordCount": 171,
+          "title": "The Ultimate Guide to Hyperautomation"
+        },
+        {
           "id": "https://www.designernews.co/stories/115412-sublime-text-3-plugins-that-every-developer-must-use",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/04/sublime-text-3-plugins-that-every.html",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-10T06:15:24.000Z",
           "wordCount": 179,
           "title": "5 Tips on How To Create The Perfect Freelancer Profile"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115255-customer-service-automation-with-rpa-chatbots",
-          "author": null,
-          "description": "https://www.zenesys.com/blog/customer-service-automation-with-rpa-chatbots",
-          "link": "https://www.designernews.co/stories/115255-customer-service-automation-with-rpa-chatbots",
-          "publishedOn": "2021-05-10T05:21:52.000Z",
-          "wordCount": 171,
-          "title": "Customer Service Automation with RPA Chatbots"
         }
       ]
     },
@@ -576,12 +576,48 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
+          "author": null,
+          "description": "https://www.smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
+          "link": "http://www.webdesignernews.com/external/frustrating-design-patterns-that-need-fixing-birthday-picker",
+          "publishedOn": "2021-05-13T07:47:00.000Z",
+          "wordCount": 3443,
+          "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker"
+        },
+        {
+          "id": "https://adamfard.com/blog/feature-prioritization",
+          "author": null,
+          "description": "https://adamfard.com/blog/feature-prioritization",
+          "link": "http://www.webdesignernews.com/external/feature-prioritization-frameworks-build-only-what-matters",
+          "publishedOn": "2021-05-13T07:45:57.000Z",
+          "wordCount": 1729,
+          "title": "Feature Prioritization Frameworks: Build Only What Matters"
+        },
+        {
+          "id": "https://torquemag.io/2021/05/is-managed-wordpress-hosting-worth-it/",
+          "author": null,
+          "description": "https://torquemag.io/2021/05/is-managed-wordpress-hosting-worth-it/",
+          "link": "http://www.webdesignernews.com/external/is-managed-wordpress-hosting-worth-it-10-factors-to-consider",
+          "publishedOn": "2021-05-13T07:29:09.000Z",
+          "wordCount": 2493,
+          "title": "Is Managed WordPress Hosting Worth It? 10 Factors to Consider"
+        },
+        {
+          "id": "https://blog.plantapp.io/post/how-to-move-away-from-dark-ux-patterns",
+          "author": null,
+          "description": "https://blog.plantapp.io/post/how-to-move-away-from-dark-ux-patterns",
+          "link": "http://www.webdesignernews.com/external/how-to-move-away-from-dark-ux-patterns",
+          "publishedOn": "2021-05-13T07:17:16.000Z",
+          "wordCount": 1028,
+          "title": "How to Move Away from Dark UX Patterns"
+        },
+        {
           "id": "https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned",
           "author": null,
           "description": "https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned",
           "link": "http://www.webdesignernews.com/external/my-startup-tripled-in-size-in-2020-here-s-what-i-learned",
           "publishedOn": "2021-05-12T23:54:00.000Z",
-          "wordCount": 1524,
+          "wordCount": 1541,
           "title": "My startup tripled in size in 2020: Here?s what I learned"
         },
         {
@@ -590,7 +626,7 @@
           "description": "https://www.justuseemail.com/",
           "link": "http://www.webdesignernews.com/external/just-use-email-how-to-use-email-for-everything",
           "publishedOn": "2021-05-12T21:34:00.000Z",
-          "wordCount": 329,
+          "wordCount": 370,
           "title": "Just Use Email ? How to Use Email for Everything"
         },
         {
@@ -680,7 +716,7 @@
           "description": "https://thenextweb.com/news/german-regulator-bans-facebook-from-processing-whatsapp-user-data",
           "link": "http://www.webdesignernews.com/external/facebook-banned-from-processing-whatsapp-user-data-in-germany",
           "publishedOn": "2021-05-12T13:14:00.000Z",
-          "wordCount": 847,
+          "wordCount": 828,
           "title": "Facebook banned from processing WhatsApp user data in Germany"
         },
         {
@@ -718,42 +754,6 @@
           "publishedOn": "2021-05-11T22:53:00.000Z",
           "wordCount": 1501,
           "title": "Should I use Hotwire with Craft?"
-        },
-        {
-          "id": "https://www.curiositytank.com/ux-lexicon",
-          "author": null,
-          "description": "https://www.curiositytank.com/ux-lexicon",
-          "link": "http://www.webdesignernews.com/external/ux-lexicon",
-          "publishedOn": "2021-05-11T21:36:37.000Z",
-          "wordCount": 478,
-          "title": "UX Lexicon"
-        },
-        {
-          "id": "https://thenextweb.com/news/diversity-in-ai-groups-snub-future-funding-from-google-over-staff-treatment-timnit-gebru",
-          "author": null,
-          "description": "https://thenextweb.com/news/diversity-in-ai-groups-snub-future-funding-from-google-over-staff-treatment-timnit-gebru",
-          "link": "http://www.webdesignernews.com/external/ai-diversity-groups-snub-future-funding-from-google-over-staff-treatment",
-          "publishedOn": "2021-05-11T21:16:00.000Z",
-          "wordCount": 906,
-          "title": "AI diversity groups snub future funding from Google over staff treatment"
-        },
-        {
-          "id": "https://uxmovement.com/buttons/visual-cues-to-help-users-perceive-drag-and-drop/",
-          "author": null,
-          "description": "https://uxmovement.com/buttons/visual-cues-to-help-users-perceive-drag-and-drop/",
-          "link": "http://www.webdesignernews.com/external/visual-cues-to-help-users-perceive-drag-and-drop",
-          "publishedOn": "2021-05-11T20:36:43.000Z",
-          "wordCount": 418,
-          "title": "Visual Cues to Help Users Perceive Drag-and-Drop"
-        },
-        {
-          "id": "https://www.uxpin.com/studio/blog/rapid-development-process-paypal/",
-          "author": null,
-          "description": "https://www.uxpin.com/studio/blog/rapid-development-process-paypal/",
-          "link": "http://www.webdesignernews.com/external/how-to-create-a-rapid-development-process-for-digital-products-lessons-from-paypal",
-          "publishedOn": "2021-05-11T17:28:00.000Z",
-          "wordCount": 1360,
-          "title": "How to Create a Rapid Development Process for Digital Products: Lessons from PayPal"
         }
       ]
     }
