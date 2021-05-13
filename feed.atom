@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-12T23:02:19.746Z</id>
+    <id>urn:2021-05-13T00:12:31.746Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T23:02:19.746Z</updated>
+    <updated>2021-05-13T00:12:31.746Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My startup tripled in size in 2020: Here?s what I learned]]></title>
+        <id>https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned</id>
+        <link href="http://www.webdesignernews.com/external/my-startup-tripled-in-size-in-2020-here-s-what-i-learned"/>
+        <updated>2021-05-12T23:54:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Just Use Email ? How to Use Email for Everything]]></title>
         <id>https://www.justuseemail.com/</id>
@@ -292,16 +302,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         <link href="http://www.webdesignernews.com/external/how-to-create-a-rapid-development-process-for-digital-products-lessons-from-paypal"/>
         <updated>2021-05-11T17:28:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/rapid-development-process-paypal/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China?s digital currency is coming - other major economies need to follow suit]]></title>
-        <id>https://thenextweb.com/news/chinas-digital-currency-yuan-is-coming-major-economies-need-to-follow-syndication</id>
-        <link href="http://www.webdesignernews.com/external/china-s-digital-currency-is-coming-other-major-economies-need-to-follow-suit"/>
-        <updated>2021-05-11T16:39:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/chinas-digital-currency-yuan-is-coming-major-economies-need-to-follow-syndication]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
