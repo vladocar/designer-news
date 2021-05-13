@@ -166,6 +166,15 @@
           "title": "11 Best Gifts For Developers/Coders/Programmers"
         },
         {
+          "id": "https://www.designernews.co/stories/115409-how-to-set-your-figma-up-for-easy-collaboration-with-nondesigners",
+          "author": null,
+          "description": "https://medium.com/indeed-design/how-to-set-your-figma-up-for-easy-collaboration-with-nondesigners-f0dfe8d08db3",
+          "link": "https://www.designernews.co/stories/115409-how-to-set-your-figma-up-for-easy-collaboration-with-nondesigners",
+          "publishedOn": "2021-05-12T19:14:28.000Z",
+          "wordCount": 182,
+          "title": "How to Set Your Figma Up for Easy Collaboration with Nondesigners"
+        },
+        {
           "id": "https://www.designernews.co/stories/115402-how-prototyping-with-numbers-uncovers-viability-of-ideas-",
           "author": null,
           "description": "https://d.mba/stories/how-lilli-used-prototyping-with-numbers-to-explore-the-viability-of-a-new-business-idea",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-10T11:54:18.000Z",
           "wordCount": 186,
           "title": "Create Amazing Mockups with these 5 Figma Plugins"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115341-hot-the-first-branding-tool-that-defines-the-brand-archetype-automatically",
-          "author": null,
-          "description": "https://www.instagram.com/p/COsJXGxhx75/",
-          "link": "https://www.designernews.co/stories/115341-hot-the-first-branding-tool-that-defines-the-brand-archetype-automatically",
-          "publishedOn": "2021-05-10T11:38:18.000Z",
-          "wordCount": 178,
-          "title": "HOT: The First Branding Tool That Defines The Brand Archetype Automatically!"
         }
       ]
     },
@@ -576,6 +576,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.codewell.cc/",
+          "author": null,
+          "description": "https://www.codewell.cc/",
+          "link": "http://www.webdesignernews.com/external/codewell-improve-your-html-css-skills-by-practicing-on-real-designs",
+          "publishedOn": "2021-05-13T17:41:00.000Z",
+          "wordCount": 9,
+          "title": "Codewell - Improve your HTML & CSS skills by practicing on real designs"
+        },
+        {
           "id": "https://storybook.js.org/blog/storybook-addons-for-css/",
           "author": null,
           "description": "https://storybook.js.org/blog/storybook-addons-for-css/",
@@ -644,7 +653,7 @@
           "description": "https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned",
           "link": "http://www.webdesignernews.com/external/my-startup-tripled-in-size-in-2020-here-s-what-i-learned",
           "publishedOn": "2021-05-12T23:54:00.000Z",
-          "wordCount": 1525,
+          "wordCount": 1522,
           "title": "My startup tripled in size in 2020: Here?s what I learned"
         },
         {
@@ -743,17 +752,8 @@
           "description": "https://thenextweb.com/news/german-regulator-bans-facebook-from-processing-whatsapp-user-data",
           "link": "http://www.webdesignernews.com/external/facebook-banned-from-processing-whatsapp-user-data-in-germany",
           "publishedOn": "2021-05-12T13:14:00.000Z",
-          "wordCount": 816,
+          "wordCount": 837,
           "title": "Facebook banned from processing WhatsApp user data in Germany"
-        },
-        {
-          "id": "https://wisepath.io/",
-          "author": null,
-          "description": "https://wisepath.io/",
-          "link": "http://www.webdesignernews.com/external/wisepath-all-in-one-tool-for-teams-chat-task-and-docs",
-          "publishedOn": "2021-05-12T12:06:00.000Z",
-          "wordCount": 1,
-          "title": "Wisepath - All in one tool for teams, chat, task and docs"
         }
       ]
     }

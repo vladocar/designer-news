@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-13T17:35:48.803Z</id>
+    <id>urn:2021-05-13T18:18:12.556Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T17:35:48.803Z</updated>
+    <updated>2021-05-13T18:18:12.556Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Codewell - Improve your HTML & CSS skills by practicing on real designs]]></title>
+        <id>https://www.codewell.cc/</id>
+        <link href="http://www.webdesignernews.com/external/codewell-improve-your-html-css-skills-by-practicing-on-real-designs"/>
+        <updated>2021-05-13T17:41:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.codewell.cc/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Storybook addons for CSS]]></title>
         <id>https://storybook.js.org/blog/storybook-addons-for-css/</id>
@@ -197,6 +207,16 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Set Your Figma Up for Easy Collaboration with Nondesigners]]></title>
+        <id>https://www.designernews.co/stories/115409-how-to-set-your-figma-up-for-easy-collaboration-with-nondesigners</id>
+        <link href="https://www.designernews.co/stories/115409-how-to-set-your-figma-up-for-easy-collaboration-with-nondesigners"/>
+        <updated>2021-05-12T19:14:28.000Z</updated>
+        <summary type="html"><![CDATA[https://medium.com/indeed-design/how-to-set-your-figma-up-for-easy-collaboration-with-nondesigners-f0dfe8d08db3]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Little Smashing Stories]]></title>
         <id>https://www.smashingmagazine.com/2021/05/little-smashing-stories/</id>
         <link href="http://www.webdesignernews.com/external/little-smashing-stories"/>
@@ -304,16 +324,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         <summary type="html"><![CDATA[https://www.producthunt.com/posts/payload-cms]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wisepath - All in one tool for teams, chat, task and docs]]></title>
-        <id>https://wisepath.io/</id>
-        <link href="http://www.webdesignernews.com/external/wisepath-all-in-one-tool-for-teams-chat-task-and-docs"/>
-        <updated>2021-05-12T12:06:00.000Z</updated>
-        <summary type="html"><![CDATA[https://wisepath.io/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -514,16 +524,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <link href="https://www.designernews.co/stories/115342-create-amazing-mockups-with-these-5-figma-plugins"/>
         <updated>2021-05-10T11:54:18.000Z</updated>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=XVbw79i3poc]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOT: The First Branding Tool That Defines The Brand Archetype Automatically!]]></title>
-        <id>https://www.designernews.co/stories/115341-hot-the-first-branding-tool-that-defines-the-brand-archetype-automatically</id>
-        <link href="https://www.designernews.co/stories/115341-hot-the-first-branding-tool-that-defines-the-brand-archetype-automatically"/>
-        <updated>2021-05-10T11:38:18.000Z</updated>
-        <summary type="html"><![CDATA[https://www.instagram.com/p/COsJXGxhx75/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
