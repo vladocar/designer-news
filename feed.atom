@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-13T14:00:51.744Z</id>
+    <id>urn:2021-05-13T15:00:52.436Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T14:00:51.744Z</updated>
+    <updated>2021-05-13T15:00:52.436Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Minimalist Design: Why Is It So Effective?]]></title>
+        <id>https://marketsplash.com/minimalist-design/</id>
+        <link href="http://www.webdesignernews.com/external/minimalist-design-why-is-it-so-effective"/>
+        <updated>2021-05-13T14:42:00.000Z</updated>
+        <summary type="html"><![CDATA[https://marketsplash.com/minimalist-design/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Want to Find Your Passion? Start with the Objects You Love]]></title>
         <id>https://www.designernews.co/stories/115430-want-to-find-your-passion-start-with-the-objects-you-love</id>
@@ -354,16 +364,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preserving Syrian design history and graphics in the Arab world: Meet the Syrian Design Archive]]></title>
-        <id>https://www.itsnicethat.com/features/syrian-design-archive-graphic-design-110521</id>
-        <link href="http://www.webdesignernews.com/external/preserving-syrian-design-history-and-graphics-in-the-arab-world-meet-the-syrian-design-archive"/>
-        <updated>2021-05-11T23:22:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/features/syrian-design-archive-graphic-design-110521]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
