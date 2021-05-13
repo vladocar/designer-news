@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-13T13:17:42.296Z</id>
+    <id>urn:2021-05-13T14:00:51.744Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T13:17:42.296Z</updated>
+    <updated>2021-05-13T14:00:51.744Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Want to Find Your Passion? Start with the Objects You Love]]></title>
+        <id>https://www.designernews.co/stories/115430-want-to-find-your-passion-start-with-the-objects-you-love</id>
+        <link href="https://www.designernews.co/stories/115430-want-to-find-your-passion-start-with-the-objects-you-love"/>
+        <updated>2021-05-13T13:41:08.000Z</updated>
+        <summary type="html"><![CDATA[https://herbertlui.net/how-to-find-your-passion-with-objects/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iconoir - A diverse and open-source library with 900+ icons]]></title>
+        <id>https://iconoir.com/</id>
+        <link href="http://www.webdesignernews.com/external/iconoir-a-diverse-and-open-source-library-with-900-icons"/>
+        <updated>2021-05-13T13:27:00.000Z</updated>
+        <summary type="html"><![CDATA[https://iconoir.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“As designers, we should help shed light on these topics, but we also have the ability to do so in beautiful and hopeful ways.“]]></title>
         <id>https://www.designernews.co/stories/115429-as-designers-we-should-help-shed-light-on-these-topics-but-we-also-have-the-ability-to-do-so-in-beautiful-and-hopeful-ways</id>
@@ -347,16 +367,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Should I use Hotwire with Craft?]]></title>
-        <id>https://www.viget.com/articles/should-i-use-hotwire-with-craft/</id>
-        <link href="http://www.webdesignernews.com/external/should-i-use-hotwire-with-craft"/>
-        <updated>2021-05-11T22:53:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.viget.com/articles/should-i-use-hotwire-with-craft/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sketch: in 2021 and beyond]]></title>
         <id>https://www.designernews.co/stories/115382-sketch-in-2021-and-beyond</id>
         <link href="https://www.designernews.co/stories/115382-sketch-in-2021-and-beyond"/>
@@ -486,16 +496,6 @@ The post 10 Free Illustrator Shadow Text Effect (Graphic Styles) appeared first 
 The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does It Mean to Be a Creative Person?]]></title>
-        <id>https://www.designernews.co/stories/115352-what-does-it-mean-to-be-a-creative-person</id>
-        <link href="https://www.designernews.co/stories/115352-what-does-it-mean-to-be-a-creative-person"/>
-        <updated>2021-05-10T18:17:56.000Z</updated>
-        <summary type="html"><![CDATA[https://herbertlui.net/what-it-means-to-be-a-creative-person/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
