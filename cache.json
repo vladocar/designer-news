@@ -567,15 +567,6 @@
           "publishedOn": "2021-04-14T11:00:00.000Z",
           "wordCount": 1917,
           "title": "Overflow Issues In CSS"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
-          "author": "hello@smashingmagazine.com (Deven Rathore)",
-          "description": "In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.",
-          "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
-          "publishedOn": "2021-04-13T14:00:00.000Z",
-          "wordCount": 3154,
-          "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
         }
       ]
     },
@@ -590,7 +581,7 @@
           "description": "https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned",
           "link": "http://www.webdesignernews.com/external/my-startup-tripled-in-size-in-2020-here-s-what-i-learned",
           "publishedOn": "2021-05-12T23:54:00.000Z",
-          "wordCount": 1527,
+          "wordCount": 1538,
           "title": "My startup tripled in size in 2020: Here?s what I learned"
         },
         {
@@ -689,7 +680,7 @@
           "description": "https://thenextweb.com/news/german-regulator-bans-facebook-from-processing-whatsapp-user-data",
           "link": "http://www.webdesignernews.com/external/facebook-banned-from-processing-whatsapp-user-data-in-germany",
           "publishedOn": "2021-05-12T13:14:00.000Z",
-          "wordCount": 829,
+          "wordCount": 830,
           "title": "Facebook banned from processing WhatsApp user data in Germany"
         },
         {
@@ -743,7 +734,7 @@
           "description": "https://thenextweb.com/news/diversity-in-ai-groups-snub-future-funding-from-google-over-staff-treatment-timnit-gebru",
           "link": "http://www.webdesignernews.com/external/ai-diversity-groups-snub-future-funding-from-google-over-staff-treatment",
           "publishedOn": "2021-05-11T21:16:00.000Z",
-          "wordCount": 888,
+          "wordCount": 899,
           "title": "AI diversity groups snub future funding from Google over staff treatment"
         },
         {

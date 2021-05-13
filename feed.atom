@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-13T00:12:31.746Z</id>
+    <id>urn:2021-05-13T02:04:27.508Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T00:12:31.746Z</updated>
+    <updated>2021-05-13T02:04:27.508Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -823,16 +823,6 @@ The post 30 Best Monogram Fonts appeared first on Design Inspiration.]]></summar
         <summary type="html"><![CDATA[In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Video Streaming App With Nuxt.js, Node And Express]]></title>
-        <id>https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/</id>
-        <link href="https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/"/>
-        <updated>2021-04-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Deven Rathore)</name>
         </author>
     </entry>
 </feed>
