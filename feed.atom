@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-13T22:00:46.837Z</id>
+    <id>urn:2021-05-13T23:07:13.932Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T22:00:46.837Z</updated>
+    <updated>2021-05-13T23:07:13.932Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -813,16 +813,6 @@ The post 30 Best Monogram Fonts appeared first on Design Inspiration.]]></summar
         <summary type="html"><![CDATA[At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overflow Issues In CSS]]></title>
-        <id>https://smashingmagazine.com/2021/04/css-overflow-issues/</id>
-        <link href="https://smashingmagazine.com/2021/04/css-overflow-issues/"/>
-        <updated>2021-04-14T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
         </author>
     </entry>
 </feed>
