@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-13T20:01:11.778Z</id>
+    <id>urn:2021-05-13T21:00:41.569Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T20:01:11.778Z</updated>
+    <updated>2021-05-13T21:00:41.569Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
+        <id>https://css-tricks.com/making-disabled-buttons-more-inclusive/</id>
+        <link href="http://www.webdesignernews.com/external/making-disabled-buttons-more-inclusive"/>
+        <updated>2021-05-13T20:09:00.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/making-disabled-buttons-more-inclusive/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Focus on the Basics: Must-Have Features for Your eCommerce Website]]></title>
         <id>https://speckyboy.com/must-have-features-ecommerce-website/</id>
@@ -302,16 +312,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         <link href="http://www.webdesignernews.com/external/discover-figma-a-practical-guide"/>
         <updated>2021-05-12T13:34:09.000Z</updated>
         <summary type="html"><![CDATA[https://marcandrew.me/discover-figma-a-practical-guide/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sketch: in 2021 and beyond]]></title>
-        <id>https://www.sketch.com/blog/2021/05/11/sketch-in-2021-and-beyond/</id>
-        <link href="http://www.webdesignernews.com/external/sketch-in-2021-and-beyond"/>
-        <updated>2021-05-12T13:33:19.000Z</updated>
-        <summary type="html"><![CDATA[https://www.sketch.com/blog/2021/05/11/sketch-in-2021-and-beyond/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
