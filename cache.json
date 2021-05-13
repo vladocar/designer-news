@@ -576,6 +576,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://wiredcraft.com/blog/yes-you-need-a-design-process/",
+          "author": null,
+          "description": "https://wiredcraft.com/blog/yes-you-need-a-design-process/",
+          "link": "http://www.webdesignernews.com/external/yes-you-need-a-design-process",
+          "publishedOn": "2021-05-13T18:26:00.000Z",
+          "wordCount": 1449,
+          "title": "Yes, You Need a Design Process"
+        },
+        {
           "id": "https://www.codewell.cc/",
           "author": null,
           "description": "https://www.codewell.cc/",
@@ -635,7 +644,7 @@
           "description": "https://torquemag.io/2021/05/is-managed-wordpress-hosting-worth-it/",
           "link": "http://www.webdesignernews.com/external/is-managed-wordpress-hosting-worth-it-10-factors-to-consider",
           "publishedOn": "2021-05-13T07:29:09.000Z",
-          "wordCount": 2486,
+          "wordCount": 2482,
           "title": "Is Managed WordPress Hosting Worth It? 10 Factors to Consider"
         },
         {
@@ -653,7 +662,7 @@
           "description": "https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned",
           "link": "http://www.webdesignernews.com/external/my-startup-tripled-in-size-in-2020-here-s-what-i-learned",
           "publishedOn": "2021-05-12T23:54:00.000Z",
-          "wordCount": 1522,
+          "wordCount": 1517,
           "title": "My startup tripled in size in 2020: Here?s what I learned"
         },
         {
@@ -707,7 +716,7 @@
           "description": "https://searchengineland.com/schema-org-launches-its-schema-markup-validator-tool-348590",
           "link": "http://www.webdesignernews.com/external/schema-org-launches-its-schema-markup-validator-tool",
           "publishedOn": "2021-05-12T13:34:38.000Z",
-          "wordCount": 1029,
+          "wordCount": 1028,
           "title": "Schema.org launches its schema markup validator tool"
         },
         {
@@ -745,15 +754,6 @@
           "publishedOn": "2021-05-12T13:33:12.000Z",
           "wordCount": 817,
           "title": "Grilli Type designs a bespoke typeface for Pinterest that lets pinned imagery ?shine?"
-        },
-        {
-          "id": "https://thenextweb.com/news/german-regulator-bans-facebook-from-processing-whatsapp-user-data",
-          "author": null,
-          "description": "https://thenextweb.com/news/german-regulator-bans-facebook-from-processing-whatsapp-user-data",
-          "link": "http://www.webdesignernews.com/external/facebook-banned-from-processing-whatsapp-user-data-in-germany",
-          "publishedOn": "2021-05-12T13:14:00.000Z",
-          "wordCount": 837,
-          "title": "Facebook banned from processing WhatsApp user data in Germany"
         }
       ]
     }
