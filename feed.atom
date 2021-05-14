@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-14T09:03:46.857Z</id>
+    <id>urn:2021-05-14T10:02:06.576Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T09:03:46.857Z</updated>
+    <updated>2021-05-14T10:02:06.576Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Infographic: Squarespace Vs Wix]]></title>
+        <id>https://www.webdesignerdepot.com/2021/05/infographic-squarespace-vs-wix/</id>
+        <link href="http://www.webdesignernews.com/external/infographic-squarespace-vs-wix"/>
+        <updated>2021-05-14T09:46:28.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/infographic-squarespace-vs-wix/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Start a WordPress Agency]]></title>
+        <id>https://kinsta.com/blog/wordpress-agency/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-start-a-wordpress-agency"/>
+        <updated>2021-05-14T09:46:02.000Z</updated>
+        <summary type="html"><![CDATA[https://kinsta.com/blog/wordpress-agency/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Steps to Faster Web Fonts]]></title>
+        <id>https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/</id>
+        <link href="http://www.webdesignernews.com/external/5-steps-to-faster-web-fonts"/>
+        <updated>2021-05-14T09:45:12.000Z</updated>
+        <summary type="html"><![CDATA[https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 reasons to choose Python Web Development for your Next Project]]></title>
         <id>https://www.designernews.co/stories/115453-10-reasons-to-choose-python-web-development-for-your-next-project</id>
@@ -307,16 +337,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Desqk - An app for the future of project management]]></title>
-        <id>https://www.desqk.com/</id>
-        <link href="http://www.webdesignernews.com/external/desqk-an-app-for-the-future-of-project-management"/>
-        <updated>2021-05-12T17:31:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.desqk.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How prototyping with numbers uncovers viability of ideas]]></title>
         <id>https://www.designernews.co/stories/115402-how-prototyping-with-numbers-uncovers-viability-of-ideas-</id>
         <link href="https://www.designernews.co/stories/115402-how-prototyping-with-numbers-uncovers-viability-of-ideas-"/>
@@ -324,26 +344,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         <summary type="html"><![CDATA[https://d.mba/stories/how-lilli-used-prototyping-with-numbers-to-explore-the-viability-of-a-new-business-idea]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schema.org launches its schema markup validator tool]]></title>
-        <id>https://searchengineland.com/schema-org-launches-its-schema-markup-validator-tool-348590</id>
-        <link href="http://www.webdesignernews.com/external/schema-org-launches-its-schema-markup-validator-tool"/>
-        <updated>2021-05-12T13:34:38.000Z</updated>
-        <summary type="html"><![CDATA[https://searchengineland.com/schema-org-launches-its-schema-markup-validator-tool-348590]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As a Freelance Designer, What Is Your Unique Selling Point?]]></title>
-        <id>https://speckyboy.com/freelance-designer-unique-selling-point/</id>
-        <link href="http://www.webdesignernews.com/external/as-a-freelance-designer-what-is-your-unique-selling-point"/>
-        <updated>2021-05-12T13:34:36.000Z</updated>
-        <summary type="html"><![CDATA[https://speckyboy.com/freelance-designer-unique-selling-point/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
