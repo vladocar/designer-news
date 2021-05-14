@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-14T19:14:54.631Z</id>
+    <id>urn:2021-05-14T20:00:53.378Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T19:14:54.631Z</updated>
+    <updated>2021-05-14T20:00:53.378Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Spearmint ? JavaScript Testing Generator]]></title>
+        <id>https://www.spearmintjs.com/</id>
+        <link href="http://www.webdesignernews.com/external/spearmint-javascript-test-code-generator-new-in-app-testing"/>
+        <updated>2021-05-14T19:16:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.spearmintjs.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Increase max_execution_time in PHP]]></title>
         <id>https://code.tutsplus.com/tutorials/how-to-increase-max_execution_time-in-php--cms-37017</id>
@@ -323,16 +333,6 @@
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/11-best-gifts-for-developerscodersprogr.html]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My startup tripled in size in 2020: Here?s what I learned]]></title>
-        <id>https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned</id>
-        <link href="http://www.webdesignernews.com/external/my-startup-tripled-in-size-in-2020-here-s-what-i-learned"/>
-        <updated>2021-05-12T23:54:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
