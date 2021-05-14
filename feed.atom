@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-14T13:16:58.218Z</id>
+    <id>urn:2021-05-14T14:00:58.503Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T13:16:58.218Z</updated>
+    <updated>2021-05-14T14:00:58.503Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mmm.page - Dead simple, drag & drop personal websites]]></title>
+        <id>https://mmm.page/</id>
+        <link href="http://www.webdesignernews.com/external/mmm-page-dead-simple-drag-drop-personal-websites"/>
+        <updated>2021-05-14T13:27:00.000Z</updated>
+        <summary type="html"><![CDATA[https://mmm.page/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Custom Ecommerce Website Design & Development Cost Services]]></title>
         <id>https://www.designernews.co/stories/115458-custom-ecommerce-website-design--development-cost-services</id>
@@ -344,16 +354,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         <summary type="html"><![CDATA[https://medium.com/indeed-design/how-to-set-your-figma-up-for-easy-collaboration-with-nondesigners-f0dfe8d08db3]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Smashing Stories]]></title>
-        <id>https://www.smashingmagazine.com/2021/05/little-smashing-stories/</id>
-        <link href="http://www.webdesignernews.com/external/little-smashing-stories"/>
-        <updated>2021-05-12T18:46:17.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/little-smashing-stories/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
