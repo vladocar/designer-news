@@ -549,24 +549,6 @@
           "publishedOn": "2021-04-16T09:00:00.000Z",
           "wordCount": 2912,
           "title": "Seven Mistakes To Avoid In Your Technical Interviews"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
-          "author": "hello@smashingmagazine.com (Stephen Roe)",
-          "description": "Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
-          "publishedOn": "2021-04-15T11:00:00.000Z",
-          "wordCount": 3522,
-          "title": "How To Get Web Design Clients Fast (Part 2)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.",
-          "link": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
-          "publishedOn": "2021-04-15T10:30:00.000Z",
-          "wordCount": 967,
-          "title": "From Cats With Love: New Navigation, Guides And Workshops"
         }
       ]
     },
@@ -635,7 +617,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-squarespace-vs-wix/",
           "link": "http://www.webdesignernews.com/external/infographic-squarespace-vs-wix",
           "publishedOn": "2021-05-14T09:46:28.000Z",
-          "wordCount": 417,
+          "wordCount": 415,
           "title": "Infographic: Squarespace Vs Wix"
         },
         {

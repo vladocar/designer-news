@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-14T22:00:37.488Z</id>
+    <id>urn:2021-05-14T23:03:50.529Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T22:00:37.488Z</updated>
+    <updated>2021-05-14T23:03:50.529Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -803,26 +803,6 @@ The post 30 Best Monogram Fonts appeared first on Design Inspiration.]]></summar
         <summary type="html"><![CDATA[It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Emma Bostian)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Get Web Design Clients Fast (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/</id>
-        <link href="https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/"/>
-        <updated>2021-04-15T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephen Roe)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Cats With Love: New Navigation, Guides And Workshops]]></title>
-        <id>https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/</id>
-        <link href="https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/"/>
-        <updated>2021-04-15T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
