@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-14T08:01:33.359Z</id>
+    <id>urn:2021-05-14T09:03:46.857Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T08:01:33.359Z</updated>
+    <updated>2021-05-14T09:03:46.857Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10 reasons to choose Python Web Development for your Next Project]]></title>
+        <id>https://www.designernews.co/stories/115453-10-reasons-to-choose-python-web-development-for-your-next-project</id>
+        <link href="https://www.designernews.co/stories/115453-10-reasons-to-choose-python-web-development-for-your-next-project"/>
+        <updated>2021-05-14T08:49:58.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/blog/10-reasons-to-choose-python-web-development-for-your-next-project]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 Best Google Chrome Extensions for Web Designers And Developers in 2021]]></title>
         <id>https://www.designernews.co/stories/115450-8-best-google-chrome-extensions-for-web-designers-and-developers-in-2021</id>
@@ -483,16 +493,6 @@ The post 10 Free Illustrator Shadow Text Effect (Graphic Styles) appeared first 
         <link href="https://www.designernews.co/stories/115363-react-bootstrap-5"/>
         <updated>2021-05-11T08:45:53.000Z</updated>
         <summary type="html"><![CDATA[https://www.producthunt.com/posts/react-bootstrap-5]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Intelligent Process Automation and How Does it Differ from Robotic Process Automation?]]></title>
-        <id>https://www.designernews.co/stories/115361-what-is-intelligent-process-automation-and-how-does-it-differ-from-robotic-process-automation</id>
-        <link href="https://www.designernews.co/stories/115361-what-is-intelligent-process-automation-and-how-does-it-differ-from-robotic-process-automation"/>
-        <updated>2021-05-11T08:17:35.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/what-is-intelligent-process-automation-and-how-does-it-differs-from-robotic-process-automation]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
