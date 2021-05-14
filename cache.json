@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115458-custom-ecommerce-website-design--development-cost-services",
+          "author": null,
+          "description": "https://www.coders.dev/blog/web-development/custom-ecommerce-website-development-cost-services-technologies.html",
+          "link": "https://www.designernews.co/stories/115458-custom-ecommerce-website-design--development-cost-services",
+          "publishedOn": "2021-05-14T13:14:23.000Z",
+          "wordCount": 182,
+          "title": "Custom Ecommerce Website Design & Development Cost Services"
+        },
+        {
           "id": "https://www.designernews.co/stories/115453-10-reasons-to-choose-python-web-development-for-your-next-project",
           "author": null,
           "description": "https://www.zenesys.com/blog/10-reasons-to-choose-python-web-development-for-your-next-project",
@@ -281,15 +290,6 @@
           "publishedOn": "2021-05-11T12:40:51.000Z",
           "wordCount": 176,
           "title": "10 Free Illustrator Shadow Text Effect"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115373-figma-design-kit-for-tailwind-css",
-          "author": null,
-          "description": "https://www.figma.com/community/file/973638860086718856",
-          "link": "https://www.designernews.co/stories/115373-figma-design-kit-for-tailwind-css",
-          "publishedOn": "2021-05-11T12:17:05.000Z",
-          "wordCount": 175,
-          "title": "Figma design kit for Tailwind CSS"
         },
         {
           "id": "https://www.designernews.co/stories/115365-8-vs-code-plugins-to-improve-your-productivity",
@@ -581,7 +581,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-squarespace-vs-wix/",
           "link": "http://www.webdesignernews.com/external/infographic-squarespace-vs-wix",
           "publishedOn": "2021-05-14T09:46:28.000Z",
-          "wordCount": 405,
+          "wordCount": 420,
           "title": "Infographic: Squarespace Vs Wix"
         },
         {
@@ -590,7 +590,7 @@
           "description": "https://kinsta.com/blog/wordpress-agency/",
           "link": "http://www.webdesignernews.com/external/how-to-start-a-wordpress-agency",
           "publishedOn": "2021-05-14T09:46:02.000Z",
-          "wordCount": 6468,
+          "wordCount": 6462,
           "title": "How to Start a WordPress Agency"
         },
         {
@@ -698,7 +698,7 @@
           "description": "https://torquemag.io/2021/05/is-managed-wordpress-hosting-worth-it/",
           "link": "http://www.webdesignernews.com/external/is-managed-wordpress-hosting-worth-it-10-factors-to-consider",
           "publishedOn": "2021-05-13T07:29:09.000Z",
-          "wordCount": 2482,
+          "wordCount": 2679,
           "title": "Is Managed WordPress Hosting Worth It? 10 Factors to Consider"
         },
         {
@@ -716,7 +716,7 @@
           "description": "https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned",
           "link": "http://www.webdesignernews.com/external/my-startup-tripled-in-size-in-2020-here-s-what-i-learned",
           "publishedOn": "2021-05-12T23:54:00.000Z",
-          "wordCount": 1536,
+          "wordCount": 1528,
           "title": "My startup tripled in size in 2020: Here?s what I learned"
         },
         {

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-14T12:01:18.196Z</id>
+    <id>urn:2021-05-14T13:16:58.218Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T12:01:18.196Z</updated>
+    <updated>2021-05-14T13:16:58.218Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Custom Ecommerce Website Design & Development Cost Services]]></title>
+        <id>https://www.designernews.co/stories/115458-custom-ecommerce-website-design--development-cost-services</id>
+        <link href="https://www.designernews.co/stories/115458-custom-ecommerce-website-design--development-cost-services"/>
+        <updated>2021-05-14T13:14:23.000Z</updated>
+        <summary type="html"><![CDATA[https://www.coders.dev/blog/web-development/custom-ecommerce-website-development-cost-services-technologies.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
         <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
@@ -465,16 +475,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
 The post 10 Free Illustrator Shadow Text Effect (Graphic Styles) appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Figma design kit for Tailwind CSS]]></title>
-        <id>https://www.designernews.co/stories/115373-figma-design-kit-for-tailwind-css</id>
-        <link href="https://www.designernews.co/stories/115373-figma-design-kit-for-tailwind-css"/>
-        <updated>2021-05-11T12:17:05.000Z</updated>
-        <summary type="html"><![CDATA[https://www.figma.com/community/file/973638860086718856]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
