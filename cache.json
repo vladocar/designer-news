@@ -576,6 +576,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://torquemag.io/2021/05/first-look-the-future-of-wordpress-widgets/",
+          "author": null,
+          "description": "https://torquemag.io/2021/05/first-look-the-future-of-wordpress-widgets/",
+          "link": "http://www.webdesignernews.com/external/first-look-the-future-of-wordpress-widgets",
+          "publishedOn": "2021-05-14T17:43:00.000Z",
+          "wordCount": 615,
+          "title": "First Look: The Future Of WordPress Widgets"
+        },
+        {
           "id": "https://csshint.com/bootstrap-shoping-carts/",
           "author": null,
           "description": "https://csshint.com/bootstrap-shoping-carts/",
@@ -599,7 +608,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-squarespace-vs-wix/",
           "link": "http://www.webdesignernews.com/external/infographic-squarespace-vs-wix",
           "publishedOn": "2021-05-14T09:46:28.000Z",
-          "wordCount": 410,
+          "wordCount": 420,
           "title": "Infographic: Squarespace Vs Wix"
         },
         {
@@ -716,7 +725,7 @@
           "description": "https://torquemag.io/2021/05/is-managed-wordpress-hosting-worth-it/",
           "link": "http://www.webdesignernews.com/external/is-managed-wordpress-hosting-worth-it-10-factors-to-consider",
           "publishedOn": "2021-05-13T07:29:09.000Z",
-          "wordCount": 2679,
+          "wordCount": 2677,
           "title": "Is Managed WordPress Hosting Worth It? 10 Factors to Consider"
         },
         {
@@ -734,7 +743,7 @@
           "description": "https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned",
           "link": "http://www.webdesignernews.com/external/my-startup-tripled-in-size-in-2020-here-s-what-i-learned",
           "publishedOn": "2021-05-12T23:54:00.000Z",
-          "wordCount": 1525,
+          "wordCount": 1519,
           "title": "My startup tripled in size in 2020: Here?s what I learned"
         },
         {
@@ -745,15 +754,6 @@
           "publishedOn": "2021-05-12T21:34:00.000Z",
           "wordCount": 370,
           "title": "Just Use Email ? How to Use Email for Everything"
-        },
-        {
-          "id": "https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox",
-          "author": null,
-          "description": "https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox",
-          "link": "http://www.webdesignernews.com/external/how-image-search-works-at-dropbox",
-          "publishedOn": "2021-05-12T20:43:02.000Z",
-          "wordCount": 2462,
-          "title": "How image search works at Dropbox"
         }
       ]
     }
