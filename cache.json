@@ -576,6 +576,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://csshint.com/bootstrap-shoping-carts/",
+          "author": null,
+          "description": "https://csshint.com/bootstrap-shoping-carts/",
+          "link": "http://www.webdesignernews.com/external/10-bootstrap-shopping-carts",
+          "publishedOn": "2021-05-14T15:52:00.000Z",
+          "wordCount": 451,
+          "title": "10 Bootstrap Shopping Carts"
+        },
+        {
           "id": "https://mmm.page/",
           "author": null,
           "description": "https://mmm.page/",
@@ -590,7 +599,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-squarespace-vs-wix/",
           "link": "http://www.webdesignernews.com/external/infographic-squarespace-vs-wix",
           "publishedOn": "2021-05-14T09:46:28.000Z",
-          "wordCount": 412,
+          "wordCount": 390,
           "title": "Infographic: Squarespace Vs Wix"
         },
         {
@@ -725,7 +734,7 @@
           "description": "https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned",
           "link": "http://www.webdesignernews.com/external/my-startup-tripled-in-size-in-2020-here-s-what-i-learned",
           "publishedOn": "2021-05-12T23:54:00.000Z",
-          "wordCount": 1517,
+          "wordCount": 1513,
           "title": "My startup tripled in size in 2020: Here?s what I learned"
         },
         {
@@ -745,15 +754,6 @@
           "publishedOn": "2021-05-12T20:43:02.000Z",
           "wordCount": 2462,
           "title": "How image search works at Dropbox"
-        },
-        {
-          "id": "https://iconic.app/",
-          "author": null,
-          "description": "https://iconic.app/",
-          "link": "http://www.webdesignernews.com/external/iconic-icons",
-          "publishedOn": "2021-05-12T19:59:00.000Z",
-          "wordCount": 115,
-          "title": "Iconic icons"
         }
       ]
     }
