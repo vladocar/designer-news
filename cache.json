@@ -279,7 +279,7 @@
           "description": "https://www.sketch.com/blog/2021/05/11/sketch-in-2021-and-beyond/",
           "link": "https://www.designernews.co/stories/115382-sketch-in-2021-and-beyond",
           "publishedOn": "2021-05-11T17:43:01.000Z",
-          "wordCount": 236,
+          "wordCount": 265,
           "title": "Sketch: in 2021 and beyond"
         },
         {
@@ -576,6 +576,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://code.tutsplus.com/tutorials/how-to-increase-max_execution_time-in-php--cms-37017",
+          "author": null,
+          "description": "https://code.tutsplus.com/tutorials/how-to-increase-max_execution_time-in-php--cms-37017",
+          "link": "http://www.webdesignernews.com/external/how-to-increase-max_execution_time-in-php",
+          "publishedOn": "2021-05-14T18:30:00.000Z",
+          "wordCount": 1508,
+          "title": "How to Increase max_execution_time in PHP"
+        },
+        {
           "id": "https://torquemag.io/2021/05/first-look-the-future-of-wordpress-widgets/",
           "author": null,
           "description": "https://torquemag.io/2021/05/first-look-the-future-of-wordpress-widgets/",
@@ -608,7 +617,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-squarespace-vs-wix/",
           "link": "http://www.webdesignernews.com/external/infographic-squarespace-vs-wix",
           "publishedOn": "2021-05-14T09:46:28.000Z",
-          "wordCount": 420,
+          "wordCount": 403,
           "title": "Infographic: Squarespace Vs Wix"
         },
         {
@@ -743,17 +752,8 @@
           "description": "https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned",
           "link": "http://www.webdesignernews.com/external/my-startup-tripled-in-size-in-2020-here-s-what-i-learned",
           "publishedOn": "2021-05-12T23:54:00.000Z",
-          "wordCount": 1519,
+          "wordCount": 1522,
           "title": "My startup tripled in size in 2020: Here?s what I learned"
-        },
-        {
-          "id": "https://www.justuseemail.com/",
-          "author": null,
-          "description": "https://www.justuseemail.com/",
-          "link": "http://www.webdesignernews.com/external/just-use-email-how-to-use-email-for-everything",
-          "publishedOn": "2021-05-12T21:34:00.000Z",
-          "wordCount": 370,
-          "title": "Just Use Email ? How to Use Email for Everything"
         }
       ]
     }

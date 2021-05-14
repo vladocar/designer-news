@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-14T18:19:13.831Z</id>
+    <id>urn:2021-05-14T19:14:54.631Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T18:19:13.831Z</updated>
+    <updated>2021-05-14T19:14:54.631Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Increase max_execution_time in PHP]]></title>
+        <id>https://code.tutsplus.com/tutorials/how-to-increase-max_execution_time-in-php--cms-37017</id>
+        <link href="http://www.webdesignernews.com/external/how-to-increase-max_execution_time-in-php"/>
+        <updated>2021-05-14T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[https://code.tutsplus.com/tutorials/how-to-increase-max_execution_time-in-php--cms-37017]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First Look: The Future Of WordPress Widgets]]></title>
         <id>https://torquemag.io/2021/05/first-look-the-future-of-wordpress-widgets/</id>
@@ -321,16 +331,6 @@
         <link href="http://www.webdesignernews.com/external/my-startup-tripled-in-size-in-2020-here-s-what-i-learned"/>
         <updated>2021-05-12T23:54:00.000Z</updated>
         <summary type="html"><![CDATA[https://thenextweb.com/news/my-startup-tripled-in-size-in-2020-heres-what-i-learned]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just Use Email ? How to Use Email for Everything]]></title>
-        <id>https://www.justuseemail.com/</id>
-        <link href="http://www.webdesignernews.com/external/just-use-email-how-to-use-email-for-everything"/>
-        <updated>2021-05-12T21:34:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.justuseemail.com/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
