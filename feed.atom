@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-14T20:00:53.378Z</id>
+    <id>urn:2021-05-14T21:00:42.303Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T20:00:53.378Z</updated>
+    <updated>2021-05-14T21:00:42.303Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tail Blend - Blend your images like Tailwind]]></title>
+        <id>https://tailblend.vercel.app/</id>
+        <link href="http://www.webdesignernews.com/external/tail-blend-blend-your-images-like-tailwind"/>
+        <updated>2021-05-14T20:47:00.000Z</updated>
+        <summary type="html"><![CDATA[https://tailblend.vercel.app/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spearmint ? JavaScript Testing Generator]]></title>
         <id>https://www.spearmintjs.com/</id>
@@ -301,16 +311,6 @@
         <link href="http://www.webdesignernews.com/external/is-managed-wordpress-hosting-worth-it-10-factors-to-consider"/>
         <updated>2021-05-13T07:29:09.000Z</updated>
         <summary type="html"><![CDATA[https://torquemag.io/2021/05/is-managed-wordpress-hosting-worth-it/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Move Away from Dark UX Patterns]]></title>
-        <id>https://blog.plantapp.io/post/how-to-move-away-from-dark-ux-patterns</id>
-        <link href="http://www.webdesignernews.com/external/how-to-move-away-from-dark-ux-patterns"/>
-        <updated>2021-05-13T07:17:16.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.plantapp.io/post/how-to-move-away-from-dark-ux-patterns]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>

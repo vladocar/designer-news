@@ -576,6 +576,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://tailblend.vercel.app/",
+          "author": null,
+          "description": "https://tailblend.vercel.app/",
+          "link": "http://www.webdesignernews.com/external/tail-blend-blend-your-images-like-tailwind",
+          "publishedOn": "2021-05-14T20:47:00.000Z",
+          "wordCount": 25,
+          "title": "Tail Blend - Blend your images like Tailwind"
+        },
+        {
           "id": "https://www.spearmintjs.com/",
           "author": null,
           "description": "https://www.spearmintjs.com/",
@@ -626,7 +635,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-squarespace-vs-wix/",
           "link": "http://www.webdesignernews.com/external/infographic-squarespace-vs-wix",
           "publishedOn": "2021-05-14T09:46:28.000Z",
-          "wordCount": 405,
+          "wordCount": 407,
           "title": "Infographic: Squarespace Vs Wix"
         },
         {
@@ -745,15 +754,6 @@
           "publishedOn": "2021-05-13T07:29:09.000Z",
           "wordCount": 2677,
           "title": "Is Managed WordPress Hosting Worth It? 10 Factors to Consider"
-        },
-        {
-          "id": "https://blog.plantapp.io/post/how-to-move-away-from-dark-ux-patterns",
-          "author": null,
-          "description": "https://blog.plantapp.io/post/how-to-move-away-from-dark-ux-patterns",
-          "link": "http://www.webdesignernews.com/external/how-to-move-away-from-dark-ux-patterns",
-          "publishedOn": "2021-05-13T07:17:16.000Z",
-          "wordCount": 1028,
-          "title": "How to Move Away from Dark UX Patterns"
         }
       ]
     }
