@@ -17,7 +17,7 @@
         {
           "id": "https://www.designinspiration.info/?p=2494",
           "author": "Editorial Staff",
-          "description": "We bring you 10 free one click Illustrator Graphics Styles for applying text shadow effect. All text shadow effects can be applied to any text or font in Illustrator and also can be easily customized. The Graphic Stiles can be customized in the Appearance panel (Window &#62; Appearance) and you\nThe post 10 Free Illustrator Shadow Text Effect (Graphic Styles) appeared first on Design Inspiration.",
+          "description": "We bring you 10 free one click Illustrator Graphics Styles for applying text shadow effect. All text shadow effects can be applied to any text or font in Illustrator and also can be easily customized. The Graphic Stiles can be customized in the Appearance panel (Window > Appearance) and you\nThe post 10 Free Illustrator Shadow Text Effect (Graphic Styles) appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/free-illustrator-shadow-text-effect-graphic-styles/",
           "publishedOn": "2021-05-11T12:34:13.000Z",
           "wordCount": 274,
@@ -44,7 +44,7 @@
         {
           "id": "https://www.designinspiration.info/?p=2421",
           "author": "Editorial Staff",
-          "description": "Cool Old English Fonts. We&#8217;ve collected the most beautiful and elegant fonts that can be used in any design project. Take a look. Gothic lettering or blackletter is a letter style in which the letters are calligraphic, and were developed as a rapid handwriting for Latin. As such, they are\nThe post 42 Best Old English Fonts appeared first on Design Inspiration.",
+          "description": "Cool Old English Fonts. We’ve collected the most beautiful and elegant fonts that can be used in any design project. Take a look. Gothic lettering or blackletter is a letter style in which the letters are calligraphic, and were developed as a rapid handwriting for Latin. As such, they are\nThe post 42 Best Old English Fonts appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/old-english-fonts/",
           "publishedOn": "2021-05-04T11:22:18.000Z",
           "wordCount": 3580,
@@ -89,7 +89,7 @@
         {
           "id": "https://www.designinspiration.info/?p=2257",
           "author": "Editorial Staff",
-          "description": "Finding the best monogram font for your project doesn’t have to be a daunting task. You just need you recognize the qualities that separate a fantastic font from an average one. That&#8217;s why we looked through all of the fonts listed and provided you with 30+ of ours personal favorite\nThe post 30 Best Monogram Fonts appeared first on Design Inspiration.",
+          "description": "Finding the best monogram font for your project doesn’t have to be a daunting task. You just need you recognize the qualities that separate a fantastic font from an average one. That’s why we looked through all of the fonts listed and provided you with 30+ of ours personal favorite\nThe post 30 Best Monogram Fonts appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/monogram-fonts/",
           "publishedOn": "2021-04-23T09:17:15.000Z",
           "wordCount": 2156,
@@ -373,7 +373,7 @@
         {
           "id": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
           "author": "hello@smashingmagazine.com (Amanda Annandale)",
-          "description": "At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours &mdash; but how?",
+          "description": "At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?",
           "link": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
           "publishedOn": "2021-05-11T10:00:00.000Z",
           "wordCount": 1958,
@@ -481,7 +481,7 @@
         {
           "id": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
           "author": "hello@smashingmagazine.com (Kate Kalcevich & Mike Gifford)",
-          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early &mdash; when it’s easier and cheaper to fix them.",
+          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.",
           "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
           "publishedOn": "2021-04-26T11:00:00.000Z",
           "wordCount": 3279,
@@ -617,7 +617,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-squarespace-vs-wix/",
           "link": "http://www.webdesignernews.com/external/infographic-squarespace-vs-wix",
           "publishedOn": "2021-05-14T09:46:28.000Z",
-          "wordCount": 424,
+          "wordCount": 412,
           "title": "Infographic: Squarespace Vs Wix"
         },
         {
@@ -740,5 +740,5 @@
       ]
     }
   ],
-  "cliVersion": "1.6.0"
+  "cliVersion": "1.7.0"
 }
