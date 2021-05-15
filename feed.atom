@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-15T18:16:51.053Z</id>
+    <id>urn:2021-05-15T19:13:42.263Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T18:16:51.053Z</updated>
+    <updated>2021-05-15T19:13:42.263Z</updated>
     <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Now Preview Responsive Breakpoint Layouts in Figma using Breakpoints Plugin!]]></title>
+        <id>https://www.designernews.co/stories/115471-now-preview-responsive-breakpoint-layouts-in-figma-using-breakpoints-plugin</id>
+        <link href="https://www.designernews.co/stories/115471-now-preview-responsive-breakpoint-layouts-in-figma-using-breakpoints-plugin"/>
+        <updated>2021-05-15T18:56:24.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=ChagtR5xshM]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[URL Lengthener - Tired of URLs being just too short? Lengthen them x56]]></title>
         <id>https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/</id>
@@ -503,16 +513,6 @@ The post 10 Free Illustrator Shadow Text Effect (Graphic Styles) appeared first 
         <link href="https://www.designernews.co/stories/115363-react-bootstrap-5"/>
         <updated>2021-05-11T08:45:53.000Z</updated>
         <summary type="html"><![CDATA[https://www.producthunt.com/posts/react-bootstrap-5]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to move away from dark UX patterns]]></title>
-        <id>https://www.designernews.co/stories/115360-how-to-move-away-from-dark-ux-patterns</id>
-        <link href="https://www.designernews.co/stories/115360-how-to-move-away-from-dark-ux-patterns"/>
-        <updated>2021-05-11T07:38:25.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.plantapp.io/post/how-to-move-away-from-dark-ux-patterns]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
