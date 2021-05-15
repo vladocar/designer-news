@@ -103,6 +103,24 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115467-best-gifts-for-your-developer-friend",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/05/11-best-gifts-for-developerscodersprogr.html",
+          "link": "https://www.designernews.co/stories/115467-best-gifts-for-your-developer-friend",
+          "publishedOn": "2021-05-15T04:24:10.000Z",
+          "wordCount": 173,
+          "title": "Best Gifts For Your Developer Friend"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115466-how-to-make-money-with-your-code",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html",
+          "link": "https://www.designernews.co/stories/115466-how-to-make-money-with-your-code",
+          "publishedOn": "2021-05-15T04:21:25.000Z",
+          "wordCount": 175,
+          "title": "How To Make Money With Your Code?"
+        },
+        {
           "id": "https://www.designernews.co/stories/115458-custom-ecommerce-website-design--development-cost-services",
           "author": null,
           "description": "https://www.coders.dev/blog/web-development/custom-ecommerce-website-development-cost-services-technologies.html",
@@ -281,24 +299,6 @@
           "publishedOn": "2021-05-11T17:43:01.000Z",
           "wordCount": 262,
           "title": "Sketch: in 2021 and beyond"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115374-10-free-illustrator-shadow-text-effect",
-          "author": null,
-          "description": "https://www.designinspiration.info/free-illustrator-shadow-text-effect-graphic-styles/",
-          "link": "https://www.designernews.co/stories/115374-10-free-illustrator-shadow-text-effect",
-          "publishedOn": "2021-05-11T12:40:51.000Z",
-          "wordCount": 173,
-          "title": "10 Free Illustrator Shadow Text Effect"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115365-8-vs-code-plugins-to-improve-your-productivity",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/04/8-vs-code-plugins-to-improve-your.html",
-          "link": "https://www.designernews.co/stories/115365-8-vs-code-plugins-to-improve-your-productivity",
-          "publishedOn": "2021-05-11T09:32:45.000Z",
-          "wordCount": 177,
-          "title": "8 VS Code Plugins To Improve Your Productivity"
         },
         {
           "id": "https://www.designernews.co/stories/115363-react-bootstrap-5",
@@ -617,7 +617,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-squarespace-vs-wix/",
           "link": "http://www.webdesignernews.com/external/infographic-squarespace-vs-wix",
           "publishedOn": "2021-05-14T09:46:28.000Z",
-          "wordCount": 390,
+          "wordCount": 413,
           "title": "Infographic: Squarespace Vs Wix"
         },
         {
