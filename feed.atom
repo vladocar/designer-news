@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-15T21:00:50.887Z</id>
+    <id>urn:2021-05-15T22:00:43.340Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T21:00:50.887Z</updated>
+    <updated>2021-05-15T22:00:43.340Z</updated>
     <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[YC Random - Random YCombinator interview questions every 10 seconds]]></title>
+        <id>https://ycrand.com/</id>
+        <link href="http://www.webdesignernews.com/external/yc-random-random-ycombinator-interview-questions-every-10-seconds"/>
+        <updated>2021-05-15T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[https://ycrand.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Four Persona Examples for UX/UI design]]></title>
         <id>https://www.uxpin.com/studio/blog/persona-examples/</id>
@@ -252,16 +262,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         <link href="http://www.webdesignernews.com/external/how-to-start-a-wordpress-agency"/>
         <updated>2021-05-14T09:46:02.000Z</updated>
         <summary type="html"><![CDATA[https://kinsta.com/blog/wordpress-agency/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Steps to Faster Web Fonts]]></title>
-        <id>https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/</id>
-        <link href="http://www.webdesignernews.com/external/5-steps-to-faster-web-fonts"/>
-        <updated>2021-05-14T09:45:12.000Z</updated>
-        <summary type="html"><![CDATA[https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
