@@ -558,6 +558,42 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.webdesignerdepot.com/2021/05/comics-for-designers-442/",
+          "author": null,
+          "description": "https://www.webdesignerdepot.com/2021/05/comics-for-designers-442/",
+          "link": "http://www.webdesignernews.com/external/comics-for-designers-442",
+          "publishedOn": "2021-05-15T10:15:24.000Z",
+          "wordCount": 334,
+          "title": "Comics for Designers #442"
+        },
+        {
+          "id": "https://uxdesign.cc/microcopy-an-essential-guide-to-becoming-a-more-literate-designer-2472d02b4eb8",
+          "author": null,
+          "description": "https://uxdesign.cc/microcopy-an-essential-guide-to-becoming-a-more-literate-designer-2472d02b4eb8",
+          "link": "http://www.webdesignernews.com/external/microcopy-an-essential-guide-to-becoming-a-more-literate-designer",
+          "publishedOn": "2021-05-15T10:15:13.000Z",
+          "wordCount": 2836,
+          "title": "Microcopy: an essential guide to becoming a more literate designer"
+        },
+        {
+          "id": "https://chaosmach.com/",
+          "author": null,
+          "description": "https://chaosmach.com/",
+          "link": "http://www.webdesignernews.com/external/chaosmachine-one-click-unique-graphics-generator",
+          "publishedOn": "2021-05-15T10:10:59.000Z",
+          "wordCount": 13,
+          "title": "ChaosMachine - One-click Unique Graphics Generator"
+        },
+        {
+          "id": "https://www.smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
+          "author": null,
+          "description": "https://www.smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
+          "link": "http://www.webdesignernews.com/external/tree-shaking-a-reference-guide",
+          "publishedOn": "2021-05-15T10:06:01.000Z",
+          "wordCount": 2393,
+          "title": "Tree-Shaking: A Reference Guide"
+        },
+        {
           "id": "https://tailblend.vercel.app/",
           "author": null,
           "description": "https://tailblend.vercel.app/",
@@ -617,7 +653,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-squarespace-vs-wix/",
           "link": "http://www.webdesignernews.com/external/infographic-squarespace-vs-wix",
           "publishedOn": "2021-05-14T09:46:28.000Z",
-          "wordCount": 397,
+          "wordCount": 395,
           "title": "Infographic: Squarespace Vs Wix"
         },
         {
@@ -700,42 +736,6 @@
           "publishedOn": "2021-05-13T14:42:00.000Z",
           "wordCount": 2580,
           "title": "Minimalist Design: Why Is It So Effective?"
-        },
-        {
-          "id": "https://iconoir.com/",
-          "author": null,
-          "description": "https://iconoir.com/",
-          "link": "http://www.webdesignernews.com/external/iconoir-a-diverse-and-open-source-library-with-900-icons",
-          "publishedOn": "2021-05-13T13:27:00.000Z",
-          "wordCount": 1966,
-          "title": "Iconoir - A diverse and open-source library with 900+ icons"
-        },
-        {
-          "id": "https://www.smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
-          "author": null,
-          "description": "https://www.smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
-          "link": "http://www.webdesignernews.com/external/frustrating-design-patterns-that-need-fixing-birthday-picker",
-          "publishedOn": "2021-05-13T07:47:00.000Z",
-          "wordCount": 3443,
-          "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker"
-        },
-        {
-          "id": "https://adamfard.com/blog/feature-prioritization",
-          "author": null,
-          "description": "https://adamfard.com/blog/feature-prioritization",
-          "link": "http://www.webdesignernews.com/external/feature-prioritization-frameworks-build-only-what-matters",
-          "publishedOn": "2021-05-13T07:45:57.000Z",
-          "wordCount": 1729,
-          "title": "Feature Prioritization Frameworks: Build Only What Matters"
-        },
-        {
-          "id": "https://torquemag.io/2021/05/is-managed-wordpress-hosting-worth-it/",
-          "author": null,
-          "description": "https://torquemag.io/2021/05/is-managed-wordpress-hosting-worth-it/",
-          "link": "http://www.webdesignernews.com/external/is-managed-wordpress-hosting-worth-it-10-factors-to-consider",
-          "publishedOn": "2021-05-13T07:29:09.000Z",
-          "wordCount": 2677,
-          "title": "Is Managed WordPress Hosting Worth It? 10 Factors to Consider"
         }
       ]
     }

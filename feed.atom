@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-15T10:00:33.661Z</id>
+    <id>urn:2021-05-15T11:00:43.939Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T10:00:33.661Z</updated>
+    <updated>2021-05-15T11:00:43.939Z</updated>
     <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Comics for Designers #442]]></title>
+        <id>https://www.webdesignerdepot.com/2021/05/comics-for-designers-442/</id>
+        <link href="http://www.webdesignernews.com/external/comics-for-designers-442"/>
+        <updated>2021-05-15T10:15:24.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/comics-for-designers-442/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microcopy: an essential guide to becoming a more literate designer]]></title>
+        <id>https://uxdesign.cc/microcopy-an-essential-guide-to-becoming-a-more-literate-designer-2472d02b4eb8</id>
+        <link href="http://www.webdesignernews.com/external/microcopy-an-essential-guide-to-becoming-a-more-literate-designer"/>
+        <updated>2021-05-15T10:15:13.000Z</updated>
+        <summary type="html"><![CDATA[https://uxdesign.cc/microcopy-an-essential-guide-to-becoming-a-more-literate-designer-2472d02b4eb8]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChaosMachine - One-click Unique Graphics Generator]]></title>
+        <id>https://chaosmach.com/</id>
+        <link href="http://www.webdesignernews.com/external/chaosmachine-one-click-unique-graphics-generator"/>
+        <updated>2021-05-15T10:10:59.000Z</updated>
+        <summary type="html"><![CDATA[https://chaosmach.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
+        <id>https://www.smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
+        <link href="http://www.webdesignernews.com/external/tree-shaking-a-reference-guide"/>
+        <updated>2021-05-15T10:06:01.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/tree-shaking-reference-guide/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Gifts For Your Developer Friend]]></title>
         <id>https://www.designernews.co/stories/115467-best-gifts-for-your-developer-friend</id>
@@ -256,16 +296,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Iconoir - A diverse and open-source library with 900+ icons]]></title>
-        <id>https://iconoir.com/</id>
-        <link href="http://www.webdesignernews.com/external/iconoir-a-diverse-and-open-source-library-with-900-icons"/>
-        <updated>2021-05-13T13:27:00.000Z</updated>
-        <summary type="html"><![CDATA[https://iconoir.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“As designers, we should help shed light on these topics, but we also have the ability to do so in beautiful and hopeful ways.“]]></title>
         <id>https://www.designernews.co/stories/115429-as-designers-we-should-help-shed-light-on-these-topics-but-we-also-have-the-ability-to-do-so-in-beautiful-and-hopeful-ways</id>
         <link href="https://www.designernews.co/stories/115429-as-designers-we-should-help-shed-light-on-these-topics-but-we-also-have-the-ability-to-do-so-in-beautiful-and-hopeful-ways"/>
@@ -296,26 +326,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
-        <id>https://www.smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
-        <link href="http://www.webdesignernews.com/external/frustrating-design-patterns-that-need-fixing-birthday-picker"/>
-        <updated>2021-05-13T07:47:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feature Prioritization Frameworks: Build Only What Matters]]></title>
-        <id>https://adamfard.com/blog/feature-prioritization</id>
-        <link href="http://www.webdesignernews.com/external/feature-prioritization-frameworks-build-only-what-matters"/>
-        <updated>2021-05-13T07:45:57.000Z</updated>
-        <summary type="html"><![CDATA[https://adamfard.com/blog/feature-prioritization]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Ultimate Guide to Hyperautomation]]></title>
         <id>https://www.designernews.co/stories/115416-the-ultimate-guide-to-hyperautomation</id>
         <link href="https://www.designernews.co/stories/115416-the-ultimate-guide-to-hyperautomation"/>
@@ -323,16 +333,6 @@
         <summary type="html"><![CDATA[https://www.zenesys.com/blog/the-ultimate-guide-to-hyperautomation]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Managed WordPress Hosting Worth It? 10 Factors to Consider]]></title>
-        <id>https://torquemag.io/2021/05/is-managed-wordpress-hosting-worth-it/</id>
-        <link href="http://www.webdesignernews.com/external/is-managed-wordpress-hosting-worth-it-10-factors-to-consider"/>
-        <updated>2021-05-13T07:29:09.000Z</updated>
-        <summary type="html"><![CDATA[https://torquemag.io/2021/05/is-managed-wordpress-hosting-worth-it/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
