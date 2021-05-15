@@ -558,6 +558,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://webdesign.tutsplus.com/tutorials/color-schemes-with-css-variables-and-javascript--cms-36989",
+          "author": null,
+          "description": "https://webdesign.tutsplus.com/tutorials/color-schemes-with-css-variables-and-javascript--cms-36989",
+          "link": "http://www.webdesignernews.com/external/switch-between-color-schemes-with-css-variables-and-javascript",
+          "publishedOn": "2021-05-15T15:58:00.000Z",
+          "wordCount": 1916,
+          "title": "Switch Between Color Schemes with CSS Variables and JavaScript"
+        },
+        {
           "id": "https://desk.glitchy.website/",
           "author": null,
           "description": "https://desk.glitchy.website/",
@@ -572,7 +581,7 @@
           "description": "https://thenextweb.com/news/github-now-lets-developers-upload-videos-to-their-repositories",
           "link": "http://www.webdesignernews.com/external/github-now-lets-developers-upload-videos-to-their-repositories",
           "publishedOn": "2021-05-15T13:06:00.000Z",
-          "wordCount": 690,
+          "wordCount": 709,
           "title": "GitHub now lets developers upload videos to their repositories"
         },
         {
@@ -581,7 +590,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/comics-for-designers-442/",
           "link": "http://www.webdesignernews.com/external/comics-for-designers-442",
           "publishedOn": "2021-05-15T10:15:24.000Z",
-          "wordCount": 343,
+          "wordCount": 359,
           "title": "Comics for Designers #442"
         },
         {
@@ -671,7 +680,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-squarespace-vs-wix/",
           "link": "http://www.webdesignernews.com/external/infographic-squarespace-vs-wix",
           "publishedOn": "2021-05-14T09:46:28.000Z",
-          "wordCount": 401,
+          "wordCount": 408,
           "title": "Infographic: Squarespace Vs Wix"
         },
         {
@@ -727,15 +736,6 @@
           "publishedOn": "2021-05-13T18:26:00.000Z",
           "wordCount": 1441,
           "title": "Yes, You Need a Design Process"
-        },
-        {
-          "id": "https://www.codewell.cc/",
-          "author": null,
-          "description": "https://www.codewell.cc/",
-          "link": "http://www.webdesignernews.com/external/codewell-improve-your-html-css-skills-by-practicing-on-real-designs",
-          "publishedOn": "2021-05-13T17:41:00.000Z",
-          "wordCount": 9,
-          "title": "Codewell - Improve your HTML & CSS skills by practicing on real designs"
         }
       ]
     }
