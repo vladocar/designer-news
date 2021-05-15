@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-15T16:09:25.462Z</id>
+    <id>urn:2021-05-15T17:34:18.357Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T16:09:25.462Z</updated>
+    <updated>2021-05-15T17:34:18.357Z</updated>
     <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
+        <id>https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/</id>
+        <link href="http://www.webdesignernews.com/external/creating-stylesheet-feature-flags-with-sass-default"/>
+        <updated>2021-05-15T16:24:00.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Switch Between Color Schemes with CSS Variables and JavaScript]]></title>
         <id>https://webdesign.tutsplus.com/tutorials/color-schemes-with-css-variables-and-javascript--cms-36989</id>
@@ -273,16 +283,6 @@
         <summary type="html"><![CDATA[https://Hitsnag.com]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yes, You Need a Design Process]]></title>
-        <id>https://wiredcraft.com/blog/yes-you-need-a-design-process/</id>
-        <link href="http://www.webdesignernews.com/external/yes-you-need-a-design-process"/>
-        <updated>2021-05-13T18:26:00.000Z</updated>
-        <summary type="html"><![CDATA[https://wiredcraft.com/blog/yes-you-need-a-design-process/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
