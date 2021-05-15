@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-15T12:01:13.479Z</id>
+    <id>urn:2021-05-15T13:16:11.920Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T12:01:13.479Z</updated>
+    <updated>2021-05-15T13:16:11.920Z</updated>
     <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub now lets developers upload videos to their repositories]]></title>
+        <id>https://thenextweb.com/news/github-now-lets-developers-upload-videos-to-their-repositories</id>
+        <link href="http://www.webdesignernews.com/external/github-now-lets-developers-upload-videos-to-their-repositories"/>
+        <updated>2021-05-15T13:06:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/github-now-lets-developers-upload-videos-to-their-repositories]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comics for Designers #442]]></title>
         <id>https://www.webdesignerdepot.com/2021/05/comics-for-designers-442/</id>
@@ -271,16 +281,6 @@
         <link href="http://www.webdesignernews.com/external/storybook-addons-for-css"/>
         <updated>2021-05-13T15:59:00.000Z</updated>
         <summary type="html"><![CDATA[https://storybook.js.org/blog/storybook-addons-for-css/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minimalist Design: Why Is It So Effective?]]></title>
-        <id>https://marketsplash.com/minimalist-design/</id>
-        <link href="http://www.webdesignernews.com/external/minimalist-design-why-is-it-so-effective"/>
-        <updated>2021-05-13T14:42:00.000Z</updated>
-        <summary type="html"><![CDATA[https://marketsplash.com/minimalist-design/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
