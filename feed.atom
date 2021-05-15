@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-15T14:00:47.055Z</id>
+    <id>urn:2021-05-15T15:00:44.646Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T14:00:47.055Z</updated>
+    <updated>2021-05-15T15:00:44.646Z</updated>
     <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Andy's Desk: A Windows 7 web desktop recreation]]></title>
+        <id>https://desk.glitchy.website/</id>
+        <link href="http://www.webdesignernews.com/external/andy-s-desk-a-windows-7-web-desktop-recreation"/>
+        <updated>2021-05-15T14:51:00.000Z</updated>
+        <summary type="html"><![CDATA[https://desk.glitchy.website/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub now lets developers upload videos to their repositories]]></title>
         <id>https://thenextweb.com/news/github-now-lets-developers-upload-videos-to-their-repositories</id>
@@ -271,16 +281,6 @@
         <link href="http://www.webdesignernews.com/external/codewell-improve-your-html-css-skills-by-practicing-on-real-designs"/>
         <updated>2021-05-13T17:41:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.codewell.cc/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storybook addons for CSS]]></title>
-        <id>https://storybook.js.org/blog/storybook-addons-for-css/</id>
-        <link href="http://www.webdesignernews.com/external/storybook-addons-for-css"/>
-        <updated>2021-05-13T15:59:00.000Z</updated>
-        <summary type="html"><![CDATA[https://storybook.js.org/blog/storybook-addons-for-css/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
