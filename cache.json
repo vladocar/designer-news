@@ -558,6 +558,24 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/",
+          "author": null,
+          "description": "https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/",
+          "link": "http://www.webdesignernews.com/external/url-lengthener-tired-of-urls-being-just-too-short-lengthen-them-x56",
+          "publishedOn": "2021-05-15T18:05:00.000Z",
+          "wordCount": 333,
+          "title": "URL Lengthener - Tired of URLs being just too short? Lengthen them x56"
+        },
+        {
+          "id": "https://elderguide.com/tech/elderjs/",
+          "author": null,
+          "description": "https://elderguide.com/tech/elderjs/",
+          "link": "http://www.webdesignernews.com/external/elder-js-an-opinionated-seo-focused-svelte-framework",
+          "publishedOn": "2021-05-15T17:56:00.000Z",
+          "wordCount": 12943,
+          "title": "Elder.js: An Opinionated, SEO Focused, Svelte Framework"
+        },
+        {
           "id": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
           "author": null,
           "description": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
@@ -590,7 +608,7 @@
           "description": "https://thenextweb.com/news/github-now-lets-developers-upload-videos-to-their-repositories",
           "link": "http://www.webdesignernews.com/external/github-now-lets-developers-upload-videos-to-their-repositories",
           "publishedOn": "2021-05-15T13:06:00.000Z",
-          "wordCount": 708,
+          "wordCount": 697,
           "title": "GitHub now lets developers upload videos to their repositories"
         },
         {
@@ -599,7 +617,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/comics-for-designers-442/",
           "link": "http://www.webdesignernews.com/external/comics-for-designers-442",
           "publishedOn": "2021-05-15T10:15:24.000Z",
-          "wordCount": 330,
+          "wordCount": 329,
           "title": "Comics for Designers #442"
         },
         {
@@ -689,7 +707,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-squarespace-vs-wix/",
           "link": "http://www.webdesignernews.com/external/infographic-squarespace-vs-wix",
           "publishedOn": "2021-05-14T09:46:28.000Z",
-          "wordCount": 409,
+          "wordCount": 393,
           "title": "Infographic: Squarespace Vs Wix"
         },
         {
@@ -718,24 +736,6 @@
           "publishedOn": "2021-05-13T21:14:00.000Z",
           "wordCount": 21,
           "title": "Neoco - Curated set of 300+ tools & patterns for brighter business"
-        },
-        {
-          "id": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
-          "author": null,
-          "description": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
-          "link": "http://www.webdesignernews.com/external/making-disabled-buttons-more-inclusive",
-          "publishedOn": "2021-05-13T20:09:00.000Z",
-          "wordCount": 2771,
-          "title": "Making Disabled Buttons More Inclusive"
-        },
-        {
-          "id": "https://speckyboy.com/must-have-features-ecommerce-website/",
-          "author": null,
-          "description": "https://speckyboy.com/must-have-features-ecommerce-website/",
-          "link": "http://www.webdesignernews.com/external/a-focus-on-the-basics-must-have-features-for-your-ecommerce-website",
-          "publishedOn": "2021-05-13T19:41:00.000Z",
-          "wordCount": 1413,
-          "title": "A Focus on the Basics: Must-Have Features for Your eCommerce Website"
         }
       ]
     }

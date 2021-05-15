@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-15T17:34:18.357Z</id>
+    <id>urn:2021-05-15T18:16:51.053Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T17:34:18.357Z</updated>
+    <updated>2021-05-15T18:16:51.053Z</updated>
     <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[URL Lengthener - Tired of URLs being just too short? Lengthen them x56]]></title>
+        <id>https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/</id>
+        <link href="http://www.webdesignernews.com/external/url-lengthener-tired-of-urls-being-just-too-short-lengthen-them-x56"/>
+        <updated>2021-05-15T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elder.js: An Opinionated, SEO Focused, Svelte Framework]]></title>
+        <id>https://elderguide.com/tech/elderjs/</id>
+        <link href="http://www.webdesignernews.com/external/elder-js-an-opinionated-seo-focused-svelte-framework"/>
+        <updated>2021-05-15T17:56:00.000Z</updated>
+        <summary type="html"><![CDATA[https://elderguide.com/tech/elderjs/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
         <id>https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/</id>
@@ -251,26 +271,6 @@
         <link href="http://www.webdesignernews.com/external/neoco-curated-set-of-300-tools-patterns-for-brighter-business"/>
         <updated>2021-05-13T21:14:00.000Z</updated>
         <summary type="html"><![CDATA[https://neoco.io/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
-        <id>https://css-tricks.com/making-disabled-buttons-more-inclusive/</id>
-        <link href="http://www.webdesignernews.com/external/making-disabled-buttons-more-inclusive"/>
-        <updated>2021-05-13T20:09:00.000Z</updated>
-        <summary type="html"><![CDATA[https://css-tricks.com/making-disabled-buttons-more-inclusive/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Focus on the Basics: Must-Have Features for Your eCommerce Website]]></title>
-        <id>https://speckyboy.com/must-have-features-ecommerce-website/</id>
-        <link href="http://www.webdesignernews.com/external/a-focus-on-the-basics-must-have-features-for-your-ecommerce-website"/>
-        <updated>2021-05-13T19:41:00.000Z</updated>
-        <summary type="html"><![CDATA[https://speckyboy.com/must-have-features-ecommerce-website/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
