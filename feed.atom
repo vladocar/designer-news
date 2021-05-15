@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-15T20:00:55.101Z</id>
+    <id>urn:2021-05-15T21:00:50.887Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T20:00:55.101Z</updated>
+    <updated>2021-05-15T21:00:50.887Z</updated>
     <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Four Persona Examples for UX/UI design]]></title>
+        <id>https://www.uxpin.com/studio/blog/persona-examples/</id>
+        <link href="http://www.webdesignernews.com/external/four-persona-examples-for-ux-ui-design"/>
+        <updated>2021-05-15T20:50:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/persona-examples/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24 Best Signature Fonts]]></title>
+        <id>https://www.designinspiration.info/?p=2546</id>
+        <link href="https://www.designinspiration.info/signature-fonts/"/>
+        <updated>2021-05-15T20:24:22.000Z</updated>
+        <summary type="html"><![CDATA[There’s nothing more stylish than a well-crafted signature font. It’s all about creating the right image, and certain fonts can give your name a real boost in the right direction. I’m sure you’ll find the one that fits your preferred design style amidst the awesome signature font designs we’ve put
+The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Now Preview Responsive Breakpoint Layouts in Figma using Breakpoints Plugin!]]></title>
         <id>https://www.designernews.co/stories/115471-now-preview-responsive-breakpoint-layouts-in-figma-using-breakpoints-plugin</id>
@@ -273,16 +294,6 @@
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/7-best-mouse-for-developer-gaming-coding.html]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neoco - Curated set of 300+ tools & patterns for brighter business]]></title>
-        <id>https://neoco.io/</id>
-        <link href="http://www.webdesignernews.com/external/neoco-curated-set-of-300-tools-patterns-for-brighter-business"/>
-        <updated>2021-05-13T21:14:00.000Z</updated>
-        <summary type="html"><![CDATA[https://neoco.io/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -725,17 +736,6 @@ The post Best places to buy fonts for commercial use appeared first on Design In
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[30 Best Monogram Fonts]]></title>
-        <id>https://www.designinspiration.info/?p=2257</id>
-        <link href="https://www.designinspiration.info/monogram-fonts/"/>
-        <updated>2021-04-23T09:17:15.000Z</updated>
-        <summary type="html"><![CDATA[Finding the best monogram font for your project doesn’t have to be a daunting task. You just need you recognize the qualities that separate a fantastic font from an average one. That’s why we looked through all of the fonts listed and provided you with 30+ of ours personal favorite
-The post 30 Best Monogram Fonts appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
         <id>https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</id>
         <link href="https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/"/>
@@ -793,16 +793,6 @@ The post 30 Best Monogram Fonts appeared first on Design Inspiration.]]></summar
         <summary type="html"><![CDATA[How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven Mistakes To Avoid In Your Technical Interviews]]></title>
-        <id>https://smashingmagazine.com/2021/04/mistakes-technical-interviews/</id>
-        <link href="https://smashingmagazine.com/2021/04/mistakes-technical-interviews/"/>
-        <updated>2021-04-16T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Emma Bostian)</name>
         </author>
     </entry>
 </feed>

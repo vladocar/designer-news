@@ -6,6 +6,15 @@
       "siteUrl": "https://www.designinspiration.info",
       "articles": [
         {
+          "id": "https://www.designinspiration.info/?p=2546",
+          "author": "Editorial Staff",
+          "description": "There’s nothing more stylish than a well-crafted signature font. It’s all about creating the right image, and certain fonts can give your name a real boost in the right direction. I’m sure you’ll find the one that fits your preferred design style amidst the awesome signature font designs we’ve put\nThe post 24 Best Signature Fonts appeared first on Design Inspiration.",
+          "link": "https://www.designinspiration.info/signature-fonts/",
+          "publishedOn": "2021-05-15T20:24:22.000Z",
+          "wordCount": 1938,
+          "title": "24 Best Signature Fonts"
+        },
+        {
           "id": "https://www.designinspiration.info/?p=2464",
           "author": "Editorial Staff",
           "description": "Finding the right tropical fonts for your projects may not be a simple task. With this collection, we gathered some of the best tropical fonts for you to use in your projects. The range in appearance and use are diverse but they are generally well suited for summer themes or\nThe post 18 Best Tropical Fonts for Summer Designs appeared first on Design Inspiration.",
@@ -85,15 +94,6 @@
           "publishedOn": "2021-04-26T09:10:16.000Z",
           "wordCount": 832,
           "title": "Best places to buy fonts for commercial use"
-        },
-        {
-          "id": "https://www.designinspiration.info/?p=2257",
-          "author": "Editorial Staff",
-          "description": "Finding the best monogram font for your project doesn’t have to be a daunting task. You just need you recognize the qualities that separate a fantastic font from an average one. That’s why we looked through all of the fonts listed and provided you with 30+ of ours personal favorite\nThe post 30 Best Monogram Fonts appeared first on Design Inspiration.",
-          "link": "https://www.designinspiration.info/monogram-fonts/",
-          "publishedOn": "2021-04-23T09:17:15.000Z",
-          "wordCount": 2156,
-          "title": "30 Best Monogram Fonts"
         }
       ]
     },
@@ -540,15 +540,6 @@
           "publishedOn": "2021-04-19T08:30:00.000Z",
           "wordCount": 7206,
           "title": "An In-Depth Guide To Measuring Core Web Vitals"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
-          "author": "hello@smashingmagazine.com (Emma Bostian)",
-          "description": "It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.",
-          "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
-          "publishedOn": "2021-04-16T09:00:00.000Z",
-          "wordCount": 2912,
-          "title": "Seven Mistakes To Avoid In Your Technical Interviews"
         }
       ]
     },
@@ -557,6 +548,15 @@
       "feedUrl": "http://feeds.feedburner.com/webdesignernews",
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
+        {
+          "id": "https://www.uxpin.com/studio/blog/persona-examples/",
+          "author": null,
+          "description": "https://www.uxpin.com/studio/blog/persona-examples/",
+          "link": "http://www.webdesignernews.com/external/four-persona-examples-for-ux-ui-design",
+          "publishedOn": "2021-05-15T20:50:00.000Z",
+          "wordCount": 1400,
+          "title": "Four Persona Examples for UX/UI design"
+        },
         {
           "id": "https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/",
           "author": null,
@@ -608,7 +608,7 @@
           "description": "https://thenextweb.com/news/github-now-lets-developers-upload-videos-to-their-repositories",
           "link": "http://www.webdesignernews.com/external/github-now-lets-developers-upload-videos-to-their-repositories",
           "publishedOn": "2021-05-15T13:06:00.000Z",
-          "wordCount": 703,
+          "wordCount": 695,
           "title": "GitHub now lets developers upload videos to their repositories"
         },
         {
@@ -617,7 +617,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/comics-for-designers-442/",
           "link": "http://www.webdesignernews.com/external/comics-for-designers-442",
           "publishedOn": "2021-05-15T10:15:24.000Z",
-          "wordCount": 325,
+          "wordCount": 360,
           "title": "Comics for Designers #442"
         },
         {
@@ -707,7 +707,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-squarespace-vs-wix/",
           "link": "http://www.webdesignernews.com/external/infographic-squarespace-vs-wix",
           "publishedOn": "2021-05-14T09:46:28.000Z",
-          "wordCount": 395,
+          "wordCount": 397,
           "title": "Infographic: Squarespace Vs Wix"
         },
         {
@@ -727,15 +727,6 @@
           "publishedOn": "2021-05-14T09:45:12.000Z",
           "wordCount": 2247,
           "title": "5 Steps to Faster Web Fonts"
-        },
-        {
-          "id": "https://neoco.io/",
-          "author": null,
-          "description": "https://neoco.io/",
-          "link": "http://www.webdesignernews.com/external/neoco-curated-set-of-300-tools-patterns-for-brighter-business",
-          "publishedOn": "2021-05-13T21:14:00.000Z",
-          "wordCount": 21,
-          "title": "Neoco - Curated set of 300+ tools & patterns for brighter business"
         }
       ]
     }
