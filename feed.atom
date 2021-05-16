@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-16T21:00:47.850Z</id>
+    <id>urn:2021-05-16T22:00:51.940Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T21:00:47.850Z</updated>
+    <updated>2021-05-16T22:00:51.940Z</updated>
     <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Add a Favicon to Your WordPress Website]]></title>
+        <id>https://www.quicksprout.com/how-to-add-a-favicon-to-your-wordpress-website/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-add-a-favicon-to-your-wordpress-website"/>
+        <updated>2021-05-16T21:29:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.quicksprout.com/how-to-add-a-favicon-to-your-wordpress-website/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inside Discord's risky push to position itself as the anti-Facebook]]></title>
         <id>https://www.fastcompany.com/90635684/inside-discords-risky-push-to-position-itself-as-the-anti-facebook</id>
@@ -222,16 +232,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         <link href="http://www.webdesignernews.com/external/github-now-lets-developers-upload-videos-to-their-repositories"/>
         <updated>2021-05-15T13:06:00.000Z</updated>
         <summary type="html"><![CDATA[https://thenextweb.com/news/github-now-lets-developers-upload-videos-to-their-repositories]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comics for Designers #442]]></title>
-        <id>https://www.webdesignerdepot.com/2021/05/comics-for-designers-442/</id>
-        <link href="http://www.webdesignernews.com/external/comics-for-designers-442"/>
-        <updated>2021-05-15T10:15:24.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/comics-for-designers-442/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>

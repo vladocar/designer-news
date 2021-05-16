@@ -549,6 +549,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.quicksprout.com/how-to-add-a-favicon-to-your-wordpress-website/",
+          "author": null,
+          "description": "https://www.quicksprout.com/how-to-add-a-favicon-to-your-wordpress-website/",
+          "link": "http://www.webdesignernews.com/external/how-to-add-a-favicon-to-your-wordpress-website",
+          "publishedOn": "2021-05-16T21:29:00.000Z",
+          "wordCount": 2591,
+          "title": "How to Add a Favicon to Your WordPress Website"
+        },
+        {
           "id": "https://www.fastcompany.com/90635684/inside-discords-risky-push-to-position-itself-as-the-anti-facebook",
           "author": null,
           "description": "https://www.fastcompany.com/90635684/inside-discords-risky-push-to-position-itself-as-the-anti-facebook",
@@ -635,7 +644,7 @@
           "description": "https://www.makeuseof.com/what-is-css-used-for/",
           "link": "http://www.webdesignernews.com/external/what-are-cascading-style-sheets-and-what-is-css-used-for",
           "publishedOn": "2021-05-16T09:23:19.000Z",
-          "wordCount": 1588,
+          "wordCount": 1587,
           "title": "What Is CSS Used For?"
         },
         {
@@ -716,17 +725,8 @@
           "description": "https://thenextweb.com/news/github-now-lets-developers-upload-videos-to-their-repositories",
           "link": "http://www.webdesignernews.com/external/github-now-lets-developers-upload-videos-to-their-repositories",
           "publishedOn": "2021-05-15T13:06:00.000Z",
-          "wordCount": 688,
+          "wordCount": 692,
           "title": "GitHub now lets developers upload videos to their repositories"
-        },
-        {
-          "id": "https://www.webdesignerdepot.com/2021/05/comics-for-designers-442/",
-          "author": null,
-          "description": "https://www.webdesignerdepot.com/2021/05/comics-for-designers-442/",
-          "link": "http://www.webdesignernews.com/external/comics-for-designers-442",
-          "publishedOn": "2021-05-15T10:15:24.000Z",
-          "wordCount": 330,
-          "title": "Comics for Designers #442"
         }
       ]
     }
