@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-16T18:18:37.492Z</id>
+    <id>urn:2021-05-16T19:14:00.268Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T18:18:37.492Z</updated>
+    <updated>2021-05-16T19:14:00.268Z</updated>
     <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[25 Ridiculously Impressive HTML5 Canvas Experiments]]></title>
+        <id>https://code.tutsplus.com/articles/21-ridiculously-impressive-html5-canvas-experiments--net-14210</id>
+        <link href="http://www.webdesignernews.com/external/25-ridiculously-impressive-html5-canvas-experiments"/>
+        <updated>2021-05-16T18:41:00.000Z</updated>
+        <summary type="html"><![CDATA[https://code.tutsplus.com/articles/21-ridiculously-impressive-html5-canvas-experiments--net-14210]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Optimize Site Performance (and Increase Search Ranking)]]></title>
         <id>https://mediatemple.net/blog/web-development-tech/how-to-optimize-site-performance-and-increase-search-ranking/</id>
@@ -222,16 +232,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         <link href="http://www.webdesignernews.com/external/microcopy-an-essential-guide-to-becoming-a-more-literate-designer"/>
         <updated>2021-05-15T10:15:13.000Z</updated>
         <summary type="html"><![CDATA[https://uxdesign.cc/microcopy-an-essential-guide-to-becoming-a-more-literate-designer-2472d02b4eb8]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChaosMachine - One-click Unique Graphics Generator]]></title>
-        <id>https://chaosmach.com/</id>
-        <link href="http://www.webdesignernews.com/external/chaosmachine-one-click-unique-graphics-generator"/>
-        <updated>2021-05-15T10:10:59.000Z</updated>
-        <summary type="html"><![CDATA[https://chaosmach.com/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
