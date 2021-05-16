@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115472-top-7-monitors-for-gammers--programmers--coders",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/05/top-7-monitors-for-gammers-programmers.html",
+          "link": "https://www.designernews.co/stories/115472-top-7-monitors-for-gammers--programmers--coders",
+          "publishedOn": "2021-05-16T06:34:52.000Z",
+          "wordCount": 176,
+          "title": "TOP 7 Monitors For Gammers / Programmers / Coders"
+        },
+        {
           "id": "https://www.designernews.co/stories/115471-now-preview-responsive-breakpoint-layouts-in-figma-using-breakpoints-plugin",
           "author": null,
           "description": "https://www.youtube.com/watch?v=ChagtR5xshM",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-11T08:45:53.000Z",
           "wordCount": 172,
           "title": "React Bootstrap 5"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115360-how-to-move-away-from-dark-ux-patterns",
-          "author": null,
-          "description": "https://blog.plantapp.io/post/how-to-move-away-from-dark-ux-patterns",
-          "link": "https://www.designernews.co/stories/115360-how-to-move-away-from-dark-ux-patterns",
-          "publishedOn": "2021-05-11T07:38:25.000Z",
-          "wordCount": 173,
-          "title": "How to move away from dark UX patterns"
         }
       ]
     },
@@ -617,7 +617,7 @@
           "description": "https://thenextweb.com/news/github-now-lets-developers-upload-videos-to-their-repositories",
           "link": "http://www.webdesignernews.com/external/github-now-lets-developers-upload-videos-to-their-repositories",
           "publishedOn": "2021-05-15T13:06:00.000Z",
-          "wordCount": 687,
+          "wordCount": 705,
           "title": "GitHub now lets developers upload videos to their repositories"
         },
         {
@@ -626,7 +626,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/comics-for-designers-442/",
           "link": "http://www.webdesignernews.com/external/comics-for-designers-442",
           "publishedOn": "2021-05-15T10:15:24.000Z",
-          "wordCount": 337,
+          "wordCount": 330,
           "title": "Comics for Designers #442"
         },
         {
@@ -716,7 +716,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/infographic-squarespace-vs-wix/",
           "link": "http://www.webdesignernews.com/external/infographic-squarespace-vs-wix",
           "publishedOn": "2021-05-14T09:46:28.000Z",
-          "wordCount": 396,
+          "wordCount": 421,
           "title": "Infographic: Squarespace Vs Wix"
         },
         {

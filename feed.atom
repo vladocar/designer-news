@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-16T06:00:49.413Z</id>
+    <id>urn:2021-05-16T07:09:19.435Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T06:00:49.413Z</updated>
+    <updated>2021-05-16T07:09:19.435Z</updated>
     <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TOP 7 Monitors For Gammers / Programmers / Coders]]></title>
+        <id>https://www.designernews.co/stories/115472-top-7-monitors-for-gammers--programmers--coders</id>
+        <link href="https://www.designernews.co/stories/115472-top-7-monitors-for-gammers--programmers--coders"/>
+        <updated>2021-05-16T06:34:52.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/top-7-monitors-for-gammers-programmers.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YC Random - Random YCombinator interview questions every 10 seconds]]></title>
         <id>https://ycrand.com/</id>
@@ -524,16 +534,6 @@ The post 10 Free Illustrator Shadow Text Effect (Graphic Styles) appeared first 
         <link href="https://www.designernews.co/stories/115363-react-bootstrap-5"/>
         <updated>2021-05-11T08:45:53.000Z</updated>
         <summary type="html"><![CDATA[https://www.producthunt.com/posts/react-bootstrap-5]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to move away from dark UX patterns]]></title>
-        <id>https://www.designernews.co/stories/115360-how-to-move-away-from-dark-ux-patterns</id>
-        <link href="https://www.designernews.co/stories/115360-how-to-move-away-from-dark-ux-patterns"/>
-        <updated>2021-05-11T07:38:25.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.plantapp.io/post/how-to-move-away-from-dark-ux-patterns]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
