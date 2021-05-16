@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-16T22:00:51.940Z</id>
+    <id>urn:2021-05-16T23:02:23.998Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T22:00:51.940Z</updated>
+    <updated>2021-05-16T23:02:23.998Z</updated>
     <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3 Questions for a Monthly Self-Evaluation]]></title>
+        <id>https://design.org/3-questions-for-a-monthly-self-evaluation/</id>
+        <link href="http://www.webdesignernews.com/external/3-questions-for-a-monthly-self-evaluation"/>
+        <updated>2021-05-16T22:41:00.000Z</updated>
+        <summary type="html"><![CDATA[https://design.org/3-questions-for-a-monthly-self-evaluation/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Add a Favicon to Your WordPress Website]]></title>
         <id>https://www.quicksprout.com/how-to-add-a-favicon-to-your-wordpress-website/</id>
@@ -222,16 +232,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         <link href="http://www.webdesignernews.com/external/andy-s-desk-a-windows-7-web-desktop-recreation"/>
         <updated>2021-05-15T14:51:00.000Z</updated>
         <summary type="html"><![CDATA[https://desk.glitchy.website/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub now lets developers upload videos to their repositories]]></title>
-        <id>https://thenextweb.com/news/github-now-lets-developers-upload-videos-to-their-repositories</id>
-        <link href="http://www.webdesignernews.com/external/github-now-lets-developers-upload-videos-to-their-repositories"/>
-        <updated>2021-05-15T13:06:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/github-now-lets-developers-upload-videos-to-their-repositories]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
