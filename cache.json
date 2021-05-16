@@ -549,6 +549,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.fastcompany.com/90635684/inside-discords-risky-push-to-position-itself-as-the-anti-facebook",
+          "author": null,
+          "description": "https://www.fastcompany.com/90635684/inside-discords-risky-push-to-position-itself-as-the-anti-facebook",
+          "link": "http://www.webdesignernews.com/external/inside-discord-8217-s-risky-push-to-position-itself-as-the-anti-facebook",
+          "publishedOn": "2021-05-16T20:44:00.000Z",
+          "wordCount": 1431,
+          "title": "Inside Discord's risky push to position itself as the anti-Facebook"
+        },
+        {
           "id": "https://code.tutsplus.com/articles/21-ridiculously-impressive-html5-canvas-experiments--net-14210",
           "author": null,
           "description": "https://code.tutsplus.com/articles/21-ridiculously-impressive-html5-canvas-experiments--net-14210",
@@ -608,7 +617,7 @@
           "description": "https://thenextweb.com/news/big-career-mistakes-software-engineer",
           "link": "http://www.webdesignernews.com/external/3-big-mistakes-i-ve-made-in-my-career-as-a-software-engineer",
           "publishedOn": "2021-05-16T10:11:05.000Z",
-          "wordCount": 1470,
+          "wordCount": 1484,
           "title": "3 big mistakes I?ve made in my career as a software engineer"
         },
         {
@@ -626,7 +635,7 @@
           "description": "https://www.makeuseof.com/what-is-css-used-for/",
           "link": "http://www.webdesignernews.com/external/what-are-cascading-style-sheets-and-what-is-css-used-for",
           "publishedOn": "2021-05-16T09:23:19.000Z",
-          "wordCount": 1585,
+          "wordCount": 1588,
           "title": "What Is CSS Used For?"
         },
         {
@@ -707,7 +716,7 @@
           "description": "https://thenextweb.com/news/github-now-lets-developers-upload-videos-to-their-repositories",
           "link": "http://www.webdesignernews.com/external/github-now-lets-developers-upload-videos-to-their-repositories",
           "publishedOn": "2021-05-15T13:06:00.000Z",
-          "wordCount": 695,
+          "wordCount": 688,
           "title": "GitHub now lets developers upload videos to their repositories"
         },
         {
@@ -716,17 +725,8 @@
           "description": "https://www.webdesignerdepot.com/2021/05/comics-for-designers-442/",
           "link": "http://www.webdesignernews.com/external/comics-for-designers-442",
           "publishedOn": "2021-05-15T10:15:24.000Z",
-          "wordCount": 321,
+          "wordCount": 330,
           "title": "Comics for Designers #442"
-        },
-        {
-          "id": "https://uxdesign.cc/microcopy-an-essential-guide-to-becoming-a-more-literate-designer-2472d02b4eb8",
-          "author": null,
-          "description": "https://uxdesign.cc/microcopy-an-essential-guide-to-becoming-a-more-literate-designer-2472d02b4eb8",
-          "link": "http://www.webdesignernews.com/external/microcopy-an-essential-guide-to-becoming-a-more-literate-designer",
-          "publishedOn": "2021-05-15T10:15:13.000Z",
-          "wordCount": 2836,
-          "title": "Microcopy: an essential guide to becoming a more literate designer"
         }
       ]
     }

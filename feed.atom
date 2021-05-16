@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-16T20:00:48.931Z</id>
+    <id>urn:2021-05-16T21:00:47.850Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T20:00:48.931Z</updated>
+    <updated>2021-05-16T21:00:47.850Z</updated>
     <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Inside Discord's risky push to position itself as the anti-Facebook]]></title>
+        <id>https://www.fastcompany.com/90635684/inside-discords-risky-push-to-position-itself-as-the-anti-facebook</id>
+        <link href="http://www.webdesignernews.com/external/inside-discord-8217-s-risky-push-to-position-itself-as-the-anti-facebook"/>
+        <updated>2021-05-16T20:44:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.fastcompany.com/90635684/inside-discords-risky-push-to-position-itself-as-the-anti-facebook]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25 Ridiculously Impressive HTML5 Canvas Experiments]]></title>
         <id>https://code.tutsplus.com/articles/21-ridiculously-impressive-html5-canvas-experiments--net-14210</id>
@@ -222,16 +232,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         <link href="http://www.webdesignernews.com/external/comics-for-designers-442"/>
         <updated>2021-05-15T10:15:24.000Z</updated>
         <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/comics-for-designers-442/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microcopy: an essential guide to becoming a more literate designer]]></title>
-        <id>https://uxdesign.cc/microcopy-an-essential-guide-to-becoming-a-more-literate-designer-2472d02b4eb8</id>
-        <link href="http://www.webdesignernews.com/external/microcopy-an-essential-guide-to-becoming-a-more-literate-designer"/>
-        <updated>2021-05-15T10:15:13.000Z</updated>
-        <summary type="html"><![CDATA[https://uxdesign.cc/microcopy-an-essential-guide-to-becoming-a-more-literate-designer-2472d02b4eb8]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
