@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-17T14:00:58.185Z</id>
+    <id>urn:2021-05-17T15:00:57.714Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T14:00:58.185Z</updated>
+    <updated>2021-05-17T15:00:57.714Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Glassmorphism CSS Generator]]></title>
+        <id>https://markodenic.com/tools/glassmorphism-css-generator/</id>
+        <link href="http://www.webdesignernews.com/external/glassmorphism-css-generator"/>
+        <updated>2021-05-17T14:27:49.000Z</updated>
+        <summary type="html"><![CDATA[https://markodenic.com/tools/glassmorphism-css-generator/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Quick Guide to React useCallback Hook]]></title>
+        <id>https://blog.alexdevero.com/react-usecallback-hook/</id>
+        <link href="http://www.webdesignernews.com/external/a-quick-guide-to-react-usecallback-hook"/>
+        <updated>2021-05-17T14:27:15.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.alexdevero.com/react-usecallback-hook/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Module - Drag and drop design system for Figma]]></title>
+        <id>https://modulesystem.design/</id>
+        <link href="http://www.webdesignernews.com/external/module-drag-and-drop-design-system-for-figma"/>
+        <updated>2021-05-17T14:26:00.000Z</updated>
+        <summary type="html"><![CDATA[https://modulesystem.design/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tint - A better color picker]]></title>
         <id>https://apps.apple.com/us/app/tint-a-better-color-picker/id1551486913</id>
@@ -246,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Four Persona Examples for UX/UI design]]></title>
-        <id>https://www.uxpin.com/studio/blog/persona-examples/</id>
-        <link href="http://www.webdesignernews.com/external/four-persona-examples-for-ux-ui-design"/>
-        <updated>2021-05-15T20:50:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/persona-examples/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[24 Best Signature Fonts]]></title>
         <id>https://www.designinspiration.info/?p=2546</id>
         <link href="https://www.designinspiration.info/signature-fonts/"/>
@@ -274,26 +294,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=ChagtR5xshM]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[URL Lengthener - Tired of URLs being just too short? Lengthen them x56]]></title>
-        <id>https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/</id>
-        <link href="http://www.webdesignernews.com/external/url-lengthener-tired-of-urls-being-just-too-short-lengthen-them-x56"/>
-        <updated>2021-05-15T18:05:00.000Z</updated>
-        <summary type="html"><![CDATA[https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elder.js: An Opinionated, SEO Focused, Svelte Framework]]></title>
-        <id>https://elderguide.com/tech/elderjs/</id>
-        <link href="http://www.webdesignernews.com/external/elder-js-an-opinionated-seo-focused-svelte-framework"/>
-        <updated>2021-05-15T17:56:00.000Z</updated>
-        <summary type="html"><![CDATA[https://elderguide.com/tech/elderjs/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
