@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-17T15:00:57.714Z</id>
+    <id>urn:2021-05-17T16:10:35.668Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T15:00:57.714Z</updated>
+    <updated>2021-05-17T16:10:35.668Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -100,7 +100,7 @@
         <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
         <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
         <updated>2021-05-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s *Page Experience Update* will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to our business, and this is the story of how we improved our Core Web Vitals scores.]]></summary>
+        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
         </author>
