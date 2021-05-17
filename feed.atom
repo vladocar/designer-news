@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-17T09:01:57.236Z</id>
+    <id>urn:2021-05-17T10:03:22.378Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T09:01:57.236Z</updated>
+    <updated>2021-05-17T10:03:22.378Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Get the Best RPA Services in USA and India]]></title>
+        <id>https://www.designernews.co/stories/115480-get-the-best-rpa-services-in-usa-and-india</id>
+        <link href="https://www.designernews.co/stories/115480-get-the-best-rpa-services-in-usa-and-india"/>
+        <updated>2021-05-17T09:31:30.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/services/robotic-process-automation]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Moodboard Template for Figma]]></title>
+        <id>https://www.designernews.co/stories/115479-quick-moodboard-template-for-figma</id>
+        <link href="https://www.designernews.co/stories/115479-quick-moodboard-template-for-figma"/>
+        <updated>2021-05-17T08:15:36.000Z</updated>
+        <summary type="html"><![CDATA[https://www.figma.com/community/file/975852459638798209/Moodboard-Template-by-Human-Deluxe]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 Questions for a Monthly Self-Evaluation]]></title>
         <id>https://design.org/3-questions-for-a-monthly-self-evaluation/</id>
@@ -488,16 +508,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sketch: in 2021 and beyond]]></title>
-        <id>https://www.designernews.co/stories/115382-sketch-in-2021-and-beyond</id>
-        <link href="https://www.designernews.co/stories/115382-sketch-in-2021-and-beyond"/>
-        <updated>2021-05-11T17:43:01.000Z</updated>
-        <summary type="html"><![CDATA[https://www.sketch.com/blog/2021/05/11/sketch-in-2021-and-beyond/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
         <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
         <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
@@ -526,16 +536,6 @@ The post 10 Free Illustrator Shadow Text Effect (Graphic Styles) appeared first 
         <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Bootstrap 5]]></title>
-        <id>https://www.designernews.co/stories/115363-react-bootstrap-5</id>
-        <link href="https://www.designernews.co/stories/115363-react-bootstrap-5"/>
-        <updated>2021-05-11T08:45:53.000Z</updated>
-        <summary type="html"><![CDATA[https://www.producthunt.com/posts/react-bootstrap-5]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>

@@ -103,6 +103,24 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115480-get-the-best-rpa-services-in-usa-and-india",
+          "author": null,
+          "description": "https://www.zenesys.com/services/robotic-process-automation",
+          "link": "https://www.designernews.co/stories/115480-get-the-best-rpa-services-in-usa-and-india",
+          "publishedOn": "2021-05-17T09:31:30.000Z",
+          "wordCount": 180,
+          "title": "Get the Best RPA Services in USA and India"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115479-quick-moodboard-template-for-figma",
+          "author": null,
+          "description": "https://www.figma.com/community/file/975852459638798209/Moodboard-Template-by-Human-Deluxe",
+          "link": "https://www.designernews.co/stories/115479-quick-moodboard-template-for-figma",
+          "publishedOn": "2021-05-17T08:15:36.000Z",
+          "wordCount": 173,
+          "title": "Quick Moodboard Template for Figma"
+        },
+        {
           "id": "https://www.designernews.co/stories/115472-top-7-monitors-for-gammers--programmers--coders",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/05/top-7-monitors-for-gammers-programmers.html",
@@ -308,24 +326,6 @@
           "publishedOn": "2021-05-12T04:56:49.000Z",
           "wordCount": 173,
           "title": "Best keyboards for programming/designing in 2021"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115382-sketch-in-2021-and-beyond",
-          "author": null,
-          "description": "https://www.sketch.com/blog/2021/05/11/sketch-in-2021-and-beyond/",
-          "link": "https://www.designernews.co/stories/115382-sketch-in-2021-and-beyond",
-          "publishedOn": "2021-05-11T17:43:01.000Z",
-          "wordCount": 262,
-          "title": "Sketch: in 2021 and beyond"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115363-react-bootstrap-5",
-          "author": null,
-          "description": "https://www.producthunt.com/posts/react-bootstrap-5",
-          "link": "https://www.designernews.co/stories/115363-react-bootstrap-5",
-          "publishedOn": "2021-05-11T08:45:53.000Z",
-          "wordCount": 175,
-          "title": "React Bootstrap 5"
         }
       ]
     },
@@ -599,7 +599,7 @@
           "description": "https://github.com/harish-garg/nextjs-reactjs-gpt-3",
           "link": "http://www.webdesignernews.com/external/serverless-nextjs-gpt-3-template-to-build-gpt-3-apps",
           "publishedOn": "2021-05-16T16:28:00.000Z",
-          "wordCount": 580,
+          "wordCount": 502,
           "title": "Serverless NextJS/GPT-3 Template to build GPT-3 apps"
         },
         {
@@ -635,7 +635,7 @@
           "description": "https://thenextweb.com/news/big-career-mistakes-software-engineer",
           "link": "http://www.webdesignernews.com/external/3-big-mistakes-i-ve-made-in-my-career-as-a-software-engineer",
           "publishedOn": "2021-05-16T10:11:05.000Z",
-          "wordCount": 1469,
+          "wordCount": 1476,
           "title": "3 big mistakes I?ve made in my career as a software engineer"
         },
         {
@@ -653,7 +653,7 @@
           "description": "https://www.makeuseof.com/what-is-css-used-for/",
           "link": "http://www.webdesignernews.com/external/what-are-cascading-style-sheets-and-what-is-css-used-for",
           "publishedOn": "2021-05-16T09:23:19.000Z",
-          "wordCount": 1570,
+          "wordCount": 1589,
           "title": "What Is CSS Used For?"
         },
         {
