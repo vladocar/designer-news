@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-17T22:00:45.195Z</id>
+    <id>urn:2021-05-17T23:04:11.986Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T22:00:45.195Z</updated>
+    <updated>2021-05-17T23:04:11.986Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[24 Best Fonts with Swashes]]></title>
+        <id>https://www.designinspiration.info/?p=2588</id>
+        <link href="https://www.designinspiration.info/fonts-with-swashes/"/>
+        <updated>2021-05-17T22:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Swashes are a set of decorative, calligraphic “outlines” added to type. Fonts with swashes are more decorative than normal fonts. A swash is a flourish character added to the beginning, inside, or end of a letter. They are used to add a touch of artfulness to otherwise ordinary designs. In
+The post 24 Best Fonts with Swashes appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UI vs UX Design: Which career is for you? (2021)]]></title>
         <id>https://dribbble.com/stories/2021/05/17/ui-vs-ux-design</id>
@@ -732,17 +743,6 @@ The post 20 Best Paper Cut Out Fonts appeared first on Design Inspiration.]]></s
         <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best places to buy fonts for commercial use]]></title>
-        <id>https://www.designinspiration.info/?p=1874</id>
-        <link href="https://www.designinspiration.info/best-places-to-buy-fonts-for-commercial-use/"/>
-        <updated>2021-04-26T09:10:16.000Z</updated>
-        <summary type="html"><![CDATA[Wondering where you can buy fonts for commercial use? We have compared some of the biggest websites where you can buy fonts for commercial use, each website has its own pros and cons, so you can choose the best one that fits your needs. Where to buy fonts? There are
-The post Best places to buy fonts for commercial use appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
