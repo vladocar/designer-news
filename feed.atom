@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-17T18:19:09.485Z</id>
+    <id>urn:2021-05-17T19:14:56.451Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T18:19:09.485Z</updated>
+    <updated>2021-05-17T19:14:56.451Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Come Browse With Me: Free open-source isolated browser for security]]></title>
+        <id>https://comebrowsewithme.com/</id>
+        <link href="http://www.webdesignernews.com/external/come-browser-with-me-free-open-source-isolated-browser-for-security"/>
+        <updated>2021-05-17T18:13:00.000Z</updated>
+        <summary type="html"><![CDATA[https://comebrowsewithme.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Ways To Build Trust With Site Visitors]]></title>
         <id>https://the-webdesigner.co/5-ways-to-build-trust-with-site-visitors/</id>
@@ -251,16 +261,6 @@
         <link href="http://www.webdesignernews.com/external/advanced-css-animation-using-cubic-bezier"/>
         <updated>2021-05-16T10:10:41.000Z</updated>
         <summary type="html"><![CDATA[https://css-tricks.com/advanced-css-animation-using-cubic-bezier/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is CSS Used For?]]></title>
-        <id>https://www.makeuseof.com/what-is-css-used-for/</id>
-        <link href="http://www.webdesignernews.com/external/what-are-cascading-style-sheets-and-what-is-css-used-for"/>
-        <updated>2021-05-16T09:23:19.000Z</updated>
-        <summary type="html"><![CDATA[https://www.makeuseof.com/what-is-css-used-for/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
