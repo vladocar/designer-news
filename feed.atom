@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-17T20:00:53.887Z</id>
+    <id>urn:2021-05-17T21:00:53.997Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T20:00:53.887Z</updated>
+    <updated>2021-05-17T21:00:53.997Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
+        <id>https://www.smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
+        <link href="http://www.webdesignernews.com/external/how-we-improved-our-core-web-vitals-case-study"/>
+        <updated>2021-05-17T20:41:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/core-web-vitals-case-study/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Come Browse With Me: Free open-source isolated browser for security]]></title>
         <id>https://comebrowsewithme.com/</id>
@@ -251,16 +261,6 @@
         <link href="http://www.webdesignernews.com/external/3-big-mistakes-i-ve-made-in-my-career-as-a-software-engineer"/>
         <updated>2021-05-16T10:11:05.000Z</updated>
         <summary type="html"><![CDATA[https://thenextweb.com/news/big-career-mistakes-software-engineer]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced CSS Animation Using cubic-bezier()]]></title>
-        <id>https://css-tricks.com/advanced-css-animation-using-cubic-bezier/</id>
-        <link href="http://www.webdesignernews.com/external/advanced-css-animation-using-cubic-bezier"/>
-        <updated>2021-05-16T10:10:41.000Z</updated>
-        <summary type="html"><![CDATA[https://css-tricks.com/advanced-css-animation-using-cubic-bezier/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
