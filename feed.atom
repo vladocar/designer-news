@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-17T21:00:53.997Z</id>
+    <id>urn:2021-05-17T22:00:45.195Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T21:00:53.997Z</updated>
+    <updated>2021-05-17T22:00:45.195Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UI vs UX Design: Which career is for you? (2021)]]></title>
+        <id>https://dribbble.com/stories/2021/05/17/ui-vs-ux-design</id>
+        <link href="http://www.webdesignernews.com/external/ui-vs-ux-design-which-career-is-for-you-2021"/>
+        <updated>2021-05-17T21:31:00.000Z</updated>
+        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/05/17/ui-vs-ux-design]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
         <id>https://www.smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
@@ -251,16 +261,6 @@
         <link href="http://www.webdesignernews.com/external/sqdaterangeslider-creative-date-range-selection-fast-easy-to-use-component"/>
         <updated>2021-05-16T12:32:00.000Z</updated>
         <summary type="html"><![CDATA[http://www.swishqube.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 big mistakes I?ve made in my career as a software engineer]]></title>
-        <id>https://thenextweb.com/news/big-career-mistakes-software-engineer</id>
-        <link href="http://www.webdesignernews.com/external/3-big-mistakes-i-ve-made-in-my-career-as-a-software-engineer"/>
-        <updated>2021-05-16T10:11:05.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/big-career-mistakes-software-engineer]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
