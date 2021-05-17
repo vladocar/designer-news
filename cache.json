@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115481-top-7-cheapest-stuff-that-can-help-you-while-you-are-coding",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/05/top-7-cheapest-stuff-that-can-help-you.html",
+          "link": "https://www.designernews.co/stories/115481-top-7-cheapest-stuff-that-can-help-you-while-you-are-coding",
+          "publishedOn": "2021-05-17T10:37:31.000Z",
+          "wordCount": 207,
+          "title": "TOP 7 Cheapest Stuff That Can Help You While You are Coding"
+        },
+        {
           "id": "https://www.designernews.co/stories/115480-get-the-best-rpa-services-in-usa-and-india",
           "author": null,
           "description": "https://www.zenesys.com/services/robotic-process-automation",
@@ -299,15 +308,6 @@
           "publishedOn": "2021-05-12T11:56:17.000Z",
           "wordCount": 173,
           "title": "Brand Experience Canvas Figma Template"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115397-updates--new-features-to-paytable-the-airtable-membership-tool-to-monetize-your-airtable-data",
-          "author": null,
-          "description": "https://community.airtable.com/t/updates-new-features-to-paytable-the-airtable-membership-tool-to-monetize-your-airtable-data/40300",
-          "link": "https://www.designernews.co/stories/115397-updates--new-features-to-paytable-the-airtable-membership-tool-to-monetize-your-airtable-data",
-          "publishedOn": "2021-05-12T10:39:38.000Z",
-          "wordCount": 193,
-          "title": "Updates & new features to Paytable; The Airtable membership tool to monetize your Airtable data"
         },
         {
           "id": "https://www.designernews.co/stories/115391-6-ways-to-make-money-with-your-code",
@@ -599,7 +599,7 @@
           "description": "https://github.com/harish-garg/nextjs-reactjs-gpt-3",
           "link": "http://www.webdesignernews.com/external/serverless-nextjs-gpt-3-template-to-build-gpt-3-apps",
           "publishedOn": "2021-05-16T16:28:00.000Z",
-          "wordCount": 502,
+          "wordCount": 580,
           "title": "Serverless NextJS/GPT-3 Template to build GPT-3 apps"
         },
         {
@@ -635,7 +635,7 @@
           "description": "https://thenextweb.com/news/big-career-mistakes-software-engineer",
           "link": "http://www.webdesignernews.com/external/3-big-mistakes-i-ve-made-in-my-career-as-a-software-engineer",
           "publishedOn": "2021-05-16T10:11:05.000Z",
-          "wordCount": 1476,
+          "wordCount": 1380,
           "title": "3 big mistakes I?ve made in my career as a software engineer"
         },
         {

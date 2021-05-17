@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-17T10:03:22.378Z</id>
+    <id>urn:2021-05-17T11:00:54.416Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T10:03:22.378Z</updated>
+    <updated>2021-05-17T11:00:54.416Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TOP 7 Cheapest Stuff That Can Help You While You are Coding]]></title>
+        <id>https://www.designernews.co/stories/115481-top-7-cheapest-stuff-that-can-help-you-while-you-are-coding</id>
+        <link href="https://www.designernews.co/stories/115481-top-7-cheapest-stuff-that-can-help-you-while-you-are-coding"/>
+        <updated>2021-05-17T10:37:31.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/top-7-cheapest-stuff-that-can-help-you.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get the Best RPA Services in USA and India]]></title>
         <id>https://www.designernews.co/stories/115480-get-the-best-rpa-services-in-usa-and-india</id>
@@ -463,16 +473,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         <link href="https://www.designernews.co/stories/115398-brand-experience-canvas-figma-template"/>
         <updated>2021-05-12T11:56:17.000Z</updated>
         <summary type="html"><![CDATA[https://www.figma.com/community/file/974278511242705439/Brand-Experience-Canvas-by-Human-Deluxe]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Updates & new features to Paytable; The Airtable membership tool to monetize your Airtable data]]></title>
-        <id>https://www.designernews.co/stories/115397-updates--new-features-to-paytable-the-airtable-membership-tool-to-monetize-your-airtable-data</id>
-        <link href="https://www.designernews.co/stories/115397-updates--new-features-to-paytable-the-airtable-membership-tool-to-monetize-your-airtable-data"/>
-        <updated>2021-05-12T10:39:38.000Z</updated>
-        <summary type="html"><![CDATA[https://community.airtable.com/t/updates-new-features-to-paytable-the-airtable-membership-tool-to-monetize-your-airtable-data/40300]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
