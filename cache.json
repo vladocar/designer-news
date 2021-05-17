@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115485-5--most-customerfriendly-elementor-woocommerce-themes",
+          "author": null,
+          "description": "https://wpklik.com/wordpress-themes/elementor-woocommerce-themes/",
+          "link": "https://www.designernews.co/stories/115485-5--most-customerfriendly-elementor-woocommerce-themes",
+          "publishedOn": "2021-05-17T12:59:09.000Z",
+          "wordCount": 175,
+          "title": "5 + Most Customer-Friendly Elementor WooCommerce Themes"
+        },
+        {
           "id": "https://www.designernews.co/stories/115483-5-rules-for-every-code-review",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/05/5-rules-for-every-code-review.html",
@@ -135,7 +144,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/05/top-7-monitors-for-gammers-programmers.html",
           "link": "https://www.designernews.co/stories/115472-top-7-monitors-for-gammers--programmers--coders",
           "publishedOn": "2021-05-16T06:34:52.000Z",
-          "wordCount": 179,
+          "wordCount": 201,
           "title": "TOP 7 Monitors For Gammers / Programmers / Coders"
         },
         {
@@ -301,15 +310,6 @@
           "title": "Payload, a CMS built specifically for digital design agencies, is now live on Product Hunt!"
         },
         {
-          "id": "https://www.designernews.co/stories/115398-brand-experience-canvas-figma-template",
-          "author": null,
-          "description": "https://www.figma.com/community/file/974278511242705439/Brand-Experience-Canvas-by-Human-Deluxe",
-          "link": "https://www.designernews.co/stories/115398-brand-experience-canvas-figma-template",
-          "publishedOn": "2021-05-12T11:56:17.000Z",
-          "wordCount": 173,
-          "title": "Brand Experience Canvas Figma Template"
-        },
-        {
           "id": "https://www.designernews.co/stories/115391-6-ways-to-make-money-with-your-code",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html",
@@ -337,10 +337,10 @@
         {
           "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "author": "hello@smashingmagazine.com (Beau Hartshorne)",
-          "description": "Google’s “Page Experience Update” will begin rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to our business, and this is the story of how we improved our Core Web Vitals scores. We built a tool along the way that we are releasing as open-source for anyone to use—and help us improve!",
+          "description": "Google’s *Page Experience Update* will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to our business, and this is the story of how we improved our Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2909,
+          "wordCount": 2898,
           "title": "How We Improved Our Core Web Vitals (Case Study)"
         },
         {
@@ -558,6 +558,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://speckyboy.com/contribute-to-the-web-design-community/",
+          "author": null,
+          "description": "https://speckyboy.com/contribute-to-the-web-design-community/",
+          "link": "http://www.webdesignernews.com/external/5-ways-you-can-contribute-to-the-web-design-community",
+          "publishedOn": "2021-05-17T12:03:00.000Z",
+          "wordCount": 1524,
+          "title": "5 Ways You Can Contribute to the Web Design Community"
+        },
+        {
           "id": "https://code.tutsplus.com/tutorials/which-back-end-to-choose-nodejs-vs-php--cms-36890",
           "author": null,
           "description": "https://code.tutsplus.com/tutorials/which-back-end-to-choose-nodejs-vs-php--cms-36890",
@@ -653,7 +662,7 @@
           "description": "https://thenextweb.com/news/big-career-mistakes-software-engineer",
           "link": "http://www.webdesignernews.com/external/3-big-mistakes-i-ve-made-in-my-career-as-a-software-engineer",
           "publishedOn": "2021-05-16T10:11:05.000Z",
-          "wordCount": 1458,
+          "wordCount": 1466,
           "title": "3 big mistakes I?ve made in my career as a software engineer"
         },
         {
@@ -671,7 +680,7 @@
           "description": "https://www.makeuseof.com/what-is-css-used-for/",
           "link": "http://www.webdesignernews.com/external/what-are-cascading-style-sheets-and-what-is-css-used-for",
           "publishedOn": "2021-05-16T09:23:19.000Z",
-          "wordCount": 1592,
+          "wordCount": null,
           "title": "What Is CSS Used For?"
         },
         {
@@ -727,15 +736,6 @@
           "publishedOn": "2021-05-15T16:24:00.000Z",
           "wordCount": 1344,
           "title": "Creating Stylesheet Feature Flags With Sass !default"
-        },
-        {
-          "id": "https://webdesign.tutsplus.com/tutorials/color-schemes-with-css-variables-and-javascript--cms-36989",
-          "author": null,
-          "description": "https://webdesign.tutsplus.com/tutorials/color-schemes-with-css-variables-and-javascript--cms-36989",
-          "link": "http://www.webdesignernews.com/external/switch-between-color-schemes-with-css-variables-and-javascript",
-          "publishedOn": "2021-05-15T15:58:00.000Z",
-          "wordCount": 1916,
-          "title": "Switch Between Color Schemes with CSS Variables and JavaScript"
         }
       ]
     }

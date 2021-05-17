@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-17T12:01:20.122Z</id>
+    <id>urn:2021-05-17T13:20:02.653Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T12:01:20.122Z</updated>
+    <updated>2021-05-17T13:20:02.653Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[5 + Most Customer-Friendly Elementor WooCommerce Themes]]></title>
+        <id>https://www.designernews.co/stories/115485-5--most-customerfriendly-elementor-woocommerce-themes</id>
+        <link href="https://www.designernews.co/stories/115485-5--most-customerfriendly-elementor-woocommerce-themes"/>
+        <updated>2021-05-17T12:59:09.000Z</updated>
+        <summary type="html"><![CDATA[https://wpklik.com/wordpress-themes/elementor-woocommerce-themes/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways You Can Contribute to the Web Design Community]]></title>
+        <id>https://speckyboy.com/contribute-to-the-web-design-community/</id>
+        <link href="http://www.webdesignernews.com/external/5-ways-you-can-contribute-to-the-web-design-community"/>
+        <updated>2021-05-17T12:03:00.000Z</updated>
+        <summary type="html"><![CDATA[https://speckyboy.com/contribute-to-the-web-design-community/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Rules for Every Code Review]]></title>
         <id>https://www.designernews.co/stories/115483-5-rules-for-every-code-review</id>
@@ -30,7 +50,7 @@
         <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
         <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
         <updated>2021-05-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s “Page Experience Update” will begin rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to our business, and this is the story of how we improved our Core Web Vitals scores. We built a tool along the way that we are releasing as open-source for anyone to use—and help us improve!]]></summary>
+        <summary type="html"><![CDATA[Google’s *Page Experience Update* will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to our business, and this is the story of how we improved our Core Web Vitals scores.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
         </author>
@@ -267,16 +287,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Switch Between Color Schemes with CSS Variables and JavaScript]]></title>
-        <id>https://webdesign.tutsplus.com/tutorials/color-schemes-with-css-variables-and-javascript--cms-36989</id>
-        <link href="http://www.webdesignernews.com/external/switch-between-color-schemes-with-css-variables-and-javascript"/>
-        <updated>2021-05-15T15:58:00.000Z</updated>
-        <summary type="html"><![CDATA[https://webdesign.tutsplus.com/tutorials/color-schemes-with-css-variables-and-javascript--cms-36989]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best Gifts For Your Developer Friend]]></title>
         <id>https://www.designernews.co/stories/115467-best-gifts-for-your-developer-friend</id>
         <link href="https://www.designernews.co/stories/115467-best-gifts-for-your-developer-friend"/>
@@ -473,16 +483,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         <link href="https://www.designernews.co/stories/115400-payload-a-cms-built-specifically-for-digital-design-agencies-is-now-live-on-product-hunt"/>
         <updated>2021-05-12T12:37:35.000Z</updated>
         <summary type="html"><![CDATA[https://www.producthunt.com/posts/payload-cms]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brand Experience Canvas Figma Template]]></title>
-        <id>https://www.designernews.co/stories/115398-brand-experience-canvas-figma-template</id>
-        <link href="https://www.designernews.co/stories/115398-brand-experience-canvas-figma-template"/>
-        <updated>2021-05-12T11:56:17.000Z</updated>
-        <summary type="html"><![CDATA[https://www.figma.com/community/file/974278511242705439/Brand-Experience-Canvas-by-Human-Deluxe]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
