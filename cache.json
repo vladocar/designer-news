@@ -558,6 +558,24 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://the-webdesigner.co/5-ways-to-build-trust-with-site-visitors/",
+          "author": null,
+          "description": "https://the-webdesigner.co/5-ways-to-build-trust-with-site-visitors/",
+          "link": "http://www.webdesignernews.com/external/5-ways-to-build-trust-with-site-visitors",
+          "publishedOn": "2021-05-17T17:04:00.000Z",
+          "wordCount": 1109,
+          "title": "5 Ways To Build Trust With Site Visitors"
+        },
+        {
+          "id": "https://www.itsnicethat.com/features/why-creatives-should-care-about-nfts-digital-170521",
+          "author": null,
+          "description": "https://www.itsnicethat.com/features/why-creatives-should-care-about-nfts-digital-170521",
+          "link": "http://www.webdesignernews.com/external/why-creatives-should-care-about-nfts-a-primer",
+          "publishedOn": "2021-05-17T16:19:00.000Z",
+          "wordCount": 2668,
+          "title": "Why creatives should care about NFTs: a primer"
+        },
+        {
           "id": "https://markodenic.com/tools/glassmorphism-css-generator/",
           "author": null,
           "description": "https://markodenic.com/tools/glassmorphism-css-generator/",
@@ -662,7 +680,7 @@
           "description": "https://github.com/harish-garg/nextjs-reactjs-gpt-3",
           "link": "http://www.webdesignernews.com/external/serverless-nextjs-gpt-3-template-to-build-gpt-3-apps",
           "publishedOn": "2021-05-16T16:28:00.000Z",
-          "wordCount": 580,
+          "wordCount": 502,
           "title": "Serverless NextJS/GPT-3 Template to build GPT-3 apps"
         },
         {
@@ -698,7 +716,7 @@
           "description": "https://thenextweb.com/news/big-career-mistakes-software-engineer",
           "link": "http://www.webdesignernews.com/external/3-big-mistakes-i-ve-made-in-my-career-as-a-software-engineer",
           "publishedOn": "2021-05-16T10:11:05.000Z",
-          "wordCount": 1471,
+          "wordCount": 1451,
           "title": "3 big mistakes I?ve made in my career as a software engineer"
         },
         {
@@ -716,26 +734,8 @@
           "description": "https://www.makeuseof.com/what-is-css-used-for/",
           "link": "http://www.webdesignernews.com/external/what-are-cascading-style-sheets-and-what-is-css-used-for",
           "publishedOn": "2021-05-16T09:23:19.000Z",
-          "wordCount": null,
+          "wordCount": 1579,
           "title": "What Is CSS Used For?"
-        },
-        {
-          "id": "https://www.vectornator.io/blog/design-quotes",
-          "author": null,
-          "description": "https://www.vectornator.io/blog/design-quotes",
-          "link": "http://www.webdesignernews.com/external/15-inspirational-design-quotes",
-          "publishedOn": "2021-05-16T09:22:29.000Z",
-          "wordCount": 2187,
-          "title": "15 Inspirational Design Quotes"
-        },
-        {
-          "id": "https://ycrand.com/",
-          "author": null,
-          "description": "https://ycrand.com/",
-          "link": "http://www.webdesignernews.com/external/yc-random-random-ycombinator-interview-questions-every-10-seconds",
-          "publishedOn": "2021-05-15T21:30:00.000Z",
-          "wordCount": 118,
-          "title": "YC Random - Random YCombinator interview questions every 10 seconds"
         }
       ]
     }

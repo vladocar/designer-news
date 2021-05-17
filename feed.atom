@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-17T16:10:35.668Z</id>
+    <id>urn:2021-05-17T17:35:13.711Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T16:10:35.668Z</updated>
+    <updated>2021-05-17T17:35:13.711Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[5 Ways To Build Trust With Site Visitors]]></title>
+        <id>https://the-webdesigner.co/5-ways-to-build-trust-with-site-visitors/</id>
+        <link href="http://www.webdesignernews.com/external/5-ways-to-build-trust-with-site-visitors"/>
+        <updated>2021-05-17T17:04:00.000Z</updated>
+        <summary type="html"><![CDATA[https://the-webdesigner.co/5-ways-to-build-trust-with-site-visitors/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why creatives should care about NFTs: a primer]]></title>
+        <id>https://www.itsnicethat.com/features/why-creatives-should-care-about-nfts-digital-170521</id>
+        <link href="http://www.webdesignernews.com/external/why-creatives-should-care-about-nfts-a-primer"/>
+        <updated>2021-05-17T16:19:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.itsnicethat.com/features/why-creatives-should-care-about-nfts-digital-170521]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Glassmorphism CSS Generator]]></title>
         <id>https://markodenic.com/tools/glassmorphism-css-generator/</id>
@@ -246,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[15 Inspirational Design Quotes]]></title>
-        <id>https://www.vectornator.io/blog/design-quotes</id>
-        <link href="http://www.webdesignernews.com/external/15-inspirational-design-quotes"/>
-        <updated>2021-05-16T09:22:29.000Z</updated>
-        <summary type="html"><![CDATA[https://www.vectornator.io/blog/design-quotes]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TOP 7 Monitors For Gammers / Programmers / Coders]]></title>
         <id>https://www.designernews.co/stories/115472-top-7-monitors-for-gammers--programmers--coders</id>
         <link href="https://www.designernews.co/stories/115472-top-7-monitors-for-gammers--programmers--coders"/>
@@ -263,16 +273,6 @@
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/top-7-monitors-for-gammers-programmers.html]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YC Random - Random YCombinator interview questions every 10 seconds]]></title>
-        <id>https://ycrand.com/</id>
-        <link href="http://www.webdesignernews.com/external/yc-random-random-ycombinator-interview-questions-every-10-seconds"/>
-        <updated>2021-05-15T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[https://ycrand.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
