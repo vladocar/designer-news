@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-17T13:20:02.653Z</id>
+    <id>urn:2021-05-17T14:00:58.185Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T13:20:02.653Z</updated>
+    <updated>2021-05-17T14:00:58.185Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tint - A better color picker]]></title>
+        <id>https://apps.apple.com/us/app/tint-a-better-color-picker/id1551486913</id>
+        <link href="http://www.webdesignernews.com/external/tint-a-better-color-picker"/>
+        <updated>2021-05-17T13:49:00.000Z</updated>
+        <summary type="html"><![CDATA[https://apps.apple.com/us/app/tint-a-better-color-picker/id1551486913]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online video maker with filters and effects that lets you add multiple effects to any part of the video]]></title>
+        <id>https://www.designernews.co/stories/115487-online-video-maker-with-filters-and-effects-that-lets-you-add-multiple-effects-to-any-part-of-the-video</id>
+        <link href="https://www.designernews.co/stories/115487-online-video-maker-with-filters-and-effects-that-lets-you-add-multiple-effects-to-any-part-of-the-video"/>
+        <updated>2021-05-17T13:38:41.000Z</updated>
+        <summary type="html"><![CDATA[https://pixiko.com/editors/video-maker]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 + Most Customer-Friendly Elementor WooCommerce Themes]]></title>
         <id>https://www.designernews.co/stories/115485-5--most-customerfriendly-elementor-woocommerce-themes</id>
@@ -277,16 +297,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
-        <id>https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/</id>
-        <link href="http://www.webdesignernews.com/external/creating-stylesheet-feature-flags-with-sass-default"/>
-        <updated>2021-05-15T16:24:00.000Z</updated>
-        <summary type="html"><![CDATA[https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best Gifts For Your Developer Friend]]></title>
         <id>https://www.designernews.co/stories/115467-best-gifts-for-your-developer-friend</id>
         <link href="https://www.designernews.co/stories/115467-best-gifts-for-your-developer-friend"/>
@@ -495,16 +505,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Ways To Make Money With Your Code]]></title>
-        <id>https://www.designernews.co/stories/115391-6-ways-to-make-money-with-your-code</id>
-        <link href="https://www.designernews.co/stories/115391-6-ways-to-make-money-with-your-code"/>
-        <updated>2021-05-12T04:59:52.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>

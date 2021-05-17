@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115487-online-video-maker-with-filters-and-effects-that-lets-you-add-multiple-effects-to-any-part-of-the-video",
+          "author": null,
+          "description": "https://pixiko.com/editors/video-maker",
+          "link": "https://www.designernews.co/stories/115487-online-video-maker-with-filters-and-effects-that-lets-you-add-multiple-effects-to-any-part-of-the-video",
+          "publishedOn": "2021-05-17T13:38:41.000Z",
+          "wordCount": 200,
+          "title": "Online video maker with filters and effects that lets you add multiple effects to any part of the video"
+        },
+        {
           "id": "https://www.designernews.co/stories/115485-5--most-customerfriendly-elementor-woocommerce-themes",
           "author": null,
           "description": "https://wpklik.com/wordpress-themes/elementor-woocommerce-themes/",
@@ -308,15 +317,6 @@
           "publishedOn": "2021-05-12T12:37:35.000Z",
           "wordCount": 196,
           "title": "Payload, a CMS built specifically for digital design agencies, is now live on Product Hunt!"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115391-6-ways-to-make-money-with-your-code",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html",
-          "link": "https://www.designernews.co/stories/115391-6-ways-to-make-money-with-your-code",
-          "publishedOn": "2021-05-12T04:59:52.000Z",
-          "wordCount": 177,
-          "title": "6 Ways To Make Money With Your Code"
         },
         {
           "id": "https://www.designernews.co/stories/115389-best-keyboards-for-programmingdesigning-in-2021",
@@ -558,6 +558,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://apps.apple.com/us/app/tint-a-better-color-picker/id1551486913",
+          "author": null,
+          "description": "https://apps.apple.com/us/app/tint-a-better-color-picker/id1551486913",
+          "link": "http://www.webdesignernews.com/external/tint-a-better-color-picker",
+          "publishedOn": "2021-05-17T13:49:00.000Z",
+          "wordCount": 373,
+          "title": "Tint - A better color picker"
+        },
+        {
           "id": "https://speckyboy.com/contribute-to-the-web-design-community/",
           "author": null,
           "description": "https://speckyboy.com/contribute-to-the-web-design-community/",
@@ -662,7 +671,7 @@
           "description": "https://thenextweb.com/news/big-career-mistakes-software-engineer",
           "link": "http://www.webdesignernews.com/external/3-big-mistakes-i-ve-made-in-my-career-as-a-software-engineer",
           "publishedOn": "2021-05-16T10:11:05.000Z",
-          "wordCount": 1466,
+          "wordCount": 1465,
           "title": "3 big mistakes I?ve made in my career as a software engineer"
         },
         {
@@ -680,7 +689,7 @@
           "description": "https://www.makeuseof.com/what-is-css-used-for/",
           "link": "http://www.webdesignernews.com/external/what-are-cascading-style-sheets-and-what-is-css-used-for",
           "publishedOn": "2021-05-16T09:23:19.000Z",
-          "wordCount": null,
+          "wordCount": 1584,
           "title": "What Is CSS Used For?"
         },
         {
@@ -727,15 +736,6 @@
           "publishedOn": "2021-05-15T17:56:00.000Z",
           "wordCount": 13048,
           "title": "Elder.js: An Opinionated, SEO Focused, Svelte Framework"
-        },
-        {
-          "id": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
-          "author": null,
-          "description": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
-          "link": "http://www.webdesignernews.com/external/creating-stylesheet-feature-flags-with-sass-default",
-          "publishedOn": "2021-05-15T16:24:00.000Z",
-          "wordCount": 1344,
-          "title": "Creating Stylesheet Feature Flags With Sass !default"
         }
       ]
     }
