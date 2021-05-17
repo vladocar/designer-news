@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-17T11:00:54.416Z</id>
+    <id>urn:2021-05-17T12:01:20.122Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T11:00:54.416Z</updated>
+    <updated>2021-05-17T12:01:20.122Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[TOP 7 Cheapest Stuff That Can Help You While You are Coding]]></title>
-        <id>https://www.designernews.co/stories/115481-top-7-cheapest-stuff-that-can-help-you-while-you-are-coding</id>
-        <link href="https://www.designernews.co/stories/115481-top-7-cheapest-stuff-that-can-help-you-while-you-are-coding"/>
-        <updated>2021-05-17T10:37:31.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/top-7-cheapest-stuff-that-can-help-you.html]]></summary>
+        <title type="html"><![CDATA[5 Rules for Every Code Review]]></title>
+        <id>https://www.designernews.co/stories/115483-5-rules-for-every-code-review</id>
+        <link href="https://www.designernews.co/stories/115483-5-rules-for-every-code-review"/>
+        <updated>2021-05-17T11:54:54.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/5-rules-for-every-code-review.html]]></summary>
         <author>
             <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which Back-End to Choose? Node.js vs PHP]]></title>
+        <id>https://code.tutsplus.com/tutorials/which-back-end-to-choose-nodejs-vs-php--cms-36890</id>
+        <link href="http://www.webdesignernews.com/external/which-back-end-to-choose-node-js-vs-php"/>
+        <updated>2021-05-17T11:36:26.000Z</updated>
+        <summary type="html"><![CDATA[https://code.tutsplus.com/tutorials/which-back-end-to-choose-nodejs-vs-php--cms-36890]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
+        <updated>2021-05-17T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s “Page Experience Update” will begin rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to our business, and this is the story of how we improved our Core Web Vitals scores. We built a tool along the way that we are releasing as open-source for anyone to use—and help us improve!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
         </author>
     </entry>
     <entry>
@@ -252,16 +272,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         <link href="http://www.webdesignernews.com/external/switch-between-color-schemes-with-css-variables-and-javascript"/>
         <updated>2021-05-15T15:58:00.000Z</updated>
         <summary type="html"><![CDATA[https://webdesign.tutsplus.com/tutorials/color-schemes-with-css-variables-and-javascript--cms-36989]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andy's Desk: A Windows 7 web desktop recreation]]></title>
-        <id>https://desk.glitchy.website/</id>
-        <link href="http://www.webdesignernews.com/external/andy-s-desk-a-windows-7-web-desktop-recreation"/>
-        <updated>2021-05-15T14:51:00.000Z</updated>
-        <summary type="html"><![CDATA[https://desk.glitchy.website/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
