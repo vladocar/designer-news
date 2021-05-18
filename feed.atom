@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-18T18:21:36.985Z</id>
+    <id>urn:2021-05-18T19:17:08.839Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T18:21:36.985Z</updated>
+    <updated>2021-05-18T19:17:08.839Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UnConference: Design System Maturity Model]]></title>
+        <id>https://sparkbox.com/foundry/unconference_design_systems_maturity_model_with_ben_callahan</id>
+        <link href="http://www.webdesignernews.com/external/unconference-design-system-maturity-model"/>
+        <updated>2021-05-18T18:15:45.000Z</updated>
+        <summary type="html"><![CDATA[https://sparkbox.com/foundry/unconference_design_systems_maturity_model_with_ben_callahan]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No, Utility Classes Aren?t the Same As Inline Styles]]></title>
         <id>https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles</id>
@@ -352,16 +362,6 @@ The post 24 Best Fonts with Swashes appeared first on Design Inspiration.]]></su
         <link href="http://www.webdesignernews.com/external/a-quick-guide-to-react-usecallback-hook"/>
         <updated>2021-05-17T14:27:15.000Z</updated>
         <summary type="html"><![CDATA[https://blog.alexdevero.com/react-usecallback-hook/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Module - Drag and drop design system for Figma]]></title>
-        <id>https://modulesystem.design/</id>
-        <link href="http://www.webdesignernews.com/external/module-drag-and-drop-design-system-for-figma"/>
-        <updated>2021-05-17T14:26:00.000Z</updated>
-        <summary type="html"><![CDATA[https://modulesystem.design/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
