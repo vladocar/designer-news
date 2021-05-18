@@ -103,6 +103,33 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115511-calendar-tetris-game",
+          "author": null,
+          "description": "https://crosspatch.io/calendar",
+          "link": "https://www.designernews.co/stories/115511-calendar-tetris-game",
+          "publishedOn": "2021-05-18T07:56:48.000Z",
+          "wordCount": 174,
+          "title": "Calendar Tetris Game"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115510-best-lottie-resources-for-designers-and-developers",
+          "author": null,
+          "description": "https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/",
+          "link": "https://www.designernews.co/stories/115510-best-lottie-resources-for-designers-and-developers",
+          "publishedOn": "2021-05-18T07:52:39.000Z",
+          "wordCount": 175,
+          "title": "Best Lottie Resources for Designers and Developers"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115509-best-books-for-product-designer-in-2021",
+          "author": null,
+          "description": "https://blog.plantapp.io/post/best-books-for-product-designer-in-20211",
+          "link": "https://www.designernews.co/stories/115509-best-books-for-product-designer-in-2021",
+          "publishedOn": "2021-05-18T07:33:32.000Z",
+          "wordCount": 175,
+          "title": "Best Books for Product Designer in 2021"
+        },
+        {
           "id": "https://www.designernews.co/stories/115507-hire-flutter-developer--for-ios--android-app-development",
           "author": null,
           "description": "https://www.webcluesinfotech.com/hire-flutter-app-developer/",
@@ -292,15 +319,6 @@
           "title": "Design A T-Shirt With Vector Graphics"
         },
         {
-          "id": "https://www.designernews.co/stories/115424-minimalist-design--user-interface-examples-why-are-they-so-effective",
-          "author": null,
-          "description": "https://marketsplash.com/minimalist-design/",
-          "link": "https://www.designernews.co/stories/115424-minimalist-design--user-interface-examples-why-are-they-so-effective",
-          "publishedOn": "2021-05-13T10:21:48.000Z",
-          "wordCount": 184,
-          "title": "Minimalist Design & User Interface Examples: Why Are They So Effective?"
-        },
-        {
           "id": "https://www.designernews.co/stories/115416-the-ultimate-guide-to-hyperautomation",
           "author": null,
           "description": "https://www.zenesys.com/blog/the-ultimate-guide-to-hyperautomation",
@@ -308,24 +326,6 @@
           "publishedOn": "2021-05-13T07:43:46.000Z",
           "wordCount": 174,
           "title": "The Ultimate Guide to Hyperautomation"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115412-sublime-text-3-plugins-that-every-developer-must-use",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/04/sublime-text-3-plugins-that-every.html",
-          "link": "https://www.designernews.co/stories/115412-sublime-text-3-plugins-that-every-developer-must-use",
-          "publishedOn": "2021-05-13T04:22:11.000Z",
-          "wordCount": 179,
-          "title": "Sublime Text 3 Plugins That Every Developer Must Use"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115411-11-best-gifts-for-developerscodersprogrammers",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/05/11-best-gifts-for-developerscodersprogr.html",
-          "link": "https://www.designernews.co/stories/115411-11-best-gifts-for-developerscodersprogrammers",
-          "publishedOn": "2021-05-13T04:20:30.000Z",
-          "wordCount": 171,
-          "title": "11 Best Gifts For Developers/Coders/Programmers"
         }
       ]
     },
