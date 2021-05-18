@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-18T12:00:45.628Z</id>
+    <id>urn:2021-05-18T13:18:44.408Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T12:00:45.628Z</updated>
+    <updated>2021-05-18T13:18:44.408Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[5 Best Nutrition WordPress Themes for Real Transformation]]></title>
+        <id>https://www.designernews.co/stories/115520-5-best-nutrition-wordpress-themes-for-real-transformation</id>
+        <link href="https://www.designernews.co/stories/115520-5-best-nutrition-wordpress-themes-for-real-transformation"/>
+        <updated>2021-05-18T13:09:07.000Z</updated>
+        <summary type="html"><![CDATA[https://wpklik.com/wordpress-themes/nutrition-wordpress-themes/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SystemFlow Lite - Free version of utility framework for Webflow & Figma]]></title>
+        <id>https://www.designernews.co/stories/115518-systemflow-lite--free-version-of-utility-framework-for-webflow--figma</id>
+        <link href="https://www.designernews.co/stories/115518-systemflow-lite--free-version-of-utility-framework-for-webflow--figma"/>
+        <updated>2021-05-18T12:19:31.000Z</updated>
+        <summary type="html"><![CDATA[https://webflow.com/website/SystemFlow-Lite-Designer-first-utility-framework-for-Webflow-and-Figma]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The ULTIMATE Figma UI Kit]]></title>
         <id>https://www.designernews.co/stories/115514-the-ultimate-figma-ui-kit</id>
@@ -493,26 +513,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         <link href="https://www.designernews.co/stories/115442-we-built-our-own-notion-api--email-directly-into-anywhere-in-your-notion-its-free-to-use"/>
         <updated>2021-05-13T19:34:00.000Z</updated>
         <summary type="html"><![CDATA[https://Hitsnag.com]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want to Find Your Passion? Start with the Objects You Love]]></title>
-        <id>https://www.designernews.co/stories/115430-want-to-find-your-passion-start-with-the-objects-you-love</id>
-        <link href="https://www.designernews.co/stories/115430-want-to-find-your-passion-start-with-the-objects-you-love"/>
-        <updated>2021-05-13T13:41:08.000Z</updated>
-        <summary type="html"><![CDATA[https://herbertlui.net/how-to-find-your-passion-with-objects/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“As designers, we should help shed light on these topics, but we also have the ability to do so in beautiful and hopeful ways.“]]></title>
-        <id>https://www.designernews.co/stories/115429-as-designers-we-should-help-shed-light-on-these-topics-but-we-also-have-the-ability-to-do-so-in-beautiful-and-hopeful-ways</id>
-        <link href="https://www.designernews.co/stories/115429-as-designers-we-should-help-shed-light-on-these-topics-but-we-also-have-the-ability-to-do-so-in-beautiful-and-hopeful-ways"/>
-        <updated>2021-05-13T11:53:29.000Z</updated>
-        <summary type="html"><![CDATA[https://gingersauce.co/person-of-the-month-an-illustrator-sandrine-anne/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
