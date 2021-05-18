@@ -558,15 +558,6 @@
           "publishedOn": "2021-04-20T09:00:00.000Z",
           "wordCount": 3482,
           "title": "Making GraphQL Work In WordPress"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
-          "author": "hello@smashingmagazine.com (Barry Pollard)",
-          "description": "How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.",
-          "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
-          "publishedOn": "2021-04-19T08:30:00.000Z",
-          "wordCount": 7206,
-          "title": "An In-Depth Guide To Measuring Core Web Vitals"
         }
       ]
     },
@@ -575,6 +566,24 @@
       "feedUrl": "http://feeds.feedburner.com/webdesignernews",
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
+        {
+          "id": "https://d-qn.shinyapps.io/rtify/",
+          "author": null,
+          "description": "https://d-qn.shinyapps.io/rtify/",
+          "link": "http://www.webdesignernews.com/external/arty-face",
+          "publishedOn": "2021-05-18T20:53:00.000Z",
+          "wordCount": 59,
+          "title": "ARty face"
+        },
+        {
+          "id": "https://thenextweb.com/news/price-deep-tech-startup-product",
+          "author": null,
+          "description": "https://thenextweb.com/news/price-deep-tech-startup-product",
+          "link": "http://www.webdesignernews.com/external/here-s-how-you-should-price-your-deep-tech-startup-s-product",
+          "publishedOn": "2021-05-18T20:08:00.000Z",
+          "wordCount": 1331,
+          "title": "Here?s how you should price your deep tech startup?s product"
+        },
         {
           "id": "https://www.uxpin.com/studio/blog/ux-portfolio-review/",
           "author": null,
@@ -644,7 +653,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/ux-design-doesnt-end-with-your-website/",
           "link": "http://www.webdesignernews.com/external/ux-design-doesn-t-end-with-your-website",
           "publishedOn": "2021-05-18T16:04:30.000Z",
-          "wordCount": 1807,
+          "wordCount": 1820,
           "title": "UX Design Doesn?t End With Your Website"
         },
         {
@@ -671,7 +680,7 @@
           "description": "https://thenextweb.com/news/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media-syndication",
           "link": "http://www.webdesignernews.com/external/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media",
           "publishedOn": "2021-05-18T14:54:00.000Z",
-          "wordCount": 1556,
+          "wordCount": 1558,
           "title": "How biased algorithms and moderation are censoring activists on social media"
         },
         {
@@ -736,24 +745,6 @@
           "publishedOn": "2021-05-17T17:04:00.000Z",
           "wordCount": 1109,
           "title": "5 Ways To Build Trust With Site Visitors"
-        },
-        {
-          "id": "https://www.itsnicethat.com/features/why-creatives-should-care-about-nfts-digital-170521",
-          "author": null,
-          "description": "https://www.itsnicethat.com/features/why-creatives-should-care-about-nfts-digital-170521",
-          "link": "http://www.webdesignernews.com/external/why-creatives-should-care-about-nfts-a-primer",
-          "publishedOn": "2021-05-17T16:19:00.000Z",
-          "wordCount": 2667,
-          "title": "Why creatives should care about NFTs: a primer"
-        },
-        {
-          "id": "https://markodenic.com/tools/glassmorphism-css-generator/",
-          "author": null,
-          "description": "https://markodenic.com/tools/glassmorphism-css-generator/",
-          "link": "http://www.webdesignernews.com/external/glassmorphism-css-generator",
-          "publishedOn": "2021-05-17T14:27:49.000Z",
-          "wordCount": 83,
-          "title": "Glassmorphism CSS Generator"
         }
       ]
     }

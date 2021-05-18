@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-18T20:00:59.519Z</id>
+    <id>urn:2021-05-18T21:00:46.639Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T20:00:59.519Z</updated>
+    <updated>2021-05-18T21:00:46.639Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ARty face]]></title>
+        <id>https://d-qn.shinyapps.io/rtify/</id>
+        <link href="http://www.webdesignernews.com/external/arty-face"/>
+        <updated>2021-05-18T20:53:00.000Z</updated>
+        <summary type="html"><![CDATA[https://d-qn.shinyapps.io/rtify/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here?s how you should price your deep tech startup?s product]]></title>
+        <id>https://thenextweb.com/news/price-deep-tech-startup-product</id>
+        <link href="http://www.webdesignernews.com/external/here-s-how-you-should-price-your-deep-tech-startup-s-product"/>
+        <updated>2021-05-18T20:08:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/price-deep-tech-startup-product]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improve Your UX Portfolio ? Ask for a Review]]></title>
         <id>https://www.uxpin.com/studio/blog/ux-portfolio-review/</id>
@@ -342,26 +362,6 @@ The post 24 Best Fonts with Swashes appeared first on Design Inspiration.]]></su
         <link href="http://www.webdesignernews.com/external/5-ways-to-build-trust-with-site-visitors"/>
         <updated>2021-05-17T17:04:00.000Z</updated>
         <summary type="html"><![CDATA[https://the-webdesigner.co/5-ways-to-build-trust-with-site-visitors/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why creatives should care about NFTs: a primer]]></title>
-        <id>https://www.itsnicethat.com/features/why-creatives-should-care-about-nfts-digital-170521</id>
-        <link href="http://www.webdesignernews.com/external/why-creatives-should-care-about-nfts-a-primer"/>
-        <updated>2021-05-17T16:19:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/features/why-creatives-should-care-about-nfts-digital-170521]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glassmorphism CSS Generator]]></title>
-        <id>https://markodenic.com/tools/glassmorphism-css-generator/</id>
-        <link href="http://www.webdesignernews.com/external/glassmorphism-css-generator"/>
-        <updated>2021-05-17T14:27:49.000Z</updated>
-        <summary type="html"><![CDATA[https://markodenic.com/tools/glassmorphism-css-generator/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
@@ -813,16 +813,6 @@ The post 20 Best Paper Cut Out Fonts appeared first on Design Inspiration.]]></s
         <summary type="html"><![CDATA[Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An In-Depth Guide To Measuring Core Web Vitals]]></title>
-        <id>https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/</id>
-        <link href="https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/"/>
-        <updated>2021-04-19T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
         </author>
     </entry>
 </feed>
