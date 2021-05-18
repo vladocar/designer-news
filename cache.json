@@ -576,6 +576,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.uxpin.com/studio/blog/ux-portfolio-review/",
+          "author": null,
+          "description": "https://www.uxpin.com/studio/blog/ux-portfolio-review/",
+          "link": "http://www.webdesignernews.com/external/improve-your-ux-portfolio-ask-for-a-review",
+          "publishedOn": "2021-05-18T19:31:00.000Z",
+          "wordCount": 1294,
+          "title": "Improve Your UX Portfolio ? Ask for a Review"
+        },
+        {
           "id": "https://sparkbox.com/foundry/unconference_design_systems_maturity_model_with_ben_callahan",
           "author": null,
           "description": "https://sparkbox.com/foundry/unconference_design_systems_maturity_model_with_ben_callahan",
@@ -635,7 +644,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/ux-design-doesnt-end-with-your-website/",
           "link": "http://www.webdesignernews.com/external/ux-design-doesn-t-end-with-your-website",
           "publishedOn": "2021-05-18T16:04:30.000Z",
-          "wordCount": 1809,
+          "wordCount": 1807,
           "title": "UX Design Doesn?t End With Your Website"
         },
         {
@@ -644,7 +653,7 @@
           "description": "https://css-tricks.com/how-to-create-neon-text-with-css/",
           "link": "http://www.webdesignernews.com/external/how-to-create-neon-text-with-css",
           "publishedOn": "2021-05-18T16:04:16.000Z",
-          "wordCount": 2074,
+          "wordCount": 2100,
           "title": "How to Create Neon Text With CSS"
         },
         {
@@ -662,7 +671,7 @@
           "description": "https://thenextweb.com/news/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media-syndication",
           "link": "http://www.webdesignernews.com/external/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media",
           "publishedOn": "2021-05-18T14:54:00.000Z",
-          "wordCount": 1568,
+          "wordCount": 1556,
           "title": "How biased algorithms and moderation are censoring activists on social media"
         },
         {
@@ -745,15 +754,6 @@
           "publishedOn": "2021-05-17T14:27:49.000Z",
           "wordCount": 83,
           "title": "Glassmorphism CSS Generator"
-        },
-        {
-          "id": "https://blog.alexdevero.com/react-usecallback-hook/",
-          "author": null,
-          "description": "https://blog.alexdevero.com/react-usecallback-hook/",
-          "link": "http://www.webdesignernews.com/external/a-quick-guide-to-react-usecallback-hook",
-          "publishedOn": "2021-05-17T14:27:15.000Z",
-          "wordCount": 2018,
-          "title": "A Quick Guide to React useCallback Hook"
         }
       ]
     }
