@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115521-best-keyboards-for-programmingdesigning-in-2021",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html",
+          "link": "https://www.designernews.co/stories/115521-best-keyboards-for-programmingdesigning-in-2021",
+          "publishedOn": "2021-05-18T13:27:02.000Z",
+          "wordCount": 167,
+          "title": "Best keyboards for programming/designing in 2021"
+        },
+        {
           "id": "https://www.designernews.co/stories/115520-5-best-nutrition-wordpress-themes-for-real-transformation",
           "author": null,
           "description": "https://wpklik.com/wordpress-themes/nutrition-wordpress-themes/",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-14T04:11:08.000Z",
           "wordCount": 173,
           "title": "7 Best Mouse For Developer / Gaming / Coding"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115442-we-built-our-own-notion-api--email-directly-into-anywhere-in-your-notion-its-free-to-use",
-          "author": null,
-          "description": "https://Hitsnag.com",
-          "link": "https://www.designernews.co/stories/115442-we-built-our-own-notion-api--email-directly-into-anywhere-in-your-notion-its-free-to-use",
-          "publishedOn": "2021-05-13T19:34:00.000Z",
-          "wordCount": 192,
-          "title": "We built our OWN Notion API → Email directly into anywhere in your Notion (it’s FREE to use)"
         }
       ]
     },
@@ -689,7 +689,7 @@
           "description": "https://www.quicksprout.com/how-to-add-a-favicon-to-your-wordpress-website/",
           "link": "http://www.webdesignernews.com/external/how-to-add-a-favicon-to-your-wordpress-website",
           "publishedOn": "2021-05-16T21:29:00.000Z",
-          "wordCount": 2591,
+          "wordCount": 2570,
           "title": "How to Add a Favicon to Your WordPress Website"
         },
         {
