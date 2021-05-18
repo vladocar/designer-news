@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-18T21:00:46.639Z</id>
+    <id>urn:2021-05-18T22:00:53.372Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T21:00:46.639Z</updated>
+    <updated>2021-05-18T22:00:53.372Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Elder.js, the new kid on the block]]></title>
+        <id>https://www.voorhoede.nl/en/blog/elder-js-the-new-kid-on-the-block/</id>
+        <link href="http://www.webdesignernews.com/external/elder-js-the-new-kid-on-the-block"/>
+        <updated>2021-05-18T21:40:48.000Z</updated>
+        <summary type="html"><![CDATA[https://www.voorhoede.nl/en/blog/elder-js-the-new-kid-on-the-block/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ARty face]]></title>
         <id>https://d-qn.shinyapps.io/rtify/</id>
@@ -352,16 +362,6 @@ The post 24 Best Fonts with Swashes appeared first on Design Inspiration.]]></su
         <link href="http://www.webdesignernews.com/external/come-browser-with-me-free-open-source-isolated-browser-for-security"/>
         <updated>2021-05-17T18:13:00.000Z</updated>
         <summary type="html"><![CDATA[https://comebrowsewithme.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Ways To Build Trust With Site Visitors]]></title>
-        <id>https://the-webdesigner.co/5-ways-to-build-trust-with-site-visitors/</id>
-        <link href="http://www.webdesignernews.com/external/5-ways-to-build-trust-with-site-visitors"/>
-        <updated>2021-05-17T17:04:00.000Z</updated>
-        <summary type="html"><![CDATA[https://the-webdesigner.co/5-ways-to-build-trust-with-site-visitors/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
