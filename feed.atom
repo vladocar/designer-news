@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-18T06:00:32.199Z</id>
+    <id>urn:2021-05-18T07:10:22.970Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T06:00:32.199Z</updated>
+    <updated>2021-05-18T07:10:22.970Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hire Flutter Developer - For iOS & Android App Development]]></title>
+        <id>https://www.designernews.co/stories/115507-hire-flutter-developer--for-ios--android-app-development</id>
+        <link href="https://www.designernews.co/stories/115507-hire-flutter-developer--for-ios--android-app-development"/>
+        <updated>2021-05-18T06:48:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/hire-flutter-app-developer/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Download free hi-res public domain paintings, posters and illustrations]]></title>
+        <id>https://www.designernews.co/stories/115506-download-free-hires-public-domain-paintings-posters-and-illustrations</id>
+        <link href="https://www.designernews.co/stories/115506-download-free-hires-public-domain-paintings-posters-and-illustrations"/>
+        <updated>2021-05-18T06:44:09.000Z</updated>
+        <summary type="html"><![CDATA[https://www.artvee.com/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
         <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
@@ -499,16 +519,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Set Your Figma Up for Easy Collaboration with Nondesigners]]></title>
-        <id>https://www.designernews.co/stories/115409-how-to-set-your-figma-up-for-easy-collaboration-with-nondesigners</id>
-        <link href="https://www.designernews.co/stories/115409-how-to-set-your-figma-up-for-easy-collaboration-with-nondesigners"/>
-        <updated>2021-05-12T19:14:28.000Z</updated>
-        <summary type="html"><![CDATA[https://medium.com/indeed-design/how-to-set-your-figma-up-for-easy-collaboration-with-nondesigners-f0dfe8d08db3]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
         <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
         <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
@@ -516,16 +526,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Payload, a CMS built specifically for digital design agencies, is now live on Product Hunt!]]></title>
-        <id>https://www.designernews.co/stories/115400-payload-a-cms-built-specifically-for-digital-design-agencies-is-now-live-on-product-hunt</id>
-        <link href="https://www.designernews.co/stories/115400-payload-a-cms-built-specifically-for-digital-design-agencies-is-now-live-on-product-hunt"/>
-        <updated>2021-05-12T12:37:35.000Z</updated>
-        <summary type="html"><![CDATA[https://www.producthunt.com/posts/payload-cms]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
