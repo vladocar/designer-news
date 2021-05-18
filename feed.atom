@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-18T04:12:27.367Z</id>
+    <id>urn:2021-05-18T05:13:44.477Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T04:12:27.367Z</updated>
+    <updated>2021-05-18T05:13:44.477Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
+        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
+        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
+        <updated>2021-05-18T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 VSCode Extensions That Every Web Developer Should Use]]></title>
+        <id>https://www.designernews.co/stories/115502-13-vscode-extensions-that-every-web-developer-should-use</id>
+        <link href="https://www.designernews.co/stories/115502-13-vscode-extensions-that-every-web-developer-should-use"/>
+        <updated>2021-05-18T04:59:47.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/03/13-vscode-extensions-that-every-web.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Failed As a Junior Programmer]]></title>
+        <id>https://www.designernews.co/stories/115501-why-i-failed-as-a-junior-programmer</id>
+        <link href="https://www.designernews.co/stories/115501-why-i-failed-as-a-junior-programmer"/>
+        <updated>2021-05-18T04:57:34.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/why-i-failed-as-junior-programmer.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24 Best Fonts with Swashes]]></title>
         <id>https://www.designinspiration.info/?p=2588</id>
@@ -479,16 +509,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How prototyping with numbers uncovers viability of ideas]]></title>
-        <id>https://www.designernews.co/stories/115402-how-prototyping-with-numbers-uncovers-viability-of-ideas-</id>
-        <link href="https://www.designernews.co/stories/115402-how-prototyping-with-numbers-uncovers-viability-of-ideas-"/>
-        <updated>2021-05-12T15:04:08.000Z</updated>
-        <summary type="html"><![CDATA[https://d.mba/stories/how-lilli-used-prototyping-with-numbers-to-explore-the-viability-of-a-new-business-idea]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
         <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
         <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
@@ -516,16 +536,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best keyboards for programming/designing in 2021]]></title>
-        <id>https://www.designernews.co/stories/115389-best-keyboards-for-programmingdesigning-in-2021</id>
-        <link href="https://www.designernews.co/stories/115389-best-keyboards-for-programmingdesigning-in-2021"/>
-        <updated>2021-05-12T04:56:49.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
