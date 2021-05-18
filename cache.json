@@ -103,12 +103,21 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115524-a-screen-recorder-designed-for-creatives-",
+          "author": null,
+          "description": "https://chrome.google.com/webstore/detail/screen-webcam-recorder-%20/mgipbckfkdcalgbcjmkogjijddnkbecc?hl=en&authuser=0",
+          "link": "https://www.designernews.co/stories/115524-a-screen-recorder-designed-for-creatives-",
+          "publishedOn": "2021-05-18T15:53:36.000Z",
+          "wordCount": 166,
+          "title": "A Screen Recorder, Designed for creatives."
+        },
+        {
           "id": "https://www.designernews.co/stories/115521-best-keyboards-for-programmingdesigning-in-2021",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html",
           "link": "https://www.designernews.co/stories/115521-best-keyboards-for-programmingdesigning-in-2021",
           "publishedOn": "2021-05-18T13:27:02.000Z",
-          "wordCount": 167,
+          "wordCount": 176,
           "title": "Best keyboards for programming/designing in 2021"
         },
         {
@@ -308,15 +317,6 @@
           "publishedOn": "2021-05-14T08:49:58.000Z",
           "wordCount": 178,
           "title": "10 reasons to choose Python Web Development for your Next Project"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115450-8-best-google-chrome-extensions-for-web-designers-and-developers-in-2021",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/04/10-best-google-chrome-extensions-for.html",
-          "link": "https://www.designernews.co/stories/115450-8-best-google-chrome-extensions-for-web-designers-and-developers-in-2021",
-          "publishedOn": "2021-05-14T04:12:08.000Z",
-          "wordCount": 179,
-          "title": "8 Best Google Chrome Extensions for Web Designers And Developers in 2021"
         },
         {
           "id": "https://www.designernews.co/stories/115449-7-best-mouse-for-developer--gaming--coding",
@@ -576,6 +576,60 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://dribbble.com/stories/2021/05/18/5-design-portfolio-mistakes-that-ll-send-clients-running-in-the-wrong-direction",
+          "author": null,
+          "description": "https://dribbble.com/stories/2021/05/18/5-design-portfolio-mistakes-that-ll-send-clients-running-in-the-wrong-direction",
+          "link": "http://www.webdesignernews.com/external/5-design-portfolio-mistakes-that-ll-send-clients-running-in-the-wrong-direction",
+          "publishedOn": "2021-05-18T16:04:38.000Z",
+          "wordCount": 1078,
+          "title": "5 design portfolio mistakes that?ll send clients running (in the wrong direction)"
+        },
+        {
+          "id": "https://plausible.io/blog/google-amp",
+          "author": null,
+          "description": "https://plausible.io/blog/google-amp",
+          "link": "http://www.webdesignernews.com/external/google-amp-is-dead-amp-pages-no-longer-get-preferential-treatment-in-g-search",
+          "publishedOn": "2021-05-18T16:04:35.000Z",
+          "wordCount": 1099,
+          "title": "Google AMP is dead AMP pages no longer get preferential treatment in G-search"
+        },
+        {
+          "id": "https://allround.io/articles/writing-self-contained-layout-components-in-css",
+          "author": null,
+          "description": "https://allround.io/articles/writing-self-contained-layout-components-in-css",
+          "link": "http://www.webdesignernews.com/external/writing-self-contained-layout-components-in-css",
+          "publishedOn": "2021-05-18T16:04:32.000Z",
+          "wordCount": 1101,
+          "title": "Writing self-contained layout components in CSS"
+        },
+        {
+          "id": "https://www.webdesignerdepot.com/2021/05/ux-design-doesnt-end-with-your-website/",
+          "author": null,
+          "description": "https://www.webdesignerdepot.com/2021/05/ux-design-doesnt-end-with-your-website/",
+          "link": "http://www.webdesignernews.com/external/ux-design-doesn-t-end-with-your-website",
+          "publishedOn": "2021-05-18T16:04:30.000Z",
+          "wordCount": 1844,
+          "title": "UX Design Doesn?t End With Your Website"
+        },
+        {
+          "id": "https://css-tricks.com/how-to-create-neon-text-with-css/",
+          "author": null,
+          "description": "https://css-tricks.com/how-to-create-neon-text-with-css/",
+          "link": "http://www.webdesignernews.com/external/how-to-create-neon-text-with-css",
+          "publishedOn": "2021-05-18T16:04:16.000Z",
+          "wordCount": 2074,
+          "title": "How to Create Neon Text With CSS"
+        },
+        {
+          "id": "https://blog.ethereum.org/2021/05/18/country-power-no-more/",
+          "author": null,
+          "description": "https://blog.ethereum.org/2021/05/18/country-power-no-more/",
+          "link": "http://www.webdesignernews.com/external/ethereum-will-use-at-least-99-less-energy-post-merge",
+          "publishedOn": "2021-05-18T11:03:00.000Z",
+          "wordCount": 1029,
+          "title": "Ethereum will use at least 99% less energy post merge"
+        },
+        {
           "id": "https://dribbble.com/stories/2021/05/17/ui-vs-ux-design",
           "author": null,
           "description": "https://dribbble.com/stories/2021/05/17/ui-vs-ux-design",
@@ -700,60 +754,6 @@
           "publishedOn": "2021-05-16T20:44:00.000Z",
           "wordCount": 1431,
           "title": "Inside Discord's risky push to position itself as the anti-Facebook"
-        },
-        {
-          "id": "https://code.tutsplus.com/articles/21-ridiculously-impressive-html5-canvas-experiments--net-14210",
-          "author": null,
-          "description": "https://code.tutsplus.com/articles/21-ridiculously-impressive-html5-canvas-experiments--net-14210",
-          "link": "http://www.webdesignernews.com/external/25-ridiculously-impressive-html5-canvas-experiments",
-          "publishedOn": "2021-05-16T18:41:00.000Z",
-          "wordCount": 1093,
-          "title": "25 Ridiculously Impressive HTML5 Canvas Experiments"
-        },
-        {
-          "id": "https://mediatemple.net/blog/web-development-tech/how-to-optimize-site-performance-and-increase-search-ranking/",
-          "author": null,
-          "description": "https://mediatemple.net/blog/web-development-tech/how-to-optimize-site-performance-and-increase-search-ranking/",
-          "link": "http://www.webdesignernews.com/external/how-to-optimize-site-performance-and-increase-search-ranking",
-          "publishedOn": "2021-05-16T17:16:00.000Z",
-          "wordCount": 1972,
-          "title": "How to Optimize Site Performance (and Increase Search Ranking)"
-        },
-        {
-          "id": "https://github.com/harish-garg/nextjs-reactjs-gpt-3",
-          "author": null,
-          "description": "https://github.com/harish-garg/nextjs-reactjs-gpt-3",
-          "link": "http://www.webdesignernews.com/external/serverless-nextjs-gpt-3-template-to-build-gpt-3-apps",
-          "publishedOn": "2021-05-16T16:28:00.000Z",
-          "wordCount": 582,
-          "title": "Serverless NextJS/GPT-3 Template to build GPT-3 apps"
-        },
-        {
-          "id": "https://analytics.worksible.com/",
-          "author": null,
-          "description": "https://analytics.worksible.com/",
-          "link": "http://www.webdesignernews.com/external/worksible-analytics-privacy-focused-web-analytics",
-          "publishedOn": "2021-05-16T14:04:00.000Z",
-          "wordCount": 324,
-          "title": "Worksible Analytics - Privacy focused, web analytics"
-        },
-        {
-          "id": "https://mssg.me/",
-          "author": null,
-          "description": "https://mssg.me/",
-          "link": "http://www.webdesignernews.com/external/mssg-me-mobile-no-code-free-and-simple-to-use-website-builder",
-          "publishedOn": "2021-05-16T13:39:00.000Z",
-          "wordCount": 139,
-          "title": "Mssg.me - Mobile, No-code, free and simple to use website builder"
-        },
-        {
-          "id": "http://www.swishqube.com/",
-          "author": null,
-          "description": "http://www.swishqube.com/",
-          "link": "http://www.webdesignernews.com/external/sqdaterangeslider-creative-date-range-selection-fast-easy-to-use-component",
-          "publishedOn": "2021-05-16T12:32:00.000Z",
-          "wordCount": 12,
-          "title": "SQDateRangeSlider - Creative date range selection, fast, easy to use component"
         }
       ]
     }

@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-18T15:01:00.083Z</id>
+    <id>urn:2021-05-18T16:09:35.492Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T15:01:00.083Z</updated>
+    <updated>2021-05-18T16:09:35.492Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[5 design portfolio mistakes that?ll send clients running (in the wrong direction)]]></title>
+        <id>https://dribbble.com/stories/2021/05/18/5-design-portfolio-mistakes-that-ll-send-clients-running-in-the-wrong-direction</id>
+        <link href="http://www.webdesignernews.com/external/5-design-portfolio-mistakes-that-ll-send-clients-running-in-the-wrong-direction"/>
+        <updated>2021-05-18T16:04:38.000Z</updated>
+        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/05/18/5-design-portfolio-mistakes-that-ll-send-clients-running-in-the-wrong-direction]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google AMP is dead AMP pages no longer get preferential treatment in G-search]]></title>
+        <id>https://plausible.io/blog/google-amp</id>
+        <link href="http://www.webdesignernews.com/external/google-amp-is-dead-amp-pages-no-longer-get-preferential-treatment-in-g-search"/>
+        <updated>2021-05-18T16:04:35.000Z</updated>
+        <summary type="html"><![CDATA[https://plausible.io/blog/google-amp]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing self-contained layout components in CSS]]></title>
+        <id>https://allround.io/articles/writing-self-contained-layout-components-in-css</id>
+        <link href="http://www.webdesignernews.com/external/writing-self-contained-layout-components-in-css"/>
+        <updated>2021-05-18T16:04:32.000Z</updated>
+        <summary type="html"><![CDATA[https://allround.io/articles/writing-self-contained-layout-components-in-css]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UX Design Doesn?t End With Your Website]]></title>
+        <id>https://www.webdesignerdepot.com/2021/05/ux-design-doesnt-end-with-your-website/</id>
+        <link href="http://www.webdesignernews.com/external/ux-design-doesn-t-end-with-your-website"/>
+        <updated>2021-05-18T16:04:30.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/ux-design-doesnt-end-with-your-website/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
+        <id>https://css-tricks.com/how-to-create-neon-text-with-css/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-create-neon-text-with-css"/>
+        <updated>2021-05-18T16:04:16.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/how-to-create-neon-text-with-css/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Screen Recorder, Designed for creatives.]]></title>
+        <id>https://www.designernews.co/stories/115524-a-screen-recorder-designed-for-creatives-</id>
+        <link href="https://www.designernews.co/stories/115524-a-screen-recorder-designed-for-creatives-"/>
+        <updated>2021-05-18T15:53:36.000Z</updated>
+        <summary type="html"><![CDATA[https://chrome.google.com/webstore/detail/screen-webcam-recorder-%20/mgipbckfkdcalgbcjmkogjijddnkbecc?hl=en&authuser=0]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best keyboards for programming/designing in 2021]]></title>
         <id>https://www.designernews.co/stories/115521-best-keyboards-for-programmingdesigning-in-2021</id>
@@ -33,6 +93,16 @@
         <summary type="html"><![CDATA[https://webflow.com/website/SystemFlow-Lite-Designer-first-utility-framework-for-Webflow-and-Figma]]></summary>
         <author>
             <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum will use at least 99% less energy post merge]]></title>
+        <id>https://blog.ethereum.org/2021/05/18/country-power-no-more/</id>
+        <link href="http://www.webdesignernews.com/external/ethereum-will-use-at-least-99-less-energy-post-merge"/>
+        <updated>2021-05-18T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.ethereum.org/2021/05/18/country-power-no-more/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -357,66 +427,6 @@ The post 24 Best Fonts with Swashes appeared first on Design Inspiration.]]></su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[25 Ridiculously Impressive HTML5 Canvas Experiments]]></title>
-        <id>https://code.tutsplus.com/articles/21-ridiculously-impressive-html5-canvas-experiments--net-14210</id>
-        <link href="http://www.webdesignernews.com/external/25-ridiculously-impressive-html5-canvas-experiments"/>
-        <updated>2021-05-16T18:41:00.000Z</updated>
-        <summary type="html"><![CDATA[https://code.tutsplus.com/articles/21-ridiculously-impressive-html5-canvas-experiments--net-14210]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize Site Performance (and Increase Search Ranking)]]></title>
-        <id>https://mediatemple.net/blog/web-development-tech/how-to-optimize-site-performance-and-increase-search-ranking/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-optimize-site-performance-and-increase-search-ranking"/>
-        <updated>2021-05-16T17:16:00.000Z</updated>
-        <summary type="html"><![CDATA[https://mediatemple.net/blog/web-development-tech/how-to-optimize-site-performance-and-increase-search-ranking/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serverless NextJS/GPT-3 Template to build GPT-3 apps]]></title>
-        <id>https://github.com/harish-garg/nextjs-reactjs-gpt-3</id>
-        <link href="http://www.webdesignernews.com/external/serverless-nextjs-gpt-3-template-to-build-gpt-3-apps"/>
-        <updated>2021-05-16T16:28:00.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/harish-garg/nextjs-reactjs-gpt-3]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Worksible Analytics - Privacy focused, web analytics]]></title>
-        <id>https://analytics.worksible.com/</id>
-        <link href="http://www.webdesignernews.com/external/worksible-analytics-privacy-focused-web-analytics"/>
-        <updated>2021-05-16T14:04:00.000Z</updated>
-        <summary type="html"><![CDATA[https://analytics.worksible.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mssg.me - Mobile, No-code, free and simple to use website builder]]></title>
-        <id>https://mssg.me/</id>
-        <link href="http://www.webdesignernews.com/external/mssg-me-mobile-no-code-free-and-simple-to-use-website-builder"/>
-        <updated>2021-05-16T13:39:00.000Z</updated>
-        <summary type="html"><![CDATA[https://mssg.me/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQDateRangeSlider - Creative date range selection, fast, easy to use component]]></title>
-        <id>http://www.swishqube.com/</id>
-        <link href="http://www.webdesignernews.com/external/sqdaterangeslider-creative-date-range-selection-fast-easy-to-use-component"/>
-        <updated>2021-05-16T12:32:00.000Z</updated>
-        <summary type="html"><![CDATA[http://www.swishqube.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TOP 7 Monitors For Gammers / Programmers / Coders]]></title>
         <id>https://www.designernews.co/stories/115472-top-7-monitors-for-gammers--programmers--coders</id>
         <link href="https://www.designernews.co/stories/115472-top-7-monitors-for-gammers--programmers--coders"/>
@@ -493,16 +503,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         <link href="https://www.designernews.co/stories/115453-10-reasons-to-choose-python-web-development-for-your-next-project"/>
         <updated>2021-05-14T08:49:58.000Z</updated>
         <summary type="html"><![CDATA[https://www.zenesys.com/blog/10-reasons-to-choose-python-web-development-for-your-next-project]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Best Google Chrome Extensions for Web Designers And Developers in 2021]]></title>
-        <id>https://www.designernews.co/stories/115450-8-best-google-chrome-extensions-for-web-designers-and-developers-in-2021</id>
-        <link href="https://www.designernews.co/stories/115450-8-best-google-chrome-extensions-for-web-designers-and-developers-in-2021"/>
-        <updated>2021-05-14T04:12:08.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/10-best-google-chrome-extensions-for.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
