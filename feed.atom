@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-18T09:02:12.831Z</id>
+    <id>urn:2021-05-18T10:02:08.547Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T09:02:12.831Z</updated>
+    <updated>2021-05-18T10:02:08.547Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Looking for UiPath Development Services? Get the Best Uipath Services in USA]]></title>
+        <id>https://www.designernews.co/stories/115513-looking-for-uipath-development-services-get-the-best-uipath-services-in-usa</id>
+        <link href="https://www.designernews.co/stories/115513-looking-for-uipath-development-services-get-the-best-uipath-services-in-usa"/>
+        <updated>2021-05-18T09:46:11.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/rpa-services/uipath]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Calendar Tetris Game]]></title>
         <id>https://www.designernews.co/stories/115511-calendar-tetris-game</id>
@@ -493,16 +503,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         <link href="https://www.designernews.co/stories/115425-design-a-tshirt-with-vector-graphics"/>
         <updated>2021-05-13T10:26:30.000Z</updated>
         <summary type="html"><![CDATA[https://www.vectornator.io/blog/t-shirt-design]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to Hyperautomation]]></title>
-        <id>https://www.designernews.co/stories/115416-the-ultimate-guide-to-hyperautomation</id>
-        <link href="https://www.designernews.co/stories/115416-the-ultimate-guide-to-hyperautomation"/>
-        <updated>2021-05-13T07:43:46.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/the-ultimate-guide-to-hyperautomation]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>

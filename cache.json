@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115513-looking-for-uipath-development-services-get-the-best-uipath-services-in-usa",
+          "author": null,
+          "description": "https://www.zenesys.com/rpa-services/uipath",
+          "link": "https://www.designernews.co/stories/115513-looking-for-uipath-development-services-get-the-best-uipath-services-in-usa",
+          "publishedOn": "2021-05-18T09:46:11.000Z",
+          "wordCount": 186,
+          "title": "Looking for UiPath Development Services? Get the Best Uipath Services in USA"
+        },
+        {
           "id": "https://www.designernews.co/stories/115511-calendar-tetris-game",
           "author": null,
           "description": "https://crosspatch.io/calendar",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-13T10:26:30.000Z",
           "wordCount": 174,
           "title": "Design A T-Shirt With Vector Graphics"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115416-the-ultimate-guide-to-hyperautomation",
-          "author": null,
-          "description": "https://www.zenesys.com/blog/the-ultimate-guide-to-hyperautomation",
-          "link": "https://www.designernews.co/stories/115416-the-ultimate-guide-to-hyperautomation",
-          "publishedOn": "2021-05-13T07:43:46.000Z",
-          "wordCount": 174,
-          "title": "The Ultimate Guide to Hyperautomation"
         }
       ]
     },
@@ -716,7 +716,7 @@
           "description": "https://github.com/harish-garg/nextjs-reactjs-gpt-3",
           "link": "http://www.webdesignernews.com/external/serverless-nextjs-gpt-3-template-to-build-gpt-3-apps",
           "publishedOn": "2021-05-16T16:28:00.000Z",
-          "wordCount": 504,
+          "wordCount": 582,
           "title": "Serverless NextJS/GPT-3 Template to build GPT-3 apps"
         },
         {
