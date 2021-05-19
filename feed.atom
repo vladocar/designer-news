@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-19T20:00:48.114Z</id>
+    <id>urn:2021-05-19T21:00:47.171Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T20:00:48.114Z</updated>
+    <updated>2021-05-19T21:00:47.171Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
+        <id>https://www.smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-create-edit-and-animate-svgs-all-in-one-place-with-svgator-3-0"/>
+        <updated>2021-05-19T20:34:38.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cogak - A platform that helps self-learners to start learning]]></title>
         <id>https://www.cogak.com/</id>
@@ -267,16 +277,6 @@ You can share your explorations on [Instagram] (https://www.instagram.com/type_g
         <link href="http://www.webdesignernews.com/external/writing-self-contained-layout-components-in-css"/>
         <updated>2021-05-18T16:04:32.000Z</updated>
         <summary type="html"><![CDATA[https://allround.io/articles/writing-self-contained-layout-components-in-css]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UX Design Doesn?t End With Your Website]]></title>
-        <id>https://www.webdesignerdepot.com/2021/05/ux-design-doesnt-end-with-your-website/</id>
-        <link href="http://www.webdesignernews.com/external/ux-design-doesn-t-end-with-your-website"/>
-        <updated>2021-05-18T16:04:30.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/ux-design-doesnt-end-with-your-website/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
@@ -819,16 +819,6 @@ The post 20 Best Paper Cut Out Fonts appeared first on Design Inspiration.]]></s
         <summary type="html"><![CDATA[As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matt Saunders)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making GraphQL Work In WordPress]]></title>
-        <id>https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/</id>
-        <link href="https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/"/>
-        <updated>2021-04-20T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
         </author>
     </entry>
 </feed>
