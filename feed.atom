@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-19T12:01:17.804Z</id>
+    <id>urn:2021-05-19T13:18:02.089Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T12:01:17.804Z</updated>
+    <updated>2021-05-19T13:18:02.089Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Five pro illustrators celebrating diversity]]></title>
+        <id>https://www.designernews.co/stories/115549-five-pro-illustrators-celebrating-diversity</id>
+        <link href="https://www.designernews.co/stories/115549-five-pro-illustrators-celebrating-diversity"/>
+        <updated>2021-05-19T12:48:34.000Z</updated>
+        <summary type="html"><![CDATA[https://tasteminty.com/page/2021/05/19/five-artists-or-illustrators-from-around-the-globe-celebrating-diversity/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Businesses should invest in Mobile App Design for their Apps?]]></title>
+        <id>https://www.designernews.co/stories/115546-why-businesses-should-invest-in-mobile-app-design-for-their-apps</id>
+        <link href="https://www.designernews.co/stories/115546-why-businesses-should-invest-in-mobile-app-design-for-their-apps"/>
+        <updated>2021-05-19T12:05:54.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/blog/why-businesses-should-invest-in-mobile-app-design-for-their-apps]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
+        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
+        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
+        <updated>2021-05-19T11:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Grit Volume III ebook: Personal stories and tips from top designers  & developers.]]></title>
         <id>https://www.designernews.co/stories/115543-the-grit-volume-iii-ebook-personal-stories-and-tips-from-top-designers--developers</id>
@@ -491,26 +521,6 @@ The post 24 Best Fonts with Swashes appeared first on Design Inspiration.]]></su
 The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now Preview Responsive Breakpoint Layouts in Figma using Breakpoints Plugin!]]></title>
-        <id>https://www.designernews.co/stories/115471-now-preview-responsive-breakpoint-layouts-in-figma-using-breakpoints-plugin</id>
-        <link href="https://www.designernews.co/stories/115471-now-preview-responsive-breakpoint-layouts-in-figma-using-breakpoints-plugin"/>
-        <updated>2021-05-15T18:56:24.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=ChagtR5xshM]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Gifts For Your Developer Friend]]></title>
-        <id>https://www.designernews.co/stories/115467-best-gifts-for-your-developer-friend</id>
-        <link href="https://www.designernews.co/stories/115467-best-gifts-for-your-developer-friend"/>
-        <updated>2021-05-15T04:24:10.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/11-best-gifts-for-developerscodersprogr.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>

@@ -103,6 +103,24 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115549-five-pro-illustrators-celebrating-diversity",
+          "author": null,
+          "description": "https://tasteminty.com/page/2021/05/19/five-artists-or-illustrators-from-around-the-globe-celebrating-diversity/",
+          "link": "https://www.designernews.co/stories/115549-five-pro-illustrators-celebrating-diversity",
+          "publishedOn": "2021-05-19T12:48:34.000Z",
+          "wordCount": 166,
+          "title": "Five pro illustrators celebrating diversity"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115546-why-businesses-should-invest-in-mobile-app-design-for-their-apps",
+          "author": null,
+          "description": "https://www.zenesys.com/blog/why-businesses-should-invest-in-mobile-app-design-for-their-apps",
+          "link": "https://www.designernews.co/stories/115546-why-businesses-should-invest-in-mobile-app-design-for-their-apps",
+          "publishedOn": "2021-05-19T12:05:54.000Z",
+          "wordCount": 252,
+          "title": "Why Businesses should invest in Mobile App Design for their Apps?"
+        },
+        {
           "id": "https://www.designernews.co/stories/115543-the-grit-volume-iii-ebook-personal-stories-and-tips-from-top-designers--developers",
           "author": null,
           "description": "https://avocode.com/books/the-grit-volume-iii",
@@ -308,24 +326,6 @@
           "publishedOn": "2021-05-16T06:34:52.000Z",
           "wordCount": 195,
           "title": "TOP 7 Monitors For Gammers / Programmers / Coders"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115471-now-preview-responsive-breakpoint-layouts-in-figma-using-breakpoints-plugin",
-          "author": null,
-          "description": "https://www.youtube.com/watch?v=ChagtR5xshM",
-          "link": "https://www.designernews.co/stories/115471-now-preview-responsive-breakpoint-layouts-in-figma-using-breakpoints-plugin",
-          "publishedOn": "2021-05-15T18:56:24.000Z",
-          "wordCount": 211,
-          "title": "Now Preview Responsive Breakpoint Layouts in Figma using Breakpoints Plugin!"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115467-best-gifts-for-your-developer-friend",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/05/11-best-gifts-for-developerscodersprogr.html",
-          "link": "https://www.designernews.co/stories/115467-best-gifts-for-your-developer-friend",
-          "publishedOn": "2021-05-15T04:24:10.000Z",
-          "wordCount": 167,
-          "title": "Best Gifts For Your Developer Friend"
         }
       ]
     },
@@ -334,6 +334,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.",
+          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
+          "publishedOn": "2021-05-19T11:40:00.000Z",
+          "wordCount": 4986,
+          "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
           "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
@@ -590,7 +599,7 @@
           "description": "https://thenextweb.com/news/price-deep-tech-startup-product",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-price-your-deep-tech-startup-s-product",
           "publishedOn": "2021-05-18T20:08:00.000Z",
-          "wordCount": 1339,
+          "wordCount": 1347,
           "title": "Here?s how you should price your deep tech startup?s product"
         },
         {
@@ -662,7 +671,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/ux-design-doesnt-end-with-your-website/",
           "link": "http://www.webdesignernews.com/external/ux-design-doesn-t-end-with-your-website",
           "publishedOn": "2021-05-18T16:04:30.000Z",
-          "wordCount": 1811,
+          "wordCount": 1836,
           "title": "UX Design Doesn?t End With Your Website"
         },
         {
@@ -689,7 +698,7 @@
           "description": "https://thenextweb.com/news/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media-syndication",
           "link": "http://www.webdesignernews.com/external/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media",
           "publishedOn": "2021-05-18T14:54:00.000Z",
-          "wordCount": 1541,
+          "wordCount": 1547,
           "title": "How biased algorithms and moderation are censoring activists on social media"
         },
         {
