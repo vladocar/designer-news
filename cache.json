@@ -567,6 +567,24 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.fastcompany.com/90637339/see-googles-expressive-new-design-language-built-by-billions-of-users",
+          "author": null,
+          "description": "https://www.fastcompany.com/90637339/see-googles-expressive-new-design-language-built-by-billions-of-users",
+          "link": "http://www.webdesignernews.com/external/see-google-s-expressive-new-design-language-built-by-billions-of-users",
+          "publishedOn": "2021-05-19T22:33:39.000Z",
+          "wordCount": 1432,
+          "title": "See Google?s expressive new design language, built by billions of users"
+        },
+        {
+          "id": "https://thenextweb.com/news/accountability-good-startup-business",
+          "author": null,
+          "description": "https://thenextweb.com/news/accountability-good-startup-business",
+          "link": "http://www.webdesignernews.com/external/stop-playing-hot-potato-why-the-blame-game-is-hurting-your-business",
+          "publishedOn": "2021-05-19T22:05:00.000Z",
+          "wordCount": 1458,
+          "title": "Stop playing hot potato! Why the blame game is hurting your business"
+        },
+        {
           "id": "https://www.itsnicethat.com/articles/mirna-pierre-view-graphic-design-190521",
           "author": null,
           "description": "https://www.itsnicethat.com/articles/mirna-pierre-view-graphic-design-190521",
@@ -644,7 +662,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/6-ways-parallax-still-works-in-2021/",
           "link": "http://www.webdesignernews.com/external/6-ways-parallax-still-works-in-2021",
           "publishedOn": "2021-05-19T13:03:00.000Z",
-          "wordCount": 1927,
+          "wordCount": 1928,
           "title": "6 Ways Parallax Still Works in 2021�"
         },
         {
@@ -653,7 +671,7 @@
           "description": "https://thenextweb.com/news/baffling-turning-tech-off-and-on-again-works-newsletter",
           "link": "http://www.webdesignernews.com/external/it-s-baffling-that-turning-tech-off-and-on-again-works-but-i-m-glad-it-does",
           "publishedOn": "2021-05-19T12:48:00.000Z",
-          "wordCount": 924,
+          "wordCount": 928,
           "title": "It?s baffling that turning tech off-and-on again works - but I?m glad it does"
         },
         {
@@ -689,7 +707,7 @@
           "description": "https://thenextweb.com/news/price-deep-tech-startup-product",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-price-your-deep-tech-startup-s-product",
           "publishedOn": "2021-05-18T20:08:00.000Z",
-          "wordCount": 1339,
+          "wordCount": 1342,
           "title": "Here?s how you should price your deep tech startup?s product"
         },
         {
@@ -727,24 +745,6 @@
           "publishedOn": "2021-05-18T16:59:46.000Z",
           "wordCount": 2631,
           "title": "Building software for artists"
-        },
-        {
-          "id": "https://dribbble.com/stories/2021/05/18/5-design-portfolio-mistakes-that-ll-send-clients-running-in-the-wrong-direction",
-          "author": null,
-          "description": "https://dribbble.com/stories/2021/05/18/5-design-portfolio-mistakes-that-ll-send-clients-running-in-the-wrong-direction",
-          "link": "http://www.webdesignernews.com/external/5-design-portfolio-mistakes-that-ll-send-clients-running-in-the-wrong-direction",
-          "publishedOn": "2021-05-18T16:04:38.000Z",
-          "wordCount": 1060,
-          "title": "5 design portfolio mistakes that?ll send clients running (in the wrong direction)"
-        },
-        {
-          "id": "https://plausible.io/blog/google-amp",
-          "author": null,
-          "description": "https://plausible.io/blog/google-amp",
-          "link": "http://www.webdesignernews.com/external/google-amp-is-dead-amp-pages-no-longer-get-preferential-treatment-in-g-search",
-          "publishedOn": "2021-05-18T16:04:35.000Z",
-          "wordCount": 1099,
-          "title": "Google AMP is dead AMP pages no longer get preferential treatment in G-search"
         }
       ]
     }

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-19T22:00:44.113Z</id>
+    <id>urn:2021-05-19T23:04:38.076Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T22:00:44.113Z</updated>
+    <updated>2021-05-19T23:04:38.076Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[See Google?s expressive new design language, built by billions of users]]></title>
+        <id>https://www.fastcompany.com/90637339/see-googles-expressive-new-design-language-built-by-billions-of-users</id>
+        <link href="http://www.webdesignernews.com/external/see-google-s-expressive-new-design-language-built-by-billions-of-users"/>
+        <updated>2021-05-19T22:33:39.000Z</updated>
+        <summary type="html"><![CDATA[https://www.fastcompany.com/90637339/see-googles-expressive-new-design-language-built-by-billions-of-users]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop playing hot potato! Why the blame game is hurting your business]]></title>
+        <id>https://thenextweb.com/news/accountability-good-startup-business</id>
+        <link href="http://www.webdesignernews.com/external/stop-playing-hot-potato-why-the-blame-game-is-hurting-your-business"/>
+        <updated>2021-05-19T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/accountability-good-startup-business]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mirna Pierre?s curvy and bold typeface is a celebration of Black graphic designers in history]]></title>
         <id>https://www.itsnicethat.com/articles/mirna-pierre-view-graphic-design-190521</id>
@@ -257,26 +277,6 @@ You can share your explorations on [Instagram] (https://www.instagram.com/type_g
         <link href="http://www.webdesignernews.com/external/building-software-for-artists"/>
         <updated>2021-05-18T16:59:46.000Z</updated>
         <summary type="html"><![CDATA[https://uxdesign.cc/building-software-for-artists-554fcff5bb20]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 design portfolio mistakes that?ll send clients running (in the wrong direction)]]></title>
-        <id>https://dribbble.com/stories/2021/05/18/5-design-portfolio-mistakes-that-ll-send-clients-running-in-the-wrong-direction</id>
-        <link href="http://www.webdesignernews.com/external/5-design-portfolio-mistakes-that-ll-send-clients-running-in-the-wrong-direction"/>
-        <updated>2021-05-18T16:04:38.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/05/18/5-design-portfolio-mistakes-that-ll-send-clients-running-in-the-wrong-direction]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google AMP is dead AMP pages no longer get preferential treatment in G-search]]></title>
-        <id>https://plausible.io/blog/google-amp</id>
-        <link href="http://www.webdesignernews.com/external/google-amp-is-dead-amp-pages-no-longer-get-preferential-treatment-in-g-search"/>
-        <updated>2021-05-18T16:04:35.000Z</updated>
-        <summary type="html"><![CDATA[https://plausible.io/blog/google-amp]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
