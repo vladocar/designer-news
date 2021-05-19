@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-19T08:00:57.071Z</id>
+    <id>urn:2021-05-19T09:02:08.385Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T08:00:57.071Z</updated>
+    <updated>2021-05-19T09:02:08.385Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -53,6 +53,16 @@
         <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/ux-portfolio-review/]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24 Best Animation Software Apps In 2021 (Free & Paid)]]></title>
+        <id>https://www.designernews.co/stories/115530-24-best-animation-software-apps-in-2021-free--paid</id>
+        <link href="https://www.designernews.co/stories/115530-24-best-animation-software-apps-in-2021-free--paid"/>
+        <updated>2021-05-18T19:01:58.000Z</updated>
+        <summary type="html"><![CDATA[https://marketsplash.com/animation-software/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -499,16 +509,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         <link href="https://www.designernews.co/stories/115466-how-to-make-money-with-your-code"/>
         <updated>2021-05-15T04:21:25.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Custom Ecommerce Website Design & Development Cost Services]]></title>
-        <id>https://www.designernews.co/stories/115458-custom-ecommerce-website-design--development-cost-services</id>
-        <link href="https://www.designernews.co/stories/115458-custom-ecommerce-website-design--development-cost-services"/>
-        <updated>2021-05-14T13:14:23.000Z</updated>
-        <summary type="html"><![CDATA[https://www.coders.dev/blog/web-development/custom-ecommerce-website-development-cost-services-technologies.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
