@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-19T19:15:26.342Z</id>
+    <id>urn:2021-05-19T20:00:48.114Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T19:15:26.342Z</updated>
+    <updated>2021-05-19T20:00:48.114Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cogak - A platform that helps self-learners to start learning]]></title>
+        <id>https://www.cogak.com/</id>
+        <link href="http://www.webdesignernews.com/external/cogak-a-platform-that-helps-self-learners-to-start-learning"/>
+        <updated>2021-05-19T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.cogak.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AweSun - Remote desktop software]]></title>
         <id>https://sun.aweray.com/</id>
@@ -267,16 +277,6 @@ You can share your explorations on [Instagram] (https://www.instagram.com/type_g
         <link href="http://www.webdesignernews.com/external/ux-design-doesn-t-end-with-your-website"/>
         <updated>2021-05-18T16:04:30.000Z</updated>
         <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/ux-design-doesnt-end-with-your-website/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
-        <id>https://css-tricks.com/how-to-create-neon-text-with-css/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-create-neon-text-with-css"/>
-        <updated>2021-05-18T16:04:16.000Z</updated>
-        <summary type="html"><![CDATA[https://css-tricks.com/how-to-create-neon-text-with-css/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>

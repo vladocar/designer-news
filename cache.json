@@ -576,6 +576,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.cogak.com/",
+          "author": null,
+          "description": "https://www.cogak.com/",
+          "link": "http://www.webdesignernews.com/external/cogak-a-platform-that-helps-self-learners-to-start-learning",
+          "publishedOn": "2021-05-19T19:45:00.000Z",
+          "wordCount": 3,
+          "title": "Cogak - A platform that helps self-learners to start learning"
+        },
+        {
           "id": "https://sun.aweray.com/",
           "author": null,
           "description": "https://sun.aweray.com/",
@@ -626,7 +635,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/6-ways-parallax-still-works-in-2021/",
           "link": "http://www.webdesignernews.com/external/6-ways-parallax-still-works-in-2021",
           "publishedOn": "2021-05-19T13:03:00.000Z",
-          "wordCount": 1953,
+          "wordCount": 1924,
           "title": "6 Ways Parallax Still Works in 2021�"
         },
         {
@@ -635,7 +644,7 @@
           "description": "https://thenextweb.com/news/baffling-turning-tech-off-and-on-again-works-newsletter",
           "link": "http://www.webdesignernews.com/external/it-s-baffling-that-turning-tech-off-and-on-again-works-but-i-m-glad-it-does",
           "publishedOn": "2021-05-19T12:48:00.000Z",
-          "wordCount": 930,
+          "wordCount": 936,
           "title": "It?s baffling that turning tech off-and-on again works - but I?m glad it does"
         },
         {
@@ -671,7 +680,7 @@
           "description": "https://thenextweb.com/news/price-deep-tech-startup-product",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-price-your-deep-tech-startup-s-product",
           "publishedOn": "2021-05-18T20:08:00.000Z",
-          "wordCount": 1338,
+          "wordCount": 1327,
           "title": "Here?s how you should price your deep tech startup?s product"
         },
         {
@@ -743,17 +752,8 @@
           "description": "https://www.webdesignerdepot.com/2021/05/ux-design-doesnt-end-with-your-website/",
           "link": "http://www.webdesignernews.com/external/ux-design-doesn-t-end-with-your-website",
           "publishedOn": "2021-05-18T16:04:30.000Z",
-          "wordCount": 1812,
+          "wordCount": 1849,
           "title": "UX Design Doesn?t End With Your Website"
-        },
-        {
-          "id": "https://css-tricks.com/how-to-create-neon-text-with-css/",
-          "author": null,
-          "description": "https://css-tricks.com/how-to-create-neon-text-with-css/",
-          "link": "http://www.webdesignernews.com/external/how-to-create-neon-text-with-css",
-          "publishedOn": "2021-05-18T16:04:16.000Z",
-          "wordCount": 2342,
-          "title": "How to Create Neon Text With CSS"
         }
       ]
     }
