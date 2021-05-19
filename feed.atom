@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-19T18:20:49.131Z</id>
+    <id>urn:2021-05-19T19:15:26.342Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T18:20:49.131Z</updated>
+    <updated>2021-05-19T19:15:26.342Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AweSun - Remote desktop software]]></title>
+        <id>https://sun.aweray.com/</id>
+        <link href="http://www.webdesignernews.com/external/awesun-remote-desktop-software"/>
+        <updated>2021-05-19T18:59:42.000Z</updated>
+        <summary type="html"><![CDATA[https://sun.aweray.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
         <id>https://www.smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
@@ -279,16 +289,6 @@ You can share your explorations on [Instagram] (https://www.instagram.com/type_g
         <summary type="html"><![CDATA[https://chrome.google.com/webstore/detail/screen-webcam-recorder-%20/mgipbckfkdcalgbcjmkogjijddnkbecc?hl=en&authuser=0]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winners of the 2021 Type Directors Club Design Awards]]></title>
-        <id>https://kottke.org/21/05/winners-of-the-2021-type-directors-club-design-awards</id>
-        <link href="http://www.webdesignernews.com/external/winners-of-the-2021-type-directors-club-design-awards"/>
-        <updated>2021-05-18T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[https://kottke.org/21/05/winners-of-the-2021-type-directors-club-design-awards]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
