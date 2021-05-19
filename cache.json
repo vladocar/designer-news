@@ -576,6 +576,60 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://fingerspelling.xyz/",
+          "author": null,
+          "description": "https://fingerspelling.xyz/",
+          "link": "http://www.webdesignernews.com/external/fingerspelling-with-machine-learning",
+          "publishedOn": "2021-05-19T16:07:00.000Z",
+          "wordCount": 322,
+          "title": "Fingerspelling with Machine Learning"
+        },
+        {
+          "id": "https://material.io/blog/announcing-material-you",
+          "author": null,
+          "description": "https://material.io/blog/announcing-material-you",
+          "link": "http://www.webdesignernews.com/external/material-you-the-next-stage-for-material-design",
+          "publishedOn": "2021-05-19T15:43:00.000Z",
+          "wordCount": 8,
+          "title": "Material You - The next stage for Material Design"
+        },
+        {
+          "id": "https://searchengineland.com/google-page-experience-update-will-come-to-desktop-pages-348723",
+          "author": null,
+          "description": "https://searchengineland.com/google-page-experience-update-will-come-to-desktop-pages-348723",
+          "link": "http://www.webdesignernews.com/external/google-page-experience-update-will-come-to-desktop-pages",
+          "publishedOn": "2021-05-19T14:26:00.000Z",
+          "wordCount": 780,
+          "title": "Google page experience update will come to desktop pages"
+        },
+        {
+          "id": "https://www.webdesignerdepot.com/2021/05/6-ways-parallax-still-works-in-2021/",
+          "author": null,
+          "description": "https://www.webdesignerdepot.com/2021/05/6-ways-parallax-still-works-in-2021/",
+          "link": "http://www.webdesignernews.com/external/6-ways-parallax-still-works-in-2021",
+          "publishedOn": "2021-05-19T13:03:00.000Z",
+          "wordCount": 1921,
+          "title": "6 Ways Parallax Still Works in 2021�"
+        },
+        {
+          "id": "https://thenextweb.com/news/baffling-turning-tech-off-and-on-again-works-newsletter",
+          "author": null,
+          "description": "https://thenextweb.com/news/baffling-turning-tech-off-and-on-again-works-newsletter",
+          "link": "http://www.webdesignernews.com/external/it-s-baffling-that-turning-tech-off-and-on-again-works-but-i-m-glad-it-does",
+          "publishedOn": "2021-05-19T12:48:00.000Z",
+          "wordCount": 940,
+          "title": "It?s baffling that turning tech off-and-on again works - but I?m glad it does"
+        },
+        {
+          "id": "https://uxdesign.cc/giving-a-damn-about-accessibility-6caf90be5a40",
+          "author": null,
+          "description": "https://uxdesign.cc/giving-a-damn-about-accessibility-6caf90be5a40",
+          "link": "http://www.webdesignernews.com/external/giving-a-damn-about-accessibility",
+          "publishedOn": "2021-05-19T11:12:00.000Z",
+          "wordCount": 758,
+          "title": "Giving a damn about accessibility"
+        },
+        {
           "id": "https://www.voorhoede.nl/en/blog/elder-js-the-new-kid-on-the-block/",
           "author": null,
           "description": "https://www.voorhoede.nl/en/blog/elder-js-the-new-kid-on-the-block/",
@@ -599,7 +653,7 @@
           "description": "https://thenextweb.com/news/price-deep-tech-startup-product",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-price-your-deep-tech-startup-s-product",
           "publishedOn": "2021-05-18T20:08:00.000Z",
-          "wordCount": 1333,
+          "wordCount": 1334,
           "title": "Here?s how you should price your deep tech startup?s product"
         },
         {
@@ -644,7 +698,7 @@
           "description": "https://dribbble.com/stories/2021/05/18/5-design-portfolio-mistakes-that-ll-send-clients-running-in-the-wrong-direction",
           "link": "http://www.webdesignernews.com/external/5-design-portfolio-mistakes-that-ll-send-clients-running-in-the-wrong-direction",
           "publishedOn": "2021-05-18T16:04:38.000Z",
-          "wordCount": 1078,
+          "wordCount": 1060,
           "title": "5 design portfolio mistakes that?ll send clients running (in the wrong direction)"
         },
         {
@@ -671,7 +725,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/ux-design-doesnt-end-with-your-website/",
           "link": "http://www.webdesignernews.com/external/ux-design-doesn-t-end-with-your-website",
           "publishedOn": "2021-05-18T16:04:30.000Z",
-          "wordCount": 1816,
+          "wordCount": 1812,
           "title": "UX Design Doesn?t End With Your Website"
         },
         {
@@ -680,7 +734,7 @@
           "description": "https://css-tricks.com/how-to-create-neon-text-with-css/",
           "link": "http://www.webdesignernews.com/external/how-to-create-neon-text-with-css",
           "publishedOn": "2021-05-18T16:04:16.000Z",
-          "wordCount": 2352,
+          "wordCount": 2342,
           "title": "How to Create Neon Text With CSS"
         },
         {
@@ -698,62 +752,8 @@
           "description": "https://thenextweb.com/news/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media-syndication",
           "link": "http://www.webdesignernews.com/external/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media",
           "publishedOn": "2021-05-18T14:54:00.000Z",
-          "wordCount": 1548,
+          "wordCount": 1545,
           "title": "How biased algorithms and moderation are censoring activists on social media"
-        },
-        {
-          "id": "https://www.hyperinbox.app/blog/6-productivity-apps-that-improve-your-work/",
-          "author": null,
-          "description": "https://www.hyperinbox.app/blog/6-productivity-apps-that-improve-your-work/",
-          "link": "http://www.webdesignernews.com/external/6-productivity-apps-that-will-instantly-improve-your-work",
-          "publishedOn": "2021-05-18T13:09:00.000Z",
-          "wordCount": 996,
-          "title": "6 Productivity Apps that will Instantly Improve Your Work"
-        },
-        {
-          "id": "https://opensource.googleblog.com/2021/05/google-summer-of-code-2021-students-are.html",
-          "author": null,
-          "description": "https://opensource.googleblog.com/2021/05/google-summer-of-code-2021-students-are.html",
-          "link": "http://www.webdesignernews.com/external/google-summer-of-code-2021-students-are-announced",
-          "publishedOn": "2021-05-18T12:00:00.000Z",
-          "wordCount": 919,
-          "title": "Google Summer of Code 2021 students are announced!"
-        },
-        {
-          "id": "https://blog.ethereum.org/2021/05/18/country-power-no-more/",
-          "author": null,
-          "description": "https://blog.ethereum.org/2021/05/18/country-power-no-more/",
-          "link": "http://www.webdesignernews.com/external/ethereum-will-use-at-least-99-less-energy-post-merge",
-          "publishedOn": "2021-05-18T11:03:00.000Z",
-          "wordCount": 1037,
-          "title": "Ethereum will use at least 99% less energy post merge"
-        },
-        {
-          "id": "https://dribbble.com/stories/2021/05/17/ui-vs-ux-design",
-          "author": null,
-          "description": "https://dribbble.com/stories/2021/05/17/ui-vs-ux-design",
-          "link": "http://www.webdesignernews.com/external/ui-vs-ux-design-which-career-is-for-you-2021",
-          "publishedOn": "2021-05-17T21:31:00.000Z",
-          "wordCount": 1780,
-          "title": "UI vs UX Design: Which career is for you? (2021)"
-        },
-        {
-          "id": "https://www.smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "author": null,
-          "description": "https://www.smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "link": "http://www.webdesignernews.com/external/how-we-improved-our-core-web-vitals-case-study",
-          "publishedOn": "2021-05-17T20:41:00.000Z",
-          "wordCount": 2906,
-          "title": "How We Improved Our Core Web Vitals (Case Study)"
-        },
-        {
-          "id": "https://comebrowsewithme.com/",
-          "author": null,
-          "description": "https://comebrowsewithme.com/",
-          "link": "http://www.webdesignernews.com/external/come-browser-with-me-free-open-source-isolated-browser-for-security",
-          "publishedOn": "2021-05-17T18:13:00.000Z",
-          "wordCount": 305,
-          "title": "Come Browse With Me: Free open-source isolated browser for security"
         }
       ]
     }

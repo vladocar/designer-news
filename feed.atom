@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-19T16:10:03.317Z</id>
+    <id>urn:2021-05-19T17:35:38.926Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T16:10:03.317Z</updated>
+    <updated>2021-05-19T17:35:38.926Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fingerspelling with Machine Learning]]></title>
+        <id>https://fingerspelling.xyz/</id>
+        <link href="http://www.webdesignernews.com/external/fingerspelling-with-machine-learning"/>
+        <updated>2021-05-19T16:07:00.000Z</updated>
+        <summary type="html"><![CDATA[https://fingerspelling.xyz/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Material You - The next stage for Material Design]]></title>
+        <id>https://material.io/blog/announcing-material-you</id>
+        <link href="http://www.webdesignernews.com/external/material-you-the-next-stage-for-material-design"/>
+        <updated>2021-05-19T15:43:00.000Z</updated>
+        <summary type="html"><![CDATA[https://material.io/blog/announcing-material-you]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google page experience update will come to desktop pages]]></title>
+        <id>https://searchengineland.com/google-page-experience-update-will-come-to-desktop-pages-348723</id>
+        <link href="http://www.webdesignernews.com/external/google-page-experience-update-will-come-to-desktop-pages"/>
+        <updated>2021-05-19T14:26:00.000Z</updated>
+        <summary type="html"><![CDATA[https://searchengineland.com/google-page-experience-update-will-come-to-desktop-pages-348723]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Ways Parallax Still Works in 2021�]]></title>
+        <id>https://www.webdesignerdepot.com/2021/05/6-ways-parallax-still-works-in-2021/</id>
+        <link href="http://www.webdesignernews.com/external/6-ways-parallax-still-works-in-2021"/>
+        <updated>2021-05-19T13:03:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/6-ways-parallax-still-works-in-2021/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Five pro illustrators celebrating diversity]]></title>
         <id>https://www.designernews.co/stories/115549-five-pro-illustrators-celebrating-diversity</id>
@@ -13,6 +53,16 @@
         <summary type="html"><![CDATA[https://tasteminty.com/page/2021/05/19/five-artists-or-illustrators-from-around-the-globe-celebrating-diversity/]]></summary>
         <author>
             <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It?s baffling that turning tech off-and-on again works - but I?m glad it does]]></title>
+        <id>https://thenextweb.com/news/baffling-turning-tech-off-and-on-again-works-newsletter</id>
+        <link href="http://www.webdesignernews.com/external/it-s-baffling-that-turning-tech-off-and-on-again-works-but-i-m-glad-it-does"/>
+        <updated>2021-05-19T12:48:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/baffling-turning-tech-off-and-on-again-works-newsletter]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -33,6 +83,16 @@
         <summary type="html"><![CDATA[Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giving a damn about accessibility]]></title>
+        <id>https://uxdesign.cc/giving-a-damn-about-accessibility-6caf90be5a40</id>
+        <link href="http://www.webdesignernews.com/external/giving-a-damn-about-accessibility"/>
+        <updated>2021-05-19T11:12:00.000Z</updated>
+        <summary type="html"><![CDATA[https://uxdesign.cc/giving-a-damn-about-accessibility-6caf90be5a40]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -252,16 +312,6 @@ You can share your explorations on [Instagram] (https://www.instagram.com/type_g
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6 Productivity Apps that will Instantly Improve Your Work]]></title>
-        <id>https://www.hyperinbox.app/blog/6-productivity-apps-that-improve-your-work/</id>
-        <link href="http://www.webdesignernews.com/external/6-productivity-apps-that-will-instantly-improve-your-work"/>
-        <updated>2021-05-18T13:09:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.hyperinbox.app/blog/6-productivity-apps-that-improve-your-work/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SystemFlow Lite - Free version of utility framework for Webflow & Figma]]></title>
         <id>https://www.designernews.co/stories/115518-systemflow-lite--free-version-of-utility-framework-for-webflow--figma</id>
         <link href="https://www.designernews.co/stories/115518-systemflow-lite--free-version-of-utility-framework-for-webflow--figma"/>
@@ -269,26 +319,6 @@ You can share your explorations on [Instagram] (https://www.instagram.com/type_g
         <summary type="html"><![CDATA[https://webflow.com/website/SystemFlow-Lite-Designer-first-utility-framework-for-Webflow-and-Figma]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Summer of Code 2021 students are announced!]]></title>
-        <id>https://opensource.googleblog.com/2021/05/google-summer-of-code-2021-students-are.html</id>
-        <link href="http://www.webdesignernews.com/external/google-summer-of-code-2021-students-are-announced"/>
-        <updated>2021-05-18T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[https://opensource.googleblog.com/2021/05/google-summer-of-code-2021-students-are.html]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum will use at least 99% less energy post merge]]></title>
-        <id>https://blog.ethereum.org/2021/05/18/country-power-no-more/</id>
-        <link href="http://www.webdesignernews.com/external/ethereum-will-use-at-least-99-less-energy-post-merge"/>
-        <updated>2021-05-18T11:03:00.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.ethereum.org/2021/05/18/country-power-no-more/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -410,36 +440,6 @@ You can share your explorations on [Instagram] (https://www.instagram.com/type_g
 The post 24 Best Fonts with Swashes appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI vs UX Design: Which career is for you? (2021)]]></title>
-        <id>https://dribbble.com/stories/2021/05/17/ui-vs-ux-design</id>
-        <link href="http://www.webdesignernews.com/external/ui-vs-ux-design-which-career-is-for-you-2021"/>
-        <updated>2021-05-17T21:31:00.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/05/17/ui-vs-ux-design]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
-        <id>https://www.smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
-        <link href="http://www.webdesignernews.com/external/how-we-improved-our-core-web-vitals-case-study"/>
-        <updated>2021-05-17T20:41:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/core-web-vitals-case-study/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Come Browse With Me: Free open-source isolated browser for security]]></title>
-        <id>https://comebrowsewithme.com/</id>
-        <link href="http://www.webdesignernews.com/external/come-browser-with-me-free-open-source-isolated-browser-for-security"/>
-        <updated>2021-05-17T18:13:00.000Z</updated>
-        <summary type="html"><![CDATA[https://comebrowsewithme.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
