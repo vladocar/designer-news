@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-19T17:35:38.926Z</id>
+    <id>urn:2021-05-19T18:20:49.131Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T17:35:38.926Z</updated>
+    <updated>2021-05-19T18:20:49.131Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
+        <id>https://www.smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
+        <link href="http://www.webdesignernews.com/external/frustrating-design-patterns-mega-dropdown-hover-menus"/>
+        <updated>2021-05-19T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fingerspelling with Machine Learning]]></title>
         <id>https://fingerspelling.xyz/</id>
@@ -277,16 +287,6 @@ You can share your explorations on [Instagram] (https://www.instagram.com/type_g
         <link href="http://www.webdesignernews.com/external/winners-of-the-2021-type-directors-club-design-awards"/>
         <updated>2021-05-18T15:14:00.000Z</updated>
         <summary type="html"><![CDATA[https://kottke.org/21/05/winners-of-the-2021-type-directors-club-design-awards]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How biased algorithms and moderation are censoring activists on social media]]></title>
-        <id>https://thenextweb.com/news/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media-syndication</id>
-        <link href="http://www.webdesignernews.com/external/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media"/>
-        <updated>2021-05-18T14:54:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media-syndication]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
