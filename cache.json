@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115543-the-grit-volume-iii-ebook-personal-stories-and-tips-from-top-designers--developers",
+          "author": null,
+          "description": "https://avocode.com/books/the-grit-volume-iii",
+          "link": "https://www.designernews.co/stories/115543-the-grit-volume-iii-ebook-personal-stories-and-tips-from-top-designers--developers",
+          "publishedOn": "2021-05-19T08:04:02.000Z",
+          "wordCount": 181,
+          "title": "The Grit Volume III ebook: Personal stories and tips from top designers  & developers."
+        },
+        {
           "id": "https://www.designernews.co/stories/115542-cool-gradient-wallpaper-generator",
           "author": null,
           "description": "https://gradihunt.com/wallpapers",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-15T04:24:10.000Z",
           "wordCount": 167,
           "title": "Best Gifts For Your Developer Friend"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115466-how-to-make-money-with-your-code",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/04/6-ways-to-make-money-with-your-code.html",
-          "link": "https://www.designernews.co/stories/115466-how-to-make-money-with-your-code",
-          "publishedOn": "2021-05-15T04:21:25.000Z",
-          "wordCount": 169,
-          "title": "How To Make Money With Your Code?"
         }
       ]
     },
@@ -590,7 +590,7 @@
           "description": "https://thenextweb.com/news/price-deep-tech-startup-product",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-price-your-deep-tech-startup-s-product",
           "publishedOn": "2021-05-18T20:08:00.000Z",
-          "wordCount": 1335,
+          "wordCount": 1339,
           "title": "Here?s how you should price your deep tech startup?s product"
         },
         {
@@ -662,7 +662,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/ux-design-doesnt-end-with-your-website/",
           "link": "http://www.webdesignernews.com/external/ux-design-doesn-t-end-with-your-website",
           "publishedOn": "2021-05-18T16:04:30.000Z",
-          "wordCount": 1799,
+          "wordCount": 1811,
           "title": "UX Design Doesn?t End With Your Website"
         },
         {
@@ -689,7 +689,7 @@
           "description": "https://thenextweb.com/news/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media-syndication",
           "link": "http://www.webdesignernews.com/external/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media",
           "publishedOn": "2021-05-18T14:54:00.000Z",
-          "wordCount": 1546,
+          "wordCount": 1541,
           "title": "How biased algorithms and moderation are censoring activists on social media"
         },
         {
