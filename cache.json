@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115528-type-grid-explore-making-a-new-typeface",
+          "author": null,
+          "description": "#Type Grid — Explore making a new typeface\r\n\r\n**Type Grid** is a Figma community file divided into 3 formats: A4, A5 and Letter which includes 3 grids, normal, tall and wide.\r\n\r\nYou can share your explorations on [Instagram] (https://www.instagram.com/type_grid/) or [Twitter] (https://twitter.com/type_grid) with #typegridexp, so I can share them on Type Grid’s social channels.\r\n\r\n*“The grid is like the lines on a football field. You can play a great game in the grid or a lousy game. But the goal is to play …",
+          "link": "https://www.designernews.co/stories/115528-type-grid-explore-making-a-new-typeface",
+          "publishedOn": "2021-05-18T17:08:27.000Z",
+          "wordCount": 269,
+          "title": "Type Grid — Explore making a new typeface"
+        },
+        {
           "id": "https://www.designernews.co/stories/115524-a-screen-recorder-designed-for-creatives-",
           "author": null,
           "description": "https://chrome.google.com/webstore/detail/screen-webcam-recorder-%20/mgipbckfkdcalgbcjmkogjijddnkbecc?hl=en&authuser=0",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-14T08:49:58.000Z",
           "wordCount": 177,
           "title": "10 reasons to choose Python Web Development for your Next Project"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115449-7-best-mouse-for-developer--gaming--coding",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/05/7-best-mouse-for-developer-gaming-coding.html",
-          "link": "https://www.designernews.co/stories/115449-7-best-mouse-for-developer--gaming--coding",
-          "publishedOn": "2021-05-14T04:11:08.000Z",
-          "wordCount": 172,
-          "title": "7 Best Mouse For Developer / Gaming / Coding"
         }
       ]
     },
@@ -581,7 +581,7 @@
           "description": "https://d-qn.shinyapps.io/rtify/",
           "link": "http://www.webdesignernews.com/external/arty-face",
           "publishedOn": "2021-05-18T20:53:00.000Z",
-          "wordCount": null,
+          "wordCount": 59,
           "title": "ARty face"
         },
         {
@@ -590,7 +590,7 @@
           "description": "https://thenextweb.com/news/price-deep-tech-startup-product",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-price-your-deep-tech-startup-s-product",
           "publishedOn": "2021-05-18T20:08:00.000Z",
-          "wordCount": 1345,
+          "wordCount": 1335,
           "title": "Here?s how you should price your deep tech startup?s product"
         },
         {
@@ -662,7 +662,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/ux-design-doesnt-end-with-your-website/",
           "link": "http://www.webdesignernews.com/external/ux-design-doesn-t-end-with-your-website",
           "publishedOn": "2021-05-18T16:04:30.000Z",
-          "wordCount": 1831,
+          "wordCount": 1840,
           "title": "UX Design Doesn?t End With Your Website"
         },
         {
@@ -689,7 +689,7 @@
           "description": "https://thenextweb.com/news/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media-syndication",
           "link": "http://www.webdesignernews.com/external/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media",
           "publishedOn": "2021-05-18T14:54:00.000Z",
-          "wordCount": 1556,
+          "wordCount": 1560,
           "title": "How biased algorithms and moderation are censoring activists on social media"
         },
         {

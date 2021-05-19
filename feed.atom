@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-19T06:01:32.664Z</id>
+    <id>urn:2021-05-19T07:11:06.496Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T06:01:32.665Z</updated>
+    <updated>2021-05-19T07:11:06.496Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -53,6 +53,22 @@
         <summary type="html"><![CDATA[https://sparkbox.com/foundry/unconference_design_systems_maturity_model_with_ben_callahan]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Type Grid — Explore making a new typeface]]></title>
+        <id>https://www.designernews.co/stories/115528-type-grid-explore-making-a-new-typeface</id>
+        <link href="https://www.designernews.co/stories/115528-type-grid-explore-making-a-new-typeface"/>
+        <updated>2021-05-18T17:08:27.000Z</updated>
+        <summary type="html"><![CDATA[#Type Grid — Explore making a new typeface
+
+**Type Grid** is a Figma community file divided into 3 formats: A4, A5 and Letter which includes 3 grids, normal, tall and wide.
+
+You can share your explorations on [Instagram] (https://www.instagram.com/type_grid/) or [Twitter] (https://twitter.com/type_grid) with #typegridexp, so I can share them on Type Grid’s social channels.
+
+*“The grid is like the lines on a football field. You can play a great game in the grid or a lousy game. But the goal is to play …]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -503,16 +519,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         <link href="https://www.designernews.co/stories/115453-10-reasons-to-choose-python-web-development-for-your-next-project"/>
         <updated>2021-05-14T08:49:58.000Z</updated>
         <summary type="html"><![CDATA[https://www.zenesys.com/blog/10-reasons-to-choose-python-web-development-for-your-next-project]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Best Mouse For Developer / Gaming / Coding]]></title>
-        <id>https://www.designernews.co/stories/115449-7-best-mouse-for-developer--gaming--coding</id>
-        <link href="https://www.designernews.co/stories/115449-7-best-mouse-for-developer--gaming--coding"/>
-        <updated>2021-05-14T04:11:08.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/7-best-mouse-for-developer-gaming-coding.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
