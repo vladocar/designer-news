@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115542-cool-gradient-wallpaper-generator",
+          "author": null,
+          "description": "https://gradihunt.com/wallpapers",
+          "link": "https://www.designernews.co/stories/115542-cool-gradient-wallpaper-generator",
+          "publishedOn": "2021-05-19T07:41:57.000Z",
+          "wordCount": 167,
+          "title": "Cool Gradient Wallpaper Generator"
+        },
+        {
           "id": "https://www.designernews.co/stories/115528-type-grid-explore-making-a-new-typeface",
           "author": null,
           "description": "#Type Grid — Explore making a new typeface\r\n\r\n**Type Grid** is a Figma community file divided into 3 formats: A4, A5 and Letter which includes 3 grids, normal, tall and wide.\r\n\r\nYou can share your explorations on [Instagram] (https://www.instagram.com/type_grid/) or [Twitter] (https://twitter.com/type_grid) with #typegridexp, so I can share them on Type Grid’s social channels.\r\n\r\n*“The grid is like the lines on a football field. You can play a great game in the grid or a lousy game. But the goal is to play …",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-14T13:14:23.000Z",
           "wordCount": 172,
           "title": "Custom Ecommerce Website Design & Development Cost Services"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115453-10-reasons-to-choose-python-web-development-for-your-next-project",
-          "author": null,
-          "description": "https://www.zenesys.com/blog/10-reasons-to-choose-python-web-development-for-your-next-project",
-          "link": "https://www.designernews.co/stories/115453-10-reasons-to-choose-python-web-development-for-your-next-project",
-          "publishedOn": "2021-05-14T08:49:58.000Z",
-          "wordCount": 177,
-          "title": "10 reasons to choose Python Web Development for your Next Project"
         }
       ]
     },
@@ -590,7 +590,7 @@
           "description": "https://thenextweb.com/news/price-deep-tech-startup-product",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-price-your-deep-tech-startup-s-product",
           "publishedOn": "2021-05-18T20:08:00.000Z",
-          "wordCount": 1335,
+          "wordCount": 1339,
           "title": "Here?s how you should price your deep tech startup?s product"
         },
         {
@@ -662,7 +662,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/ux-design-doesnt-end-with-your-website/",
           "link": "http://www.webdesignernews.com/external/ux-design-doesn-t-end-with-your-website",
           "publishedOn": "2021-05-18T16:04:30.000Z",
-          "wordCount": 1840,
+          "wordCount": 1812,
           "title": "UX Design Doesn?t End With Your Website"
         },
         {
@@ -689,7 +689,7 @@
           "description": "https://thenextweb.com/news/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media-syndication",
           "link": "http://www.webdesignernews.com/external/how-biased-algorithms-and-moderation-are-censoring-activists-on-social-media",
           "publishedOn": "2021-05-18T14:54:00.000Z",
-          "wordCount": 1560,
+          "wordCount": 1548,
           "title": "How biased algorithms and moderation are censoring activists on social media"
         },
         {

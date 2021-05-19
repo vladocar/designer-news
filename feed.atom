@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-19T07:11:06.496Z</id>
+    <id>urn:2021-05-19T08:00:57.071Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T07:11:06.496Z</updated>
+    <updated>2021-05-19T08:00:57.071Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cool Gradient Wallpaper Generator]]></title>
+        <id>https://www.designernews.co/stories/115542-cool-gradient-wallpaper-generator</id>
+        <link href="https://www.designernews.co/stories/115542-cool-gradient-wallpaper-generator"/>
+        <updated>2021-05-19T07:41:57.000Z</updated>
+        <summary type="html"><![CDATA[https://gradihunt.com/wallpapers]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elder.js, the new kid on the block]]></title>
         <id>https://www.voorhoede.nl/en/blog/elder-js-the-new-kid-on-the-block/</id>
@@ -511,16 +521,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 reasons to choose Python Web Development for your Next Project]]></title>
-        <id>https://www.designernews.co/stories/115453-10-reasons-to-choose-python-web-development-for-your-next-project</id>
-        <link href="https://www.designernews.co/stories/115453-10-reasons-to-choose-python-web-development-for-your-next-project"/>
-        <updated>2021-05-14T08:49:58.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/10-reasons-to-choose-python-web-development-for-your-next-project]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
