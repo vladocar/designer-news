@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-19T21:00:47.171Z</id>
+    <id>urn:2021-05-19T22:00:44.113Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T21:00:47.171Z</updated>
+    <updated>2021-05-19T22:00:44.113Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mirna Pierre?s curvy and bold typeface is a celebration of Black graphic designers in history]]></title>
+        <id>https://www.itsnicethat.com/articles/mirna-pierre-view-graphic-design-190521</id>
+        <link href="http://www.webdesignernews.com/external/mirna-pierre-s-curvy-and-bold-typeface-is-a-celebration-of-black-graphic-designers-in-history"/>
+        <updated>2021-05-19T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/mirna-pierre-view-graphic-design-190521]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
         <id>https://www.smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
@@ -267,16 +277,6 @@ You can share your explorations on [Instagram] (https://www.instagram.com/type_g
         <link href="http://www.webdesignernews.com/external/google-amp-is-dead-amp-pages-no-longer-get-preferential-treatment-in-g-search"/>
         <updated>2021-05-18T16:04:35.000Z</updated>
         <summary type="html"><![CDATA[https://plausible.io/blog/google-amp]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing self-contained layout components in CSS]]></title>
-        <id>https://allround.io/articles/writing-self-contained-layout-components-in-css</id>
-        <link href="http://www.webdesignernews.com/external/writing-self-contained-layout-components-in-css"/>
-        <updated>2021-05-18T16:04:32.000Z</updated>
-        <summary type="html"><![CDATA[https://allround.io/articles/writing-self-contained-layout-components-in-css]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>

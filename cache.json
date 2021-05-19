@@ -567,6 +567,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.itsnicethat.com/articles/mirna-pierre-view-graphic-design-190521",
+          "author": null,
+          "description": "https://www.itsnicethat.com/articles/mirna-pierre-view-graphic-design-190521",
+          "link": "http://www.webdesignernews.com/external/mirna-pierre-s-curvy-and-bold-typeface-is-a-celebration-of-black-graphic-designers-in-history",
+          "publishedOn": "2021-05-19T21:30:00.000Z",
+          "wordCount": 1207,
+          "title": "Mirna Pierre?s curvy and bold typeface is a celebration of Black graphic designers in history"
+        },
+        {
           "id": "https://www.smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
           "author": null,
           "description": "https://www.smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
@@ -635,7 +644,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/6-ways-parallax-still-works-in-2021/",
           "link": "http://www.webdesignernews.com/external/6-ways-parallax-still-works-in-2021",
           "publishedOn": "2021-05-19T13:03:00.000Z",
-          "wordCount": 1943,
+          "wordCount": 1927,
           "title": "6 Ways Parallax Still Works in 2021�"
         },
         {
@@ -644,7 +653,7 @@
           "description": "https://thenextweb.com/news/baffling-turning-tech-off-and-on-again-works-newsletter",
           "link": "http://www.webdesignernews.com/external/it-s-baffling-that-turning-tech-off-and-on-again-works-but-i-m-glad-it-does",
           "publishedOn": "2021-05-19T12:48:00.000Z",
-          "wordCount": 934,
+          "wordCount": 924,
           "title": "It?s baffling that turning tech off-and-on again works - but I?m glad it does"
         },
         {
@@ -680,7 +689,7 @@
           "description": "https://thenextweb.com/news/price-deep-tech-startup-product",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-price-your-deep-tech-startup-s-product",
           "publishedOn": "2021-05-18T20:08:00.000Z",
-          "wordCount": 1341,
+          "wordCount": 1339,
           "title": "Here?s how you should price your deep tech startup?s product"
         },
         {
@@ -736,15 +745,6 @@
           "publishedOn": "2021-05-18T16:04:35.000Z",
           "wordCount": 1099,
           "title": "Google AMP is dead AMP pages no longer get preferential treatment in G-search"
-        },
-        {
-          "id": "https://allround.io/articles/writing-self-contained-layout-components-in-css",
-          "author": null,
-          "description": "https://allround.io/articles/writing-self-contained-layout-components-in-css",
-          "link": "http://www.webdesignernews.com/external/writing-self-contained-layout-components-in-css",
-          "publishedOn": "2021-05-18T16:04:32.000Z",
-          "wordCount": 1101,
-          "title": "Writing self-contained layout components in CSS"
         }
       ]
     }
