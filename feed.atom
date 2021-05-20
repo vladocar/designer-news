@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-20T22:00:46.230Z</id>
+    <id>urn:2021-05-20T23:00:50.301Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T22:00:46.230Z</updated>
+    <updated>2021-05-20T23:00:50.301Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ulmo E-Commerce UI Kit - High-quality kit to help create a beautiful e-commerce app]]></title>
+        <id>https://ui8.net/roman-belyaev/products/ulmo-e-commerce-ui-kit</id>
+        <link href="http://www.webdesignernews.com/external/ulmo-e-commerce-ui-kit-high-quality-kit-to-help-create-a-beautiful-e-commerce-app"/>
+        <updated>2021-05-20T22:54:00.000Z</updated>
+        <summary type="html"><![CDATA[https://ui8.net/roman-belyaev/products/ulmo-e-commerce-ui-kit]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn CSS]]></title>
         <id>https://web.dev/learn/css/</id>
@@ -271,16 +281,6 @@
         <link href="http://www.webdesignernews.com/external/cogak-a-platform-that-helps-self-learners-to-start-learning"/>
         <updated>2021-05-19T19:45:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.cogak.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AweSun - Remote desktop software]]></title>
-        <id>https://sun.aweray.com/</id>
-        <link href="http://www.webdesignernews.com/external/awesun-remote-desktop-software"/>
-        <updated>2021-05-19T18:59:42.000Z</updated>
-        <summary type="html"><![CDATA[https://sun.aweray.com/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>

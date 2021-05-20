@@ -576,6 +576,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://ui8.net/roman-belyaev/products/ulmo-e-commerce-ui-kit",
+          "author": null,
+          "description": "https://ui8.net/roman-belyaev/products/ulmo-e-commerce-ui-kit",
+          "link": "http://www.webdesignernews.com/external/ulmo-e-commerce-ui-kit-high-quality-kit-to-help-create-a-beautiful-e-commerce-app",
+          "publishedOn": "2021-05-20T22:54:00.000Z",
+          "wordCount": 419,
+          "title": "Ulmo E-Commerce UI Kit - High-quality kit to help create a beautiful e-commerce app"
+        },
+        {
           "id": "https://web.dev/learn/css/",
           "author": null,
           "description": "https://web.dev/learn/css/",
@@ -662,7 +671,7 @@
           "description": "https://www.androidpolice.com/2021/05/19/material-you-is-the-next-evolution-of-googles-design-language/",
           "link": "http://www.webdesignernews.com/external/everything-you-need-to-know-about-android-12-s-big-material-you-redesign",
           "publishedOn": "2021-05-20T13:05:39.000Z",
-          "wordCount": 2621,
+          "wordCount": 2618,
           "title": "Everything you need to know about Android 12's Big Material You redesign"
         },
         {
@@ -689,7 +698,7 @@
           "description": "https://thenextweb.com/news/how-much-your-stolen-personal-data-is-worth-on-the-dark-web-syndication",
           "link": "http://www.webdesignernews.com/external/here-s-how-much-your-stolen-personal-data-is-worth-on-the-dark-web",
           "publishedOn": "2021-05-19T23:32:20.000Z",
-          "wordCount": 1244,
+          "wordCount": 1248,
           "title": "Here?s how much your stolen personal data is worth on the dark web"
         },
         {
@@ -707,7 +716,7 @@
           "description": "https://www.fastcompany.com/90637339/see-googles-expressive-new-design-language-built-by-billions-of-users",
           "link": "http://www.webdesignernews.com/external/see-google-s-expressive-new-design-language-built-by-billions-of-users",
           "publishedOn": "2021-05-19T22:33:39.000Z",
-          "wordCount": 1439,
+          "wordCount": 1432,
           "title": "See Google?s expressive new design language, built by billions of users"
         },
         {
@@ -716,7 +725,7 @@
           "description": "https://thenextweb.com/news/accountability-good-startup-business",
           "link": "http://www.webdesignernews.com/external/stop-playing-hot-potato-why-the-blame-game-is-hurting-your-business",
           "publishedOn": "2021-05-19T22:05:00.000Z",
-          "wordCount": 1361,
+          "wordCount": 1357,
           "title": "Stop playing hot potato! Why the blame game is hurting your business"
         },
         {
@@ -745,15 +754,6 @@
           "publishedOn": "2021-05-19T19:45:00.000Z",
           "wordCount": 3,
           "title": "Cogak - A platform that helps self-learners to start learning"
-        },
-        {
-          "id": "https://sun.aweray.com/",
-          "author": null,
-          "description": "https://sun.aweray.com/",
-          "link": "http://www.webdesignernews.com/external/awesun-remote-desktop-software",
-          "publishedOn": "2021-05-19T18:59:42.000Z",
-          "wordCount": 616,
-          "title": "AweSun - Remote desktop software"
         }
       ]
     }
