@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-20T20:00:40.671Z</id>
+    <id>urn:2021-05-20T21:00:56.270Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T20:00:40.671Z</updated>
+    <updated>2021-05-20T21:00:56.270Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -829,16 +829,6 @@ The post 20 Best Paper Cut Out Fonts appeared first on Design Inspiration.]]></s
         <summary type="html"><![CDATA[Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Lee Robinson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Content Is Such A Fundamental Part Of The Web Design Process]]></title>
-        <id>https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/</id>
-        <link href="https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/"/>
-        <updated>2021-04-21T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matt Saunders)</name>
         </author>
     </entry>
 </feed>
