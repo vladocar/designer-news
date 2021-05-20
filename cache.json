@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115562-orbiting-around-reddits-rating-system",
+          "author": null,
+          "description": "https://design.infinum.com/case/orbiting-around-reddits-rating-system",
+          "link": "https://www.designernews.co/stories/115562-orbiting-around-reddits-rating-system",
+          "publishedOn": "2021-05-20T10:46:17.000Z",
+          "wordCount": 161,
+          "title": "Orbiting around Reddit's rating system"
+        },
+        {
           "id": "https://www.designernews.co/stories/115549-five-pro-illustrators-celebrating-diversity",
           "author": null,
           "description": "https://tasteminty.com/page/2021/05/19/five-artists-or-illustrators-from-around-the-globe-celebrating-diversity/",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-17T08:15:36.000Z",
           "wordCount": 162,
           "title": "Quick Moodboard Template for Figma"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115472-top-7-monitors-for-gammers--programmers--coders",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/05/top-7-monitors-for-gammers-programmers.html",
-          "link": "https://www.designernews.co/stories/115472-top-7-monitors-for-gammers--programmers--coders",
-          "publishedOn": "2021-05-16T06:34:52.000Z",
-          "wordCount": 190,
-          "title": "TOP 7 Monitors For Gammers / Programmers / Coders"
         }
       ]
     },
@@ -581,7 +581,7 @@
           "description": "https://thenextweb.com/news/how-much-your-stolen-personal-data-is-worth-on-the-dark-web-syndication",
           "link": "http://www.webdesignernews.com/external/here-s-how-much-your-stolen-personal-data-is-worth-on-the-dark-web",
           "publishedOn": "2021-05-19T23:32:20.000Z",
-          "wordCount": 1382,
+          "wordCount": 1366,
           "title": "Here?s how much your stolen personal data is worth on the dark web"
         },
         {
@@ -599,7 +599,7 @@
           "description": "https://www.fastcompany.com/90637339/see-googles-expressive-new-design-language-built-by-billions-of-users",
           "link": "http://www.webdesignernews.com/external/see-google-s-expressive-new-design-language-built-by-billions-of-users",
           "publishedOn": "2021-05-19T22:33:39.000Z",
-          "wordCount": 1439,
+          "wordCount": 1432,
           "title": "See Google?s expressive new design language, built by billions of users"
         },
         {
@@ -608,7 +608,7 @@
           "description": "https://thenextweb.com/news/accountability-good-startup-business",
           "link": "http://www.webdesignernews.com/external/stop-playing-hot-potato-why-the-blame-game-is-hurting-your-business",
           "publishedOn": "2021-05-19T22:05:00.000Z",
-          "wordCount": 1473,
+          "wordCount": 1509,
           "title": "Stop playing hot potato! Why the blame game is hurting your business"
         },
         {
@@ -689,7 +689,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/6-ways-parallax-still-works-in-2021/",
           "link": "http://www.webdesignernews.com/external/6-ways-parallax-still-works-in-2021",
           "publishedOn": "2021-05-19T13:03:00.000Z",
-          "wordCount": 1954,
+          "wordCount": 1947,
           "title": "6 Ways Parallax Still Works in 2021�"
         },
         {
@@ -698,7 +698,7 @@
           "description": "https://thenextweb.com/news/baffling-turning-tech-off-and-on-again-works-newsletter",
           "link": "http://www.webdesignernews.com/external/it-s-baffling-that-turning-tech-off-and-on-again-works-but-i-m-glad-it-does",
           "publishedOn": "2021-05-19T12:48:00.000Z",
-          "wordCount": 934,
+          "wordCount": 942,
           "title": "It?s baffling that turning tech off-and-on again works - but I?m glad it does"
         },
         {
@@ -707,7 +707,7 @@
           "description": "https://uxdesign.cc/giving-a-damn-about-accessibility-6caf90be5a40",
           "link": "http://www.webdesignernews.com/external/giving-a-damn-about-accessibility",
           "publishedOn": "2021-05-19T11:12:00.000Z",
-          "wordCount": 760,
+          "wordCount": 758,
           "title": "Giving a damn about accessibility"
         },
         {
@@ -734,7 +734,7 @@
           "description": "https://thenextweb.com/news/price-deep-tech-startup-product",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-price-your-deep-tech-startup-s-product",
           "publishedOn": "2021-05-18T20:08:00.000Z",
-          "wordCount": 1357,
+          "wordCount": 1365,
           "title": "Here?s how you should price your deep tech startup?s product"
         },
         {

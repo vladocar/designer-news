@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-20T10:01:32.964Z</id>
+    <id>urn:2021-05-20T11:01:49.508Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T10:01:32.964Z</updated>
+    <updated>2021-05-20T11:01:49.508Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Orbiting around Reddit's rating system]]></title>
+        <id>https://www.designernews.co/stories/115562-orbiting-around-reddits-rating-system</id>
+        <link href="https://www.designernews.co/stories/115562-orbiting-around-reddits-rating-system"/>
+        <updated>2021-05-20T10:46:17.000Z</updated>
+        <summary type="html"><![CDATA[https://design.infinum.com/case/orbiting-around-reddits-rating-system]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Svg-loader: A Different Way to Work With External SVG]]></title>
         <id>https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/</id>
@@ -498,16 +508,6 @@ The post 24 Best Fonts with Swashes appeared first on Design Inspiration.]]></su
         <link href="https://www.designernews.co/stories/115479-quick-moodboard-template-for-figma"/>
         <updated>2021-05-17T08:15:36.000Z</updated>
         <summary type="html"><![CDATA[https://www.figma.com/community/file/975852459638798209/Moodboard-Template-by-Human-Deluxe]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOP 7 Monitors For Gammers / Programmers / Coders]]></title>
-        <id>https://www.designernews.co/stories/115472-top-7-monitors-for-gammers--programmers--coders</id>
-        <link href="https://www.designernews.co/stories/115472-top-7-monitors-for-gammers--programmers--coders"/>
-        <updated>2021-05-16T06:34:52.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/top-7-monitors-for-gammers-programmers.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
