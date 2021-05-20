@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115580-key-steps-to-achieve-successful-rpa-implementation",
+          "author": null,
+          "description": "https://www.zenesys.com/blog/key-steps-to-achieve-successful-rpa-implementation",
+          "link": "https://www.designernews.co/stories/115580-key-steps-to-achieve-successful-rpa-implementation",
+          "publishedOn": "2021-05-20T14:11:52.000Z",
+          "wordCount": 170,
+          "title": "Key steps to achieve successful RPA Implementation"
+        },
+        {
           "id": "https://www.designernews.co/stories/115569-business-design-guide",
           "author": null,
           "description": "https://d.mba/guides/what-is-business-design-guide",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-17T13:38:41.000Z",
           "wordCount": 192,
           "title": "Online video maker with filters and effects that lets you add multiple effects to any part of the video"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115483-5-rules-for-every-code-review",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/05/5-rules-for-every-code-review.html",
-          "link": "https://www.designernews.co/stories/115483-5-rules-for-every-code-review",
-          "publishedOn": "2021-05-17T11:54:54.000Z",
-          "wordCount": 165,
-          "title": "5 Rules for Every Code Review"
         }
       ]
     },
@@ -335,13 +335,22 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
+          "link": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
+          "publishedOn": "2021-05-20T14:20:00.000Z",
+          "wordCount": 832,
+          "title": "Boost Your Skills Online: Smashing Workshops On Front-End and Design"
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auto0/",
           "author": "hello@smashingmagazine.com (Facundo Giuliani)",
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auto0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
           "wordCount": 1919,
-          "title": "How To Implement Authentication In Next.js With Auto0"
+          "title": "How To Implement Authentication In Next.js With Auth0"
         },
         {
           "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
@@ -608,7 +617,7 @@
           "description": "https://www.androidpolice.com/2021/05/19/material-you-is-the-next-evolution-of-googles-design-language/",
           "link": "http://www.webdesignernews.com/external/everything-you-need-to-know-about-android-12-s-big-material-you-redesign",
           "publishedOn": "2021-05-20T13:05:39.000Z",
-          "wordCount": 2631,
+          "wordCount": 2638,
           "title": "Everything you need to know about Android 12's Big Material You redesign"
         },
         {
@@ -626,7 +635,7 @@
           "description": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
           "link": "http://www.webdesignernews.com/external/svg-loader-a-different-way-to-work-with-external-svg",
           "publishedOn": "2021-05-19T23:46:00.000Z",
-          "wordCount": 1417,
+          "wordCount": 1501,
           "title": "Svg-loader: A Different Way to Work With External SVG"
         },
         {
@@ -635,7 +644,7 @@
           "description": "https://thenextweb.com/news/how-much-your-stolen-personal-data-is-worth-on-the-dark-web-syndication",
           "link": "http://www.webdesignernews.com/external/here-s-how-much-your-stolen-personal-data-is-worth-on-the-dark-web",
           "publishedOn": "2021-05-19T23:32:20.000Z",
-          "wordCount": 1374,
+          "wordCount": 1244,
           "title": "Here?s how much your stolen personal data is worth on the dark web"
         },
         {
@@ -662,7 +671,7 @@
           "description": "https://thenextweb.com/news/accountability-good-startup-business",
           "link": "http://www.webdesignernews.com/external/stop-playing-hot-potato-why-the-blame-game-is-hurting-your-business",
           "publishedOn": "2021-05-19T22:05:00.000Z",
-          "wordCount": 1484,
+          "wordCount": 1361,
           "title": "Stop playing hot potato! Why the blame game is hurting your business"
         },
         {
@@ -743,7 +752,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/6-ways-parallax-still-works-in-2021/",
           "link": "http://www.webdesignernews.com/external/6-ways-parallax-still-works-in-2021",
           "publishedOn": "2021-05-19T13:03:00.000Z",
-          "wordCount": 1927,
+          "wordCount": 1958,
           "title": "6 Ways Parallax Still Works in 2021�"
         },
         {
@@ -752,7 +761,7 @@
           "description": "https://thenextweb.com/news/baffling-turning-tech-off-and-on-again-works-newsletter",
           "link": "http://www.webdesignernews.com/external/it-s-baffling-that-turning-tech-off-and-on-again-works-but-i-m-glad-it-does",
           "publishedOn": "2021-05-19T12:48:00.000Z",
-          "wordCount": 945,
+          "wordCount": 826,
           "title": "It?s baffling that turning tech off-and-on again works - but I?m glad it does"
         }
       ]
