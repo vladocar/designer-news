@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-20T21:00:56.270Z</id>
+    <id>urn:2021-05-20T22:00:46.230Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T21:00:56.270Z</updated>
+    <updated>2021-05-20T22:00:46.230Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS]]></title>
+        <id>https://web.dev/learn/css/</id>
+        <link href="http://www.webdesignernews.com/external/learn-css"/>
+        <updated>2021-05-20T21:25:00.000Z</updated>
+        <summary type="html"><![CDATA[https://web.dev/learn/css/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Your Emotions to Power Your Creativity]]></title>
+        <id>https://design.org/using-your-emotions-to-power-your-creativity/</id>
+        <link href="http://www.webdesignernews.com/external/using-your-emotions-to-power-your-creativity"/>
+        <updated>2021-05-20T20:58:00.000Z</updated>
+        <summary type="html"><![CDATA[https://design.org/using-your-emotions-to-power-your-creativity/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grilli Type?s latest typeface GT Maru takes inspiration from Japan?s friendly and efficient signage]]></title>
         <id>https://www.itsnicethat.com/articles/grilli-type-gt-maru-graphic-design-200521</id>
@@ -261,26 +281,6 @@
         <link href="http://www.webdesignernews.com/external/awesun-remote-desktop-software"/>
         <updated>2021-05-19T18:59:42.000Z</updated>
         <summary type="html"><![CDATA[https://sun.aweray.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
-        <id>https://www.smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
-        <link href="http://www.webdesignernews.com/external/frustrating-design-patterns-mega-dropdown-hover-menus"/>
-        <updated>2021-05-19T17:45:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fingerspelling with Machine Learning]]></title>
-        <id>https://fingerspelling.xyz/</id>
-        <link href="http://www.webdesignernews.com/external/fingerspelling-with-machine-learning"/>
-        <updated>2021-05-19T16:07:00.000Z</updated>
-        <summary type="html"><![CDATA[https://fingerspelling.xyz/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
