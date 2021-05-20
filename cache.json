@@ -103,6 +103,24 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115566-seven-absolutely-essential-tools-for-front-end-developers",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/04/seven-absolutely-essential-tools-for.html",
+          "link": "https://www.designernews.co/stories/115566-seven-absolutely-essential-tools-for-front-end-developers",
+          "publishedOn": "2021-05-20T11:36:14.000Z",
+          "wordCount": 166,
+          "title": "Seven Absolutely Essential Tools for Front End Developers"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115565-11-best-gifts-for-developers-coders-programmers",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/05/11-best-gifts-for-developerscodersprogr.html",
+          "link": "https://www.designernews.co/stories/115565-11-best-gifts-for-developers-coders-programmers",
+          "publishedOn": "2021-05-20T11:34:51.000Z",
+          "wordCount": 164,
+          "title": "11 Best Gifts For Developers/ Coders/ Programmers"
+        },
+        {
           "id": "https://www.designernews.co/stories/115562-orbiting-around-reddits-rating-system",
           "author": null,
           "description": "https://design.infinum.com/case/orbiting-around-reddits-rating-system",
@@ -292,15 +310,6 @@
           "title": "Online video maker with filters and effects that lets you add multiple effects to any part of the video"
         },
         {
-          "id": "https://www.designernews.co/stories/115485-5--most-customerfriendly-elementor-woocommerce-themes",
-          "author": null,
-          "description": "https://wpklik.com/wordpress-themes/elementor-woocommerce-themes/",
-          "link": "https://www.designernews.co/stories/115485-5--most-customerfriendly-elementor-woocommerce-themes",
-          "publishedOn": "2021-05-17T12:59:09.000Z",
-          "wordCount": 164,
-          "title": "5 + Most Customer-Friendly Elementor WooCommerce Themes"
-        },
-        {
           "id": "https://www.designernews.co/stories/115483-5-rules-for-every-code-review",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/05/5-rules-for-every-code-review.html",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-17T09:31:30.000Z",
           "wordCount": 169,
           "title": "Get the Best RPA Services in USA and India"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115479-quick-moodboard-template-for-figma",
-          "author": null,
-          "description": "https://www.figma.com/community/file/975852459638798209/Moodboard-Template-by-Human-Deluxe",
-          "link": "https://www.designernews.co/stories/115479-quick-moodboard-template-for-figma",
-          "publishedOn": "2021-05-17T08:15:36.000Z",
-          "wordCount": 162,
-          "title": "Quick Moodboard Template for Figma"
         }
       ]
     },
@@ -334,6 +334,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auto0/",
+          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
+          "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
+          "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auto0/",
+          "publishedOn": "2021-05-20T11:00:00.000Z",
+          "wordCount": 1919,
+          "title": "How To Implement Authentication In Next.js With Auto0"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -581,7 +590,7 @@
           "description": "https://thenextweb.com/news/how-much-your-stolen-personal-data-is-worth-on-the-dark-web-syndication",
           "link": "http://www.webdesignernews.com/external/here-s-how-much-your-stolen-personal-data-is-worth-on-the-dark-web",
           "publishedOn": "2021-05-19T23:32:20.000Z",
-          "wordCount": 1366,
+          "wordCount": 1382,
           "title": "Here?s how much your stolen personal data is worth on the dark web"
         },
         {
@@ -599,7 +608,7 @@
           "description": "https://www.fastcompany.com/90637339/see-googles-expressive-new-design-language-built-by-billions-of-users",
           "link": "http://www.webdesignernews.com/external/see-google-s-expressive-new-design-language-built-by-billions-of-users",
           "publishedOn": "2021-05-19T22:33:39.000Z",
-          "wordCount": 1432,
+          "wordCount": 1439,
           "title": "See Google?s expressive new design language, built by billions of users"
         },
         {
@@ -608,7 +617,7 @@
           "description": "https://thenextweb.com/news/accountability-good-startup-business",
           "link": "http://www.webdesignernews.com/external/stop-playing-hot-potato-why-the-blame-game-is-hurting-your-business",
           "publishedOn": "2021-05-19T22:05:00.000Z",
-          "wordCount": 1509,
+          "wordCount": 1478,
           "title": "Stop playing hot potato! Why the blame game is hurting your business"
         },
         {
@@ -617,7 +626,7 @@
           "description": "https://www.itsnicethat.com/articles/mirna-pierre-view-graphic-design-190521",
           "link": "http://www.webdesignernews.com/external/mirna-pierre-s-curvy-and-bold-typeface-is-a-celebration-of-black-graphic-designers-in-history",
           "publishedOn": "2021-05-19T21:30:00.000Z",
-          "wordCount": 1207,
+          "wordCount": 1212,
           "title": "Mirna Pierre?s curvy and bold typeface is a celebration of Black graphic designers in history"
         },
         {
@@ -689,7 +698,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/6-ways-parallax-still-works-in-2021/",
           "link": "http://www.webdesignernews.com/external/6-ways-parallax-still-works-in-2021",
           "publishedOn": "2021-05-19T13:03:00.000Z",
-          "wordCount": 1947,
+          "wordCount": 1929,
           "title": "6 Ways Parallax Still Works in 2021�"
         },
         {
@@ -698,7 +707,7 @@
           "description": "https://thenextweb.com/news/baffling-turning-tech-off-and-on-again-works-newsletter",
           "link": "http://www.webdesignernews.com/external/it-s-baffling-that-turning-tech-off-and-on-again-works-but-i-m-glad-it-does",
           "publishedOn": "2021-05-19T12:48:00.000Z",
-          "wordCount": 942,
+          "wordCount": 941,
           "title": "It?s baffling that turning tech off-and-on again works - but I?m glad it does"
         },
         {
@@ -734,7 +743,7 @@
           "description": "https://thenextweb.com/news/price-deep-tech-startup-product",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-price-your-deep-tech-startup-s-product",
           "publishedOn": "2021-05-18T20:08:00.000Z",
-          "wordCount": 1365,
+          "wordCount": 1350,
           "title": "Here?s how you should price your deep tech startup?s product"
         },
         {

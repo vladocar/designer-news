@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-20T11:01:49.508Z</id>
+    <id>urn:2021-05-20T12:01:03.198Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T11:01:49.508Z</updated>
+    <updated>2021-05-20T12:01:03.198Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Seven Absolutely Essential Tools for Front End Developers]]></title>
+        <id>https://www.designernews.co/stories/115566-seven-absolutely-essential-tools-for-front-end-developers</id>
+        <link href="https://www.designernews.co/stories/115566-seven-absolutely-essential-tools-for-front-end-developers"/>
+        <updated>2021-05-20T11:36:14.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/seven-absolutely-essential-tools-for.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 Best Gifts For Developers/ Coders/ Programmers]]></title>
+        <id>https://www.designernews.co/stories/115565-11-best-gifts-for-developers-coders-programmers</id>
+        <link href="https://www.designernews.co/stories/115565-11-best-gifts-for-developers-coders-programmers"/>
+        <updated>2021-05-20T11:34:51.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/11-best-gifts-for-developerscodersprogr.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Implement Authentication In Next.js With Auto0]]></title>
+        <id>https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auto0/</id>
+        <link href="https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auto0/"/>
+        <updated>2021-05-20T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orbiting around Reddit's rating system]]></title>
         <id>https://www.designernews.co/stories/115562-orbiting-around-reddits-rating-system</id>
@@ -463,16 +493,6 @@ The post 24 Best Fonts with Swashes appeared first on Design Inspiration.]]></su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 + Most Customer-Friendly Elementor WooCommerce Themes]]></title>
-        <id>https://www.designernews.co/stories/115485-5--most-customerfriendly-elementor-woocommerce-themes</id>
-        <link href="https://www.designernews.co/stories/115485-5--most-customerfriendly-elementor-woocommerce-themes"/>
-        <updated>2021-05-17T12:59:09.000Z</updated>
-        <summary type="html"><![CDATA[https://wpklik.com/wordpress-themes/elementor-woocommerce-themes/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[5 Rules for Every Code Review]]></title>
         <id>https://www.designernews.co/stories/115483-5-rules-for-every-code-review</id>
         <link href="https://www.designernews.co/stories/115483-5-rules-for-every-code-review"/>
@@ -498,16 +518,6 @@ The post 24 Best Fonts with Swashes appeared first on Design Inspiration.]]></su
         <link href="https://www.designernews.co/stories/115480-get-the-best-rpa-services-in-usa-and-india"/>
         <updated>2021-05-17T09:31:30.000Z</updated>
         <summary type="html"><![CDATA[https://www.zenesys.com/services/robotic-process-automation]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Moodboard Template for Figma]]></title>
-        <id>https://www.designernews.co/stories/115479-quick-moodboard-template-for-figma</id>
-        <link href="https://www.designernews.co/stories/115479-quick-moodboard-template-for-figma"/>
-        <updated>2021-05-17T08:15:36.000Z</updated>
-        <summary type="html"><![CDATA[https://www.figma.com/community/file/975852459638798209/Moodboard-Template-by-Human-Deluxe]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
