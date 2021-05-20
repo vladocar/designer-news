@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-20T16:10:53.794Z</id>
+    <id>urn:2021-05-20T17:37:31.905Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T16:10:53.794Z</updated>
+    <updated>2021-05-20T17:37:31.905Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Grilli Type?s latest typeface GT Maru takes inspiration from Japan?s friendly and efficient signage]]></title>
+        <id>https://www.itsnicethat.com/articles/grilli-type-gt-maru-graphic-design-200521</id>
+        <link href="http://www.webdesignernews.com/external/grilli-type-s-latest-typeface-gt-maru-takes-inspiration-from-japan-s-friendly-and-efficient-signage"/>
+        <updated>2021-05-20T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/grilli-type-gt-maru-graphic-design-200521]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vendure - Open-source headless e-commerce framework for developers]]></title>
+        <id>https://www.vendure.io/</id>
+        <link href="http://www.webdesignernews.com/external/vendure-open-source-headless-e-commerce-framework-for-developers"/>
+        <updated>2021-05-20T16:58:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vendure.io/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cumul.io - Embed snappy, intuitive dashboards in your SaaS product]]></title>
         <id>https://cumul.io/</id>
@@ -261,26 +281,6 @@
         <link href="http://www.webdesignernews.com/external/fingerspelling-with-machine-learning"/>
         <updated>2021-05-19T16:07:00.000Z</updated>
         <summary type="html"><![CDATA[https://fingerspelling.xyz/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Material You - The next stage for Material Design]]></title>
-        <id>https://material.io/blog/announcing-material-you</id>
-        <link href="http://www.webdesignernews.com/external/material-you-the-next-stage-for-material-design"/>
-        <updated>2021-05-19T15:43:00.000Z</updated>
-        <summary type="html"><![CDATA[https://material.io/blog/announcing-material-you]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google page experience update will come to desktop pages]]></title>
-        <id>https://searchengineland.com/google-page-experience-update-will-come-to-desktop-pages-348723</id>
-        <link href="http://www.webdesignernews.com/external/google-page-experience-update-will-come-to-desktop-pages"/>
-        <updated>2021-05-19T14:26:00.000Z</updated>
-        <summary type="html"><![CDATA[https://searchengineland.com/google-page-experience-update-will-come-to-desktop-pages-348723]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
