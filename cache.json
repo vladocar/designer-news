@@ -567,12 +567,39 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
+          "author": null,
+          "description": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
+          "link": "http://www.webdesignernews.com/external/svg-loader-a-different-way-to-work-with-external-svg",
+          "publishedOn": "2021-05-19T23:46:00.000Z",
+          "wordCount": 1417,
+          "title": "Svg-loader: A Different Way to Work With External SVG"
+        },
+        {
+          "id": "https://thenextweb.com/news/how-much-your-stolen-personal-data-is-worth-on-the-dark-web-syndication",
+          "author": null,
+          "description": "https://thenextweb.com/news/how-much-your-stolen-personal-data-is-worth-on-the-dark-web-syndication",
+          "link": "http://www.webdesignernews.com/external/here-s-how-much-your-stolen-personal-data-is-worth-on-the-dark-web",
+          "publishedOn": "2021-05-19T23:32:20.000Z",
+          "wordCount": 1372,
+          "title": "Here?s how much your stolen personal data is worth on the dark web"
+        },
+        {
+          "id": "https://www.uxpin.com/studio/blog/aspect-ratio/",
+          "author": null,
+          "description": "https://www.uxpin.com/studio/blog/aspect-ratio/",
+          "link": "http://www.webdesignernews.com/external/aspect-ratios-all-you-need-to-know",
+          "publishedOn": "2021-05-19T22:57:55.000Z",
+          "wordCount": 1521,
+          "title": "Aspect Ratios: All You Need to Know"
+        },
+        {
           "id": "https://www.fastcompany.com/90637339/see-googles-expressive-new-design-language-built-by-billions-of-users",
           "author": null,
           "description": "https://www.fastcompany.com/90637339/see-googles-expressive-new-design-language-built-by-billions-of-users",
           "link": "http://www.webdesignernews.com/external/see-google-s-expressive-new-design-language-built-by-billions-of-users",
           "publishedOn": "2021-05-19T22:33:39.000Z",
-          "wordCount": 1432,
+          "wordCount": 1439,
           "title": "See Google?s expressive new design language, built by billions of users"
         },
         {
@@ -581,7 +608,7 @@
           "description": "https://thenextweb.com/news/accountability-good-startup-business",
           "link": "http://www.webdesignernews.com/external/stop-playing-hot-potato-why-the-blame-game-is-hurting-your-business",
           "publishedOn": "2021-05-19T22:05:00.000Z",
-          "wordCount": 1458,
+          "wordCount": 1472,
           "title": "Stop playing hot potato! Why the blame game is hurting your business"
         },
         {
@@ -662,7 +689,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/6-ways-parallax-still-works-in-2021/",
           "link": "http://www.webdesignernews.com/external/6-ways-parallax-still-works-in-2021",
           "publishedOn": "2021-05-19T13:03:00.000Z",
-          "wordCount": 1928,
+          "wordCount": 1913,
           "title": "6 Ways Parallax Still Works in 2021�"
         },
         {
@@ -671,7 +698,7 @@
           "description": "https://thenextweb.com/news/baffling-turning-tech-off-and-on-again-works-newsletter",
           "link": "http://www.webdesignernews.com/external/it-s-baffling-that-turning-tech-off-and-on-again-works-but-i-m-glad-it-does",
           "publishedOn": "2021-05-19T12:48:00.000Z",
-          "wordCount": 928,
+          "wordCount": 938,
           "title": "It?s baffling that turning tech off-and-on again works - but I?m glad it does"
         },
         {
@@ -707,7 +734,7 @@
           "description": "https://thenextweb.com/news/price-deep-tech-startup-product",
           "link": "http://www.webdesignernews.com/external/here-s-how-you-should-price-your-deep-tech-startup-s-product",
           "publishedOn": "2021-05-18T20:08:00.000Z",
-          "wordCount": 1342,
+          "wordCount": 1340,
           "title": "Here?s how you should price your deep tech startup?s product"
         },
         {
@@ -718,33 +745,6 @@
           "publishedOn": "2021-05-18T19:31:00.000Z",
           "wordCount": 1292,
           "title": "Improve Your UX Portfolio ? Ask for a Review"
-        },
-        {
-          "id": "https://sparkbox.com/foundry/unconference_design_systems_maturity_model_with_ben_callahan",
-          "author": null,
-          "description": "https://sparkbox.com/foundry/unconference_design_systems_maturity_model_with_ben_callahan",
-          "link": "http://www.webdesignernews.com/external/unconference-design-system-maturity-model",
-          "publishedOn": "2021-05-18T18:15:45.000Z",
-          "wordCount": 548,
-          "title": "UnConference: Design System Maturity Model"
-        },
-        {
-          "id": "https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles",
-          "author": null,
-          "description": "https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles",
-          "link": "http://www.webdesignernews.com/external/no-utility-classes-aren-t-the-same-as-inline-styles",
-          "publishedOn": "2021-05-18T17:08:00.000Z",
-          "wordCount": 2934,
-          "title": "No, Utility Classes Aren?t the Same As Inline Styles"
-        },
-        {
-          "id": "https://uxdesign.cc/building-software-for-artists-554fcff5bb20",
-          "author": null,
-          "description": "https://uxdesign.cc/building-software-for-artists-554fcff5bb20",
-          "link": "http://www.webdesignernews.com/external/building-software-for-artists",
-          "publishedOn": "2021-05-18T16:59:46.000Z",
-          "wordCount": 2631,
-          "title": "Building software for artists"
         }
       ]
     }

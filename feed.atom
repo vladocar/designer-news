@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-19T23:04:38.076Z</id>
+    <id>urn:2021-05-20T00:13:37.602Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T23:04:38.076Z</updated>
+    <updated>2021-05-20T00:13:37.602Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Svg-loader: A Different Way to Work With External SVG]]></title>
+        <id>https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/</id>
+        <link href="http://www.webdesignernews.com/external/svg-loader-a-different-way-to-work-with-external-svg"/>
+        <updated>2021-05-19T23:46:00.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here?s how much your stolen personal data is worth on the dark web]]></title>
+        <id>https://thenextweb.com/news/how-much-your-stolen-personal-data-is-worth-on-the-dark-web-syndication</id>
+        <link href="http://www.webdesignernews.com/external/here-s-how-much-your-stolen-personal-data-is-worth-on-the-dark-web"/>
+        <updated>2021-05-19T23:32:20.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/how-much-your-stolen-personal-data-is-worth-on-the-dark-web-syndication]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aspect Ratios: All You Need to Know]]></title>
+        <id>https://www.uxpin.com/studio/blog/aspect-ratio/</id>
+        <link href="http://www.webdesignernews.com/external/aspect-ratios-all-you-need-to-know"/>
+        <updated>2021-05-19T22:57:55.000Z</updated>
+        <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/aspect-ratio/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[See Google?s expressive new design language, built by billions of users]]></title>
         <id>https://www.fastcompany.com/90637339/see-googles-expressive-new-design-language-built-by-billions-of-users</id>
@@ -236,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UnConference: Design System Maturity Model]]></title>
-        <id>https://sparkbox.com/foundry/unconference_design_systems_maturity_model_with_ben_callahan</id>
-        <link href="http://www.webdesignernews.com/external/unconference-design-system-maturity-model"/>
-        <updated>2021-05-18T18:15:45.000Z</updated>
-        <summary type="html"><![CDATA[https://sparkbox.com/foundry/unconference_design_systems_maturity_model_with_ben_callahan]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Type Grid — Explore making a new typeface]]></title>
         <id>https://www.designernews.co/stories/115528-type-grid-explore-making-a-new-typeface</id>
         <link href="https://www.designernews.co/stories/115528-type-grid-explore-making-a-new-typeface"/>
@@ -259,26 +279,6 @@ You can share your explorations on [Instagram] (https://www.instagram.com/type_g
 *“The grid is like the lines on a football field. You can play a great game in the grid or a lousy game. But the goal is to play …]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No, Utility Classes Aren?t the Same As Inline Styles]]></title>
-        <id>https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles</id>
-        <link href="http://www.webdesignernews.com/external/no-utility-classes-aren-t-the-same-as-inline-styles"/>
-        <updated>2021-05-18T17:08:00.000Z</updated>
-        <summary type="html"><![CDATA[https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building software for artists]]></title>
-        <id>https://uxdesign.cc/building-software-for-artists-554fcff5bb20</id>
-        <link href="http://www.webdesignernews.com/external/building-software-for-artists"/>
-        <updated>2021-05-18T16:59:46.000Z</updated>
-        <summary type="html"><![CDATA[https://uxdesign.cc/building-software-for-artists-554fcff5bb20]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
