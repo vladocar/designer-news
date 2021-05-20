@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-20T13:20:02.877Z</id>
+    <id>urn:2021-05-20T14:00:51.380Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T13:20:02.877Z</updated>
+    <updated>2021-05-20T14:00:51.380Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Choosing colors for mobile app design (5 key principles)]]></title>
+        <id>https://dribbble.com/stories/2021/05/20/choosing-colors-mobile-app-design</id>
+        <link href="http://www.webdesignernews.com/external/choosing-colors-for-mobile-app-design-5-key-principles"/>
+        <updated>2021-05-20T13:41:00.000Z</updated>
+        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/05/20/choosing-colors-mobile-app-design]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Implement Authentication In Next.js With Auto0]]></title>
         <id>https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auto0/</id>
@@ -273,16 +283,6 @@
         <summary type="html"><![CDATA[Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giving a damn about accessibility]]></title>
-        <id>https://uxdesign.cc/giving-a-damn-about-accessibility-6caf90be5a40</id>
-        <link href="http://www.webdesignernews.com/external/giving-a-damn-about-accessibility"/>
-        <updated>2021-05-19T11:12:00.000Z</updated>
-        <summary type="html"><![CDATA[https://uxdesign.cc/giving-a-damn-about-accessibility-6caf90be5a40]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
