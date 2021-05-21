@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-21T07:13:03.340Z</id>
+    <id>urn:2021-05-21T08:01:25.809Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T07:13:03.340Z</updated>
+    <updated>2021-05-21T08:01:25.809Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tailwind + latest Bootstrap 5]]></title>
+        <id>https://www.designernews.co/stories/115589-tailwind--latest-bootstrap-5</id>
+        <link href="https://www.designernews.co/stories/115589-tailwind--latest-bootstrap-5"/>
+        <updated>2021-05-21T07:43:51.000Z</updated>
+        <summary type="html"><![CDATA[https://tailwind-elements.com/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Bootstrap Weather Examples]]></title>
         <id>https://csshint.com/bootstrap-weather/</id>
@@ -457,16 +467,6 @@ You can share your explorations on [Instagram] (https://www.instagram.com/type_g
         <link href="https://www.designernews.co/stories/115509-best-books-for-product-designer-in-2021"/>
         <updated>2021-05-18T07:33:32.000Z</updated>
         <summary type="html"><![CDATA[https://blog.plantapp.io/post/best-books-for-product-designer-in-20211]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hire Flutter Developer - For iOS & Android App Development]]></title>
-        <id>https://www.designernews.co/stories/115507-hire-flutter-developer--for-ios--android-app-development</id>
-        <link href="https://www.designernews.co/stories/115507-hire-flutter-developer--for-ios--android-app-development"/>
-        <updated>2021-05-18T06:48:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/hire-flutter-app-developer/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
