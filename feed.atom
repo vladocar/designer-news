@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-21T06:00:33.499Z</id>
+    <id>urn:2021-05-21T07:13:03.340Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T06:00:33.499Z</updated>
+    <updated>2021-05-21T07:13:03.340Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -83,6 +83,16 @@
         <summary type="html"><![CDATA[https://superdevresources.com/neumorphism-ui-design-inspiration/]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5+ Awesome & Free WordPress Gaming Themes]]></title>
+        <id>https://www.designernews.co/stories/115581-5-awesome--free-wordpress-gaming-themes</id>
+        <link href="https://www.designernews.co/stories/115581-5-awesome--free-wordpress-gaming-themes"/>
+        <updated>2021-05-20T15:06:37.000Z</updated>
+        <summary type="html"><![CDATA[https://wpklik.com/wordpress-themes/free-wordpress-gaming-themes/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -427,16 +437,6 @@ You can share your explorations on [Instagram] (https://www.instagram.com/type_g
         <link href="https://www.designernews.co/stories/115513-looking-for-uipath-development-services-get-the-best-uipath-services-in-usa"/>
         <updated>2021-05-18T09:46:11.000Z</updated>
         <summary type="html"><![CDATA[https://www.zenesys.com/rpa-services/uipath]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calendar Tetris Game]]></title>
-        <id>https://www.designernews.co/stories/115511-calendar-tetris-game</id>
-        <link href="https://www.designernews.co/stories/115511-calendar-tetris-game"/>
-        <updated>2021-05-18T07:56:48.000Z</updated>
-        <summary type="html"><![CDATA[https://crosspatch.io/calendar]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
