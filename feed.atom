@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-21T14:03:42.658Z</id>
+    <id>urn:2021-05-21T15:00:46.229Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T14:03:42.658Z</updated>
+    <updated>2021-05-21T15:00:46.229Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Better in black: Rethinking our most important buttons]]></title>
+        <id>https://spotify.design/article/better-in-black-rethinking-our-most-important-buttons</id>
+        <link href="http://www.webdesignernews.com/external/better-in-black-rethinking-our-most-important-buttons"/>
+        <updated>2021-05-21T14:26:00.000Z</updated>
+        <summary type="html"><![CDATA[https://spotify.design/article/better-in-black-rethinking-our-most-important-buttons]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building A Rich Text Editor (WYSIWYG) From Scratch]]></title>
         <id>https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</id>
@@ -316,16 +326,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aspect Ratios: All You Need to Know]]></title>
-        <id>https://www.uxpin.com/studio/blog/aspect-ratio/</id>
-        <link href="http://www.webdesignernews.com/external/aspect-ratios-all-you-need-to-know"/>
-        <updated>2021-05-19T22:57:55.000Z</updated>
-        <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/aspect-ratio/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Five pro illustrators celebrating diversity]]></title>
         <id>https://www.designernews.co/stories/115549-five-pro-illustrators-celebrating-diversity</id>
         <link href="https://www.designernews.co/stories/115549-five-pro-illustrators-celebrating-diversity"/>
@@ -350,7 +350,7 @@
         <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
         <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
         <updated>2021-05-19T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.]]></summary>
+        <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
