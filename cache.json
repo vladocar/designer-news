@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115592-stunning-video-templates-for-business-events-social-media-with-filters-transitions-motions-and-relative-time",
+          "author": null,
+          "description": "https://pixiko.com/templates",
+          "link": "https://www.designernews.co/stories/115592-stunning-video-templates-for-business-events-social-media-with-filters-transitions-motions-and-relative-time",
+          "publishedOn": "2021-05-21T11:10:42.000Z",
+          "wordCount": 185,
+          "title": "Stunning video templates for business, events, social media with filters, transitions, motions and relative time"
+        },
+        {
           "id": "https://www.designernews.co/stories/115589-tailwind--latest-bootstrap-5",
           "author": null,
           "description": "https://tailwind-elements.com/",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-18T04:59:47.000Z",
           "wordCount": 172,
           "title": "13 VSCode Extensions That Every Web Developer Should Use"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115501-why-i-failed-as-a-junior-programmer",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/05/why-i-failed-as-junior-programmer.html",
-          "link": "https://www.designernews.co/stories/115501-why-i-failed-as-a-junior-programmer",
-          "publishedOn": "2021-05-18T04:57:34.000Z",
-          "wordCount": 168,
-          "title": "Why I Failed As a Junior Programmer"
         }
       ]
     },
@@ -334,6 +334,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
+          "author": "hello@smashingmagazine.com (Shalabh Vyas)",
+          "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
+          "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
+          "publishedOn": "2021-05-21T11:30:00.000Z",
+          "wordCount": 9398,
+          "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
           "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
@@ -567,6 +576,42 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://t2themes.com/blog/3-ways-to-integrate-disqus-comments-with-ghost/",
+          "author": null,
+          "description": "https://t2themes.com/blog/3-ways-to-integrate-disqus-comments-with-ghost/",
+          "link": "http://www.webdesignernews.com/external/3-ways-to-integrate-disqus-comments-with-ghost",
+          "publishedOn": "2021-05-21T11:14:31.000Z",
+          "wordCount": 1529,
+          "title": "3 Ways to Integrate Disqus Comments with Ghost"
+        },
+        {
+          "id": "https://imjustcreative.com/a-series-of-monochrome-logo-marks-designed-by-the-logo-smith/2021/05/20",
+          "author": null,
+          "description": "https://imjustcreative.com/a-series-of-monochrome-logo-marks-designed-by-the-logo-smith/2021/05/20",
+          "link": "http://www.webdesignernews.com/external/a-series-of-monochrome-logo-marks-designed-by-the-logo-smith",
+          "publishedOn": "2021-05-21T11:13:14.000Z",
+          "wordCount": 1088,
+          "title": "A Series of Monochrome Logo Marks Designed by The Logo Smith"
+        },
+        {
+          "id": "https://flatlogic.com/blog/how-to-use-react-native-flatlist/",
+          "author": null,
+          "description": "https://flatlogic.com/blog/how-to-use-react-native-flatlist/",
+          "link": "http://www.webdesignernews.com/external/how-to-use-react-native-flatlist",
+          "publishedOn": "2021-05-21T11:12:05.000Z",
+          "wordCount": 3473,
+          "title": "How To Use React Native Flatlist"
+        },
+        {
+          "id": "https://torquemag.io/2021/05/next-js-headless-cms/",
+          "author": null,
+          "description": "https://torquemag.io/2021/05/next-js-headless-cms/",
+          "link": "http://www.webdesignernews.com/external/how-to-run-wordpress-as-a-headless-cms-with-next-js-in-3-steps",
+          "publishedOn": "2021-05-21T11:12:03.000Z",
+          "wordCount": 1741,
+          "title": "How to Run WordPress as a Headless CMS With Next.js (In 3 Steps)"
+        },
+        {
           "id": "https://csshint.com/bootstrap-weather/",
           "author": null,
           "description": "https://csshint.com/bootstrap-weather/",
@@ -608,7 +653,7 @@
           "description": "https://www.itsnicethat.com/articles/grilli-type-gt-maru-graphic-design-200521",
           "link": "http://www.webdesignernews.com/external/grilli-type-s-latest-typeface-gt-maru-takes-inspiration-from-japan-s-friendly-and-efficient-signage",
           "publishedOn": "2021-05-20T17:05:00.000Z",
-          "wordCount": 1066,
+          "wordCount": 1060,
           "title": "Grilli Type?s latest typeface GT Maru takes inspiration from Japan?s friendly and efficient signage"
         },
         {
@@ -671,7 +716,7 @@
           "description": "https://www.androidpolice.com/2021/05/19/material-you-is-the-next-evolution-of-googles-design-language/",
           "link": "http://www.webdesignernews.com/external/everything-you-need-to-know-about-android-12-s-big-material-you-redesign",
           "publishedOn": "2021-05-20T13:05:39.000Z",
-          "wordCount": 2629,
+          "wordCount": 2628,
           "title": "Everything you need to know about Android 12's Big Material You redesign"
         },
         {
@@ -709,42 +754,6 @@
           "publishedOn": "2021-05-19T22:57:55.000Z",
           "wordCount": 1516,
           "title": "Aspect Ratios: All You Need to Know"
-        },
-        {
-          "id": "https://www.fastcompany.com/90637339/see-googles-expressive-new-design-language-built-by-billions-of-users",
-          "author": null,
-          "description": "https://www.fastcompany.com/90637339/see-googles-expressive-new-design-language-built-by-billions-of-users",
-          "link": "http://www.webdesignernews.com/external/see-google-s-expressive-new-design-language-built-by-billions-of-users",
-          "publishedOn": "2021-05-19T22:33:39.000Z",
-          "wordCount": 1432,
-          "title": "See Google?s expressive new design language, built by billions of users"
-        },
-        {
-          "id": "https://thenextweb.com/news/accountability-good-startup-business",
-          "author": null,
-          "description": "https://thenextweb.com/news/accountability-good-startup-business",
-          "link": "http://www.webdesignernews.com/external/stop-playing-hot-potato-why-the-blame-game-is-hurting-your-business",
-          "publishedOn": "2021-05-19T22:05:00.000Z",
-          "wordCount": 1352,
-          "title": "Stop playing hot potato! Why the blame game is hurting your business"
-        },
-        {
-          "id": "https://www.itsnicethat.com/articles/mirna-pierre-view-graphic-design-190521",
-          "author": null,
-          "description": "https://www.itsnicethat.com/articles/mirna-pierre-view-graphic-design-190521",
-          "link": "http://www.webdesignernews.com/external/mirna-pierre-s-curvy-and-bold-typeface-is-a-celebration-of-black-graphic-designers-in-history",
-          "publishedOn": "2021-05-19T21:30:00.000Z",
-          "wordCount": 1209,
-          "title": "Mirna Pierre?s curvy and bold typeface is a celebration of Black graphic designers in history"
-        },
-        {
-          "id": "https://www.smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "author": null,
-          "description": "https://www.smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "link": "http://www.webdesignernews.com/external/how-to-create-edit-and-animate-svgs-all-in-one-place-with-svgator-3-0",
-          "publishedOn": "2021-05-19T20:34:38.000Z",
-          "wordCount": 1796,
-          "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0"
         }
       ]
     }
