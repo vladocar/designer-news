@@ -576,6 +576,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.imagine.ai/",
+          "author": null,
+          "description": "https://www.imagine.ai/",
+          "link": "http://www.webdesignernews.com/external/imagineai-instantly-generate-django-node-code-for-your-backend-app",
+          "publishedOn": "2021-05-21T19:58:00.000Z",
+          "wordCount": 248,
+          "title": "ImagineAI - Instantly generate Django & Node code for your backend app"
+        },
+        {
           "id": "https://a12989x.github.io/reexjs-cli/",
           "author": null,
           "description": "https://a12989x.github.io/reexjs-cli/",
@@ -745,15 +754,6 @@
           "publishedOn": "2021-05-20T13:05:50.000Z",
           "wordCount": 2275,
           "title": "12 Best Design Podcasts To Keep You Inspired At Home"
-        },
-        {
-          "id": "https://www.androidpolice.com/2021/05/19/material-you-is-the-next-evolution-of-googles-design-language/",
-          "author": null,
-          "description": "https://www.androidpolice.com/2021/05/19/material-you-is-the-next-evolution-of-googles-design-language/",
-          "link": "http://www.webdesignernews.com/external/everything-you-need-to-know-about-android-12-s-big-material-you-redesign",
-          "publishedOn": "2021-05-20T13:05:39.000Z",
-          "wordCount": 2586,
-          "title": "Everything you need to know about Android 12's Big Material You redesign"
         }
       ]
     }
