@@ -56,7 +56,7 @@
           "description": "Looking for some sleek fashion fonts with elegant look for your modern designs? Look no further. When someone mentions Fashion, people might not necessarily think of fonts. However, the fact is that typography plays an important role in any design. Here you’ll find some fantastic fashion fonts that will help\nThe post 38 Best Fashion Fonts for Modern Designs appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/fashion-fonts/",
           "publishedOn": "2021-05-06T21:13:22.000Z",
-          "wordCount": 3691,
+          "wordCount": 3682,
           "title": "38 Best Fashion Fonts for Modern Designs"
         },
         {
@@ -576,6 +576,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html",
+          "author": null,
+          "description": "https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html",
+          "link": "http://www.webdesignernews.com/external/fit-content-and-fit-content",
+          "publishedOn": "2021-05-21T15:45:00.000Z",
+          "wordCount": 1196,
+          "title": "Fit-content and fit-content()"
+        },
+        {
           "id": "https://spotify.design/article/better-in-black-rethinking-our-most-important-buttons",
           "author": null,
           "description": "https://spotify.design/article/better-in-black-rethinking-our-most-important-buttons",
@@ -689,7 +698,7 @@
           "description": "https://superdevresources.com/neumorphism-ui-design-inspiration/",
           "link": "http://www.webdesignernews.com/external/25-neumorphism-ui-design-inspirations-and-examples",
           "publishedOn": "2021-05-20T15:16:00.000Z",
-          "wordCount": 2020,
+          "wordCount": 2018,
           "title": "25 Neumorphism UI Design Inspirations and Examples"
         },
         {
@@ -725,7 +734,7 @@
           "description": "https://www.androidpolice.com/2021/05/19/material-you-is-the-next-evolution-of-googles-design-language/",
           "link": "http://www.webdesignernews.com/external/everything-you-need-to-know-about-android-12-s-big-material-you-redesign",
           "publishedOn": "2021-05-20T13:05:39.000Z",
-          "wordCount": 2627,
+          "wordCount": 2619,
           "title": "Everything you need to know about Android 12's Big Material You redesign"
         },
         {
@@ -743,17 +752,8 @@
           "description": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
           "link": "http://www.webdesignernews.com/external/svg-loader-a-different-way-to-work-with-external-svg",
           "publishedOn": "2021-05-19T23:46:00.000Z",
-          "wordCount": 1558,
+          "wordCount": 1606,
           "title": "Svg-loader: A Different Way to Work With External SVG"
-        },
-        {
-          "id": "https://thenextweb.com/news/how-much-your-stolen-personal-data-is-worth-on-the-dark-web-syndication",
-          "author": null,
-          "description": "https://thenextweb.com/news/how-much-your-stolen-personal-data-is-worth-on-the-dark-web-syndication",
-          "link": "http://www.webdesignernews.com/external/here-s-how-much-your-stolen-personal-data-is-worth-on-the-dark-web",
-          "publishedOn": "2021-05-19T23:32:20.000Z",
-          "wordCount": 1235,
-          "title": "Here?s how much your stolen personal data is worth on the dark web"
         }
       ]
     }

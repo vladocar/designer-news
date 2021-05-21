@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-21T15:00:46.229Z</id>
+    <id>urn:2021-05-21T16:10:55.671Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T15:00:46.229Z</updated>
+    <updated>2021-05-21T16:10:55.671Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fit-content and fit-content()]]></title>
+        <id>https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html</id>
+        <link href="http://www.webdesignernews.com/external/fit-content-and-fit-content"/>
+        <updated>2021-05-21T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Better in black: Rethinking our most important buttons]]></title>
         <id>https://spotify.design/article/better-in-black-rethinking-our-most-important-buttons</id>
@@ -311,16 +321,6 @@
         <link href="http://www.webdesignernews.com/external/svg-loader-a-different-way-to-work-with-external-svg"/>
         <updated>2021-05-19T23:46:00.000Z</updated>
         <summary type="html"><![CDATA[https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here?s how much your stolen personal data is worth on the dark web]]></title>
-        <id>https://thenextweb.com/news/how-much-your-stolen-personal-data-is-worth-on-the-dark-web-syndication</id>
-        <link href="http://www.webdesignernews.com/external/here-s-how-much-your-stolen-personal-data-is-worth-on-the-dark-web"/>
-        <updated>2021-05-19T23:32:20.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/how-much-your-stolen-personal-data-is-worth-on-the-dark-web-syndication]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
