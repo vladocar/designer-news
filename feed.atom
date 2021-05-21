@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-21T00:13:51.940Z</id>
+    <id>urn:2021-05-21T02:02:41.554Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T00:13:51.940Z</updated>
+    <updated>2021-05-21T02:02:41.554Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10 Bootstrap Weather Examples]]></title>
+        <id>https://csshint.com/bootstrap-weather/</id>
+        <link href="http://www.webdesignernews.com/external/10-bootstrap-weather-examples"/>
+        <updated>2021-05-20T23:58:00.000Z</updated>
+        <summary type="html"><![CDATA[https://csshint.com/bootstrap-weather/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ulmo E-Commerce UI Kit - High-quality kit to help create a beautiful e-commerce app]]></title>
         <id>https://ui8.net/roman-belyaev/products/ulmo-e-commerce-ui-kit</id>
@@ -271,16 +281,6 @@
         <link href="http://www.webdesignernews.com/external/how-to-create-edit-and-animate-svgs-all-in-one-place-with-svgator-3-0"/>
         <updated>2021-05-19T20:34:38.000Z</updated>
         <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cogak - A platform that helps self-learners to start learning]]></title>
-        <id>https://www.cogak.com/</id>
-        <link href="http://www.webdesignernews.com/external/cogak-a-platform-that-helps-self-learners-to-start-learning"/>
-        <updated>2021-05-19T19:45:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.cogak.com/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
@@ -819,16 +819,6 @@ The post 20 Best Paper Cut Out Fonts appeared first on Design Inspiration.]]></s
         <summary type="html"><![CDATA[Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide To Incremental Static Regeneration (ISR) With Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/"/>
-        <updated>2021-04-21T13:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lee Robinson)</name>
         </author>
     </entry>
 </feed>
