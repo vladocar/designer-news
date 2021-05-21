@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-21T21:00:46.843Z</id>
+    <id>urn:2021-05-21T22:00:55.193Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T21:00:46.843Z</updated>
+    <updated>2021-05-21T22:00:55.193Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Recast by Amplication - Transform your Excel to a TypeScript Node.js app]]></title>
+        <id>https://recast.amplication.com/</id>
+        <link href="http://www.webdesignernews.com/external/recast-by-amplication-transform-your-excel-to-a-typescript-node-js-app"/>
+        <updated>2021-05-21T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[https://recast.amplication.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ImagineAI - Instantly generate Django & Node code for your backend app]]></title>
         <id>https://www.imagine.ai/</id>
@@ -261,16 +271,6 @@
         <link href="http://www.webdesignernews.com/external/how-to-implement-authentication-in-next-js-with-auto0"/>
         <updated>2021-05-20T13:06:27.000Z</updated>
         <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auto0/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 Best Design Podcasts To Keep You Inspired At Home]]></title>
-        <id>https://marketsplash.com/design-podcasts/</id>
-        <link href="http://www.webdesignernews.com/external/12-best-design-podcasts-to-keep-you-inspired-at-home"/>
-        <updated>2021-05-20T13:05:50.000Z</updated>
-        <summary type="html"><![CDATA[https://marketsplash.com/design-podcasts/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>

@@ -576,6 +576,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://recast.amplication.com/",
+          "author": null,
+          "description": "https://recast.amplication.com/",
+          "link": "http://www.webdesignernews.com/external/recast-by-amplication-transform-your-excel-to-a-typescript-node-js-app",
+          "publishedOn": "2021-05-21T21:30:00.000Z",
+          "wordCount": 183,
+          "title": "Recast by Amplication - Transform your Excel to a TypeScript Node.js app"
+        },
+        {
           "id": "https://www.imagine.ai/",
           "author": null,
           "description": "https://www.imagine.ai/",
@@ -745,15 +754,6 @@
           "publishedOn": "2021-05-20T13:06:27.000Z",
           "wordCount": 1919,
           "title": "How To Implement Authentication In Next.js With Auto0"
-        },
-        {
-          "id": "https://marketsplash.com/design-podcasts/",
-          "author": null,
-          "description": "https://marketsplash.com/design-podcasts/",
-          "link": "http://www.webdesignernews.com/external/12-best-design-podcasts-to-keep-you-inspired-at-home",
-          "publishedOn": "2021-05-20T13:05:50.000Z",
-          "wordCount": 2275,
-          "title": "12 Best Design Podcasts To Keep You Inspired At Home"
         }
       ]
     }
