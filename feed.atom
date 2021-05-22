@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-22T19:17:48.311Z</id>
+    <id>urn:2021-05-22T20:00:46.946Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T19:17:48.311Z</updated>
+    <updated>2021-05-22T20:00:46.946Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Stress and Worry Can Fuel Creativity]]></title>
+        <id>https://design.org/how-stress-and-worry-can-fuel-creativity/</id>
+        <link href="http://www.webdesignernews.com/external/how-stress-and-worry-can-fuel-creativity"/>
+        <updated>2021-05-22T19:38:00.000Z</updated>
+        <summary type="html"><![CDATA[https://design.org/how-stress-and-worry-can-fuel-creativity/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Ultimate Notionpedia - A free template to learn Notion in 1 page]]></title>
         <id>https://gumroad.com/l/BdNbt</id>
@@ -261,16 +271,6 @@
         <link href="http://www.webdesignernews.com/external/10-bootstrap-weather-examples"/>
         <updated>2021-05-20T23:58:00.000Z</updated>
         <summary type="html"><![CDATA[https://csshint.com/bootstrap-weather/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ulmo E-Commerce UI Kit - High-quality kit to help create a beautiful e-commerce app]]></title>
-        <id>https://ui8.net/roman-belyaev/products/ulmo-e-commerce-ui-kit</id>
-        <link href="http://www.webdesignernews.com/external/ulmo-e-commerce-ui-kit-high-quality-kit-to-help-create-a-beautiful-e-commerce-app"/>
-        <updated>2021-05-20T22:54:00.000Z</updated>
-        <summary type="html"><![CDATA[https://ui8.net/roman-belyaev/products/ulmo-e-commerce-ui-kit]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>

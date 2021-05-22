@@ -567,6 +567,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://design.org/how-stress-and-worry-can-fuel-creativity/",
+          "author": null,
+          "description": "https://design.org/how-stress-and-worry-can-fuel-creativity/",
+          "link": "http://www.webdesignernews.com/external/how-stress-and-worry-can-fuel-creativity",
+          "publishedOn": "2021-05-22T19:38:00.000Z",
+          "wordCount": 1138,
+          "title": "How Stress and Worry Can Fuel Creativity"
+        },
+        {
           "id": "https://gumroad.com/l/BdNbt",
           "author": null,
           "description": "https://gumroad.com/l/BdNbt",
@@ -608,7 +617,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/poll-will-you-adopt-googles-material-you/",
           "link": "http://www.webdesignernews.com/external/poll-will-you-adopt-google-s-material-you",
           "publishedOn": "2021-05-22T14:05:49.000Z",
-          "wordCount": 667,
+          "wordCount": 643,
           "title": "Poll: Will You Adopt Google?s Material You?"
         },
         {
@@ -736,15 +745,6 @@
           "publishedOn": "2021-05-20T23:58:00.000Z",
           "wordCount": 469,
           "title": "10 Bootstrap Weather Examples"
-        },
-        {
-          "id": "https://ui8.net/roman-belyaev/products/ulmo-e-commerce-ui-kit",
-          "author": null,
-          "description": "https://ui8.net/roman-belyaev/products/ulmo-e-commerce-ui-kit",
-          "link": "http://www.webdesignernews.com/external/ulmo-e-commerce-ui-kit-high-quality-kit-to-help-create-a-beautiful-e-commerce-app",
-          "publishedOn": "2021-05-20T22:54:00.000Z",
-          "wordCount": 419,
-          "title": "Ulmo E-Commerce UI Kit - High-quality kit to help create a beautiful e-commerce app"
         }
       ]
     }
