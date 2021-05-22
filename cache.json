@@ -567,6 +567,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://fromnotion.com/",
+          "author": null,
+          "description": "https://fromnotion.com/",
+          "link": "http://www.webdesignernews.com/external/fromnotion-beautiful-one-page-sites-on-notion-in-minutes",
+          "publishedOn": "2021-05-22T15:35:00.000Z",
+          "wordCount": 10,
+          "title": "FromNotion - Beautiful one-page sites on Notion in minutes"
+        },
+        {
           "id": "https://www.getillustrations.com/illustration-pack/download-simple-colorful-outline-illustrations",
           "author": null,
           "description": "https://www.getillustrations.com/illustration-pack/download-simple-colorful-outline-illustrations",
@@ -581,7 +590,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/poll-will-you-adopt-googles-material-you/",
           "link": "http://www.webdesignernews.com/external/poll-will-you-adopt-google-s-material-you",
           "publishedOn": "2021-05-22T14:05:49.000Z",
-          "wordCount": 628,
+          "wordCount": 665,
           "title": "Poll: Will You Adopt Google?s Material You?"
         },
         {
@@ -736,15 +745,6 @@
           "publishedOn": "2021-05-20T20:58:00.000Z",
           "wordCount": 1476,
           "title": "Using Your Emotions to Power Your Creativity"
-        },
-        {
-          "id": "https://www.itsnicethat.com/articles/grilli-type-gt-maru-graphic-design-200521",
-          "author": null,
-          "description": "https://www.itsnicethat.com/articles/grilli-type-gt-maru-graphic-design-200521",
-          "link": "http://www.webdesignernews.com/external/grilli-type-s-latest-typeface-gt-maru-takes-inspiration-from-japan-s-friendly-and-efficient-signage",
-          "publishedOn": "2021-05-20T17:05:00.000Z",
-          "wordCount": 1060,
-          "title": "Grilli Type?s latest typeface GT Maru takes inspiration from Japan?s friendly and efficient signage"
         }
       ]
     }
