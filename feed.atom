@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-22T16:10:04.992Z</id>
+    <id>urn:2021-05-22T17:36:29.746Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T16:10:04.992Z</updated>
+    <updated>2021-05-22T17:36:29.746Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Accessibility is hard. It's also your job]]></title>
+        <id>https://gomakethings.com/accessibility-is-hard.-its-also-your-job./</id>
+        <link href="http://www.webdesignernews.com/external/accessibility-is-hard-it-s-also-your-job"/>
+        <updated>2021-05-22T16:47:00.000Z</updated>
+        <summary type="html"><![CDATA[https://gomakethings.com/accessibility-is-hard.-its-also-your-job./]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FromNotion - Beautiful one-page sites on Notion in minutes]]></title>
         <id>https://fromnotion.com/</id>
@@ -261,16 +271,6 @@
         <link href="http://www.webdesignernews.com/external/learn-css"/>
         <updated>2021-05-20T21:25:00.000Z</updated>
         <summary type="html"><![CDATA[https://web.dev/learn/css/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Your Emotions to Power Your Creativity]]></title>
-        <id>https://design.org/using-your-emotions-to-power-your-creativity/</id>
-        <link href="http://www.webdesignernews.com/external/using-your-emotions-to-power-your-creativity"/>
-        <updated>2021-05-20T20:58:00.000Z</updated>
-        <summary type="html"><![CDATA[https://design.org/using-your-emotions-to-power-your-creativity/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
