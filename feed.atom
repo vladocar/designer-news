@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-22T21:00:41.258Z</id>
+    <id>urn:2021-05-22T22:00:31.100Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T21:00:41.258Z</updated>
+    <updated>2021-05-22T22:00:31.100Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create Figma Plugin]]></title>
+        <id>https://yuanqing.github.io/create-figma-plugin/</id>
+        <link href="http://www.webdesignernews.com/external/create-figma-plugin"/>
+        <updated>2021-05-22T21:26:00.000Z</updated>
+        <summary type="html"><![CDATA[https://yuanqing.github.io/create-figma-plugin/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Five Realities That Sum Up The Struggles of Entrepreneurship-And How to Overcome Them]]></title>
         <id>https://www.shopify.com/blog/challenges-of-entrepreneurship</id>
@@ -241,16 +251,6 @@
         <link href="http://www.webdesignernews.com/external/how-to-use-react-native-flatlist"/>
         <updated>2021-05-21T11:12:05.000Z</updated>
         <summary type="html"><![CDATA[https://flatlogic.com/blog/how-to-use-react-native-flatlist/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run WordPress as a Headless CMS With Next.js (In 3 Steps)]]></title>
-        <id>https://torquemag.io/2021/05/next-js-headless-cms/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-run-wordpress-as-a-headless-cms-with-next-js-in-3-steps"/>
-        <updated>2021-05-21T11:12:03.000Z</updated>
-        <summary type="html"><![CDATA[https://torquemag.io/2021/05/next-js-headless-cms/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
