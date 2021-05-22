@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-22T04:13:33.711Z</id>
+    <id>urn:2021-05-22T05:15:38.734Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T04:13:33.711Z</updated>
+    <updated>2021-05-22T05:15:38.734Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Complete guide on how to create an app like Bet365]]></title>
+        <id>https://www.designernews.co/stories/115607-complete-guide-on-how-to-create-an-app-like-bet365</id>
+        <link href="https://www.designernews.co/stories/115607-complete-guide-on-how-to-create-an-app-like-bet365"/>
+        <updated>2021-05-22T04:46:29.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recast by Amplication - Transform your Excel to a TypeScript Node.js app]]></title>
         <id>https://recast.amplication.com/</id>
@@ -437,16 +447,6 @@ You can share your explorations on [Instagram] (https://www.instagram.com/type_g
         <link href="https://www.designernews.co/stories/115520-5-best-nutrition-wordpress-themes-for-real-transformation"/>
         <updated>2021-05-18T13:09:07.000Z</updated>
         <summary type="html"><![CDATA[https://wpklik.com/wordpress-themes/nutrition-wordpress-themes/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SystemFlow Lite - Free version of utility framework for Webflow & Figma]]></title>
-        <id>https://www.designernews.co/stories/115518-systemflow-lite--free-version-of-utility-framework-for-webflow--figma</id>
-        <link href="https://www.designernews.co/stories/115518-systemflow-lite--free-version-of-utility-framework-for-webflow--figma"/>
-        <updated>2021-05-18T12:19:31.000Z</updated>
-        <summary type="html"><![CDATA[https://webflow.com/website/SystemFlow-Lite-Designer-first-utility-framework-for-Webflow-and-Figma]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>

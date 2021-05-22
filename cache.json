@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115607-complete-guide-on-how-to-create-an-app-like-bet365",
+          "author": null,
+          "description": "https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/",
+          "link": "https://www.designernews.co/stories/115607-complete-guide-on-how-to-create-an-app-like-bet365",
+          "publishedOn": "2021-05-22T04:46:29.000Z",
+          "wordCount": 167,
+          "title": "Complete guide on how to create an app like Bet365"
+        },
+        {
           "id": "https://www.designernews.co/stories/115603-top-7-cheapest-stuff-that-can-help-you-while-you-are-coding",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/05/top-7-cheapest-stuff-that-can-help-you.html",
@@ -272,15 +281,6 @@
           "publishedOn": "2021-05-18T13:09:07.000Z",
           "wordCount": 162,
           "title": "5 Best Nutrition WordPress Themes for Real Transformation"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115518-systemflow-lite--free-version-of-utility-framework-for-webflow--figma",
-          "author": null,
-          "description": "https://webflow.com/website/SystemFlow-Lite-Designer-first-utility-framework-for-Webflow-and-Figma",
-          "link": "https://www.designernews.co/stories/115518-systemflow-lite--free-version-of-utility-framework-for-webflow--figma",
-          "publishedOn": "2021-05-18T12:19:31.000Z",
-          "wordCount": 170,
-          "title": "SystemFlow Lite - Free version of utility framework for Webflow & Figma"
         },
         {
           "id": "https://www.designernews.co/stories/115514-the-ultimate-figma-ui-kit",
