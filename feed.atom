@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-22T13:18:19.084Z</id>
+    <id>urn:2021-05-22T14:00:35.139Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T13:18:19.084Z</updated>
+    <updated>2021-05-22T14:00:35.139Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Svelte for the Experienced React Dev]]></title>
+        <id>https://css-tricks.com/svelte-for-the-experienced-react-dev/</id>
+        <link href="http://www.webdesignernews.com/external/svelte-for-the-experienced-react-dev"/>
+        <updated>2021-05-22T13:59:18.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/svelte-for-the-experienced-react-dev/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Rich Text Editor (WYSIWYG) From Scratch]]></title>
+        <id>https://www.smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</id>
+        <link href="http://www.webdesignernews.com/external/building-a-rich-text-editor-wysiwyg-from-scratch"/>
+        <updated>2021-05-22T13:58:26.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comet - Open API Editor for nerds]]></title>
+        <id>https://comet.chilllab.io/</id>
+        <link href="http://www.webdesignernews.com/external/comet-open-api-editor-for-nerds"/>
+        <updated>2021-05-22T13:57:40.000Z</updated>
+        <summary type="html"><![CDATA[https://comet.chilllab.io/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show DN: Figma design kit for Tailwind CSS]]></title>
         <id>https://www.designernews.co/stories/115617-show-dn-figma-design-kit-for-tailwind-css</id>
@@ -246,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[25 Neumorphism UI Design Inspirations and Examples]]></title>
-        <id>https://superdevresources.com/neumorphism-ui-design-inspiration/</id>
-        <link href="http://www.webdesignernews.com/external/25-neumorphism-ui-design-inspirations-and-examples"/>
-        <updated>2021-05-20T15:16:00.000Z</updated>
-        <summary type="html"><![CDATA[https://superdevresources.com/neumorphism-ui-design-inspiration/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[5+ Awesome & Free WordPress Gaming Themes]]></title>
         <id>https://www.designernews.co/stories/115581-5-awesome--free-wordpress-gaming-themes</id>
         <link href="https://www.designernews.co/stories/115581-5-awesome--free-wordpress-gaming-themes"/>
@@ -283,26 +303,6 @@
         <summary type="html"><![CDATA[https://www.zenesys.com/blog/key-steps-to-achieve-successful-rpa-implementation]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choosing colors for mobile app design (5 key principles)]]></title>
-        <id>https://dribbble.com/stories/2021/05/20/choosing-colors-mobile-app-design</id>
-        <link href="http://www.webdesignernews.com/external/choosing-colors-for-mobile-app-design-5-key-principles"/>
-        <updated>2021-05-20T13:41:00.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/05/20/choosing-colors-mobile-app-design]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Implement Authentication In Next.js With Auto0]]></title>
-        <id>https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auto0/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-implement-authentication-in-next-js-with-auto0"/>
-        <updated>2021-05-20T13:06:27.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auto0/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>

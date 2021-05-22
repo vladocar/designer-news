@@ -567,6 +567,33 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
+          "author": null,
+          "description": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
+          "link": "http://www.webdesignernews.com/external/svelte-for-the-experienced-react-dev",
+          "publishedOn": "2021-05-22T13:59:18.000Z",
+          "wordCount": 3256,
+          "title": "Svelte for the Experienced React Dev"
+        },
+        {
+          "id": "https://www.smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
+          "author": null,
+          "description": "https://www.smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
+          "link": "http://www.webdesignernews.com/external/building-a-rich-text-editor-wysiwyg-from-scratch",
+          "publishedOn": "2021-05-22T13:58:26.000Z",
+          "wordCount": 9398,
+          "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
+        },
+        {
+          "id": "https://comet.chilllab.io/",
+          "author": null,
+          "description": "https://comet.chilllab.io/",
+          "link": "http://www.webdesignernews.com/external/comet-open-api-editor-for-nerds",
+          "publishedOn": "2021-05-22T13:57:40.000Z",
+          "wordCount": 3,
+          "title": "Comet - Open API Editor for nerds"
+        },
+        {
           "id": "https://recast.amplication.com/",
           "author": null,
           "description": "https://recast.amplication.com/",
@@ -718,33 +745,6 @@
           "publishedOn": "2021-05-20T15:51:31.000Z",
           "wordCount": 12,
           "title": "Cumul.io - Embed snappy, intuitive dashboards in your SaaS product"
-        },
-        {
-          "id": "https://superdevresources.com/neumorphism-ui-design-inspiration/",
-          "author": null,
-          "description": "https://superdevresources.com/neumorphism-ui-design-inspiration/",
-          "link": "http://www.webdesignernews.com/external/25-neumorphism-ui-design-inspirations-and-examples",
-          "publishedOn": "2021-05-20T15:16:00.000Z",
-          "wordCount": 2012,
-          "title": "25 Neumorphism UI Design Inspirations and Examples"
-        },
-        {
-          "id": "https://dribbble.com/stories/2021/05/20/choosing-colors-mobile-app-design",
-          "author": null,
-          "description": "https://dribbble.com/stories/2021/05/20/choosing-colors-mobile-app-design",
-          "link": "http://www.webdesignernews.com/external/choosing-colors-for-mobile-app-design-5-key-principles",
-          "publishedOn": "2021-05-20T13:41:00.000Z",
-          "wordCount": 1213,
-          "title": "Choosing colors for mobile app design (5 key principles)"
-        },
-        {
-          "id": "https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auto0/",
-          "author": null,
-          "description": "https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auto0/",
-          "link": "http://www.webdesignernews.com/external/how-to-implement-authentication-in-next-js-with-auto0",
-          "publishedOn": "2021-05-20T13:06:27.000Z",
-          "wordCount": 1919,
-          "title": "How To Implement Authentication In Next.js With Auto0"
         }
       ]
     }
