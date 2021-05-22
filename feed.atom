@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-22T20:00:46.946Z</id>
+    <id>urn:2021-05-22T21:00:41.258Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T20:00:46.946Z</updated>
+    <updated>2021-05-22T21:00:41.258Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Five Realities That Sum Up The Struggles of Entrepreneurship-And How to Overcome Them]]></title>
+        <id>https://www.shopify.com/blog/challenges-of-entrepreneurship</id>
+        <link href="http://www.webdesignernews.com/external/five-realities-that-sum-up-the-struggles-of-entrepreneurship-and-how-to-overcome-them"/>
+        <updated>2021-05-22T20:34:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.shopify.com/blog/challenges-of-entrepreneurship]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Stress and Worry Can Fuel Creativity]]></title>
         <id>https://design.org/how-stress-and-worry-can-fuel-creativity/</id>
@@ -263,16 +273,6 @@
         <summary type="html"><![CDATA[https://tailwind-elements.com/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Bootstrap Weather Examples]]></title>
-        <id>https://csshint.com/bootstrap-weather/</id>
-        <link href="http://www.webdesignernews.com/external/10-bootstrap-weather-examples"/>
-        <updated>2021-05-20T23:58:00.000Z</updated>
-        <summary type="html"><![CDATA[https://csshint.com/bootstrap-weather/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -809,16 +809,6 @@ The post 20 Best Paper Cut Out Fonts appeared first on Design Inspiration.]]></s
         <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
-        <id>https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</id>
-        <link href="https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/"/>
-        <updated>2021-04-23T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
         </author>
     </entry>
 </feed>

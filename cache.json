@@ -549,15 +549,6 @@
           "publishedOn": "2021-04-26T11:00:00.000Z",
           "wordCount": 3279,
           "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
-          "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "publishedOn": "2021-04-23T08:30:00.000Z",
-          "wordCount": 2430,
-          "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
         }
       ]
     },
@@ -566,6 +557,15 @@
       "feedUrl": "http://feeds.feedburner.com/webdesignernews",
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
+        {
+          "id": "https://www.shopify.com/blog/challenges-of-entrepreneurship",
+          "author": null,
+          "description": "https://www.shopify.com/blog/challenges-of-entrepreneurship",
+          "link": "http://www.webdesignernews.com/external/five-realities-that-sum-up-the-struggles-of-entrepreneurship-and-how-to-overcome-them",
+          "publishedOn": "2021-05-22T20:34:00.000Z",
+          "wordCount": 3161,
+          "title": "Five Realities That Sum Up The Struggles of Entrepreneurship-And How to Overcome Them"
+        },
         {
           "id": "https://design.org/how-stress-and-worry-can-fuel-creativity/",
           "author": null,
@@ -617,7 +617,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/poll-will-you-adopt-googles-material-you/",
           "link": "http://www.webdesignernews.com/external/poll-will-you-adopt-google-s-material-you",
           "publishedOn": "2021-05-22T14:05:49.000Z",
-          "wordCount": 643,
+          "wordCount": 644,
           "title": "Poll: Will You Adopt Google?s Material You?"
         },
         {
@@ -736,15 +736,6 @@
           "publishedOn": "2021-05-21T11:12:03.000Z",
           "wordCount": 1740,
           "title": "How to Run WordPress as a Headless CMS With Next.js (In 3 Steps)"
-        },
-        {
-          "id": "https://csshint.com/bootstrap-weather/",
-          "author": null,
-          "description": "https://csshint.com/bootstrap-weather/",
-          "link": "http://www.webdesignernews.com/external/10-bootstrap-weather-examples",
-          "publishedOn": "2021-05-20T23:58:00.000Z",
-          "wordCount": 469,
-          "title": "10 Bootstrap Weather Examples"
         }
       ]
     }
