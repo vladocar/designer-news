@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-22T12:00:36.823Z</id>
+    <id>urn:2021-05-22T13:18:19.084Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T12:00:36.823Z</updated>
+    <updated>2021-05-22T13:18:19.084Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Show DN: Figma design kit for Tailwind CSS]]></title>
+        <id>https://www.designernews.co/stories/115617-show-dn-figma-design-kit-for-tailwind-css</id>
+        <link href="https://www.designernews.co/stories/115617-show-dn-figma-design-kit-for-tailwind-css"/>
+        <updated>2021-05-22T13:05:33.000Z</updated>
+        <summary type="html"><![CDATA[https://tailwind-figma.com/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Ways to Write Elegant JavaScript Code]]></title>
+        <id>https://www.designernews.co/stories/115616-3-ways-to-write-elegant-javascript-code</id>
+        <link href="https://www.designernews.co/stories/115616-3-ways-to-write-elegant-javascript-code"/>
+        <updated>2021-05-22T12:25:26.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/3-ways-to-write-elegant-javascript-code.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Complete guide on how to create an app like Bet365]]></title>
         <id>https://www.designernews.co/stories/115607-complete-guide-on-how-to-create-an-app-like-bet365</id>
@@ -442,16 +462,6 @@ You can share your explorations on [Instagram] (https://www.instagram.com/type_g
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Best Nutrition WordPress Themes for Real Transformation]]></title>
-        <id>https://www.designernews.co/stories/115520-5-best-nutrition-wordpress-themes-for-real-transformation</id>
-        <link href="https://www.designernews.co/stories/115520-5-best-nutrition-wordpress-themes-for-real-transformation"/>
-        <updated>2021-05-18T13:09:07.000Z</updated>
-        <summary type="html"><![CDATA[https://wpklik.com/wordpress-themes/nutrition-wordpress-themes/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The ULTIMATE Figma UI Kit]]></title>
         <id>https://www.designernews.co/stories/115514-the-ultimate-figma-ui-kit</id>
         <link href="https://www.designernews.co/stories/115514-the-ultimate-figma-ui-kit"/>
@@ -497,16 +507,6 @@ You can share your explorations on [Instagram] (https://www.instagram.com/type_g
         <link href="https://www.designernews.co/stories/115509-best-books-for-product-designer-in-2021"/>
         <updated>2021-05-18T07:33:32.000Z</updated>
         <summary type="html"><![CDATA[https://blog.plantapp.io/post/best-books-for-product-designer-in-20211]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Download free hi-res public domain paintings, posters and illustrations]]></title>
-        <id>https://www.designernews.co/stories/115506-download-free-hires-public-domain-paintings-posters-and-illustrations</id>
-        <link href="https://www.designernews.co/stories/115506-download-free-hires-public-domain-paintings-posters-and-illustrations"/>
-        <updated>2021-05-18T06:44:09.000Z</updated>
-        <summary type="html"><![CDATA[https://www.artvee.com/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
