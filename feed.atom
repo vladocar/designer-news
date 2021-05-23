@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-23T16:10:12.109Z</id>
+    <id>urn:2021-05-23T17:35:19.083Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T16:10:12.109Z</updated>
+    <updated>2021-05-23T17:35:19.083Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Best Things for Everything]]></title>
+        <id>https://www.awwwards.com/sites/best-things-for-everything</id>
+        <link href="http://www.webdesignernews.com/external/best-things-for-everything"/>
+        <updated>2021-05-23T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.awwwards.com/sites/best-things-for-everything]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-School - 500+ free courses from the web for you to start learning]]></title>
+        <id>https://www.selfschool.me/</id>
+        <link href="http://www.webdesignernews.com/external/self-school-500-free-courses-from-the-web-for-you-to-start-learning"/>
+        <updated>2021-05-23T16:57:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.selfschool.me/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add Remove Input Fields Dynamically With Jquery]]></title>
+        <id>https://www.designernews.co/stories/115624-add-remove-input-fields-dynamically-with-jquery</id>
+        <link href="https://www.designernews.co/stories/115624-add-remove-input-fields-dynamically-with-jquery"/>
+        <updated>2021-05-23T16:55:00.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2015/06/addremove-input-fields-dynamically-with.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Read and write json file with php and mysql]]></title>
+        <id>https://www.designernews.co/stories/115623-read-and-write-json-file-with-php-and-mysql</id>
+        <link href="https://www.designernews.co/stories/115623-read-and-write-json-file-with-php-and-mysql"/>
+        <updated>2021-05-23T16:52:57.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2019/05/read-and-write-json-file-with-php-and.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DaisyUI - Free UI components plugin for Tailwind CSS]]></title>
         <id>https://daisyui.com/</id>
@@ -197,16 +237,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comet - Open API Editor for nerds]]></title>
-        <id>https://comet.chilllab.io/</id>
-        <link href="http://www.webdesignernews.com/external/comet-open-api-editor-for-nerds"/>
-        <updated>2021-05-22T13:57:40.000Z</updated>
-        <summary type="html"><![CDATA[https://comet.chilllab.io/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show DN: Figma design kit for Tailwind CSS]]></title>
         <id>https://www.designernews.co/stories/115617-show-dn-figma-design-kit-for-tailwind-css</id>
         <link href="https://www.designernews.co/stories/115617-show-dn-figma-design-kit-for-tailwind-css"/>
@@ -234,16 +264,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <summary type="html"><![CDATA[https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recast by Amplication - Transform your Excel to a TypeScript Node.js app]]></title>
-        <id>https://recast.amplication.com/</id>
-        <link href="http://www.webdesignernews.com/external/recast-by-amplication-transform-your-excel-to-a-typescript-node-js-app"/>
-        <updated>2021-05-21T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[https://recast.amplication.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -479,16 +499,6 @@ Feel free to send any kind of feedback.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The ULTIMATE Figma UI Kit]]></title>
-        <id>https://www.designernews.co/stories/115514-the-ultimate-figma-ui-kit</id>
-        <link href="https://www.designernews.co/stories/115514-the-ultimate-figma-ui-kit"/>
-        <updated>2021-05-18T10:57:11.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=mTAupMv-3t8]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
         <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
         <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
@@ -504,16 +514,6 @@ Feel free to send any kind of feedback.
         <link href="https://www.designernews.co/stories/115513-looking-for-uipath-development-services-get-the-best-uipath-services-in-usa"/>
         <updated>2021-05-18T09:46:11.000Z</updated>
         <summary type="html"><![CDATA[https://www.zenesys.com/rpa-services/uipath]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Lottie Resources for Designers and Developers]]></title>
-        <id>https://www.designernews.co/stories/115510-best-lottie-resources-for-designers-and-developers</id>
-        <link href="https://www.designernews.co/stories/115510-best-lottie-resources-for-designers-and-developers"/>
-        <updated>2021-05-18T07:52:39.000Z</updated>
-        <summary type="html"><![CDATA[https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>

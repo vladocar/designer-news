@@ -103,6 +103,24 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115624-add-remove-input-fields-dynamically-with-jquery",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2015/06/addremove-input-fields-dynamically-with.html",
+          "link": "https://www.designernews.co/stories/115624-add-remove-input-fields-dynamically-with-jquery",
+          "publishedOn": "2021-05-23T16:55:00.000Z",
+          "wordCount": 162,
+          "title": "Add Remove Input Fields Dynamically With Jquery"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115623-read-and-write-json-file-with-php-and-mysql",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2019/05/read-and-write-json-file-with-php-and.html",
+          "link": "https://www.designernews.co/stories/115623-read-and-write-json-file-with-php-and-mysql",
+          "publishedOn": "2021-05-23T16:52:57.000Z",
+          "wordCount": 166,
+          "title": "Read and write json file with php and mysql"
+        },
+        {
           "id": "https://www.designernews.co/stories/115617-show-dn-figma-design-kit-for-tailwind-css",
           "author": null,
           "description": "https://tailwind-figma.com/",
@@ -292,15 +310,6 @@
           "title": "Best keyboards for programming/designing in 2021"
         },
         {
-          "id": "https://www.designernews.co/stories/115514-the-ultimate-figma-ui-kit",
-          "author": null,
-          "description": "https://www.youtube.com/watch?v=mTAupMv-3t8",
-          "link": "https://www.designernews.co/stories/115514-the-ultimate-figma-ui-kit",
-          "publishedOn": "2021-05-18T10:57:11.000Z",
-          "wordCount": 159,
-          "title": "The ULTIMATE Figma UI Kit"
-        },
-        {
           "id": "https://www.designernews.co/stories/115513-looking-for-uipath-development-services-get-the-best-uipath-services-in-usa",
           "author": null,
           "description": "https://www.zenesys.com/rpa-services/uipath",
@@ -308,15 +317,6 @@
           "publishedOn": "2021-05-18T09:46:11.000Z",
           "wordCount": 173,
           "title": "Looking for UiPath Development Services? Get the Best Uipath Services in USA"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115510-best-lottie-resources-for-designers-and-developers",
-          "author": null,
-          "description": "https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/",
-          "link": "https://www.designernews.co/stories/115510-best-lottie-resources-for-designers-and-developers",
-          "publishedOn": "2021-05-18T07:52:39.000Z",
-          "wordCount": 162,
-          "title": "Best Lottie Resources for Designers and Developers"
         },
         {
           "id": "https://www.designernews.co/stories/115509-best-books-for-product-designer-in-2021",
@@ -558,6 +558,24 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.awwwards.com/sites/best-things-for-everything",
+          "author": null,
+          "description": "https://www.awwwards.com/sites/best-things-for-everything",
+          "link": "http://www.webdesignernews.com/external/best-things-for-everything",
+          "publishedOn": "2021-05-23T17:15:00.000Z",
+          "wordCount": 812,
+          "title": "Best Things for Everything"
+        },
+        {
+          "id": "https://www.selfschool.me/",
+          "author": null,
+          "description": "https://www.selfschool.me/",
+          "link": "http://www.webdesignernews.com/external/self-school-500-free-courses-from-the-web-for-you-to-start-learning",
+          "publishedOn": "2021-05-23T16:57:00.000Z",
+          "wordCount": 320,
+          "title": "Self-School - 500+ free courses from the web for you to start learning"
+        },
+        {
           "id": "https://daisyui.com/",
           "author": null,
           "description": "https://daisyui.com/",
@@ -698,7 +716,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/poll-will-you-adopt-googles-material-you/",
           "link": "http://www.webdesignernews.com/external/poll-will-you-adopt-google-s-material-you",
           "publishedOn": "2021-05-22T14:05:49.000Z",
-          "wordCount": 640,
+          "wordCount": 662,
           "title": "Poll: Will You Adopt Google?s Material You?"
         },
         {
@@ -718,24 +736,6 @@
           "publishedOn": "2021-05-22T13:58:26.000Z",
           "wordCount": 9398,
           "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
-        },
-        {
-          "id": "https://comet.chilllab.io/",
-          "author": null,
-          "description": "https://comet.chilllab.io/",
-          "link": "http://www.webdesignernews.com/external/comet-open-api-editor-for-nerds",
-          "publishedOn": "2021-05-22T13:57:40.000Z",
-          "wordCount": 3,
-          "title": "Comet - Open API Editor for nerds"
-        },
-        {
-          "id": "https://recast.amplication.com/",
-          "author": null,
-          "description": "https://recast.amplication.com/",
-          "link": "http://www.webdesignernews.com/external/recast-by-amplication-transform-your-excel-to-a-typescript-node-js-app",
-          "publishedOn": "2021-05-21T21:30:00.000Z",
-          "wordCount": 183,
-          "title": "Recast by Amplication - Transform your Excel to a TypeScript Node.js app"
         }
       ]
     }
