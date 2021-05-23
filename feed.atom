@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-23T05:18:34.914Z</id>
+    <id>urn:2021-05-23T06:04:00.444Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T05:18:34.914Z</updated>
-    <generator>osmosfeed 1.8.0</generator>
+    <updated>2021-05-23T06:04:00.444Z</updated>
+    <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[10 Best Premium Canva Templates for Sale]]></title>
