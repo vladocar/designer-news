@@ -6,6 +6,15 @@
       "siteUrl": "https://www.designinspiration.info",
       "articles": [
         {
+          "id": "https://www.designinspiration.info/?p=2633",
+          "author": "Editorial Staff",
+          "description": "Looking for premium Canva Templates for your next project? We bring you a collection of the best canva templates for instagram, social kit and other.. Canva is a design platform that allows non-designer to create great designs in a matter of minutes. As a result, Canva allows you to create\nThe post 10 Best Premium Canva Templates for Sale appeared first on Design Inspiration.",
+          "link": "https://www.designinspiration.info/best-premium-canva-templates-for-sale/",
+          "publishedOn": "2021-05-22T23:28:50.000Z",
+          "wordCount": 1312,
+          "title": "10 Best Premium Canva Templates for Sale"
+        },
+        {
           "id": "https://www.designinspiration.info/?p=2588",
           "author": "Editorial Staff",
           "description": "Swashes are a set of decorative, calligraphic “outlines” added to type. Fonts with swashes are more decorative than normal fonts. A swash is a flourish character added to the beginning, inside, or end of a letter. They are used to add a touch of artfulness to otherwise ordinary designs. In\nThe post 24 Best Fonts with Swashes appeared first on Design Inspiration.",
@@ -85,15 +94,6 @@
           "publishedOn": "2021-04-29T22:07:15.000Z",
           "wordCount": 1447,
           "title": "18 Best Coffee Fonts for Cool Designs"
-        },
-        {
-          "id": "https://www.designinspiration.info/?p=2340",
-          "author": "Editorial Staff",
-          "description": "We selected the best paper cutout fonts that are really creative, inventive and high-quality. Not only they look great, but they also contain alternative characters. Paper cut-out fonts are growing in popularity and we are quite sure that some of you created quite a few papercraft designs based on it.\nThe post 20 Best Paper Cut Out Fonts appeared first on Design Inspiration.",
-          "link": "https://www.designinspiration.info/paper-cut-out-fonts/",
-          "publishedOn": "2021-04-28T23:55:06.000Z",
-          "wordCount": 2032,
-          "title": "20 Best Paper Cut Out Fonts"
         }
       ]
     },
@@ -558,6 +558,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://code.tutsplus.com/tutorials/how-to-get-the-query-string-in-javascript--cms-37024",
+          "author": null,
+          "description": "https://code.tutsplus.com/tutorials/how-to-get-the-query-string-in-javascript--cms-37024",
+          "link": "http://www.webdesignernews.com/external/how-to-get-the-query-string-in-javascript",
+          "publishedOn": "2021-05-22T23:06:00.000Z",
+          "wordCount": 1444,
+          "title": "How to Get the Query String in JavaScript"
+        },
+        {
           "id": "https://qodeinteractive.com/magazine/stunning-examples-of-movie-industry-websites/",
           "author": null,
           "description": "https://qodeinteractive.com/magazine/stunning-examples-of-movie-industry-websites/",
@@ -635,7 +644,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/poll-will-you-adopt-googles-material-you/",
           "link": "http://www.webdesignernews.com/external/poll-will-you-adopt-google-s-material-you",
           "publishedOn": "2021-05-22T14:05:49.000Z",
-          "wordCount": 654,
+          "wordCount": 630,
           "title": "Poll: Will You Adopt Google?s Material You?"
         },
         {
@@ -727,15 +736,6 @@
           "publishedOn": "2021-05-21T11:14:31.000Z",
           "wordCount": 1529,
           "title": "3 Ways to Integrate Disqus Comments with Ghost"
-        },
-        {
-          "id": "https://imjustcreative.com/a-series-of-monochrome-logo-marks-designed-by-the-logo-smith/2021/05/20",
-          "author": null,
-          "description": "https://imjustcreative.com/a-series-of-monochrome-logo-marks-designed-by-the-logo-smith/2021/05/20",
-          "link": "http://www.webdesignernews.com/external/a-series-of-monochrome-logo-marks-designed-by-the-logo-smith",
-          "publishedOn": "2021-05-21T11:13:14.000Z",
-          "wordCount": 1088,
-          "title": "A Series of Monochrome Logo Marks Designed by The Logo Smith"
         }
       ]
     }
