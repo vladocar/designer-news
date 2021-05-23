@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-23T20:00:42.123Z</id>
+    <id>urn:2021-05-23T21:00:43.974Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T20:00:42.123Z</updated>
+    <updated>2021-05-23T21:00:43.974Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DOOM Captcha - Captchas don't have to be boring]]></title>
+        <id>https://vivirenremoto.github.io/doomcaptcha/</id>
+        <link href="http://www.webdesignernews.com/external/doom-captcha-captchas-don-t-have-to-be-boring"/>
+        <updated>2021-05-23T20:48:00.000Z</updated>
+        <summary type="html"><![CDATA[https://vivirenremoto.github.io/doomcaptcha/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paradigm-shifting concepts in product design]]></title>
         <id>https://uxdesign.cc/paradigm-shifting-concepts-in-product-design-b7d0947b3980</id>
@@ -222,16 +232,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <link href="http://www.webdesignernews.com/external/poll-will-you-adopt-google-s-material-you"/>
         <updated>2021-05-22T14:05:49.000Z</updated>
         <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/poll-will-you-adopt-googles-material-you/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svelte for the Experienced React Dev]]></title>
-        <id>https://css-tricks.com/svelte-for-the-experienced-react-dev/</id>
-        <link href="http://www.webdesignernews.com/external/svelte-for-the-experienced-react-dev"/>
-        <updated>2021-05-22T13:59:18.000Z</updated>
-        <summary type="html"><![CDATA[https://css-tricks.com/svelte-for-the-experienced-react-dev/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
