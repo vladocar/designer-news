@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-23T22:00:46.011Z</id>
+    <id>urn:2021-05-23T23:00:48.845Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T22:00:46.011Z</updated>
+    <updated>2021-05-23T23:00:48.845Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Creative Ways to Choose More Inclusive Imagery for Websites]]></title>
+        <id>https://mediatemple.net/blog/design-creative/creative-ways-to-choose-more-inclusive-imagery-for-websites/</id>
+        <link href="http://www.webdesignernews.com/external/creative-ways-to-choose-more-inclusive-imagery-for-websites"/>
+        <updated>2021-05-23T22:48:03.000Z</updated>
+        <summary type="html"><![CDATA[https://mediatemple.net/blog/design-creative/creative-ways-to-choose-more-inclusive-imagery-for-websites/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clubhouse for Android is now available worldwide]]></title>
+        <id>https://www.androidpolice.com/2021/05/21/the-clubhouse-android-app-is-finally-available-in-the-play-store/</id>
+        <link href="http://www.webdesignernews.com/external/clubhouse-for-android-is-now-available-worldwide"/>
+        <updated>2021-05-23T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.androidpolice.com/2021/05/21/the-clubhouse-android-app-is-finally-available-in-the-play-store/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Video uploads now available across GitHub]]></title>
         <id>https://github.blog/2021-05-13-video-uploads-available-github/</id>
@@ -212,26 +232,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <link href="http://www.webdesignernews.com/external/accessibility-is-hard-it-s-also-your-job"/>
         <updated>2021-05-22T16:47:00.000Z</updated>
         <summary type="html"><![CDATA[https://gomakethings.com/accessibility-is-hard.-its-also-your-job./]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FromNotion - Beautiful one-page sites on Notion in minutes]]></title>
-        <id>https://fromnotion.com/</id>
-        <link href="http://www.webdesignernews.com/external/fromnotion-beautiful-one-page-sites-on-notion-in-minutes"/>
-        <updated>2021-05-22T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[https://fromnotion.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple illustrations - Awesome vector illustrations for your next project]]></title>
-        <id>https://www.getillustrations.com/illustration-pack/download-simple-colorful-outline-illustrations</id>
-        <link href="http://www.webdesignernews.com/external/simple-illustrations-awesome-vector-illustrations-for-your-next-project"/>
-        <updated>2021-05-22T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.getillustrations.com/illustration-pack/download-simple-colorful-outline-illustrations]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
