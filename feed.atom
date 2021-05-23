@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-23T13:20:03.660Z</id>
+    <id>urn:2021-05-23T14:00:40.861Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T13:20:03.660Z</updated>
+    <updated>2021-05-23T14:00:40.861Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[7 Elements of a Highly Usable Landing Page]]></title>
+        <id>https://designshack.net/articles/ux-design/elements-of-a-highly-usable-landing-page/</id>
+        <link href="http://www.webdesignernews.com/external/7-elements-of-a-highly-usable-landing-page"/>
+        <updated>2021-05-23T13:52:44.000Z</updated>
+        <summary type="html"><![CDATA[https://designshack.net/articles/ux-design/elements-of-a-highly-usable-landing-page/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for UI Design Colors and Color Matching Techniques]]></title>
+        <id>https://www.vandelaydesign.com/ui-design-colors/</id>
+        <link href="http://www.webdesignernews.com/external/tips-for-ui-design-colors-and-color-matching-techniques"/>
+        <updated>2021-05-23T13:51:46.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vandelaydesign.com/ui-design-colors/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sublime Text 4 - Text editing, done right]]></title>
+        <id>https://www.sublimetext.com/</id>
+        <link href="http://www.webdesignernews.com/external/sublime-text-4-text-editing-done-right"/>
+        <updated>2021-05-23T13:51:36.000Z</updated>
+        <summary type="html"><![CDATA[https://www.sublimetext.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Managed Hosting vs Unmanaged: 11 Key Differences]]></title>
+        <id>https://torquemag.io/2021/05/wordpress-managed-hosting-vs-unmanaged/</id>
+        <link href="http://www.webdesignernews.com/external/wordpress-managed-hosting-vs-unmanaged-11-key-differences"/>
+        <updated>2021-05-23T13:16:00.000Z</updated>
+        <summary type="html"><![CDATA[https://torquemag.io/2021/05/wordpress-managed-hosting-vs-unmanaged/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Best Premium Canva Templates for Sale]]></title>
         <id>https://www.designinspiration.info/?p=2633</id>
@@ -207,16 +247,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can We Create a ?Resize Hack? With Container Queries?]]></title>
-        <id>https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/</id>
-        <link href="http://www.webdesignernews.com/external/can-we-create-a-resize-hack-with-container-queries"/>
-        <updated>2021-05-21T16:41:00.000Z</updated>
-        <summary type="html"><![CDATA[https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TOP 7 Cheapest Stuff That Can Help You While You are Coding]]></title>
         <id>https://www.designernews.co/stories/115603-top-7-cheapest-stuff-that-can-help-you-while-you-are-coding</id>
         <link href="https://www.designernews.co/stories/115603-top-7-cheapest-stuff-that-can-help-you-while-you-are-coding"/>
@@ -227,26 +257,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fit-content and fit-content()]]></title>
-        <id>https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html</id>
-        <link href="http://www.webdesignernews.com/external/fit-content-and-fit-content"/>
-        <updated>2021-05-21T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better in black: Rethinking our most important buttons]]></title>
-        <id>https://spotify.design/article/better-in-black-rethinking-our-most-important-buttons</id>
-        <link href="http://www.webdesignernews.com/external/better-in-black-rethinking-our-most-important-buttons"/>
-        <updated>2021-05-21T14:26:00.000Z</updated>
-        <summary type="html"><![CDATA[https://spotify.design/article/better-in-black-rethinking-our-most-important-buttons]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building A Rich Text Editor (WYSIWYG) From Scratch]]></title>
         <id>https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</id>
         <link href="https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/"/>
@@ -254,16 +264,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <summary type="html"><![CDATA[Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Ways to Integrate Disqus Comments with Ghost]]></title>
-        <id>https://t2themes.com/blog/3-ways-to-integrate-disqus-comments-with-ghost/</id>
-        <link href="http://www.webdesignernews.com/external/3-ways-to-integrate-disqus-comments-with-ghost"/>
-        <updated>2021-05-21T11:14:31.000Z</updated>
-        <summary type="html"><![CDATA[https://t2themes.com/blog/3-ways-to-integrate-disqus-comments-with-ghost/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
