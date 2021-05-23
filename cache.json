@@ -558,6 +558,24 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://daisyui.com/",
+          "author": null,
+          "description": "https://daisyui.com/",
+          "link": "http://www.webdesignernews.com/external/daisyui-free-ui-components-plugin-for-tailwind-css",
+          "publishedOn": "2021-05-23T15:47:00.000Z",
+          "wordCount": 1283,
+          "title": "DaisyUI - Free UI components plugin for Tailwind CSS"
+        },
+        {
+          "id": "https://cloudfour.com/thinks/faster-integration-with-web-components/",
+          "author": null,
+          "description": "https://cloudfour.com/thinks/faster-integration-with-web-components/",
+          "link": "http://www.webdesignernews.com/external/faster-integration-with-web-components",
+          "publishedOn": "2021-05-23T14:56:00.000Z",
+          "wordCount": 840,
+          "title": "Faster Integration with Web Components"
+        },
+        {
           "id": "https://designshack.net/articles/ux-design/elements-of-a-highly-usable-landing-page/",
           "author": null,
           "description": "https://designshack.net/articles/ux-design/elements-of-a-highly-usable-landing-page/",
@@ -680,7 +698,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/poll-will-you-adopt-googles-material-you/",
           "link": "http://www.webdesignernews.com/external/poll-will-you-adopt-google-s-material-you",
           "publishedOn": "2021-05-22T14:05:49.000Z",
-          "wordCount": 648,
+          "wordCount": 640,
           "title": "Poll: Will You Adopt Google?s Material You?"
         },
         {
@@ -718,24 +736,6 @@
           "publishedOn": "2021-05-21T21:30:00.000Z",
           "wordCount": 183,
           "title": "Recast by Amplication - Transform your Excel to a TypeScript Node.js app"
-        },
-        {
-          "id": "https://www.imagine.ai/",
-          "author": null,
-          "description": "https://www.imagine.ai/",
-          "link": "http://www.webdesignernews.com/external/imagineai-instantly-generate-django-node-code-for-your-backend-app",
-          "publishedOn": "2021-05-21T19:58:00.000Z",
-          "wordCount": 248,
-          "title": "ImagineAI - Instantly generate Django & Node code for your backend app"
-        },
-        {
-          "id": "https://a12989x.github.io/reexjs-cli/",
-          "author": null,
-          "description": "https://a12989x.github.io/reexjs-cli/",
-          "link": "http://www.webdesignernews.com/external/reexjs-cli-a-fast-way-to-build-react-js-and-next-js-applications",
-          "publishedOn": "2021-05-21T18:19:00.000Z",
-          "wordCount": 4,
-          "title": "ReexJs CLI - A fast way to build react.js and next.js applications"
         }
       ]
     }
