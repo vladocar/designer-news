@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-23T04:19:55.214Z</id>
+    <id>urn:2021-05-23T05:18:34.914Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T04:19:55.214Z</updated>
-    <generator>osmosfeed 1.7.2</generator>
+    <updated>2021-05-23T05:18:34.914Z</updated>
+    <generator>osmosfeed 1.8.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[10 Best Premium Canva Templates for Sale]]></title>
@@ -447,7 +447,13 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
 
 You can share your explorations on [Instagram] (https://www.instagram.com/type_grid/) or [Twitter] (https://twitter.com/type_grid) with #typegridexp, so I can share them on Type Grid’s social channels.
 
-*“The grid is like the lines on a football field. You can play a great game in the grid or a lousy game. But the goal is to play …]]></summary>
+*“The grid is like the lines on a football field. You can play a great game in the grid or a lousy game. But the goal is to play a really fine game.”* — Wim Crouwel
+
+
+Feel free to send any kind of feedback.
+
+[Figma Community file]
+(https://www.figma.com/community/file/976523142475935815)]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>

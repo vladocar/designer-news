@@ -267,7 +267,7 @@
         {
           "id": "https://www.designernews.co/stories/115528-type-grid-explore-making-a-new-typeface",
           "author": null,
-          "description": "#Type Grid — Explore making a new typeface\r\n\r\n**Type Grid** is a Figma community file divided into 3 formats: A4, A5 and Letter which includes 3 grids, normal, tall and wide.\r\n\r\nYou can share your explorations on [Instagram] (https://www.instagram.com/type_grid/) or [Twitter] (https://twitter.com/type_grid) with #typegridexp, so I can share them on Type Grid’s social channels.\r\n\r\n*“The grid is like the lines on a football field. You can play a great game in the grid or a lousy game. But the goal is to play …",
+          "description": "#Type Grid — Explore making a new typeface\r\n\r\n**Type Grid** is a Figma community file divided into 3 formats: A4, A5 and Letter which includes 3 grids, normal, tall and wide.\r\n\r\nYou can share your explorations on [Instagram] (https://www.instagram.com/type_grid/) or [Twitter] (https://twitter.com/type_grid) with #typegridexp, so I can share them on Type Grid’s social channels.\r\n\r\n*“The grid is like the lines on a football field. You can play a great game in the grid or a lousy game. But the goal is to play a really fine game.”* — Wim Crouwel\r\n\r\n\r\nFeel free to send any kind of feedback.\r\n\r\n[Figma Community file]\r\n(https://www.figma.com/community/file/976523142475935815)",
           "link": "https://www.designernews.co/stories/115528-type-grid-explore-making-a-new-typeface",
           "publishedOn": "2021-05-18T17:08:27.000Z",
           "wordCount": 263,
@@ -572,7 +572,7 @@
           "description": "https://qodeinteractive.com/magazine/stunning-examples-of-movie-industry-websites/",
           "link": "http://www.webdesignernews.com/external/24-stunning-examples-of-movie-industry-websites",
           "publishedOn": "2021-05-22T22:22:00.000Z",
-          "wordCount": 5455,
+          "wordCount": 5458,
           "title": "24 Stunning Examples of Movie Industry Websites"
         },
         {
@@ -644,7 +644,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/poll-will-you-adopt-googles-material-you/",
           "link": "http://www.webdesignernews.com/external/poll-will-you-adopt-google-s-material-you",
           "publishedOn": "2021-05-22T14:05:49.000Z",
-          "wordCount": 664,
+          "wordCount": 645,
           "title": "Poll: Will You Adopt Google?s Material You?"
         },
         {
@@ -740,5 +740,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.2"
+  "cliVersion": "1.8.0"
 }
