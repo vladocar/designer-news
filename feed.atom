@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-24T12:01:11.303Z</id>
+    <id>urn:2021-05-24T13:23:57.526Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T12:01:11.303Z</updated>
+    <updated>2021-05-24T13:23:57.526Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Creating an Interactive/Functional Dropdown in Figma]]></title>
+        <id>https://www.designernews.co/stories/115636-creating-an-interactivefunctional-dropdown-in-figma</id>
+        <link href="https://www.designernews.co/stories/115636-creating-an-interactivefunctional-dropdown-in-figma"/>
+        <updated>2021-05-24T12:13:10.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=5YEw7O1KgNQ]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
         <id>https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</id>
@@ -515,16 +525,6 @@ Feel free to send any kind of feedback.
 
 [Figma Community file]
 (https://www.figma.com/community/file/976523142475935815)]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best keyboards for programming/designing in 2021]]></title>
-        <id>https://www.designernews.co/stories/115521-best-keyboards-for-programmingdesigning-in-2021</id>
-        <link href="https://www.designernews.co/stories/115521-best-keyboards-for-programmingdesigning-in-2021"/>
-        <updated>2021-05-18T13:27:02.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>

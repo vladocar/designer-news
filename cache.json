@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115636-creating-an-interactivefunctional-dropdown-in-figma",
+          "author": null,
+          "description": "https://www.youtube.com/watch?v=5YEw7O1KgNQ",
+          "link": "https://www.designernews.co/stories/115636-creating-an-interactivefunctional-dropdown-in-figma",
+          "publishedOn": "2021-05-24T12:13:10.000Z",
+          "wordCount": 161,
+          "title": "Creating an Interactive/Functional Dropdown in Figma"
+        },
+        {
           "id": "https://www.designernews.co/stories/115634-looking-for-blueprism-development-services-get-the-best-blueprism-services-in-usa",
           "author": null,
           "description": "https://www.zenesys.com/rpa-services/blueprism",
@@ -310,15 +319,6 @@
           "title": "Type Grid — Explore making a new typeface"
         },
         {
-          "id": "https://www.designernews.co/stories/115521-best-keyboards-for-programmingdesigning-in-2021",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html",
-          "link": "https://www.designernews.co/stories/115521-best-keyboards-for-programmingdesigning-in-2021",
-          "publishedOn": "2021-05-18T13:27:02.000Z",
-          "wordCount": 170,
-          "title": "Best keyboards for programming/designing in 2021"
-        },
-        {
           "id": "https://www.designernews.co/stories/115509-best-books-for-product-designer-in-2021",
           "author": null,
           "description": "https://blog.plantapp.io/post/best-books-for-product-designer-in-20211",
@@ -340,7 +340,7 @@
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2694,
+          "wordCount": 2665,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies"
         },
         {
@@ -599,7 +599,7 @@
           "description": "https://vivirenremoto.github.io/doomcaptcha/",
           "link": "http://www.webdesignernews.com/external/doom-captcha-captchas-don-t-have-to-be-boring",
           "publishedOn": "2021-05-23T20:48:00.000Z",
-          "wordCount": 311,
+          "wordCount": 318,
           "title": "DOOM Captcha - Captchas don't have to be boring"
         },
         {
@@ -698,7 +698,7 @@
           "description": "https://qodeinteractive.com/magazine/stunning-examples-of-movie-industry-websites/",
           "link": "http://www.webdesignernews.com/external/24-stunning-examples-of-movie-industry-websites",
           "publishedOn": "2021-05-22T22:22:00.000Z",
-          "wordCount": 5454,
+          "wordCount": 5451,
           "title": "24 Stunning Examples of Movie Industry Websites"
         },
         {
