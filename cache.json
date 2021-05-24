@@ -567,6 +567,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
+          "author": null,
+          "description": "https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
+          "link": "http://www.webdesignernews.com/external/css-container-queries-use-cases-and-migration-strategies",
+          "publishedOn": "2021-05-24T20:29:00.000Z",
+          "wordCount": 2665,
+          "title": "CSS Container Queries: Use-Cases And Migration Strategies"
+        },
+        {
           "id": "https://potion.so/",
           "author": null,
           "description": "https://potion.so/",
@@ -590,7 +599,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/20-best-new-websites-may-2021/",
           "link": "http://www.webdesignernews.com/external/20-best-new-websites-may-2021",
           "publishedOn": "2021-05-24T15:26:45.000Z",
-          "wordCount": 904,
+          "wordCount": 915,
           "title": "20 Best New Websites, May 2021"
         },
         {
@@ -635,7 +644,7 @@
           "description": "https://www.androidpolice.com/2021/05/21/the-clubhouse-android-app-is-finally-available-in-the-play-store/",
           "link": "http://www.webdesignernews.com/external/clubhouse-for-android-is-now-available-worldwide",
           "publishedOn": "2021-05-23T22:05:00.000Z",
-          "wordCount": 1949,
+          "wordCount": 1945,
           "title": "Clubhouse for Android is now available worldwide"
         },
         {
@@ -736,15 +745,6 @@
           "publishedOn": "2021-05-23T13:16:00.000Z",
           "wordCount": 2168,
           "title": "WordPress Managed Hosting vs Unmanaged: 11 Key Differences"
-        },
-        {
-          "id": "https://code.tutsplus.com/tutorials/how-to-get-the-query-string-in-javascript--cms-37024",
-          "author": null,
-          "description": "https://code.tutsplus.com/tutorials/how-to-get-the-query-string-in-javascript--cms-37024",
-          "link": "http://www.webdesignernews.com/external/how-to-get-the-query-string-in-javascript",
-          "publishedOn": "2021-05-22T23:06:00.000Z",
-          "wordCount": 1444,
-          "title": "How to Get the Query String in JavaScript"
         }
       ]
     }
