@@ -567,6 +567,24 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.itsnicethat.com/articles/marie-boulanger-graphic-design-240521",
+          "author": null,
+          "description": "https://www.itsnicethat.com/articles/marie-boulanger-graphic-design-240521",
+          "link": "http://www.webdesignernews.com/external/marie-boulanger-s-type-design-practice-balances-hypersensitivity-and-analytical-thinking",
+          "publishedOn": "2021-05-24T22:41:00.000Z",
+          "wordCount": 1404,
+          "title": "Marie Boulanger?s type design practice balances hypersensitivity and analytical thinking"
+        },
+        {
+          "id": "https://www.getforma.co/",
+          "author": null,
+          "description": "https://www.getforma.co/",
+          "link": "http://www.webdesignernews.com/external/forma-no-code-platform-to-build-customised-worfklows",
+          "publishedOn": "2021-05-24T22:07:48.000Z",
+          "wordCount": 780,
+          "title": "Forma - No-Code platform to build customised worfklows"
+        },
+        {
           "id": "https://www.quicksprout.com/how-to-create-a-sales-plan/",
           "author": null,
           "description": "https://www.quicksprout.com/how-to-create-a-sales-plan/",
@@ -608,7 +626,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/20-best-new-websites-may-2021/",
           "link": "http://www.webdesignernews.com/external/20-best-new-websites-may-2021",
           "publishedOn": "2021-05-24T15:26:45.000Z",
-          "wordCount": 939,
+          "wordCount": 921,
           "title": "20 Best New Websites, May 2021"
         },
         {
@@ -727,24 +745,6 @@
           "publishedOn": "2021-05-23T13:52:44.000Z",
           "wordCount": 1515,
           "title": "7 Elements of a Highly Usable Landing Page"
-        },
-        {
-          "id": "https://www.vandelaydesign.com/ui-design-colors/",
-          "author": null,
-          "description": "https://www.vandelaydesign.com/ui-design-colors/",
-          "link": "http://www.webdesignernews.com/external/tips-for-ui-design-colors-and-color-matching-techniques",
-          "publishedOn": "2021-05-23T13:51:46.000Z",
-          "wordCount": 2404,
-          "title": "Tips for UI Design Colors and Color Matching Techniques"
-        },
-        {
-          "id": "https://www.sublimetext.com/",
-          "author": null,
-          "description": "https://www.sublimetext.com/",
-          "link": "http://www.webdesignernews.com/external/sublime-text-4-text-editing-done-right",
-          "publishedOn": "2021-05-23T13:51:36.000Z",
-          "wordCount": 582,
-          "title": "Sublime Text 4 - Text editing, done right"
         }
       ]
     }

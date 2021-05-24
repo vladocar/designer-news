@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-24T22:02:13.154Z</id>
+    <id>urn:2021-05-24T23:00:58.291Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T22:02:13.154Z</updated>
+    <updated>2021-05-24T23:00:58.291Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Marie Boulanger?s type design practice balances hypersensitivity and analytical thinking]]></title>
+        <id>https://www.itsnicethat.com/articles/marie-boulanger-graphic-design-240521</id>
+        <link href="http://www.webdesignernews.com/external/marie-boulanger-s-type-design-practice-balances-hypersensitivity-and-analytical-thinking"/>
+        <updated>2021-05-24T22:41:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/marie-boulanger-graphic-design-240521]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forma - No-Code platform to build customised worfklows]]></title>
+        <id>https://www.getforma.co/</id>
+        <link href="http://www.webdesignernews.com/external/forma-no-code-platform-to-build-customised-worfklows"/>
+        <updated>2021-05-24T22:07:48.000Z</updated>
+        <summary type="html"><![CDATA[https://www.getforma.co/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20 Best Japanese Style Fonts]]></title>
         <id>https://www.designinspiration.info/?p=2660</id>
@@ -263,26 +283,6 @@ The post 10 Free Illustrator 3D Stitched Text Effect Styles appeared first on De
         <link href="http://www.webdesignernews.com/external/7-elements-of-a-highly-usable-landing-page"/>
         <updated>2021-05-23T13:52:44.000Z</updated>
         <summary type="html"><![CDATA[https://designshack.net/articles/ux-design/elements-of-a-highly-usable-landing-page/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tips for UI Design Colors and Color Matching Techniques]]></title>
-        <id>https://www.vandelaydesign.com/ui-design-colors/</id>
-        <link href="http://www.webdesignernews.com/external/tips-for-ui-design-colors-and-color-matching-techniques"/>
-        <updated>2021-05-23T13:51:46.000Z</updated>
-        <summary type="html"><![CDATA[https://www.vandelaydesign.com/ui-design-colors/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sublime Text 4 - Text editing, done right]]></title>
-        <id>https://www.sublimetext.com/</id>
-        <link href="http://www.webdesignernews.com/external/sublime-text-4-text-editing-done-right"/>
-        <updated>2021-05-23T13:51:36.000Z</updated>
-        <summary type="html"><![CDATA[https://www.sublimetext.com/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
