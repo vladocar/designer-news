@@ -340,7 +340,7 @@
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2665,
+          "wordCount": 2669,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies"
         },
         {
@@ -567,6 +567,42 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.webdesignerdepot.com/2021/05/20-best-new-websites-may-2021/",
+          "author": null,
+          "description": "https://www.webdesignerdepot.com/2021/05/20-best-new-websites-may-2021/",
+          "link": "http://www.webdesignernews.com/external/20-best-new-websites-may-2021",
+          "publishedOn": "2021-05-24T15:26:45.000Z",
+          "wordCount": 906,
+          "title": "20 Best New Websites, May 2021"
+        },
+        {
+          "id": "https://mxb.dev/blog/container-queries-web-components/",
+          "author": null,
+          "description": "https://mxb.dev/blog/container-queries-web-components/",
+          "link": "http://www.webdesignernews.com/external/container-queries-in-web-components",
+          "publishedOn": "2021-05-24T15:25:56.000Z",
+          "wordCount": 1572,
+          "title": "Container Queries in Web Components"
+        },
+        {
+          "id": "https://ghost.org/blog/creator-economy/",
+          "author": null,
+          "description": "https://ghost.org/blog/creator-economy/",
+          "link": "http://www.webdesignernews.com/external/how-to-get-started-in-the-creator-economy",
+          "publishedOn": "2021-05-24T15:25:06.000Z",
+          "wordCount": 1281,
+          "title": "How to Get Started in the Creator Economy"
+        },
+        {
+          "id": "https://speckyboy.com/css-javascript-code-snippets-celebrating-cats/",
+          "author": null,
+          "description": "https://speckyboy.com/css-javascript-code-snippets-celebrating-cats/",
+          "link": "http://www.webdesignernews.com/external/the-cat-s-meow-8-css-and-javascript-code-snippets-celebrating-our-feline-friends",
+          "publishedOn": "2021-05-24T15:05:25.000Z",
+          "wordCount": 1196,
+          "title": "The Cat?s Meow: 8 CSS and JavaScript Code Snippets Celebrating Our Feline Friends"
+        },
+        {
           "id": "https://mediatemple.net/blog/design-creative/creative-ways-to-choose-more-inclusive-imagery-for-websites/",
           "author": null,
           "description": "https://mediatemple.net/blog/design-creative/creative-ways-to-choose-more-inclusive-imagery-for-websites/",
@@ -709,42 +745,6 @@
           "publishedOn": "2021-05-22T21:26:00.000Z",
           "wordCount": 4139,
           "title": "Create Figma Plugin"
-        },
-        {
-          "id": "https://www.shopify.com/blog/challenges-of-entrepreneurship",
-          "author": null,
-          "description": "https://www.shopify.com/blog/challenges-of-entrepreneurship",
-          "link": "http://www.webdesignernews.com/external/five-realities-that-sum-up-the-struggles-of-entrepreneurship-and-how-to-overcome-them",
-          "publishedOn": "2021-05-22T20:34:00.000Z",
-          "wordCount": 3161,
-          "title": "Five Realities That Sum Up The Struggles of Entrepreneurship-And How to Overcome Them"
-        },
-        {
-          "id": "https://design.org/how-stress-and-worry-can-fuel-creativity/",
-          "author": null,
-          "description": "https://design.org/how-stress-and-worry-can-fuel-creativity/",
-          "link": "http://www.webdesignernews.com/external/how-stress-and-worry-can-fuel-creativity",
-          "publishedOn": "2021-05-22T19:38:00.000Z",
-          "wordCount": 1138,
-          "title": "How Stress and Worry Can Fuel Creativity"
-        },
-        {
-          "id": "https://gumroad.com/l/BdNbt",
-          "author": null,
-          "description": "https://gumroad.com/l/BdNbt",
-          "link": "http://www.webdesignernews.com/external/the-ultimate-notionpedia-a-free-template-to-learn-notion-in-1-page",
-          "publishedOn": "2021-05-22T18:24:00.000Z",
-          "wordCount": 330,
-          "title": "The Ultimate Notionpedia - A free template to learn Notion in 1 page"
-        },
-        {
-          "id": "https://gomakethings.com/accessibility-is-hard.-its-also-your-job./",
-          "author": null,
-          "description": "https://gomakethings.com/accessibility-is-hard.-its-also-your-job./",
-          "link": "http://www.webdesignernews.com/external/accessibility-is-hard-it-s-also-your-job",
-          "publishedOn": "2021-05-22T16:47:00.000Z",
-          "wordCount": 638,
-          "title": "Accessibility is hard. It's also your job"
         }
       ]
     }
