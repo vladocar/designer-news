@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-24T19:25:35.008Z</id>
+    <id>urn:2021-05-24T20:03:00.731Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T19:25:35.008Z</updated>
+    <updated>2021-05-24T20:03:00.731Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Potion - Create custom websites in minutes, all on Notion]]></title>
+        <id>https://potion.so/</id>
+        <link href="http://www.webdesignernews.com/external/potion-create-custom-websites-in-minutes-all-on-notion"/>
+        <updated>2021-05-24T19:34:00.000Z</updated>
+        <summary type="html"><![CDATA[https://potion.so/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[82% of developers get this 3 line CSS quiz wrong]]></title>
         <id>https://lea.verou.me/2021/05/82-of-developers-get-this-3-line-css-quiz-wrong/</id>
@@ -273,16 +283,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <link href="http://www.webdesignernews.com/external/how-to-get-the-query-string-in-javascript"/>
         <updated>2021-05-22T23:06:00.000Z</updated>
         <summary type="html"><![CDATA[https://code.tutsplus.com/tutorials/how-to-get-the-query-string-in-javascript--cms-37024]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24 Stunning Examples of Movie Industry Websites]]></title>
-        <id>https://qodeinteractive.com/magazine/stunning-examples-of-movie-industry-websites/</id>
-        <link href="http://www.webdesignernews.com/external/24-stunning-examples-of-movie-industry-websites"/>
-        <updated>2021-05-22T22:22:00.000Z</updated>
-        <summary type="html"><![CDATA[https://qodeinteractive.com/magazine/stunning-examples-of-movie-industry-websites/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
