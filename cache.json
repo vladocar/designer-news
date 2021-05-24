@@ -6,6 +6,15 @@
       "siteUrl": "https://www.designinspiration.info",
       "articles": [
         {
+          "id": "https://www.designinspiration.info/?p=2651",
+          "author": "Editorial Staff",
+          "description": "We bring you 10 free one click Illustrator Graphics Styles for applying 3D Stitched Text Effect. All text shadow effects can be applied to any text or font in Illustrator and also can be easily customized. The Graphic Stiles can be customized in the Appearance panel (Window > Appearance) and\nThe post 10 Free Illustrator 3D Stitched Text Effect Styles appeared first on Design Inspiration.",
+          "link": "https://www.designinspiration.info/10-free-illustrator-3d-stitched-text-effect-styles/",
+          "publishedOn": "2021-05-24T10:29:41.000Z",
+          "wordCount": 282,
+          "title": "10 Free Illustrator 3D Stitched Text Effect Styles"
+        },
+        {
           "id": "https://www.designinspiration.info/?p=2633",
           "author": "Editorial Staff",
           "description": "Looking for premium Canva Templates for your next project? We bring you a collection of the best canva templates for instagram, social kit and other.. Canva is a design platform that allows non-designer to create great designs in a matter of minutes. As a result, Canva allows you to create\nThe post 10 Best Premium Canva Templates for Sale appeared first on Design Inspiration.",
@@ -85,15 +94,6 @@
           "publishedOn": "2021-04-30T23:02:21.000Z",
           "wordCount": 2184,
           "title": "27 Best Baseball Fonts"
-        },
-        {
-          "id": "https://www.designinspiration.info/?p=2380",
-          "author": "Editorial Staff",
-          "description": "I’m sure everyone loves coffee. Let me introduce our list of best coffee fonts. Discover these amazing fonts and make your designs more attractable. Coffee is of course, one of the most popular topics of conversation. It’s a drink that is sometimes synonymous with relaxing or sociability. For art and\nThe post 18 Best Coffee Fonts for Cool Designs appeared first on Design Inspiration.",
-          "link": "https://www.designinspiration.info/coffee-fonts/",
-          "publishedOn": "2021-04-29T22:07:15.000Z",
-          "wordCount": 1447,
-          "title": "18 Best Coffee Fonts for Cool Designs"
         }
       ]
     },
@@ -102,6 +102,15 @@
       "feedUrl": "http://www.designernews.co/?format=rss",
       "siteUrl": "/",
       "articles": [
+        {
+          "id": "https://www.designernews.co/stories/115633-10-free-illustrator-3d-stitched-text-effects",
+          "author": null,
+          "description": "https://www.designinspiration.info/10-free-illustrator-3d-stitched-text-effect-styles/",
+          "link": "https://www.designernews.co/stories/115633-10-free-illustrator-3d-stitched-text-effects",
+          "publishedOn": "2021-05-24T10:33:17.000Z",
+          "wordCount": 163,
+          "title": "10 Free Illustrator 3D Stitched Text Effects"
+        },
         {
           "id": "https://www.designernews.co/stories/115624-add-remove-input-fields-dynamically-with-jquery",
           "author": null,
@@ -308,15 +317,6 @@
           "publishedOn": "2021-05-18T13:27:02.000Z",
           "wordCount": 170,
           "title": "Best keyboards for programming/designing in 2021"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115513-looking-for-uipath-development-services-get-the-best-uipath-services-in-usa",
-          "author": null,
-          "description": "https://www.zenesys.com/rpa-services/uipath",
-          "link": "https://www.designernews.co/stories/115513-looking-for-uipath-development-services-get-the-best-uipath-services-in-usa",
-          "publishedOn": "2021-05-18T09:46:11.000Z",
-          "wordCount": 174,
-          "title": "Looking for UiPath Development Services? Get the Best Uipath Services in USA"
         },
         {
           "id": "https://www.designernews.co/stories/115509-best-books-for-product-designer-in-2021",
@@ -572,7 +572,7 @@
           "description": "https://www.androidpolice.com/2021/05/21/the-clubhouse-android-app-is-finally-available-in-the-play-store/",
           "link": "http://www.webdesignernews.com/external/clubhouse-for-android-is-now-available-worldwide",
           "publishedOn": "2021-05-23T22:05:00.000Z",
-          "wordCount": 1931,
+          "wordCount": 1935,
           "title": "Clubhouse for Android is now available worldwide"
         },
         {
@@ -689,7 +689,7 @@
           "description": "https://qodeinteractive.com/magazine/stunning-examples-of-movie-industry-websites/",
           "link": "http://www.webdesignernews.com/external/24-stunning-examples-of-movie-industry-websites",
           "publishedOn": "2021-05-22T22:22:00.000Z",
-          "wordCount": 5455,
+          "wordCount": 5452,
           "title": "24 Stunning Examples of Movie Industry Websites"
         },
         {
