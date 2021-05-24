@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-24T17:44:41.035Z</id>
+    <id>urn:2021-05-24T18:25:17.882Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T17:44:41.035Z</updated>
+    <updated>2021-05-24T18:25:17.882Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[82% of developers get this 3 line CSS quiz wrong]]></title>
+        <id>https://lea.verou.me/2021/05/82-of-developers-get-this-3-line-css-quiz-wrong/</id>
+        <link href="http://www.webdesignernews.com/external/82-of-developers-get-this-3-line-css-quiz-wrong"/>
+        <updated>2021-05-24T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[https://lea.verou.me/2021/05/82-of-developers-get-this-3-line-css-quiz-wrong/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20 Best New Websites, May 2021]]></title>
         <id>https://www.webdesignerdepot.com/2021/05/20-best-new-websites-may-2021/</id>
@@ -273,16 +283,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <link href="http://www.webdesignernews.com/external/24-stunning-examples-of-movie-industry-websites"/>
         <updated>2021-05-22T22:22:00.000Z</updated>
         <summary type="html"><![CDATA[https://qodeinteractive.com/magazine/stunning-examples-of-movie-industry-websites/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Figma Plugin]]></title>
-        <id>https://yuanqing.github.io/create-figma-plugin/</id>
-        <link href="http://www.webdesignernews.com/external/create-figma-plugin"/>
-        <updated>2021-05-22T21:26:00.000Z</updated>
-        <summary type="html"><![CDATA[https://yuanqing.github.io/create-figma-plugin/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
