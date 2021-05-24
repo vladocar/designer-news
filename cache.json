@@ -6,6 +6,15 @@
       "siteUrl": "https://www.designinspiration.info",
       "articles": [
         {
+          "id": "https://www.designinspiration.info/?p=2660",
+          "author": "Editorial Staff",
+          "description": "Searching for the best Japanese fonts you can use in your next design? Check out this carefully selected list of the top Japanese fonts. Japanese styled fonts are becoming mainstream, as country like Japan is popular for their uniqueness. So we made these collection of beautiful Japanese fonts, so you\nThe post 20 Best Japanese Style Fonts appeared first on Design Inspiration.",
+          "link": "https://www.designinspiration.info/japanese-fonts/",
+          "publishedOn": "2021-05-24T21:38:56.000Z",
+          "wordCount": 1945,
+          "title": "20 Best Japanese Style Fonts"
+        },
+        {
           "id": "https://www.designinspiration.info/?p=2651",
           "author": "Editorial Staff",
           "description": "We bring you 10 free one click Illustrator Graphics Styles for applying 3D Stitched Text Effect. All text shadow effects can be applied to any text or font in Illustrator and also can be easily customized. The Graphic Stiles can be customized in the Appearance panel (Window > Appearance) and\nThe post 10 Free Illustrator 3D Stitched Text Effect Styles appeared first on Design Inspiration.",
@@ -85,15 +94,6 @@
           "publishedOn": "2021-05-04T11:22:18.000Z",
           "wordCount": 3580,
           "title": "42 Best Old English Fonts"
-        },
-        {
-          "id": "https://www.designinspiration.info/?p=2345",
-          "author": "Editorial Staff",
-          "description": "This is the coolest list of baseball fonts on the internet. In this article, we have collected unique baseball fonts and presets. These baseball fonts can be used to create any kind of sports related designs. Baseball is one of the most popular sports in the United States. Fans from\nThe post 27 Best Baseball Fonts appeared first on Design Inspiration.",
-          "link": "https://www.designinspiration.info/baseball-fonts/",
-          "publishedOn": "2021-04-30T23:02:21.000Z",
-          "wordCount": 2184,
-          "title": "27 Best Baseball Fonts"
         }
       ]
     },
@@ -567,6 +567,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.quicksprout.com/how-to-create-a-sales-plan/",
+          "author": null,
+          "description": "https://www.quicksprout.com/how-to-create-a-sales-plan/",
+          "link": "http://www.webdesignernews.com/external/how-to-create-a-sales-plan",
+          "publishedOn": "2021-05-24T21:19:00.000Z",
+          "wordCount": 3134,
+          "title": "How to Create a Sales Plan"
+        },
+        {
           "id": "https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "author": null,
           "description": "https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
@@ -599,7 +608,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/20-best-new-websites-may-2021/",
           "link": "http://www.webdesignernews.com/external/20-best-new-websites-may-2021",
           "publishedOn": "2021-05-24T15:26:45.000Z",
-          "wordCount": 915,
+          "wordCount": 939,
           "title": "20 Best New Websites, May 2021"
         },
         {
@@ -644,7 +653,7 @@
           "description": "https://www.androidpolice.com/2021/05/21/the-clubhouse-android-app-is-finally-available-in-the-play-store/",
           "link": "http://www.webdesignernews.com/external/clubhouse-for-android-is-now-available-worldwide",
           "publishedOn": "2021-05-23T22:05:00.000Z",
-          "wordCount": 1945,
+          "wordCount": 1941,
           "title": "Clubhouse for Android is now available worldwide"
         },
         {
@@ -671,7 +680,7 @@
           "description": "https://uxdesign.cc/paradigm-shifting-concepts-in-product-design-b7d0947b3980",
           "link": "http://www.webdesignernews.com/external/paradigm-shifting-concepts-in-product-design",
           "publishedOn": "2021-05-23T19:22:00.000Z",
-          "wordCount": 2076,
+          "wordCount": 2074,
           "title": "Paradigm-shifting concepts in product design"
         },
         {
@@ -736,15 +745,6 @@
           "publishedOn": "2021-05-23T13:51:36.000Z",
           "wordCount": 582,
           "title": "Sublime Text 4 - Text editing, done right"
-        },
-        {
-          "id": "https://torquemag.io/2021/05/wordpress-managed-hosting-vs-unmanaged/",
-          "author": null,
-          "description": "https://torquemag.io/2021/05/wordpress-managed-hosting-vs-unmanaged/",
-          "link": "http://www.webdesignernews.com/external/wordpress-managed-hosting-vs-unmanaged-11-key-differences",
-          "publishedOn": "2021-05-23T13:16:00.000Z",
-          "wordCount": 2168,
-          "title": "WordPress Managed Hosting vs Unmanaged: 11 Key Differences"
         }
       ]
     }
