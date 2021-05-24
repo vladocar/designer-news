@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-24T11:07:27.396Z</id>
+    <id>urn:2021-05-24T12:01:11.303Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T11:07:27.396Z</updated>
+    <updated>2021-05-24T12:01:11.303Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
+        <id>https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</id>
+        <link href="https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/"/>
+        <updated>2021-05-24T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for Blueprism Development Services? Get the Best Blueprism Services in USA]]></title>
+        <id>https://www.designernews.co/stories/115634-looking-for-blueprism-development-services-get-the-best-blueprism-services-in-usa</id>
+        <link href="https://www.designernews.co/stories/115634-looking-for-blueprism-development-services-get-the-best-blueprism-services-in-usa"/>
+        <updated>2021-05-24T11:25:49.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/rpa-services/blueprism]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Free Illustrator 3D Stitched Text Effects]]></title>
         <id>https://www.designernews.co/stories/115633-10-free-illustrator-3d-stitched-text-effects</id>
@@ -495,16 +515,6 @@ Feel free to send any kind of feedback.
 
 [Figma Community file]
 (https://www.figma.com/community/file/976523142475935815)]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Screen Recorder, Designed for creatives.]]></title>
-        <id>https://www.designernews.co/stories/115524-a-screen-recorder-designed-for-creatives-</id>
-        <link href="https://www.designernews.co/stories/115524-a-screen-recorder-designed-for-creatives-"/>
-        <updated>2021-05-18T15:53:36.000Z</updated>
-        <summary type="html"><![CDATA[https://chrome.google.com/webstore/detail/screen-webcam-recorder-%20/mgipbckfkdcalgbcjmkogjijddnkbecc?hl=en&authuser=0]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>

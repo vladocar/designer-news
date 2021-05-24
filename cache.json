@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115634-looking-for-blueprism-development-services-get-the-best-blueprism-services-in-usa",
+          "author": null,
+          "description": "https://www.zenesys.com/rpa-services/blueprism",
+          "link": "https://www.designernews.co/stories/115634-looking-for-blueprism-development-services-get-the-best-blueprism-services-in-usa",
+          "publishedOn": "2021-05-24T11:25:49.000Z",
+          "wordCount": 174,
+          "title": "Looking for Blueprism Development Services? Get the Best Blueprism Services in USA"
+        },
+        {
           "id": "https://www.designernews.co/stories/115633-10-free-illustrator-3d-stitched-text-effects",
           "author": null,
           "description": "https://www.designinspiration.info/10-free-illustrator-3d-stitched-text-effect-styles/",
@@ -301,15 +310,6 @@
           "title": "Type Grid — Explore making a new typeface"
         },
         {
-          "id": "https://www.designernews.co/stories/115524-a-screen-recorder-designed-for-creatives-",
-          "author": null,
-          "description": "https://chrome.google.com/webstore/detail/screen-webcam-recorder-%20/mgipbckfkdcalgbcjmkogjijddnkbecc?hl=en&authuser=0",
-          "link": "https://www.designernews.co/stories/115524-a-screen-recorder-designed-for-creatives-",
-          "publishedOn": "2021-05-18T15:53:36.000Z",
-          "wordCount": 160,
-          "title": "A Screen Recorder, Designed for creatives."
-        },
-        {
           "id": "https://www.designernews.co/stories/115521-best-keyboards-for-programmingdesigning-in-2021",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html",
@@ -334,6 +334,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
+          "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
+          "publishedOn": "2021-05-24T11:30:00.000Z",
+          "wordCount": 2694,
+          "title": "CSS Container Queries: Use-Cases And Migration Strategies"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "author": "hello@smashingmagazine.com (Shalabh Vyas)",
@@ -689,7 +698,7 @@
           "description": "https://qodeinteractive.com/magazine/stunning-examples-of-movie-industry-websites/",
           "link": "http://www.webdesignernews.com/external/24-stunning-examples-of-movie-industry-websites",
           "publishedOn": "2021-05-22T22:22:00.000Z",
-          "wordCount": 5452,
+          "wordCount": 5454,
           "title": "24 Stunning Examples of Movie Industry Websites"
         },
         {
