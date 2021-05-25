@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-25T15:01:12.118Z</id>
+    <id>urn:2021-05-25T16:17:10.562Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T15:01:12.118Z</updated>
+    <updated>2021-05-25T16:17:10.562Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to write good ALT text for Accessibility and Search Engines]]></title>
+        <id>https://www.zenweb.com.au/blog/how-to-write-good-alt-text-for-accessibility-and-search-engines</id>
+        <link href="http://www.webdesignernews.com/external/how-to-write-good-alt-text-for-accessibility-and-search-engines"/>
+        <updated>2021-05-25T15:37:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenweb.com.au/blog/how-to-write-good-alt-text-for-accessibility-and-search-engines]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to find what drives you as a designer]]></title>
         <id>https://uxdesign.cc/how-to-find-what-drives-you-as-a-designer-29350ff120d8</id>
@@ -325,16 +335,6 @@ The post 20 Best Japanese Style Fonts appeared first on Design Inspiration.]]></
 The post 10 Free Illustrator 3D Stitched Text Effect Styles appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creative Ways to Choose More Inclusive Imagery for Websites]]></title>
-        <id>https://mediatemple.net/blog/design-creative/creative-ways-to-choose-more-inclusive-imagery-for-websites/</id>
-        <link href="http://www.webdesignernews.com/external/creative-ways-to-choose-more-inclusive-imagery-for-websites"/>
-        <updated>2021-05-23T22:48:03.000Z</updated>
-        <summary type="html"><![CDATA[https://mediatemple.net/blog/design-creative/creative-ways-to-choose-more-inclusive-imagery-for-websites/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>

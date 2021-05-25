@@ -585,6 +585,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.zenweb.com.au/blog/how-to-write-good-alt-text-for-accessibility-and-search-engines",
+          "author": null,
+          "description": "https://www.zenweb.com.au/blog/how-to-write-good-alt-text-for-accessibility-and-search-engines",
+          "link": "http://www.webdesignernews.com/external/how-to-write-good-alt-text-for-accessibility-and-search-engines",
+          "publishedOn": "2021-05-25T15:37:00.000Z",
+          "wordCount": 1802,
+          "title": "How to write good ALT text for Accessibility and Search Engines"
+        },
+        {
           "id": "https://uxdesign.cc/how-to-find-what-drives-you-as-a-designer-29350ff120d8",
           "author": null,
           "description": "https://uxdesign.cc/how-to-find-what-drives-you-as-a-designer-29350ff120d8",
@@ -644,7 +653,7 @@
           "description": "https://thenextweb.com/news/5-lessons-bootstrapped-company-500m-valuation",
           "link": "http://www.webdesignernews.com/external/i-bootstrapped-my-company-to-a-500m-valuation-here-are-my-top-5-learnings",
           "publishedOn": "2021-05-25T12:06:00.000Z",
-          "wordCount": 1329,
+          "wordCount": 1333,
           "title": "I bootstrapped my company to a $500M+ valuation - here are my top 5 learnings"
         },
         {
@@ -689,7 +698,7 @@
           "description": "https://www.quicksprout.com/how-to-create-a-sales-plan/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-sales-plan",
           "publishedOn": "2021-05-24T21:19:00.000Z",
-          "wordCount": 3113,
+          "wordCount": 2921,
           "title": "How to Create a Sales Plan"
         },
         {
@@ -725,7 +734,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/20-best-new-websites-may-2021/",
           "link": "http://www.webdesignernews.com/external/20-best-new-websites-may-2021",
           "publishedOn": "2021-05-24T15:26:45.000Z",
-          "wordCount": 912,
+          "wordCount": 938,
           "title": "20 Best New Websites, May 2021"
         },
         {
@@ -734,7 +743,7 @@
           "description": "https://mxb.dev/blog/container-queries-web-components/",
           "link": "http://www.webdesignernews.com/external/container-queries-in-web-components",
           "publishedOn": "2021-05-24T15:25:56.000Z",
-          "wordCount": 1572,
+          "wordCount": 1780,
           "title": "Container Queries in Web Components"
         },
         {
@@ -754,15 +763,6 @@
           "publishedOn": "2021-05-24T15:05:25.000Z",
           "wordCount": 1196,
           "title": "The Cat?s Meow: 8 CSS and JavaScript Code Snippets Celebrating Our Feline Friends"
-        },
-        {
-          "id": "https://mediatemple.net/blog/design-creative/creative-ways-to-choose-more-inclusive-imagery-for-websites/",
-          "author": null,
-          "description": "https://mediatemple.net/blog/design-creative/creative-ways-to-choose-more-inclusive-imagery-for-websites/",
-          "link": "http://www.webdesignernews.com/external/creative-ways-to-choose-more-inclusive-imagery-for-websites",
-          "publishedOn": "2021-05-23T22:48:03.000Z",
-          "wordCount": 1519,
-          "title": "Creative Ways to Choose More Inclusive Imagery for Websites"
         }
       ]
     }
