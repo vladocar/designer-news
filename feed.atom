@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-25T17:54:49.965Z</id>
+    <id>urn:2021-05-25T18:32:22.736Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T17:54:49.965Z</updated>
+    <updated>2021-05-25T18:32:22.736Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[We?re entering the age of ?digital nationalism? - and this will only benefit big tech]]></title>
+        <id>https://thenextweb.com/news/how-digital-nationalism-benefits-big-tech-syndication</id>
+        <link href="http://www.webdesignernews.com/external/we-re-entering-the-age-of-digital-nationalism-and-this-will-only-benefit-big-tech"/>
+        <updated>2021-05-25T18:25:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/how-digital-nationalism-benefits-big-tech-syndication]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our Image of an Entrepreneur Desperately Needs an Update]]></title>
         <id>https://www.shopify.com/blog/image-of-an-entrepreneur</id>
@@ -272,16 +282,6 @@ The post 20 Best Japanese Style Fonts appeared first on Design Inspiration.]]></
         <link href="http://www.webdesignernews.com/external/container-queries-in-web-components"/>
         <updated>2021-05-24T15:25:56.000Z</updated>
         <summary type="html"><![CDATA[https://mxb.dev/blog/container-queries-web-components/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started in the Creator Economy]]></title>
-        <id>https://ghost.org/blog/creator-economy/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-get-started-in-the-creator-economy"/>
-        <updated>2021-05-24T15:25:06.000Z</updated>
-        <summary type="html"><![CDATA[https://ghost.org/blog/creator-economy/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
