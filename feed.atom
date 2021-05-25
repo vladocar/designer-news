@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-25T10:11:09.131Z</id>
+    <id>urn:2021-05-25T11:11:52.064Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T10:11:09.131Z</updated>
+    <updated>2021-05-25T11:11:52.064Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Portfolio Website Transformation (Free Figma Template)]]></title>
+        <id>https://www.designernews.co/stories/115650-portfolio-website-transformation-free-figma-template</id>
+        <link href="https://www.designernews.co/stories/115650-portfolio-website-transformation-free-figma-template"/>
+        <updated>2021-05-25T10:22:13.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=JO-SXrlnmEE]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Make an App for Android and iOS]]></title>
         <id>https://www.designernews.co/stories/115649-how-to-make-an-app-for-android-and-ios</id>
@@ -534,16 +544,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <link href="https://www.designernews.co/stories/115542-cool-gradient-wallpaper-generator"/>
         <updated>2021-05-19T07:41:57.000Z</updated>
         <summary type="html"><![CDATA[https://gradihunt.com/wallpapers]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24 Best Animation Software Apps In 2021 (Free & Paid)]]></title>
-        <id>https://www.designernews.co/stories/115530-24-best-animation-software-apps-in-2021-free--paid</id>
-        <link href="https://www.designernews.co/stories/115530-24-best-animation-software-apps-in-2021-free--paid"/>
-        <updated>2021-05-18T19:01:58.000Z</updated>
-        <summary type="html"><![CDATA[https://marketsplash.com/animation-software/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>

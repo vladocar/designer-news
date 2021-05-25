@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115650-portfolio-website-transformation-free-figma-template",
+          "author": null,
+          "description": "https://www.youtube.com/watch?v=JO-SXrlnmEE",
+          "link": "https://www.designernews.co/stories/115650-portfolio-website-transformation-free-figma-template",
+          "publishedOn": "2021-05-25T10:22:13.000Z",
+          "wordCount": 169,
+          "title": "Portfolio Website Transformation (Free Figma Template)"
+        },
+        {
           "id": "https://www.designernews.co/stories/115649-how-to-make-an-app-for-android-and-ios",
           "author": null,
           "description": "https://www.zenesys.com/blog/how-to-make-an-app-for-android-and-ios",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-19T07:41:57.000Z",
           "wordCount": 165,
           "title": "Cool Gradient Wallpaper Generator"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115530-24-best-animation-software-apps-in-2021-free--paid",
-          "author": null,
-          "description": "https://marketsplash.com/animation-software/",
-          "link": "https://www.designernews.co/stories/115530-24-best-animation-software-apps-in-2021-free--paid",
-          "publishedOn": "2021-05-18T19:01:58.000Z",
-          "wordCount": 173,
-          "title": "24 Best Animation Software Apps In 2021 (Free & Paid)"
         }
       ]
     },
@@ -644,7 +644,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/20-best-new-websites-may-2021/",
           "link": "http://www.webdesignernews.com/external/20-best-new-websites-may-2021",
           "publishedOn": "2021-05-24T15:26:45.000Z",
-          "wordCount": 907,
+          "wordCount": 922,
           "title": "20 Best New Websites, May 2021"
         },
         {
