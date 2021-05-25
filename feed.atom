@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-24T23:00:58.291Z</id>
+    <id>urn:2021-05-25T00:14:52.332Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T23:00:58.291Z</updated>
+    <updated>2021-05-25T00:14:52.332Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Temp API - Test your frontend apps with temporary rest APIs]]></title>
+        <id>https://tempapi.proj.me/</id>
+        <link href="http://www.webdesignernews.com/external/temp-api-test-your-frontend-apps-with-temporary-rest-apis"/>
+        <updated>2021-05-24T23:15:00.000Z</updated>
+        <summary type="html"><![CDATA[https://tempapi.proj.me/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marie Boulanger?s type design practice balances hypersensitivity and analytical thinking]]></title>
         <id>https://www.itsnicethat.com/articles/marie-boulanger-graphic-design-240521</id>
@@ -273,16 +283,6 @@ The post 10 Free Illustrator 3D Stitched Text Effect Styles appeared first on De
         <link href="http://www.webdesignernews.com/external/faster-integration-with-web-components"/>
         <updated>2021-05-23T14:56:00.000Z</updated>
         <summary type="html"><![CDATA[https://cloudfour.com/thinks/faster-integration-with-web-components/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Elements of a Highly Usable Landing Page]]></title>
-        <id>https://designshack.net/articles/ux-design/elements-of-a-highly-usable-landing-page/</id>
-        <link href="http://www.webdesignernews.com/external/7-elements-of-a-highly-usable-landing-page"/>
-        <updated>2021-05-23T13:52:44.000Z</updated>
-        <summary type="html"><![CDATA[https://designshack.net/articles/ux-design/elements-of-a-highly-usable-landing-page/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
