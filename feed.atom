@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-25T09:09:51.057Z</id>
+    <id>urn:2021-05-25T10:11:09.131Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T09:09:51.057Z</updated>
+    <updated>2021-05-25T10:11:09.131Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Make an App for Android and iOS]]></title>
+        <id>https://www.designernews.co/stories/115649-how-to-make-an-app-for-android-and-ios</id>
+        <link href="https://www.designernews.co/stories/115649-how-to-make-an-app-for-android-and-ios"/>
+        <updated>2021-05-25T09:52:11.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/blog/how-to-make-an-app-for-android-and-ios]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Way To Reduce Font Loading Impact: CSS Font Descriptors]]></title>
+        <id>https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/</id>
+        <link href="https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/"/>
+        <updated>2021-05-25T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a useful UI Kit]]></title>
         <id>https://www.designernews.co/stories/115648-building-a-useful-ui-kit</id>
@@ -524,28 +544,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <link href="https://www.designernews.co/stories/115530-24-best-animation-software-apps-in-2021-free--paid"/>
         <updated>2021-05-18T19:01:58.000Z</updated>
         <summary type="html"><![CDATA[https://marketsplash.com/animation-software/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Type Grid — Explore making a new typeface]]></title>
-        <id>https://www.designernews.co/stories/115528-type-grid-explore-making-a-new-typeface</id>
-        <link href="https://www.designernews.co/stories/115528-type-grid-explore-making-a-new-typeface"/>
-        <updated>2021-05-18T17:08:27.000Z</updated>
-        <summary type="html"><![CDATA[#Type Grid — Explore making a new typeface
-
-**Type Grid** is a Figma community file divided into 3 formats: A4, A5 and Letter which includes 3 grids, normal, tall and wide.
-
-You can share your explorations on [Instagram] (https://www.instagram.com/type_grid/) or [Twitter] (https://twitter.com/type_grid) with #typegridexp, so I can share them on Type Grid’s social channels.
-
-*“The grid is like the lines on a football field. You can play a great game in the grid or a lousy game. But the goal is to play a really fine game.”* — Wim Crouwel
-
-
-Feel free to send any kind of feedback.
-
-[Figma Community file]
-(https://www.figma.com/community/file/976523142475935815)]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>

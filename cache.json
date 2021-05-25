@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115649-how-to-make-an-app-for-android-and-ios",
+          "author": null,
+          "description": "https://www.zenesys.com/blog/how-to-make-an-app-for-android-and-ios",
+          "link": "https://www.designernews.co/stories/115649-how-to-make-an-app-for-android-and-ios",
+          "publishedOn": "2021-05-25T09:52:11.000Z",
+          "wordCount": 171,
+          "title": "How to Make an App for Android and iOS"
+        },
+        {
           "id": "https://www.designernews.co/stories/115648-building-a-useful-ui-kit",
           "author": null,
           "description": "https://blog.plantapp.io/post/building-a-useful-ui-kit",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-18T19:01:58.000Z",
           "wordCount": 173,
           "title": "24 Best Animation Software Apps In 2021 (Free & Paid)"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115528-type-grid-explore-making-a-new-typeface",
-          "author": null,
-          "description": "#Type Grid — Explore making a new typeface\r\n\r\n**Type Grid** is a Figma community file divided into 3 formats: A4, A5 and Letter which includes 3 grids, normal, tall and wide.\r\n\r\nYou can share your explorations on [Instagram] (https://www.instagram.com/type_grid/) or [Twitter] (https://twitter.com/type_grid) with #typegridexp, so I can share them on Type Grid’s social channels.\r\n\r\n*“The grid is like the lines on a football field. You can play a great game in the grid or a lousy game. But the goal is to play a really fine game.”* — Wim Crouwel\r\n\r\n\r\nFeel free to send any kind of feedback.\r\n\r\n[Figma Community file]\r\n(https://www.figma.com/community/file/976523142475935815)",
-          "link": "https://www.designernews.co/stories/115528-type-grid-explore-making-a-new-typeface",
-          "publishedOn": "2021-05-18T17:08:27.000Z",
-          "wordCount": 267,
-          "title": "Type Grid — Explore making a new typeface"
         }
       ]
     },
@@ -334,6 +334,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
+          "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
+          "publishedOn": "2021-05-25T09:30:00.000Z",
+          "wordCount": 1985,
+          "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
@@ -635,7 +644,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/20-best-new-websites-may-2021/",
           "link": "http://www.webdesignernews.com/external/20-best-new-websites-may-2021",
           "publishedOn": "2021-05-24T15:26:45.000Z",
-          "wordCount": 931,
+          "wordCount": 907,
           "title": "20 Best New Websites, May 2021"
         },
         {
