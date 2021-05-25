@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-25T16:17:10.562Z</id>
+    <id>urn:2021-05-25T17:54:49.965Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T16:17:10.562Z</updated>
+    <updated>2021-05-25T17:54:49.965Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Our Image of an Entrepreneur Desperately Needs an Update]]></title>
+        <id>https://www.shopify.com/blog/image-of-an-entrepreneur</id>
+        <link href="http://www.webdesignernews.com/external/our-image-of-an-entrepreneur-desperately-needs-an-update"/>
+        <updated>2021-05-25T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.shopify.com/blog/image-of-an-entrepreneur]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to write good ALT text for Accessibility and Search Engines]]></title>
         <id>https://www.zenweb.com.au/blog/how-to-write-good-alt-text-for-accessibility-and-search-engines</id>
@@ -272,16 +282,6 @@ The post 20 Best Japanese Style Fonts appeared first on Design Inspiration.]]></
         <link href="http://www.webdesignernews.com/external/how-to-get-started-in-the-creator-economy"/>
         <updated>2021-05-24T15:25:06.000Z</updated>
         <summary type="html"><![CDATA[https://ghost.org/blog/creator-economy/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cat?s Meow: 8 CSS and JavaScript Code Snippets Celebrating Our Feline Friends]]></title>
-        <id>https://speckyboy.com/css-javascript-code-snippets-celebrating-cats/</id>
-        <link href="http://www.webdesignernews.com/external/the-cat-s-meow-8-css-and-javascript-code-snippets-celebrating-our-feline-friends"/>
-        <updated>2021-05-24T15:05:25.000Z</updated>
-        <summary type="html"><![CDATA[https://speckyboy.com/css-javascript-code-snippets-celebrating-cats/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
