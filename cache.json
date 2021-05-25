@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115655-create-a-better-html--death-of-div",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/05/create-better-html-death-to-div.html",
+          "link": "https://www.designernews.co/stories/115655-create-a-better-html--death-of-div",
+          "publishedOn": "2021-05-25T11:42:06.000Z",
+          "wordCount": 168,
+          "title": "Create a better HTML : Death of div"
+        },
+        {
           "id": "https://www.designernews.co/stories/115650-portfolio-website-transformation-free-figma-template",
           "author": null,
           "description": "https://www.youtube.com/watch?v=JO-SXrlnmEE",
@@ -308,15 +317,6 @@
           "publishedOn": "2021-05-19T12:05:54.000Z",
           "wordCount": 249,
           "title": "Why Businesses should invest in Mobile App Design for their Apps?"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115543-the-grit-volume-iii-ebook-personal-stories-and-tips-from-top-designers--developers",
-          "author": null,
-          "description": "https://avocode.com/books/the-grit-volume-iii",
-          "link": "https://www.designernews.co/stories/115543-the-grit-volume-iii-ebook-personal-stories-and-tips-from-top-designers--developers",
-          "publishedOn": "2021-05-19T08:04:02.000Z",
-          "wordCount": 178,
-          "title": "The Grit Volume III ebook: Personal stories and tips from top designers  & developers."
         },
         {
           "id": "https://www.designernews.co/stories/115542-cool-gradient-wallpaper-generator",
@@ -590,7 +590,7 @@
           "description": "https://www.itsnicethat.com/articles/marie-boulanger-graphic-design-240521",
           "link": "http://www.webdesignernews.com/external/marie-boulanger-s-type-design-practice-balances-hypersensitivity-and-analytical-thinking",
           "publishedOn": "2021-05-24T22:41:00.000Z",
-          "wordCount": 1404,
+          "wordCount": 1403,
           "title": "Marie Boulanger?s type design practice balances hypersensitivity and analytical thinking"
         },
         {
@@ -608,7 +608,7 @@
           "description": "https://www.quicksprout.com/how-to-create-a-sales-plan/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-sales-plan",
           "publishedOn": "2021-05-24T21:19:00.000Z",
-          "wordCount": 3134,
+          "wordCount": 3113,
           "title": "How to Create a Sales Plan"
         },
         {
@@ -644,7 +644,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/20-best-new-websites-may-2021/",
           "link": "http://www.webdesignernews.com/external/20-best-new-websites-may-2021",
           "publishedOn": "2021-05-24T15:26:45.000Z",
-          "wordCount": 922,
+          "wordCount": 927,
           "title": "20 Best New Websites, May 2021"
         },
         {

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-25T11:11:52.064Z</id>
+    <id>urn:2021-05-25T12:02:45.924Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T11:11:52.064Z</updated>
+    <updated>2021-05-25T12:02:45.924Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create a better HTML : Death of div]]></title>
+        <id>https://www.designernews.co/stories/115655-create-a-better-html--death-of-div</id>
+        <link href="https://www.designernews.co/stories/115655-create-a-better-html--death-of-div"/>
+        <updated>2021-05-25T11:42:06.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/create-better-html-death-to-div.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Portfolio Website Transformation (Free Figma Template)]]></title>
         <id>https://www.designernews.co/stories/115650-portfolio-website-transformation-free-figma-template</id>
@@ -526,16 +536,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Grit Volume III ebook: Personal stories and tips from top designers  & developers.]]></title>
-        <id>https://www.designernews.co/stories/115543-the-grit-volume-iii-ebook-personal-stories-and-tips-from-top-designers--developers</id>
-        <link href="https://www.designernews.co/stories/115543-the-grit-volume-iii-ebook-personal-stories-and-tips-from-top-designers--developers"/>
-        <updated>2021-05-19T08:04:02.000Z</updated>
-        <summary type="html"><![CDATA[https://avocode.com/books/the-grit-volume-iii]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
