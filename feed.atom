@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-25T13:28:11.805Z</id>
+    <id>urn:2021-05-25T14:12:49.940Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T13:28:11.805Z</updated>
+    <updated>2021-05-25T14:12:49.940Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anima now supports converting Figma/Sketch/XD to VueJS]]></title>
+        <id>https://www.designernews.co/stories/115657-anima-now-supports-converting-figmasketchxd-to-vuejs</id>
+        <link href="https://www.designernews.co/stories/115657-anima-now-supports-converting-figmasketchxd-to-vuejs"/>
+        <updated>2021-05-25T13:21:59.000Z</updated>
+        <summary type="html"><![CDATA[https://www.animaapp.com/blog/product-updates/announcing-vue-js-beta-release/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create a better HTML : Death of div]]></title>
         <id>https://www.designernews.co/stories/115655-create-a-better-html--death-of-div</id>
@@ -536,16 +546,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cool Gradient Wallpaper Generator]]></title>
-        <id>https://www.designernews.co/stories/115542-cool-gradient-wallpaper-generator</id>
-        <link href="https://www.designernews.co/stories/115542-cool-gradient-wallpaper-generator"/>
-        <updated>2021-05-19T07:41:57.000Z</updated>
-        <summary type="html"><![CDATA[https://gradihunt.com/wallpapers]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>

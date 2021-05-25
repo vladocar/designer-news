@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115657-anima-now-supports-converting-figmasketchxd-to-vuejs",
+          "author": null,
+          "description": "https://www.animaapp.com/blog/product-updates/announcing-vue-js-beta-release/",
+          "link": "https://www.designernews.co/stories/115657-anima-now-supports-converting-figmasketchxd-to-vuejs",
+          "publishedOn": "2021-05-25T13:21:59.000Z",
+          "wordCount": 168,
+          "title": "Anima now supports converting Figma/Sketch/XD to VueJS"
+        },
+        {
           "id": "https://www.designernews.co/stories/115655-create-a-better-html--death-of-div",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/05/create-better-html-death-to-div.html",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-19T12:05:54.000Z",
           "wordCount": 249,
           "title": "Why Businesses should invest in Mobile App Design for their Apps?"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115542-cool-gradient-wallpaper-generator",
-          "author": null,
-          "description": "https://gradihunt.com/wallpapers",
-          "link": "https://www.designernews.co/stories/115542-cool-gradient-wallpaper-generator",
-          "publishedOn": "2021-05-19T07:41:57.000Z",
-          "wordCount": 165,
-          "title": "Cool Gradient Wallpaper Generator"
         }
       ]
     },
@@ -608,7 +608,7 @@
           "description": "https://www.quicksprout.com/how-to-create-a-sales-plan/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-sales-plan",
           "publishedOn": "2021-05-24T21:19:00.000Z",
-          "wordCount": 3113,
+          "wordCount": 3134,
           "title": "How to Create a Sales Plan"
         },
         {
@@ -644,7 +644,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/20-best-new-websites-may-2021/",
           "link": "http://www.webdesignernews.com/external/20-best-new-websites-may-2021",
           "publishedOn": "2021-05-24T15:26:45.000Z",
-          "wordCount": 926,
+          "wordCount": 917,
           "title": "20 Best New Websites, May 2021"
         },
         {
