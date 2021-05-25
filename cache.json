@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115648-building-a-useful-ui-kit",
+          "author": null,
+          "description": "https://blog.plantapp.io/post/building-a-useful-ui-kit",
+          "link": "https://www.designernews.co/stories/115648-building-a-useful-ui-kit",
+          "publishedOn": "2021-05-25T07:10:38.000Z",
+          "wordCount": 162,
+          "title": "Building a useful UI Kit"
+        },
+        {
           "id": "https://www.designernews.co/stories/115636-creating-an-interactivefunctional-dropdown-in-figma",
           "author": null,
           "description": "https://www.youtube.com/watch?v=5YEw7O1KgNQ",
@@ -317,15 +326,6 @@
           "publishedOn": "2021-05-18T17:08:27.000Z",
           "wordCount": 267,
           "title": "Type Grid — Explore making a new typeface"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115509-best-books-for-product-designer-in-2021",
-          "author": null,
-          "description": "https://blog.plantapp.io/post/best-books-for-product-designer-in-20211",
-          "link": "https://www.designernews.co/stories/115509-best-books-for-product-designer-in-2021",
-          "publishedOn": "2021-05-18T07:33:32.000Z",
-          "wordCount": 166,
-          "title": "Best Books for Product Designer in 2021"
         }
       ]
     },
@@ -529,7 +529,7 @@
           "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5325,
+          "wordCount": 5322,
           "title": "The Humble `<img>` Element And Core Web Vitals"
         },
         {
@@ -538,7 +538,7 @@
           "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
           "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
           "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2130,
+          "wordCount": 2121,
           "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
         },
         {
@@ -635,7 +635,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/20-best-new-websites-may-2021/",
           "link": "http://www.webdesignernews.com/external/20-best-new-websites-may-2021",
           "publishedOn": "2021-05-24T15:26:45.000Z",
-          "wordCount": 918,
+          "wordCount": 921,
           "title": "20 Best New Websites, May 2021"
         },
         {
