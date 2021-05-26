@@ -367,7 +367,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9435,
+          "wordCount": 9449,
           "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
         },
         {
@@ -421,7 +421,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2943,
+          "wordCount": 2957,
           "title": "How We Improved Our Core Web Vitals (Case Study)"
         },
         {
@@ -430,7 +430,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2444,
+          "wordCount": 2393,
           "title": "Tree-Shaking: A Reference Guide"
         },
         {
@@ -475,7 +475,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6352,
+          "wordCount": 6347,
           "title": "Get Started With React By Building A Whac-A-Mole Game"
         },
         {
@@ -493,7 +493,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2654,
+          "wordCount": 2659,
           "title": "Improving The Performance Of Shopify Themes (Case Study)"
         },
         {
@@ -538,7 +538,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2139,
+          "wordCount": 2176,
           "title": "May Is In The Air (2021 Wallpapers Edition)"
         },
         {
@@ -547,7 +547,7 @@
           "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5373,
+          "wordCount": 5359,
           "title": "The Humble `<img>` Element And Core Web Vitals"
         },
         {
@@ -644,7 +644,7 @@
           "description": "https://medium.com/indeed-design/ravi-vasavan-designing-for-deaf-power-baf5842865e9",
           "link": "http://www.webdesignernews.com/external/ravi-vasavan-designing-for-deaf-power",
           "publishedOn": "2021-05-25T14:30:51.000Z",
-          "wordCount": 2357,
+          "wordCount": 2329,
           "title": "Ravi Vasavan: Designing for Deaf Power"
         },
         {
@@ -734,7 +734,7 @@
           "description": "https://www.quicksprout.com/how-to-create-a-sales-plan/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-sales-plan",
           "publishedOn": "2021-05-24T21:19:00.000Z",
-          "wordCount": 2921,
+          "wordCount": 2900,
           "title": "How to Create a Sales Plan"
         },
         {
