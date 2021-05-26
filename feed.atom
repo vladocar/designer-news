@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-26T21:09:38.707Z</id>
+    <id>urn:2021-05-26T22:08:38.406Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T21:09:38.707Z</updated>
+    <updated>2021-05-26T22:08:38.406Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UI & UX Micro-Tips: Volume Five]]></title>
+        <id>https://marcandrew.me/ui-ux-micro-tips-volume-five/</id>
+        <link href="http://www.webdesignernews.com/external/ui-ux-micro-tips-volume-five"/>
+        <updated>2021-05-26T21:49:00.000Z</updated>
+        <summary type="html"><![CDATA[https://marcandrew.me/ui-ux-micro-tips-volume-five/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22 Best Art Deco Fonts for Glamorous Designs]]></title>
+        <id>https://www.designinspiration.info/?p=2695</id>
+        <link href="https://www.designinspiration.info/art-deco-fonts/"/>
+        <updated>2021-05-26T21:27:16.000Z</updated>
+        <summary type="html"><![CDATA[Art deco fonts will give your designs a unique character. The art deco movement was prominent during the 1920s and 1930s. Art deco fonts are characterized by their playful yet classy letterforms, with extra-thin serifs and smooth curvy shapes. It’s a creative typeface genre because it embraces the design styles
+The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Savecmd - Save your terminal history in the cloud]]></title>
         <id>https://www.savecmd.com/</id>
@@ -233,16 +254,6 @@
         <summary type="html"><![CDATA[https://wpklik.com/wordpress-tips/first-blog-post/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to find what drives you as a designer]]></title>
-        <id>https://uxdesign.cc/how-to-find-what-drives-you-as-a-designer-29350ff120d8</id>
-        <link href="http://www.webdesignernews.com/external/how-to-find-what-drives-you-as-a-designer"/>
-        <updated>2021-05-25T14:30:51.000Z</updated>
-        <summary type="html"><![CDATA[https://uxdesign.cc/how-to-find-what-drives-you-as-a-designer-29350ff120d8]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -762,17 +773,6 @@ The post 38 Best Fashion Fonts for Modern Designs appeared first on Design Inspi
         <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[42 Best Old English Fonts]]></title>
-        <id>https://www.designinspiration.info/?p=2421</id>
-        <link href="https://www.designinspiration.info/old-english-fonts/"/>
-        <updated>2021-05-04T11:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Cool Old English Fonts. We’ve collected the most beautiful and elegant fonts that can be used in any design project. Take a look. Gothic lettering or blackletter is a letter style in which the letters are calligraphic, and were developed as a rapid handwriting for Latin. As such, they are
-The post 42 Best Old English Fonts appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
