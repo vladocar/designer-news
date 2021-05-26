@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-26T15:06:11.432Z</id>
+    <id>urn:2021-05-26T16:21:06.945Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T15:06:11.432Z</updated>
+    <updated>2021-05-26T16:21:06.945Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Looking to leave WordPress behind? You?re not alone]]></title>
+        <id>https://searchengineland.com/looking-to-leave-wordpress-behind-youre-not-alone-348896</id>
+        <link href="http://www.webdesignernews.com/external/looking-to-leave-wordpress-behind-you-re-not-alone"/>
+        <updated>2021-05-26T15:23:50.000Z</updated>
+        <summary type="html"><![CDATA[https://searchengineland.com/looking-to-leave-wordpress-behind-youre-not-alone-348896]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom?s new AI will highlight the best bits of meetings for you]]></title>
+        <id>https://thenextweb.com/news/zoom-ai-recording-meeting-bits</id>
+        <link href="http://www.webdesignernews.com/external/zoom-s-new-ai-will-highlight-the-best-bits-of-meetings-for-you"/>
+        <updated>2021-05-26T15:23:48.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/zoom-ai-recording-meeting-bits]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 22 Google update was big, despite Google?s being mum about it; Wednesday?s daily brief]]></title>
+        <id>https://searchengineland.com/may-22nd-google-update-was-big-but-google-is-mum-about-it-wednesdays-daily-brief-348908</id>
+        <link href="http://www.webdesignernews.com/external/may-22-google-update-was-big-despite-google-s-being-mum-about-it-wednesday-s-daily-brief"/>
+        <updated>2021-05-26T15:23:46.000Z</updated>
+        <summary type="html"><![CDATA[https://searchengineland.com/may-22nd-google-update-was-big-but-google-is-mum-about-it-wednesdays-daily-brief-348908]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helsinki Design System]]></title>
+        <id>https://hds.hel.fi/</id>
+        <link href="http://www.webdesignernews.com/external/helsinki-design-system"/>
+        <updated>2021-05-26T15:23:45.000Z</updated>
+        <summary type="html"><![CDATA[https://hds.hel.fi/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back of House: why is the business side of design always hidden?]]></title>
+        <id>https://www.itsnicethat.com/news/anoushka-rodda-templo-back-of-house-the-business-side-of-design-creative-industry-opinion-260521</id>
+        <link href="http://www.webdesignernews.com/external/back-of-house-why-is-the-business-side-of-design-always-hidden"/>
+        <updated>2021-05-26T15:22:52.000Z</updated>
+        <summary type="html"><![CDATA[https://www.itsnicethat.com/news/anoushka-rodda-templo-back-of-house-the-business-side-of-design-creative-industry-opinion-260521]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Best Side Hustles To Consider In 2021]]></title>
+        <id>https://marketsplash.com/best-side-hustles/</id>
+        <link href="http://www.webdesignernews.com/external/10-best-side-hustles-to-consider-in-2021"/>
+        <updated>2021-05-26T14:16:00.000Z</updated>
+        <summary type="html"><![CDATA[https://marketsplash.com/best-side-hustles/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Maximize the User Research You're Already Doing]]></title>
         <id>https://www.designernews.co/stories/115676-how-to-maximize-the-user-research-youre-already-doing</id>
@@ -23,6 +83,26 @@
         <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carie Fisher)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessible SVGs: Perfect Patterns For Screen Reader Users]]></title>
+        <id>https://www.smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/</id>
+        <link href="http://www.webdesignernews.com/external/accessible-svgs-perfect-patterns-for-screen-reader-users"/>
+        <updated>2021-05-26T13:12:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finally Understanding PNG]]></title>
+        <id>https://compress-or-die.com/Understanding-PNG</id>
+        <link href="http://www.webdesignernews.com/external/finally-understanding-png"/>
+        <updated>2021-05-26T11:05:00.000Z</updated>
+        <summary type="html"><![CDATA[https://compress-or-die.com/Understanding-PNG]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -186,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I bootstrapped my company to a $500M+ valuation - here are my top 5 learnings]]></title>
-        <id>https://thenextweb.com/news/5-lessons-bootstrapped-company-500m-valuation</id>
-        <link href="http://www.webdesignernews.com/external/i-bootstrapped-my-company-to-a-500m-valuation-here-are-my-top-5-learnings"/>
-        <updated>2021-05-25T12:06:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/5-lessons-bootstrapped-company-500m-valuation]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Create a better HTML : Death of div]]></title>
         <id>https://www.designernews.co/stories/115655-create-a-better-html--death-of-div</id>
         <link href="https://www.designernews.co/stories/115655-create-a-better-html--death-of-div"/>
@@ -203,16 +273,6 @@
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/create-better-html-death-to-div.html]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 WordPress Tools To Boost Your Website Flexibility]]></title>
-        <id>https://marketsplash.com/wordpress-tools/</id>
-        <link href="http://www.webdesignernews.com/external/8-wordpress-tools-to-boost-your-website-flexibility"/>
-        <updated>2021-05-25T11:10:00.000Z</updated>
-        <summary type="html"><![CDATA[https://marketsplash.com/wordpress-tools/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -256,36 +316,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Temp API - Test your frontend apps with temporary rest APIs]]></title>
-        <id>https://tempapi.proj.me/</id>
-        <link href="http://www.webdesignernews.com/external/temp-api-test-your-frontend-apps-with-temporary-rest-apis"/>
-        <updated>2021-05-24T23:15:00.000Z</updated>
-        <summary type="html"><![CDATA[https://tempapi.proj.me/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marie Boulanger?s type design practice balances hypersensitivity and analytical thinking]]></title>
-        <id>https://www.itsnicethat.com/articles/marie-boulanger-graphic-design-240521</id>
-        <link href="http://www.webdesignernews.com/external/marie-boulanger-s-type-design-practice-balances-hypersensitivity-and-analytical-thinking"/>
-        <updated>2021-05-24T22:41:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/marie-boulanger-graphic-design-240521]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forma - No-Code platform to build customised worfklows]]></title>
-        <id>https://www.getforma.co/</id>
-        <link href="http://www.webdesignernews.com/external/forma-no-code-platform-to-build-customised-worfklows"/>
-        <updated>2021-05-24T22:07:48.000Z</updated>
-        <summary type="html"><![CDATA[https://www.getforma.co/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[20 Best Japanese Style Fonts]]></title>
         <id>https://www.designinspiration.info/?p=2660</id>
         <link href="https://www.designinspiration.info/japanese-fonts/"/>
@@ -294,36 +324,6 @@
 The post 20 Best Japanese Style Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Sales Plan]]></title>
-        <id>https://www.quicksprout.com/how-to-create-a-sales-plan/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-create-a-sales-plan"/>
-        <updated>2021-05-24T21:19:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.quicksprout.com/how-to-create-a-sales-plan/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
-        <id>https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</id>
-        <link href="http://www.webdesignernews.com/external/css-container-queries-use-cases-and-migration-strategies"/>
-        <updated>2021-05-24T20:29:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Potion - Create custom websites in minutes, all on Notion]]></title>
-        <id>https://potion.so/</id>
-        <link href="http://www.webdesignernews.com/external/potion-create-custom-websites-in-minutes-all-on-notion"/>
-        <updated>2021-05-24T19:34:00.000Z</updated>
-        <summary type="html"><![CDATA[https://potion.so/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
