@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-26T06:22:58.686Z</id>
+    <id>urn:2021-05-26T07:31:04.743Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T06:22:58.686Z</updated>
+    <updated>2021-05-26T07:31:04.743Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An awesome & free open source design prototyping tool: Penpot]]></title>
+        <id>https://www.designernews.co/stories/115667-an-awesome--free-open-source-design-prototyping-tool-penpot</id>
+        <link href="https://www.designernews.co/stories/115667-an-awesome--free-open-source-design-prototyping-tool-penpot"/>
+        <updated>2021-05-26T05:56:58.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=nrKpsKOw7KI]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Than Average]]></title>
         <id>https://thanaverage.xyz/</id>
@@ -524,16 +534,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <link href="https://www.designernews.co/stories/115562-orbiting-around-reddits-rating-system"/>
         <updated>2021-05-20T10:46:17.000Z</updated>
         <summary type="html"><![CDATA[https://design.infinum.com/case/orbiting-around-reddits-rating-system]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five pro illustrators celebrating diversity]]></title>
-        <id>https://www.designernews.co/stories/115549-five-pro-illustrators-celebrating-diversity</id>
-        <link href="https://www.designernews.co/stories/115549-five-pro-illustrators-celebrating-diversity"/>
-        <updated>2021-05-19T12:48:34.000Z</updated>
-        <summary type="html"><![CDATA[https://tasteminty.com/page/2021/05/19/five-artists-or-illustrators-from-around-the-globe-celebrating-diversity/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
