@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-26T22:08:38.406Z</id>
+    <id>urn:2021-05-26T23:10:18.740Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T22:08:38.406Z</updated>
+    <updated>2021-05-26T23:10:18.740Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Making friends with developers: How to set your design up for success]]></title>
+        <id>https://dribbble.com/stories/2021/05/26/making-friends-with-developers</id>
+        <link href="http://www.webdesignernews.com/external/making-friends-with-developers-how-to-set-your-design-up-for-success"/>
+        <updated>2021-05-26T22:26:00.000Z</updated>
+        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/05/26/making-friends-with-developers]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UI & UX Micro-Tips: Volume Five]]></title>
         <id>https://marcandrew.me/ui-ux-micro-tips-volume-five/</id>
@@ -232,16 +242,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         <link href="http://www.webdesignernews.com/external/our-image-of-an-entrepreneur-desperately-needs-an-update"/>
         <updated>2021-05-25T17:40:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.shopify.com/blog/image-of-an-entrepreneur]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to write good ALT text for Accessibility and Search Engines]]></title>
-        <id>https://www.zenweb.com.au/blog/how-to-write-good-alt-text-for-accessibility-and-search-engines</id>
-        <link href="http://www.webdesignernews.com/external/how-to-write-good-alt-text-for-accessibility-and-search-engines"/>
-        <updated>2021-05-25T15:37:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenweb.com.au/blog/how-to-write-good-alt-text-for-accessibility-and-search-engines]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
