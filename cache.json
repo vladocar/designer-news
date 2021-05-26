@@ -340,7 +340,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2121,
+          "wordCount": 2079,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)"
         },
         {
@@ -385,7 +385,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1961,
+          "wordCount": 1919,
           "title": "How To Implement Authentication In Next.js With Auth0"
         },
         {
@@ -421,7 +421,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2957,
+          "wordCount": 2943,
           "title": "How We Improved Our Core Web Vitals (Case Study)"
         },
         {
@@ -475,7 +475,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6347,
+          "wordCount": 6352,
           "title": "Get Started With React By Building A Whac-A-Mole Game"
         },
         {
@@ -484,7 +484,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4164,
+          "wordCount": 4127,
           "title": "How To Organize Product-Related Assets And Collaborate Better"
         },
         {
@@ -493,7 +493,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2668,
+          "wordCount": 2654,
           "title": "Improving The Performance Of Shopify Themes (Case Study)"
         },
         {
@@ -511,7 +511,7 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1795,
+          "wordCount": 1837,
           "title": "A Guide To Undoing Mistakes With Git (Part 1)"
         },
         {
@@ -529,7 +529,7 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2183,
+          "wordCount": 2192,
           "title": "The Evolution Of Jamstack"
         },
         {
@@ -538,7 +538,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2190,
+          "wordCount": 2139,
           "title": "May Is In The Air (2021 Wallpapers Edition)"
         },
         {
@@ -547,7 +547,7 @@
           "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5322,
+          "wordCount": 5373,
           "title": "The Humble `<img>` Element And Core Web Vitals"
         },
         {
@@ -644,7 +644,7 @@
           "description": "https://medium.com/indeed-design/ravi-vasavan-designing-for-deaf-power-baf5842865e9",
           "link": "http://www.webdesignernews.com/external/ravi-vasavan-designing-for-deaf-power",
           "publishedOn": "2021-05-25T14:30:51.000Z",
-          "wordCount": 2329,
+          "wordCount": 2357,
           "title": "Ravi Vasavan: Designing for Deaf Power"
         },
         {
@@ -689,7 +689,7 @@
           "description": "https://thenextweb.com/news/5-lessons-bootstrapped-company-500m-valuation",
           "link": "http://www.webdesignernews.com/external/i-bootstrapped-my-company-to-a-500m-valuation-here-are-my-top-5-learnings",
           "publishedOn": "2021-05-25T12:06:00.000Z",
-          "wordCount": 1329,
+          "wordCount": 1333,
           "title": "I bootstrapped my company to a $500M+ valuation - here are my top 5 learnings"
         },
         {
@@ -734,7 +734,7 @@
           "description": "https://www.quicksprout.com/how-to-create-a-sales-plan/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-sales-plan",
           "publishedOn": "2021-05-24T21:19:00.000Z",
-          "wordCount": 2900,
+          "wordCount": 2921,
           "title": "How to Create a Sales Plan"
         },
         {
