@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-26T12:07:54.625Z</id>
+    <id>urn:2021-05-26T13:34:05.930Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T12:07:54.625Z</updated>
+    <updated>2021-05-26T13:34:05.930Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Maximize the User Research You're Already Doing]]></title>
+        <id>https://www.designernews.co/stories/115676-how-to-maximize-the-user-research-youre-already-doing</id>
+        <link href="https://www.designernews.co/stories/115676-how-to-maximize-the-user-research-youre-already-doing"/>
+        <updated>2021-05-26T13:23:07.000Z</updated>
+        <summary type="html"><![CDATA[https://uxtools.co/blog/how-to-maximize-the-user-research-youre-already-doing/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An awesome & free open source design prototyping tool: Penpot]]></title>
         <id>https://www.designernews.co/stories/115667-an-awesome--free-open-source-design-prototyping-tool-penpot</id>
@@ -494,16 +504,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <link href="https://www.designernews.co/stories/115580-key-steps-to-achieve-successful-rpa-implementation"/>
         <updated>2021-05-20T14:11:52.000Z</updated>
         <summary type="html"><![CDATA[https://www.zenesys.com/blog/key-steps-to-achieve-successful-rpa-implementation]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Design Guide]]></title>
-        <id>https://www.designernews.co/stories/115569-business-design-guide</id>
-        <link href="https://www.designernews.co/stories/115569-business-design-guide"/>
-        <updated>2021-05-20T12:45:34.000Z</updated>
-        <summary type="html"><![CDATA[https://d.mba/guides/what-is-business-design-guide]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
