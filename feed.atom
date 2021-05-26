@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-26T20:18:36.009Z</id>
+    <id>urn:2021-05-26T21:09:38.707Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T20:18:36.009Z</updated>
+    <updated>2021-05-26T21:09:38.707Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Savecmd - Save your terminal history in the cloud]]></title>
+        <id>https://www.savecmd.com/</id>
+        <link href="http://www.webdesignernews.com/external/savecmd-save-your-terminal-history-in-the-cloud"/>
+        <updated>2021-05-26T20:52:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.savecmd.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How we worked with you towards a safe and spam-free Search experience in 2020]]></title>
+        <id>https://developers.google.com/search/blog/2021/05/working-with-you-for-safe-and-spam-free-search-2020</id>
+        <link href="http://www.webdesignernews.com/external/how-we-worked-with-you-towards-a-safe-and-spam-free-search-experience-in-2020"/>
+        <updated>2021-05-26T20:46:01.000Z</updated>
+        <summary type="html"><![CDATA[https://developers.google.com/search/blog/2021/05/working-with-you-for-safe-and-spam-free-search-2020]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Getting Past the Limitations of Your Design Skills]]></title>
         <id>https://speckyboy.com/limitations-design-skills/</id>
@@ -221,26 +241,6 @@
         <link href="http://www.webdesignernews.com/external/how-to-find-what-drives-you-as-a-designer"/>
         <updated>2021-05-25T14:30:51.000Z</updated>
         <summary type="html"><![CDATA[https://uxdesign.cc/how-to-find-what-drives-you-as-a-designer-29350ff120d8]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ravi Vasavan: Designing for Deaf Power]]></title>
-        <id>https://medium.com/indeed-design/ravi-vasavan-designing-for-deaf-power-baf5842865e9</id>
-        <link href="http://www.webdesignernews.com/external/ravi-vasavan-designing-for-deaf-power"/>
-        <updated>2021-05-25T14:30:51.000Z</updated>
-        <summary type="html"><![CDATA[https://medium.com/indeed-design/ravi-vasavan-designing-for-deaf-power-baf5842865e9]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Map of the Internet]]></title>
-        <id>https://www.halcyonmaps.com/map-of-the-internet-2021</id>
-        <link href="http://www.webdesignernews.com/external/map-of-the-internet-2"/>
-        <updated>2021-05-25T14:30:24.000Z</updated>
-        <summary type="html"><![CDATA[https://www.halcyonmaps.com/map-of-the-internet-2021]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
