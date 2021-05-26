@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-26T09:15:10.232Z</id>
+    <id>urn:2021-05-26T10:16:13.627Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T09:15:10.232Z</updated>
+    <updated>2021-05-26T10:16:13.627Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -73,6 +73,16 @@
         <summary type="html"><![CDATA[https://www.zenweb.com.au/blog/how-to-write-good-alt-text-for-accessibility-and-search-engines]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write the First Blog Post with Success]]></title>
+        <id>https://www.designernews.co/stories/115659-how-to-write-the-first-blog-post-with-success</id>
+        <link href="https://www.designernews.co/stories/115659-how-to-write-the-first-blog-post-with-success"/>
+        <updated>2021-05-25T15:14:22.000Z</updated>
+        <summary type="html"><![CDATA[https://wpklik.com/wordpress-tips/first-blog-post/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -514,16 +524,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <link href="https://www.designernews.co/stories/115565-11-best-gifts-for-developers-coders-programmers"/>
         <updated>2021-05-20T11:34:51.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/11-best-gifts-for-developerscodersprogr.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 Portfolio Website & HTML Templates for Creatives]]></title>
-        <id>https://www.designernews.co/stories/115564-20-portfolio-website--html-templates-for-creatives</id>
-        <link href="https://www.designernews.co/stories/115564-20-portfolio-website--html-templates-for-creatives"/>
-        <updated>2021-05-20T11:34:42.000Z</updated>
-        <summary type="html"><![CDATA[https://wpklik.com/wordpress-themes/portfolio-website-templates/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
