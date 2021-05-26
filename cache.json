@@ -340,7 +340,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2130,
+          "wordCount": 2121,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)"
         },
         {
@@ -367,7 +367,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9398,
+          "wordCount": 9435,
           "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
         },
         {
@@ -475,7 +475,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6310,
+          "wordCount": 6347,
           "title": "Get Started With React By Building A Whac-A-Mole Game"
         },
         {
@@ -484,7 +484,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4169,
+          "wordCount": 4164,
           "title": "How To Organize Product-Related Assets And Collaborate Better"
         },
         {
@@ -493,7 +493,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2659,
+          "wordCount": 2668,
           "title": "Improving The Performance Of Shopify Themes (Case Study)"
         },
         {
@@ -502,7 +502,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2296,
+          "wordCount": 2338,
           "title": "Reducing HTML Payload With Next.js (Case Study)"
         },
         {
@@ -529,7 +529,7 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2178,
+          "wordCount": 2183,
           "title": "The Evolution Of Jamstack"
         },
         {
@@ -538,7 +538,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2176,
+          "wordCount": 2190,
           "title": "May Is In The Air (2021 Wallpapers Edition)"
         },
         {
@@ -599,7 +599,7 @@
           "description": "https://www.androidpolice.com/2021/05/24/google-wants-to-sacrifice-chromes-usability-to-make-room-for-more-clickbait/",
           "link": "http://www.webdesignernews.com/external/google-wants-to-sacrifice-chrome-s-usability-to-make-room-for-more-clickbait",
           "publishedOn": "2021-05-25T21:26:41.000Z",
-          "wordCount": 2150,
+          "wordCount": 2140,
           "title": "Google wants to sacrifice Chrome's usability to make room for more clickbait"
         },
         {
@@ -608,7 +608,7 @@
           "description": "https://thenextweb.com/news/how-digital-nationalism-benefits-big-tech-syndication",
           "link": "http://www.webdesignernews.com/external/we-re-entering-the-age-of-digital-nationalism-and-this-will-only-benefit-big-tech",
           "publishedOn": "2021-05-25T18:25:00.000Z",
-          "wordCount": 1240,
+          "wordCount": 1236,
           "title": "We?re entering the age of ?digital nationalism? - and this will only benefit big tech"
         },
         {
@@ -689,7 +689,7 @@
           "description": "https://thenextweb.com/news/5-lessons-bootstrapped-company-500m-valuation",
           "link": "http://www.webdesignernews.com/external/i-bootstrapped-my-company-to-a-500m-valuation-here-are-my-top-5-learnings",
           "publishedOn": "2021-05-25T12:06:00.000Z",
-          "wordCount": 1333,
+          "wordCount": 1329,
           "title": "I bootstrapped my company to a $500M+ valuation - here are my top 5 learnings"
         },
         {
@@ -734,7 +734,7 @@
           "description": "https://www.quicksprout.com/how-to-create-a-sales-plan/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-sales-plan",
           "publishedOn": "2021-05-24T21:19:00.000Z",
-          "wordCount": 2921,
+          "wordCount": 2900,
           "title": "How to Create a Sales Plan"
         },
         {
