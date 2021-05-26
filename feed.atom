@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-26T16:21:06.945Z</id>
+    <id>urn:2021-05-26T18:08:01.532Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T16:21:06.945Z</updated>
+    <updated>2021-05-26T18:08:01.532Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Minimal Avatars - Create minimal, unique and playful avatars for free]]></title>
+        <id>https://minimalavatars.com/</id>
+        <link href="http://www.webdesignernews.com/external/minimal-avatars-create-minimal-unique-and-playful-avatars-for-free"/>
+        <updated>2021-05-26T17:33:00.000Z</updated>
+        <summary type="html"><![CDATA[https://minimalavatars.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chartmat.com - Build dashboards and apps on top of Google Sheets]]></title>
+        <id>https://chartmat.com/</id>
+        <link href="http://www.webdesignernews.com/external/chartmat-com-build-dashboards-and-apps-on-top-of-google-sheets"/>
+        <updated>2021-05-26T16:55:00.000Z</updated>
+        <summary type="html"><![CDATA[https://chartmat.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Looking to leave WordPress behind? You?re not alone]]></title>
         <id>https://searchengineland.com/looking-to-leave-wordpress-behind-youre-not-alone-348896</id>
@@ -221,26 +241,6 @@
         <link href="http://www.webdesignernews.com/external/elliot-ulm-s-graphic-design-memes-will-make-you-laugh-and-then-make-you-think"/>
         <updated>2021-05-25T14:30:22.000Z</updated>
         <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/elliot-ulm-graphic-design-250521]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Way To Reduce Font Loading Impact: CSS Font Descriptors]]></title>
-        <id>https://www.smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/</id>
-        <link href="http://www.webdesignernews.com/external/a-new-way-to-reduce-font-loading-impact-css-font-descriptors"/>
-        <updated>2021-05-25T14:30:09.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Search Console performance report gains practice problems]]></title>
-        <id>https://searchengineland.com/google-search-console-performance-report-gains-practice-problems-348840</id>
-        <link href="http://www.webdesignernews.com/external/google-search-console-performance-report-gains-practice-problems"/>
-        <updated>2021-05-25T14:26:00.000Z</updated>
-        <summary type="html"><![CDATA[https://searchengineland.com/google-search-console-performance-report-gains-practice-problems-348840]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
