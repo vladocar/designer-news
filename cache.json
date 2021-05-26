@@ -108,7 +108,7 @@
           "description": "https://www.youtube.com/watch?v=nrKpsKOw7KI",
           "link": "https://www.designernews.co/stories/115667-an-awesome--free-open-source-design-prototyping-tool-penpot",
           "publishedOn": "2021-05-26T05:56:58.000Z",
-          "wordCount": 172,
+          "wordCount": 169,
           "title": "An awesome & free open source design prototyping tool: Penpot"
         },
         {
@@ -117,7 +117,7 @@
           "description": "https://www.animaapp.com/blog/product-updates/announcing-vue-js-beta-release/",
           "link": "https://www.designernews.co/stories/115657-anima-now-supports-converting-figmasketchxd-to-vuejs",
           "publishedOn": "2021-05-25T13:21:59.000Z",
-          "wordCount": 168,
+          "wordCount": 165,
           "title": "Anima now supports converting Figma/Sketch/XD to VueJS"
         },
         {
@@ -126,7 +126,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/05/create-better-html-death-to-div.html",
           "link": "https://www.designernews.co/stories/115655-create-a-better-html--death-of-div",
           "publishedOn": "2021-05-25T11:42:06.000Z",
-          "wordCount": 168,
+          "wordCount": 165,
           "title": "Create a better HTML : Death of div"
         },
         {
@@ -135,7 +135,7 @@
           "description": "https://www.youtube.com/watch?v=JO-SXrlnmEE",
           "link": "https://www.designernews.co/stories/115650-portfolio-website-transformation-free-figma-template",
           "publishedOn": "2021-05-25T10:22:13.000Z",
-          "wordCount": 169,
+          "wordCount": 166,
           "title": "Portfolio Website Transformation (Free Figma Template)"
         },
         {
@@ -144,7 +144,7 @@
           "description": "https://www.zenesys.com/blog/how-to-make-an-app-for-android-and-ios",
           "link": "https://www.designernews.co/stories/115649-how-to-make-an-app-for-android-and-ios",
           "publishedOn": "2021-05-25T09:52:11.000Z",
-          "wordCount": 171,
+          "wordCount": 168,
           "title": "How to Make an App for Android and iOS"
         },
         {
@@ -153,8 +153,17 @@
           "description": "https://blog.plantapp.io/post/building-a-useful-ui-kit",
           "link": "https://www.designernews.co/stories/115648-building-a-useful-ui-kit",
           "publishedOn": "2021-05-25T07:10:38.000Z",
-          "wordCount": 162,
+          "wordCount": 159,
           "title": "Building a useful UI Kit"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115641-figma-empathy-map-template",
+          "author": null,
+          "description": "https://www.figma.com/community/file/978728971487203968/Empathy-Map-by-Human-Deluxe",
+          "link": "https://www.designernews.co/stories/115641-figma-empathy-map-template",
+          "publishedOn": "2021-05-24T18:40:03.000Z",
+          "wordCount": 159,
+          "title": "Figma Empathy Map Template"
         },
         {
           "id": "https://www.designernews.co/stories/115636-creating-an-interactivefunctional-dropdown-in-figma",
@@ -162,7 +171,7 @@
           "description": "https://www.youtube.com/watch?v=5YEw7O1KgNQ",
           "link": "https://www.designernews.co/stories/115636-creating-an-interactivefunctional-dropdown-in-figma",
           "publishedOn": "2021-05-24T12:13:10.000Z",
-          "wordCount": 164,
+          "wordCount": 161,
           "title": "Creating an Interactive/Functional Dropdown in Figma"
         },
         {
@@ -171,7 +180,7 @@
           "description": "https://www.zenesys.com/rpa-services/blueprism",
           "link": "https://www.designernews.co/stories/115634-looking-for-blueprism-development-services-get-the-best-blueprism-services-in-usa",
           "publishedOn": "2021-05-24T11:25:49.000Z",
-          "wordCount": 177,
+          "wordCount": 174,
           "title": "Looking for Blueprism Development Services? Get the Best Blueprism Services in USA"
         },
         {
@@ -180,7 +189,7 @@
           "description": "https://www.designinspiration.info/10-free-illustrator-3d-stitched-text-effect-styles/",
           "link": "https://www.designernews.co/stories/115633-10-free-illustrator-3d-stitched-text-effects",
           "publishedOn": "2021-05-24T10:33:17.000Z",
-          "wordCount": 166,
+          "wordCount": 163,
           "title": "10 Free Illustrator 3D Stitched Text Effects"
         },
         {
@@ -189,7 +198,7 @@
           "description": "https://cmsinstallation.blogspot.com/2015/06/addremove-input-fields-dynamically-with.html",
           "link": "https://www.designernews.co/stories/115624-add-remove-input-fields-dynamically-with-jquery",
           "publishedOn": "2021-05-23T16:55:00.000Z",
-          "wordCount": 166,
+          "wordCount": 163,
           "title": "Add Remove Input Fields Dynamically With Jquery"
         },
         {
@@ -198,7 +207,7 @@
           "description": "https://cmsinstallation.blogspot.com/2019/05/read-and-write-json-file-with-php-and.html",
           "link": "https://www.designernews.co/stories/115623-read-and-write-json-file-with-php-and-mysql",
           "publishedOn": "2021-05-23T16:52:57.000Z",
-          "wordCount": 170,
+          "wordCount": 167,
           "title": "Read and write json file with php and mysql"
         },
         {
@@ -207,7 +216,7 @@
           "description": "https://tailwind-figma.com/",
           "link": "https://www.designernews.co/stories/115617-show-dn-figma-design-kit-for-tailwind-css",
           "publishedOn": "2021-05-22T13:05:33.000Z",
-          "wordCount": 183,
+          "wordCount": 238,
           "title": "Show DN: Figma design kit for Tailwind CSS"
         },
         {
@@ -216,7 +225,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/05/3-ways-to-write-elegant-javascript-code.html",
           "link": "https://www.designernews.co/stories/115616-3-ways-to-write-elegant-javascript-code",
           "publishedOn": "2021-05-22T12:25:26.000Z",
-          "wordCount": 166,
+          "wordCount": 163,
           "title": "3 Ways to Write Elegant JavaScript Code"
         },
         {
@@ -225,7 +234,7 @@
           "description": "https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/",
           "link": "https://www.designernews.co/stories/115607-complete-guide-on-how-to-create-an-app-like-bet365",
           "publishedOn": "2021-05-22T04:46:29.000Z",
-          "wordCount": 171,
+          "wordCount": 168,
           "title": "Complete guide on how to create an app like Bet365"
         },
         {
@@ -234,7 +243,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/05/top-7-cheapest-stuff-that-can-help-you.html",
           "link": "https://www.designernews.co/stories/115603-top-7-cheapest-stuff-that-can-help-you-while-you-are-coding",
           "publishedOn": "2021-05-21T16:39:03.000Z",
-          "wordCount": 233,
+          "wordCount": 230,
           "title": "TOP 7 Cheapest Stuff That Can Help You While You are Coding"
         },
         {
@@ -243,7 +252,7 @@
           "description": "https://pixiko.com/templates",
           "link": "https://www.designernews.co/stories/115592-stunning-video-templates-for-business-events-social-media-with-filters-transitions-motions-and-relative-time",
           "publishedOn": "2021-05-21T11:10:42.000Z",
-          "wordCount": 183,
+          "wordCount": 180,
           "title": "Stunning video templates for business, events, social media with filters, transitions, motions and relative time"
         },
         {
@@ -252,7 +261,7 @@
           "description": "https://tailwind-elements.com/",
           "link": "https://www.designernews.co/stories/115589-tailwind--latest-bootstrap-5",
           "publishedOn": "2021-05-21T07:43:51.000Z",
-          "wordCount": 161,
+          "wordCount": 158,
           "title": "Tailwind + latest Bootstrap 5"
         },
         {
@@ -261,7 +270,7 @@
           "description": "https://wpklik.com/wordpress-themes/free-wordpress-gaming-themes/",
           "link": "https://www.designernews.co/stories/115581-5-awesome--free-wordpress-gaming-themes",
           "publishedOn": "2021-05-20T15:06:37.000Z",
-          "wordCount": 164,
+          "wordCount": 161,
           "title": "5+ Awesome & Free WordPress Gaming Themes"
         },
         {
@@ -270,7 +279,7 @@
           "description": "https://www.zenesys.com/blog/key-steps-to-achieve-successful-rpa-implementation",
           "link": "https://www.designernews.co/stories/115580-key-steps-to-achieve-successful-rpa-implementation",
           "publishedOn": "2021-05-20T14:11:52.000Z",
-          "wordCount": 169,
+          "wordCount": 166,
           "title": "Key steps to achieve successful RPA Implementation"
         },
         {
@@ -279,7 +288,7 @@
           "description": "https://d.mba/guides/what-is-business-design-guide",
           "link": "https://www.designernews.co/stories/115569-business-design-guide",
           "publishedOn": "2021-05-20T12:45:34.000Z",
-          "wordCount": 158,
+          "wordCount": 155,
           "title": "Business Design Guide"
         },
         {
@@ -288,7 +297,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/04/seven-absolutely-essential-tools-for.html",
           "link": "https://www.designernews.co/stories/115566-seven-absolutely-essential-tools-for-front-end-developers",
           "publishedOn": "2021-05-20T11:36:14.000Z",
-          "wordCount": 168,
+          "wordCount": 165,
           "title": "Seven Absolutely Essential Tools for Front End Developers"
         },
         {
@@ -297,7 +306,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/05/11-best-gifts-for-developerscodersprogr.html",
           "link": "https://www.designernews.co/stories/115565-11-best-gifts-for-developers-coders-programmers",
           "publishedOn": "2021-05-20T11:34:51.000Z",
-          "wordCount": 166,
+          "wordCount": 163,
           "title": "11 Best Gifts For Developers/ Coders/ Programmers"
         },
         {
@@ -306,7 +315,7 @@
           "description": "https://wpklik.com/wordpress-themes/portfolio-website-templates/",
           "link": "https://www.designernews.co/stories/115564-20-portfolio-website--html-templates-for-creatives",
           "publishedOn": "2021-05-20T11:34:42.000Z",
-          "wordCount": 167,
+          "wordCount": 164,
           "title": "20 Portfolio Website & HTML Templates for Creatives"
         },
         {
@@ -315,17 +324,8 @@
           "description": "https://design.infinum.com/case/orbiting-around-reddits-rating-system",
           "link": "https://www.designernews.co/stories/115562-orbiting-around-reddits-rating-system",
           "publishedOn": "2021-05-20T10:46:17.000Z",
-          "wordCount": 163,
+          "wordCount": 160,
           "title": "Orbiting around Reddit's rating system"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115546-why-businesses-should-invest-in-mobile-app-design-for-their-apps",
-          "author": null,
-          "description": "https://www.zenesys.com/blog/why-businesses-should-invest-in-mobile-app-design-for-their-apps",
-          "link": "https://www.designernews.co/stories/115546-why-businesses-should-invest-in-mobile-app-design-for-their-apps",
-          "publishedOn": "2021-05-19T12:05:54.000Z",
-          "wordCount": 249,
-          "title": "Why Businesses should invest in Mobile App Design for their Apps?"
         }
       ]
     },
@@ -382,7 +382,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9449,
+          "wordCount": 9435,
           "title": "Building A Rich Text Editor (WYSIWYG) From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -410,7 +410,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1956,
+          "wordCount": 1970,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -480,7 +480,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2444,
+          "wordCount": 2435,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -550,7 +550,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6352,
+          "wordCount": 6361,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -578,7 +578,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2654,
+          "wordCount": 2668,
           "title": "Improving The Performance Of Shopify Themes (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
@@ -606,7 +606,7 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1795,
+          "wordCount": 1832,
           "title": "A Guide To Undoing Mistakes With Git (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -634,7 +634,7 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2178,
+          "wordCount": 2183,
           "title": "The Evolution Of Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
@@ -648,7 +648,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2181,
+          "wordCount": 2176,
           "title": "May Is In The Air (2021 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1608f515-bf92-4faa-b3e5-1090f1a22696/may-21-from-nope-to-hope-preview-opt.png",
@@ -662,7 +662,7 @@
           "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5373,
+          "wordCount": 5362,
           "title": "The Humble `<img>` Element And Core Web Vitals",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ec5e4a-099e-4a1a-a1a3-b7545835520f/26-humble-img-element-and-core-web-vitals.png",
@@ -676,7 +676,7 @@
           "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
           "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
           "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2121,
+          "wordCount": 2130,
           "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/image-optimization-header.png",
@@ -729,7 +729,7 @@
           "description": "https://www.androidpolice.com/2021/05/24/google-wants-to-sacrifice-chromes-usability-to-make-room-for-more-clickbait/",
           "link": "http://www.webdesignernews.com/external/google-wants-to-sacrifice-chrome-s-usability-to-make-room-for-more-clickbait",
           "publishedOn": "2021-05-25T21:26:41.000Z",
-          "wordCount": 2139,
+          "wordCount": 2129,
           "title": "Google wants to sacrifice Chrome's usability to make room for more clickbait"
         },
         {
@@ -819,7 +819,7 @@
           "description": "https://thenextweb.com/news/5-lessons-bootstrapped-company-500m-valuation",
           "link": "http://www.webdesignernews.com/external/i-bootstrapped-my-company-to-a-500m-valuation-here-are-my-top-5-learnings",
           "publishedOn": "2021-05-25T12:06:00.000Z",
-          "wordCount": 1329,
+          "wordCount": 1334,
           "title": "I bootstrapped my company to a $500M+ valuation - here are my top 5 learnings"
         },
         {
@@ -864,7 +864,7 @@
           "description": "https://www.quicksprout.com/how-to-create-a-sales-plan/",
           "link": "http://www.webdesignernews.com/external/how-to-create-a-sales-plan",
           "publishedOn": "2021-05-24T21:19:00.000Z",
-          "wordCount": 2921,
+          "wordCount": 2900,
           "title": "How to Create a Sales Plan"
         },
         {

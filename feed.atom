@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-26T08:18:14.885Z</id>
+    <id>urn:2021-05-26T09:15:10.232Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T08:18:14.885Z</updated>
+    <updated>2021-05-26T09:15:10.232Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -297,6 +297,16 @@ The post 20 Best Japanese Style Fonts appeared first on Design Inspiration.]]></
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Figma Empathy Map Template]]></title>
+        <id>https://www.designernews.co/stories/115641-figma-empathy-map-template</id>
+        <link href="https://www.designernews.co/stories/115641-figma-empathy-map-template"/>
+        <updated>2021-05-24T18:40:03.000Z</updated>
+        <summary type="html"><![CDATA[https://www.figma.com/community/file/978728971487203968/Empathy-Map-by-Human-Deluxe]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Creating an Interactive/Functional Dropdown in Figma]]></title>
         <id>https://www.designernews.co/stories/115636-creating-an-interactivefunctional-dropdown-in-figma</id>
         <link href="https://www.designernews.co/stories/115636-creating-an-interactivefunctional-dropdown-in-figma"/>
@@ -534,16 +544,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <link href="https://www.designernews.co/stories/115562-orbiting-around-reddits-rating-system"/>
         <updated>2021-05-20T10:46:17.000Z</updated>
         <summary type="html"><![CDATA[https://design.infinum.com/case/orbiting-around-reddits-rating-system]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Businesses should invest in Mobile App Design for their Apps?]]></title>
-        <id>https://www.designernews.co/stories/115546-why-businesses-should-invest-in-mobile-app-design-for-their-apps</id>
-        <link href="https://www.designernews.co/stories/115546-why-businesses-should-invest-in-mobile-app-design-for-their-apps"/>
-        <updated>2021-05-19T12:05:54.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/why-businesses-should-invest-in-mobile-app-design-for-their-apps]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
