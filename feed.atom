@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-25T23:07:26.655Z</id>
+    <id>urn:2021-05-26T00:21:15.601Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T23:07:26.655Z</updated>
+    <updated>2021-05-26T00:21:15.601Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Than Average]]></title>
+        <id>https://thanaverage.xyz/</id>
+        <link href="http://www.webdesignernews.com/external/than-average"/>
+        <updated>2021-05-25T23:48:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thanaverage.xyz/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Who has the fastest F1 website in 2021?]]></title>
         <id>https://jakearchibald.com/2021/f1-perf-part-1/</id>
@@ -272,16 +282,6 @@ The post 20 Best Japanese Style Fonts appeared first on Design Inspiration.]]></
         <link href="http://www.webdesignernews.com/external/potion-create-custom-websites-in-minutes-all-on-notion"/>
         <updated>2021-05-24T19:34:00.000Z</updated>
         <summary type="html"><![CDATA[https://potion.so/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[82% of developers get this 3 line CSS quiz wrong]]></title>
-        <id>https://lea.verou.me/2021/05/82-of-developers-get-this-3-line-css-quiz-wrong/</id>
-        <link href="http://www.webdesignernews.com/external/82-of-developers-get-this-3-line-css-quiz-wrong"/>
-        <updated>2021-05-24T18:15:00.000Z</updated>
-        <summary type="html"><![CDATA[https://lea.verou.me/2021/05/82-of-developers-get-this-3-line-css-quiz-wrong/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>

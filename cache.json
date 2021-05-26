@@ -340,7 +340,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2121,
+          "wordCount": 2130,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)"
         },
         {
@@ -367,7 +367,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9435,
+          "wordCount": 9398,
           "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
         },
         {
@@ -385,7 +385,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1956,
+          "wordCount": 1961,
           "title": "How To Implement Authentication In Next.js With Auth0"
         },
         {
@@ -421,7 +421,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2948,
+          "wordCount": 2957,
           "title": "How We Improved Our Core Web Vitals (Case Study)"
         },
         {
@@ -430,7 +430,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2435,
+          "wordCount": 2444,
           "title": "Tree-Shaking: A Reference Guide"
         },
         {
@@ -484,7 +484,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4127,
+          "wordCount": 4169,
           "title": "How To Organize Product-Related Assets And Collaborate Better"
         },
         {
@@ -493,7 +493,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2668,
+          "wordCount": 2659,
           "title": "Improving The Performance Of Shopify Themes (Case Study)"
         },
         {
@@ -502,7 +502,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2347,
+          "wordCount": 2296,
           "title": "Reducing HTML Payload With Next.js (Case Study)"
         },
         {
@@ -511,7 +511,7 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1837,
+          "wordCount": 1795,
           "title": "A Guide To Undoing Mistakes With Git (Part 1)"
         },
         {
@@ -538,7 +538,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2190,
+          "wordCount": 2176,
           "title": "May Is In The Air (2021 Wallpapers Edition)"
         },
         {
@@ -547,7 +547,7 @@
           "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5364,
+          "wordCount": 5322,
           "title": "The Humble `<img>` Element And Core Web Vitals"
         },
         {
@@ -576,6 +576,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://thanaverage.xyz/",
+          "author": null,
+          "description": "https://thanaverage.xyz/",
+          "link": "http://www.webdesignernews.com/external/than-average",
+          "publishedOn": "2021-05-25T23:48:00.000Z",
+          "wordCount": 110,
+          "title": "Than Average"
+        },
+        {
           "id": "https://jakearchibald.com/2021/f1-perf-part-1/",
           "author": null,
           "description": "https://jakearchibald.com/2021/f1-perf-part-1/",
@@ -590,7 +599,7 @@
           "description": "https://www.androidpolice.com/2021/05/24/google-wants-to-sacrifice-chromes-usability-to-make-room-for-more-clickbait/",
           "link": "http://www.webdesignernews.com/external/google-wants-to-sacrifice-chrome-s-usability-to-make-room-for-more-clickbait",
           "publishedOn": "2021-05-25T21:26:41.000Z",
-          "wordCount": 2153,
+          "wordCount": 2150,
           "title": "Google wants to sacrifice Chrome's usability to make room for more clickbait"
         },
         {
@@ -599,7 +608,7 @@
           "description": "https://thenextweb.com/news/how-digital-nationalism-benefits-big-tech-syndication",
           "link": "http://www.webdesignernews.com/external/we-re-entering-the-age-of-digital-nationalism-and-this-will-only-benefit-big-tech",
           "publishedOn": "2021-05-25T18:25:00.000Z",
-          "wordCount": 1236,
+          "wordCount": 1240,
           "title": "We?re entering the age of ?digital nationalism? - and this will only benefit big tech"
         },
         {
@@ -626,7 +635,7 @@
           "description": "https://uxdesign.cc/how-to-find-what-drives-you-as-a-designer-29350ff120d8",
           "link": "http://www.webdesignernews.com/external/how-to-find-what-drives-you-as-a-designer",
           "publishedOn": "2021-05-25T14:30:51.000Z",
-          "wordCount": 2218,
+          "wordCount": 2150,
           "title": "How to find what drives you as a designer"
         },
         {
@@ -745,15 +754,6 @@
           "publishedOn": "2021-05-24T19:34:00.000Z",
           "wordCount": 378,
           "title": "Potion - Create custom websites in minutes, all on Notion"
-        },
-        {
-          "id": "https://lea.verou.me/2021/05/82-of-developers-get-this-3-line-css-quiz-wrong/",
-          "author": null,
-          "description": "https://lea.verou.me/2021/05/82-of-developers-get-this-3-line-css-quiz-wrong/",
-          "link": "http://www.webdesignernews.com/external/82-of-developers-get-this-3-line-css-quiz-wrong",
-          "publishedOn": "2021-05-24T18:15:00.000Z",
-          "wordCount": 759,
-          "title": "82% of developers get this 3 line CSS quiz wrong"
         }
       ]
     }
