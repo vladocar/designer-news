@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-27T11:24:29.216Z</id>
+    <id>urn:2021-05-27T12:17:29.840Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T11:24:29.216Z</updated>
+    <updated>2021-05-27T12:17:29.840Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[8 Key Elements of Designing Your Brand Identity]]></title>
+        <id>https://designdrizzle.com/8-key-elements-of-designing-your-brand-identity/</id>
+        <link href="http://www.webdesignernews.com/external/8-key-elements-of-designing-your-brand-identity"/>
+        <updated>2021-05-27T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[https://designdrizzle.com/8-key-elements-of-designing-your-brand-identity/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Color Inspiration ideas in 2021]]></title>
+        <id>https://www.designernews.co/stories/115692-color-inspiration-ideas-in-2021</id>
+        <link href="https://www.designernews.co/stories/115692-color-inspiration-ideas-in-2021"/>
+        <updated>2021-05-27T12:00:07.000Z</updated>
+        <summary type="html"><![CDATA[https://hexcolor.co/color-inspiration]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Build And Launch Responsive Websites Faster With Editor X]]></title>
         <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
@@ -287,16 +307,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Than Average]]></title>
-        <id>https://thanaverage.xyz/</id>
-        <link href="http://www.webdesignernews.com/external/than-average"/>
-        <updated>2021-05-25T23:48:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thanaverage.xyz/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Write the First Blog Post with Success]]></title>
         <id>https://www.designernews.co/stories/115659-how-to-write-the-first-blog-post-with-success</id>
         <link href="https://www.designernews.co/stories/115659-how-to-write-the-first-blog-post-with-success"/>
@@ -567,16 +577,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orbiting around Reddit's rating system]]></title>
-        <id>https://www.designernews.co/stories/115562-orbiting-around-reddits-rating-system</id>
-        <link href="https://www.designernews.co/stories/115562-orbiting-around-reddits-rating-system"/>
-        <updated>2021-05-20T10:46:17.000Z</updated>
-        <summary type="html"><![CDATA[https://design.infinum.com/case/orbiting-around-reddits-rating-system]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
