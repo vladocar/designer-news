@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-27T20:15:05.026Z</id>
+    <id>urn:2021-05-27T21:09:15.946Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T20:15:05.026Z</updated>
+    <updated>2021-05-27T21:09:15.946Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Thorough Analysis of CSS-in-JS]]></title>
+        <id>https://css-tricks.com/a-thorough-analysis-of-css-in-js/</id>
+        <link href="http://www.webdesignernews.com/external/a-thorough-analysis-of-css-in-js"/>
+        <updated>2021-05-27T21:03:00.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/a-thorough-analysis-of-css-in-js/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zeroqode 4.0 - Build web and mobile apps without code and engineers]]></title>
         <id>https://zeroqode.com/</id>
@@ -302,16 +312,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         <link href="http://www.webdesignernews.com/external/chartmat-com-build-dashboards-and-apps-on-top-of-google-sheets"/>
         <updated>2021-05-26T16:55:00.000Z</updated>
         <summary type="html"><![CDATA[https://chartmat.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking to leave WordPress behind? You?re not alone]]></title>
-        <id>https://searchengineland.com/looking-to-leave-wordpress-behind-youre-not-alone-348896</id>
-        <link href="http://www.webdesignernews.com/external/looking-to-leave-wordpress-behind-you-re-not-alone"/>
-        <updated>2021-05-26T15:23:50.000Z</updated>
-        <summary type="html"><![CDATA[https://searchengineland.com/looking-to-leave-wordpress-behind-youre-not-alone-348896]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
