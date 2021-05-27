@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-27T16:30:41.735Z</id>
+    <id>urn:2021-05-27T18:20:04.848Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T16:30:41.735Z</updated>
+    <updated>2021-05-27T18:20:04.848Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Logo A or B?]]></title>
+        <id>https://www.designernews.co/stories/115701-logo-a-or-b</id>
+        <link href="https://www.designernews.co/stories/115701-logo-a-or-b"/>
+        <updated>2021-05-27T18:06:42.000Z</updated>
+        <summary type="html"><![CDATA[https://the-femalecompany.typeform.com/to/bRUyKDOZ]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Most SaaS Products Fail�and What to Do About It]]></title>
+        <id>https://adamfard.com/blog/why-most-saas-products-fail</id>
+        <link href="http://www.webdesignernews.com/external/why-most-saas-products-fail-and-what-to-do-about-it"/>
+        <updated>2021-05-27T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[https://adamfard.com/blog/why-most-saas-products-fail]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jitter Plugin for Figma - Animate your Figma designs in Jitter, easily]]></title>
+        <id>https://www.figma.com/community/plugin/961270034818256057</id>
+        <link href="http://www.webdesignernews.com/external/jitter-plugin-for-figma-animate-your-figma-designs-in-jitter-easily"/>
+        <updated>2021-05-27T17:29:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.figma.com/community/plugin/961270034818256057]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10+ CSS Button Click Effects]]></title>
+        <id>https://csshint.com/css-button-click-effects/</id>
+        <link href="http://www.webdesignernews.com/external/10-css-button-click-effects"/>
+        <updated>2021-05-27T16:59:00.000Z</updated>
+        <summary type="html"><![CDATA[https://csshint.com/css-button-click-effects/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HammerUI - Simple REST API client]]></title>
         <id>https://hammerui.com/</id>
@@ -277,36 +317,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helsinki Design System]]></title>
-        <id>https://hds.hel.fi/</id>
-        <link href="http://www.webdesignernews.com/external/helsinki-design-system"/>
-        <updated>2021-05-26T15:23:45.000Z</updated>
-        <summary type="html"><![CDATA[https://hds.hel.fi/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back of House: why is the business side of design always hidden?]]></title>
-        <id>https://www.itsnicethat.com/news/anoushka-rodda-templo-back-of-house-the-business-side-of-design-creative-industry-opinion-260521</id>
-        <link href="http://www.webdesignernews.com/external/back-of-house-why-is-the-business-side-of-design-always-hidden"/>
-        <updated>2021-05-26T15:22:52.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/news/anoushka-rodda-templo-back-of-house-the-business-side-of-design-creative-industry-opinion-260521]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best Side Hustles To Consider In 2021]]></title>
-        <id>https://marketsplash.com/best-side-hustles/</id>
-        <link href="http://www.webdesignernews.com/external/10-best-side-hustles-to-consider-in-2021"/>
-        <updated>2021-05-26T14:16:00.000Z</updated>
-        <summary type="html"><![CDATA[https://marketsplash.com/best-side-hustles/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Maximize the User Research You're Already Doing]]></title>
         <id>https://www.designernews.co/stories/115676-how-to-maximize-the-user-research-youre-already-doing</id>
         <link href="https://www.designernews.co/stories/115676-how-to-maximize-the-user-research-youre-already-doing"/>
@@ -545,16 +555,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <link href="https://www.designernews.co/stories/115607-complete-guide-on-how-to-create-an-app-like-bet365"/>
         <updated>2021-05-22T04:46:29.000Z</updated>
         <summary type="html"><![CDATA[https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOP 7 Cheapest Stuff That Can Help You While You are Coding]]></title>
-        <id>https://www.designernews.co/stories/115603-top-7-cheapest-stuff-that-can-help-you-while-you-are-coding</id>
-        <link href="https://www.designernews.co/stories/115603-top-7-cheapest-stuff-that-can-help-you-while-you-are-coding"/>
-        <updated>2021-05-21T16:39:03.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/top-7-cheapest-stuff-that-can-help-you.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
