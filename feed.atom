@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-27T19:45:30.242Z</id>
+    <id>urn:2021-05-27T20:15:05.026Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T19:45:30.242Z</updated>
+    <updated>2021-05-27T20:15:05.026Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zeroqode 4.0 - Build web and mobile apps without code and engineers]]></title>
+        <id>https://zeroqode.com/</id>
+        <link href="http://www.webdesignernews.com/external/zeroqode-4-0-build-web-and-mobile-apps-without-code-and-engineers"/>
+        <updated>2021-05-27T20:07:00.000Z</updated>
+        <summary type="html"><![CDATA[https://zeroqode.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crash Course in the PHP Ternary Operator With Examples]]></title>
         <id>https://code.tutsplus.com/tutorials/crash-course-in-the-php-ternary-operator-with-examples--cms-37038</id>
@@ -302,16 +312,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         <link href="http://www.webdesignernews.com/external/looking-to-leave-wordpress-behind-you-re-not-alone"/>
         <updated>2021-05-26T15:23:50.000Z</updated>
         <summary type="html"><![CDATA[https://searchengineland.com/looking-to-leave-wordpress-behind-youre-not-alone-348896]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zoom?s new AI will highlight the best bits of meetings for you]]></title>
-        <id>https://thenextweb.com/news/zoom-ai-recording-meeting-bits</id>
-        <link href="http://www.webdesignernews.com/external/zoom-s-new-ai-will-highlight-the-best-bits-of-meetings-for-you"/>
-        <updated>2021-05-26T15:23:48.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/zoom-ai-recording-meeting-bits]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
