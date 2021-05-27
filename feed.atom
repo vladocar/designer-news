@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-27T18:20:04.848Z</id>
+    <id>urn:2021-05-27T19:45:30.242Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T18:20:04.848Z</updated>
+    <updated>2021-05-27T19:45:30.242Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crash Course in the PHP Ternary Operator With Examples]]></title>
+        <id>https://code.tutsplus.com/tutorials/crash-course-in-the-php-ternary-operator-with-examples--cms-37038</id>
+        <link href="http://www.webdesignernews.com/external/crash-course-in-the-php-ternary-operator-with-examples"/>
+        <updated>2021-05-27T19:13:00.000Z</updated>
+        <summary type="html"><![CDATA[https://code.tutsplus.com/tutorials/crash-course-in-the-php-ternary-operator-with-examples--cms-37038]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Logo A or B?]]></title>
         <id>https://www.designernews.co/stories/115701-logo-a-or-b</id>
@@ -302,16 +312,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         <link href="http://www.webdesignernews.com/external/zoom-s-new-ai-will-highlight-the-best-bits-of-meetings-for-you"/>
         <updated>2021-05-26T15:23:48.000Z</updated>
         <summary type="html"><![CDATA[https://thenextweb.com/news/zoom-ai-recording-meeting-bits]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May 22 Google update was big, despite Google?s being mum about it; Wednesday?s daily brief]]></title>
-        <id>https://searchengineland.com/may-22nd-google-update-was-big-but-google-is-mum-about-it-wednesdays-daily-brief-348908</id>
-        <link href="http://www.webdesignernews.com/external/may-22-google-update-was-big-despite-google-s-being-mum-about-it-wednesday-s-daily-brief"/>
-        <updated>2021-05-26T15:23:46.000Z</updated>
-        <summary type="html"><![CDATA[https://searchengineland.com/may-22nd-google-update-was-big-but-google-is-mum-about-it-wednesdays-daily-brief-348908]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
