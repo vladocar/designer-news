@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-27T15:14:30.766Z</id>
+    <id>urn:2021-05-27T16:30:41.735Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T15:14:30.766Z</updated>
+    <updated>2021-05-27T16:30:41.735Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[HammerUI - Simple REST API client]]></title>
+        <id>https://hammerui.com/</id>
+        <link href="http://www.webdesignernews.com/external/hammerui-simple-rest-api-client"/>
+        <updated>2021-05-27T15:46:00.000Z</updated>
+        <summary type="html"><![CDATA[https://hammerui.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's your definition of a design system?]]></title>
+        <id>https://www.designernews.co/stories/115698-whats-your-definition-of-a-design-system</id>
+        <link href="https://www.designernews.co/stories/115698-whats-your-definition-of-a-design-system"/>
+        <updated>2021-05-27T15:41:27.000Z</updated>
+        <summary type="html"><![CDATA[https://twitter.com/SethCoolen/status/1397936996320952321]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Magic Intro Video Maker - Pixiko - with 100% customization, logo and text animation. Easy like 1, 2, 3]]></title>
         <id>https://www.designernews.co/stories/115696-magic-intro-video-maker--pixiko--with-100-customization-logo-and-text-animation-easy-like-1-2-3</id>
@@ -307,16 +327,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Accessible SVGs: Perfect Patterns For Screen Reader Users]]></title>
-        <id>https://www.smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/</id>
-        <link href="http://www.webdesignernews.com/external/accessible-svgs-perfect-patterns-for-screen-reader-users"/>
-        <updated>2021-05-26T13:12:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An awesome & free open source design prototyping tool: Penpot]]></title>
         <id>https://www.designernews.co/stories/115667-an-awesome--free-open-source-design-prototyping-tool-penpot</id>
         <link href="https://www.designernews.co/stories/115667-an-awesome--free-open-source-design-prototyping-tool-penpot"/>
@@ -557,16 +567,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <summary type="html"><![CDATA[Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stunning video templates for business, events, social media with filters, transitions, motions and relative time]]></title>
-        <id>https://www.designernews.co/stories/115592-stunning-video-templates-for-business-events-social-media-with-filters-transitions-motions-and-relative-time</id>
-        <link href="https://www.designernews.co/stories/115592-stunning-video-templates-for-business-events-social-media-with-filters-transitions-motions-and-relative-time"/>
-        <updated>2021-05-21T11:10:42.000Z</updated>
-        <summary type="html"><![CDATA[https://pixiko.com/templates]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
