@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-27T08:27:26.681Z</id>
+    <id>urn:2021-05-27T09:24:26.998Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T08:27:26.681Z</updated>
+    <updated>2021-05-27T09:24:26.998Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UX/UI Design Collection]]></title>
+        <id>https://www.designernews.co/stories/115689-uxui-design-collection-</id>
+        <link href="https://www.designernews.co/stories/115689-uxui-design-collection-"/>
+        <updated>2021-05-27T08:36:30.000Z</updated>
+        <summary type="html"><![CDATA[https://maze.co/collections/ux-ui-design/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Are the Reasons to Redesign Your Website?]]></title>
         <id>https://gapsystudio.com/blog/why-redesign-a-website/</id>
@@ -537,16 +547,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <summary type="html"><![CDATA[Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key steps to achieve successful RPA Implementation]]></title>
-        <id>https://www.designernews.co/stories/115580-key-steps-to-achieve-successful-rpa-implementation</id>
-        <link href="https://www.designernews.co/stories/115580-key-steps-to-achieve-successful-rpa-implementation"/>
-        <updated>2021-05-20T14:11:52.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/key-steps-to-achieve-successful-rpa-implementation]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
