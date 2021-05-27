@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-27T07:38:53.389Z</id>
+    <id>urn:2021-05-27T08:27:26.681Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T07:38:53.389Z</updated>
+    <updated>2021-05-27T08:27:26.681Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Are the Reasons to Redesign Your Website?]]></title>
+        <id>https://gapsystudio.com/blog/why-redesign-a-website/</id>
+        <link href="http://www.webdesignernews.com/external/what-are-the-reasons-to-redesign-your-website"/>
+        <updated>2021-05-27T08:19:46.000Z</updated>
+        <summary type="html"><![CDATA[https://gapsystudio.com/blog/why-redesign-a-website/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Images for Designers - 100+ handpicked resources for designers to get images]]></title>
+        <id>https://salinipillai.com/images-for-designers/</id>
+        <link href="http://www.webdesignernews.com/external/images-for-designers-100-handpicked-resources-for-designers-to-get-images"/>
+        <updated>2021-05-27T08:19:35.000Z</updated>
+        <summary type="html"><![CDATA[https://salinipillai.com/images-for-designers/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Start Using a Smart DAM and Image Optimization Stack]]></title>
+        <id>https://www.webdesignerdepot.com/2021/05/start-using-a-smart-dam-and-image-optimization-stack/</id>
+        <link href="http://www.webdesignernews.com/external/start-using-a-smart-dam-and-image-optimization-stack"/>
+        <updated>2021-05-27T08:19:22.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/start-using-a-smart-dam-and-image-optimization-stack/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should We Rebrand REST?]]></title>
+        <id>https://kieranpotts.com/rebranding-rest/</id>
+        <link href="http://www.webdesignernews.com/external/should-we-rebrand-rest"/>
+        <updated>2021-05-27T07:56:40.000Z</updated>
+        <summary type="html"><![CDATA[https://kieranpotts.com/rebranding-rest/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TOP 7 Cheapest Stuff That Can Help You While You are Coding]]></title>
         <id>https://www.designernews.co/stories/115686-top-7-cheapest-stuff-that-can-help-you-while-you-are-coding</id>
@@ -232,46 +272,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         <link href="http://www.webdesignernews.com/external/than-average"/>
         <updated>2021-05-25T23:48:00.000Z</updated>
         <summary type="html"><![CDATA[https://thanaverage.xyz/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who has the fastest F1 website in 2021?]]></title>
-        <id>https://jakearchibald.com/2021/f1-perf-part-1/</id>
-        <link href="http://www.webdesignernews.com/external/who-has-the-fastest-f1-website-in-2021"/>
-        <updated>2021-05-25T21:55:38.000Z</updated>
-        <summary type="html"><![CDATA[https://jakearchibald.com/2021/f1-perf-part-1/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google wants to sacrifice Chrome's usability to make room for more clickbait]]></title>
-        <id>https://www.androidpolice.com/2021/05/24/google-wants-to-sacrifice-chromes-usability-to-make-room-for-more-clickbait/</id>
-        <link href="http://www.webdesignernews.com/external/google-wants-to-sacrifice-chrome-s-usability-to-make-room-for-more-clickbait"/>
-        <updated>2021-05-25T21:26:41.000Z</updated>
-        <summary type="html"><![CDATA[https://www.androidpolice.com/2021/05/24/google-wants-to-sacrifice-chromes-usability-to-make-room-for-more-clickbait/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We?re entering the age of ?digital nationalism? - and this will only benefit big tech]]></title>
-        <id>https://thenextweb.com/news/how-digital-nationalism-benefits-big-tech-syndication</id>
-        <link href="http://www.webdesignernews.com/external/we-re-entering-the-age-of-digital-nationalism-and-this-will-only-benefit-big-tech"/>
-        <updated>2021-05-25T18:25:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/how-digital-nationalism-benefits-big-tech-syndication]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Image of an Entrepreneur Desperately Needs an Update]]></title>
-        <id>https://www.shopify.com/blog/image-of-an-entrepreneur</id>
-        <link href="http://www.webdesignernews.com/external/our-image-of-an-entrepreneur-desperately-needs-an-update"/>
-        <updated>2021-05-25T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.shopify.com/blog/image-of-an-entrepreneur]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
