@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-27T09:24:26.998Z</id>
+    <id>urn:2021-05-27T10:23:36.856Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T09:24:26.998Z</updated>
+    <updated>2021-05-27T10:23:36.856Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How To Build And Launch Responsive Websites Faster With Editor X]]></title>
+        <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
+        <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
+        <updated>2021-05-27T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UX/UI Design Collection]]></title>
         <id>https://www.designernews.co/stories/115689-uxui-design-collection-</id>
