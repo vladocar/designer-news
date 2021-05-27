@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-27T13:38:40.123Z</id>
+    <id>urn:2021-05-27T14:25:58.502Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T13:38:40.123Z</updated>
+    <updated>2021-05-27T14:25:58.502Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Best Cover Letter Examples For Graphic Designers]]></title>
+        <id>https://www.vectornator.io/blog/graphic-designer-cover-letter</id>
+        <link href="http://www.webdesignernews.com/external/best-cover-letter-examples-for-graphic-designers"/>
+        <updated>2021-05-27T14:11:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vectornator.io/blog/graphic-designer-cover-letter]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful VS Code Extensions For Front-End Developers]]></title>
+        <id>https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/</id>
+        <link href="https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/"/>
+        <updated>2021-05-27T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. Recently, we’ve also covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/) and [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) — you might find them useful, too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 Key Elements of Designing Your Brand Identity]]></title>
         <id>https://designdrizzle.com/8-key-elements-of-designing-your-brand-identity/</id>
@@ -282,16 +302,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         <link href="http://www.webdesignernews.com/external/accessible-svgs-perfect-patterns-for-screen-reader-users"/>
         <updated>2021-05-26T13:12:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finally Understanding PNG]]></title>
-        <id>https://compress-or-die.com/Understanding-PNG</id>
-        <link href="http://www.webdesignernews.com/external/finally-understanding-png"/>
-        <updated>2021-05-26T11:05:00.000Z</updated>
-        <summary type="html"><![CDATA[https://compress-or-die.com/Understanding-PNG]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
