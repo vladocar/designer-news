@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-27T21:09:15.946Z</id>
+    <id>urn:2021-05-27T22:10:18.405Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T21:09:15.946Z</updated>
+    <updated>2021-05-27T22:10:18.405Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Laurent - Web UI kit with 120+ blocks for easy landings' building]]></title>
+        <id>https://laurent.craftwork.design/</id>
+        <link href="http://www.webdesignernews.com/external/laurent-web-ui-kit-with-120-blocks-for-easy-landings-building"/>
+        <updated>2021-05-27T21:18:57.000Z</updated>
+        <summary type="html"><![CDATA[https://laurent.craftwork.design/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Thorough Analysis of CSS-in-JS]]></title>
         <id>https://css-tricks.com/a-thorough-analysis-of-css-in-js/</id>
@@ -302,16 +312,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         <link href="http://www.webdesignernews.com/external/minimal-avatars-create-minimal-unique-and-playful-avatars-for-free"/>
         <updated>2021-05-26T17:33:00.000Z</updated>
         <summary type="html"><![CDATA[https://minimalavatars.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chartmat.com - Build dashboards and apps on top of Google Sheets]]></title>
-        <id>https://chartmat.com/</id>
-        <link href="http://www.webdesignernews.com/external/chartmat-com-build-dashboards-and-apps-on-top-of-google-sheets"/>
-        <updated>2021-05-26T16:55:00.000Z</updated>
-        <summary type="html"><![CDATA[https://chartmat.com/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
