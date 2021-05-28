@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-28T22:12:38.950Z</id>
+    <id>urn:2021-05-28T23:17:54.121Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T22:12:38.950Z</updated>
+    <updated>2021-05-28T23:17:54.121Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Animated Illustrations by Icons8 - 100+ moving pictures to liven up your designs]]></title>
+        <id>https://icons8.com/l/animations/</id>
+        <link href="http://www.webdesignernews.com/external/animated-illustrations-by-icons8-100-moving-pictures-to-liven-up-your-designs"/>
+        <updated>2021-05-28T22:47:00.000Z</updated>
+        <summary type="html"><![CDATA[https://icons8.com/l/animations/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Full Site Editing in WordPress 5.8]]></title>
         <id>https://torquemag.io/2021/05/full-site-editing-in-wordpress-5-8/</id>
@@ -241,16 +251,6 @@
         <link href="http://www.webdesignernews.com/external/10-css-button-click-effects"/>
         <updated>2021-05-27T16:59:00.000Z</updated>
         <summary type="html"><![CDATA[https://csshint.com/css-button-click-effects/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HammerUI - Simple REST API client]]></title>
-        <id>https://hammerui.com/</id>
-        <link href="http://www.webdesignernews.com/external/hammerui-simple-rest-api-client"/>
-        <updated>2021-05-27T15:46:00.000Z</updated>
-        <summary type="html"><![CDATA[https://hammerui.com/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
