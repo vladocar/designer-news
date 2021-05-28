@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-28T00:24:28.128Z</id>
+    <id>urn:2021-05-28T03:17:35.563Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T00:24:28.128Z</updated>
+    <updated>2021-05-28T03:17:35.563Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -833,16 +833,6 @@ The post 38 Best Fashion Fonts for Modern Designs appeared first on Design Inspi
         <summary type="html"><![CDATA[Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Addy Osmani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Image Optimization, A New Smashing Book By Addy Osmani]]></title>
-        <id>https://smashingmagazine.com/2021/04/image-optimization-pre-release/</id>
-        <link href="https://smashingmagazine.com/2021/04/image-optimization-pre-release/"/>
-        <updated>2021-04-28T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
