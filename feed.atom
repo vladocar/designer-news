@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-28T07:46:02.267Z</id>
+    <id>urn:2021-05-28T08:32:44.538Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T07:46:02.267Z</updated>
+    <updated>2021-05-28T08:32:44.538Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[17 Inspiring Examples of Mobile Interaction Design]]></title>
+        <id>https://design4users.com/mobile-interaction-design-examples/</id>
+        <link href="http://www.webdesignernews.com/external/17-inspiring-examples-of-mobile-interaction-design"/>
+        <updated>2021-05-28T07:59:47.000Z</updated>
+        <summary type="html"><![CDATA[https://design4users.com/mobile-interaction-design-examples/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boring Avatars - Avatar Generator Playground]]></title>
+        <id>https://boringavatars.com/</id>
+        <link href="http://www.webdesignernews.com/external/boring-avatars-avatar-generator-playground"/>
+        <updated>2021-05-28T07:59:15.000Z</updated>
+        <summary type="html"><![CDATA[https://boringavatars.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pizza Typefaces? latest release is an original taste called (and all about) Pleasure]]></title>
+        <id>https://www.itsnicethat.com/articles/pizza-typefaces-pleasure-graphic-design-270521</id>
+        <link href="http://www.webdesignernews.com/external/pizza-typefaces-latest-release-is-an-original-taste-called-and-all-about-pleasure"/>
+        <updated>2021-05-28T07:58:58.000Z</updated>
+        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/pizza-typefaces-pleasure-graphic-design-270521]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Types of Cloud Computing Service Models Everyone Should Know About]]></title>
         <id>https://www.designernews.co/stories/115706-types-of-cloud-computing-service-models-everyone-should-know-about</id>
@@ -304,36 +334,6 @@
 The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Savecmd - Save your terminal history in the cloud]]></title>
-        <id>https://www.savecmd.com/</id>
-        <link href="http://www.webdesignernews.com/external/savecmd-save-your-terminal-history-in-the-cloud"/>
-        <updated>2021-05-26T20:52:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.savecmd.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How we worked with you towards a safe and spam-free Search experience in 2020]]></title>
-        <id>https://developers.google.com/search/blog/2021/05/working-with-you-for-safe-and-spam-free-search-2020</id>
-        <link href="http://www.webdesignernews.com/external/how-we-worked-with-you-towards-a-safe-and-spam-free-search-experience-in-2020"/>
-        <updated>2021-05-26T20:46:01.000Z</updated>
-        <summary type="html"><![CDATA[https://developers.google.com/search/blog/2021/05/working-with-you-for-safe-and-spam-free-search-2020]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Past the Limitations of Your Design Skills]]></title>
-        <id>https://speckyboy.com/limitations-design-skills/</id>
-        <link href="http://www.webdesignernews.com/external/getting-past-the-limitations-of-your-design-skills"/>
-        <updated>2021-05-26T19:37:09.000Z</updated>
-        <summary type="html"><![CDATA[https://speckyboy.com/limitations-design-skills/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>

@@ -144,7 +144,7 @@
           "description": "https://pixiko.com/editors/intro-maker",
           "link": "https://www.designernews.co/stories/115696-magic-intro-video-maker--pixiko--with-100-customization-logo-and-text-animation-easy-like-1-2-3",
           "publishedOn": "2021-05-27T15:10:52.000Z",
-          "wordCount": 323,
+          "wordCount": 336,
           "title": "Magic Intro Video Maker - Pixiko - with 100% customization, logo and text animation. Easy like 1, 2, 3"
         },
         {
@@ -340,7 +340,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3735,
+          "wordCount": 3733,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -382,7 +382,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2126,
+          "wordCount": 2124,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -452,7 +452,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1970,
+          "wordCount": 1958,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -508,7 +508,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2943,
+          "wordCount": 2906,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -522,7 +522,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2438,
+          "wordCount": 2440,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -592,7 +592,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6347,
+          "wordCount": 6361,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -606,7 +606,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4172,
+          "wordCount": 4174,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
@@ -634,7 +634,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2296,
+          "wordCount": 2341,
           "title": "Reducing HTML Payload With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0019f4c3-ebdd-4b09-9f45-47173587307b/reduce-data-sent-client-nextjs.jpg",
@@ -648,7 +648,7 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1840,
+          "wordCount": 1832,
           "title": "A Guide To Undoing Mistakes With Git (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -676,7 +676,7 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2192,
+          "wordCount": 2141,
           "title": "The Evolution Of Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
@@ -690,7 +690,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2139,
+          "wordCount": 2181,
           "title": "May Is In The Air (2021 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1608f515-bf92-4faa-b3e5-1090f1a22696/may-21-from-nope-to-hope-preview-opt.png",
@@ -719,6 +719,33 @@
       "feedUrl": "http://feeds.feedburner.com/webdesignernews",
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
+        {
+          "id": "https://design4users.com/mobile-interaction-design-examples/",
+          "author": null,
+          "description": "https://design4users.com/mobile-interaction-design-examples/",
+          "link": "http://www.webdesignernews.com/external/17-inspiring-examples-of-mobile-interaction-design",
+          "publishedOn": "2021-05-28T07:59:47.000Z",
+          "wordCount": 560,
+          "title": "17 Inspiring Examples of Mobile Interaction Design"
+        },
+        {
+          "id": "https://boringavatars.com/",
+          "author": null,
+          "description": "https://boringavatars.com/",
+          "link": "http://www.webdesignernews.com/external/boring-avatars-avatar-generator-playground",
+          "publishedOn": "2021-05-28T07:59:15.000Z",
+          "wordCount": 14,
+          "title": "Boring Avatars - Avatar Generator Playground"
+        },
+        {
+          "id": "https://www.itsnicethat.com/articles/pizza-typefaces-pleasure-graphic-design-270521",
+          "author": null,
+          "description": "https://www.itsnicethat.com/articles/pizza-typefaces-pleasure-graphic-design-270521",
+          "link": "http://www.webdesignernews.com/external/pizza-typefaces-latest-release-is-an-original-taste-called-and-all-about-pleasure",
+          "publishedOn": "2021-05-28T07:58:58.000Z",
+          "wordCount": 933,
+          "title": "Pizza Typefaces? latest release is an original taste called (and all about) Pleasure"
+        },
         {
           "id": "https://ma.tt/2021/05/wordpress-18/",
           "author": null,
@@ -842,7 +869,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/start-using-a-smart-dam-and-image-optimization-stack/",
           "link": "http://www.webdesignernews.com/external/start-using-a-smart-dam-and-image-optimization-stack",
           "publishedOn": "2021-05-27T08:19:22.000Z",
-          "wordCount": 1855,
+          "wordCount": 1866,
           "title": "Start Using a Smart DAM and Image Optimization Stack"
         },
         {
@@ -871,33 +898,6 @@
           "publishedOn": "2021-05-26T21:49:00.000Z",
           "wordCount": 755,
           "title": "UI & UX Micro-Tips: Volume Five"
-        },
-        {
-          "id": "https://www.savecmd.com/",
-          "author": null,
-          "description": "https://www.savecmd.com/",
-          "link": "http://www.webdesignernews.com/external/savecmd-save-your-terminal-history-in-the-cloud",
-          "publishedOn": "2021-05-26T20:52:00.000Z",
-          "wordCount": 112,
-          "title": "Savecmd - Save your terminal history in the cloud"
-        },
-        {
-          "id": "https://developers.google.com/search/blog/2021/05/working-with-you-for-safe-and-spam-free-search-2020",
-          "author": null,
-          "description": "https://developers.google.com/search/blog/2021/05/working-with-you-for-safe-and-spam-free-search-2020",
-          "link": "http://www.webdesignernews.com/external/how-we-worked-with-you-towards-a-safe-and-spam-free-search-experience-in-2020",
-          "publishedOn": "2021-05-26T20:46:01.000Z",
-          "wordCount": 6807,
-          "title": "How we worked with you towards a safe and spam-free Search experience in 2020"
-        },
-        {
-          "id": "https://speckyboy.com/limitations-design-skills/",
-          "author": null,
-          "description": "https://speckyboy.com/limitations-design-skills/",
-          "link": "http://www.webdesignernews.com/external/getting-past-the-limitations-of-your-design-skills",
-          "publishedOn": "2021-05-26T19:37:09.000Z",
-          "wordCount": 1307,
-          "title": "Getting Past the Limitations of Your Design Skills"
         }
       ]
     }
