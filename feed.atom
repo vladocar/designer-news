@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-28T14:24:41.901Z</id>
+    <id>urn:2021-05-28T15:09:18.041Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T14:24:41.902Z</updated>
+    <updated>2021-05-28T15:09:18.041Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NocoDB ? The Open Source Airtable Alternative]]></title>
+        <id>https://www.nocodb.com/</id>
+        <link href="http://www.webdesignernews.com/external/nocodb-the-open-source-airtable-alternative"/>
+        <updated>2021-05-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.nocodb.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 Sites That Will Pay You To Test Websites]]></title>
+        <id>https://the-webdesigner.co/9-sites-that-pay-you-to-test-websites/</id>
+        <link href="http://www.webdesignernews.com/external/9-sites-that-will-pay-you-to-test-websites"/>
+        <updated>2021-05-28T14:22:00.000Z</updated>
+        <summary type="html"><![CDATA[https://the-webdesigner.co/9-sites-that-pay-you-to-test-websites/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Image Resizer 2.0 - Resize your images in 3 easy steps for free]]></title>
         <id>https://promo.com/tools/image-resizer/</id>
@@ -286,16 +306,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Should We Rebrand REST?]]></title>
-        <id>https://kieranpotts.com/rebranding-rest/</id>
-        <link href="http://www.webdesignernews.com/external/should-we-rebrand-rest"/>
-        <updated>2021-05-27T07:56:40.000Z</updated>
-        <summary type="html"><![CDATA[https://kieranpotts.com/rebranding-rest/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TOP 7 Cheapest Stuff That Can Help You While You are Coding]]></title>
         <id>https://www.designernews.co/stories/115686-top-7-cheapest-stuff-that-can-help-you-while-you-are-coding</id>
         <link href="https://www.designernews.co/stories/115686-top-7-cheapest-stuff-that-can-help-you-while-you-are-coding"/>
@@ -323,16 +333,6 @@
         <summary type="html"><![CDATA[https://lineicons.com/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making friends with developers: How to set your design up for success]]></title>
-        <id>https://dribbble.com/stories/2021/05/26/making-friends-with-developers</id>
-        <link href="http://www.webdesignernews.com/external/making-friends-with-developers-how-to-set-your-design-up-for-success"/>
-        <updated>2021-05-26T22:26:00.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/05/26/making-friends-with-developers]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
