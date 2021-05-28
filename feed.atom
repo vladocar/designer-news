@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-28T18:28:06.798Z</id>
+    <id>urn:2021-05-28T20:00:39.229Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T18:28:06.798Z</updated>
+    <updated>2021-05-28T20:00:39.229Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Color Picker - One color picker app for all your devices]]></title>
+        <id>https://color-picker.koti.cloud/#/home</id>
+        <link href="http://www.webdesignernews.com/external/color-picker-one-color-picker-app-for-all-your-devices"/>
+        <updated>2021-05-28T19:34:00.000Z</updated>
+        <summary type="html"><![CDATA[https://color-picker.koti.cloud/#/home]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Idiosyncrasies of the HTML Parser]]></title>
+        <id>https://htmlparser.info/</id>
+        <link href="http://www.webdesignernews.com/external/idiosyncrasies-of-the-html-parser"/>
+        <updated>2021-05-28T18:46:00.000Z</updated>
+        <summary type="html"><![CDATA[https://htmlparser.info/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Netsuite SuiteCommerce Advanced?]]></title>
         <id>https://www.designernews.co/stories/115717-what-is-netsuite-suitecommerce-advanced</id>
@@ -266,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8 Key Elements of Designing Your Brand Identity]]></title>
-        <id>https://designdrizzle.com/8-key-elements-of-designing-your-brand-identity/</id>
-        <link href="http://www.webdesignernews.com/external/8-key-elements-of-designing-your-brand-identity"/>
-        <updated>2021-05-27T12:04:00.000Z</updated>
-        <summary type="html"><![CDATA[https://designdrizzle.com/8-key-elements-of-designing-your-brand-identity/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Color Inspiration ideas in 2021]]></title>
         <id>https://www.designernews.co/stories/115692-color-inspiration-ideas-in-2021</id>
         <link href="https://www.designernews.co/stories/115692-color-inspiration-ideas-in-2021"/>
@@ -303,16 +313,6 @@
         <summary type="html"><![CDATA[https://maze.co/collections/ux-ui-design/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are the Reasons to Redesign Your Website?]]></title>
-        <id>https://gapsystudio.com/blog/why-redesign-a-website/</id>
-        <link href="http://www.webdesignernews.com/external/what-are-the-reasons-to-redesign-your-website"/>
-        <updated>2021-05-27T08:19:46.000Z</updated>
-        <summary type="html"><![CDATA[https://gapsystudio.com/blog/why-redesign-a-website/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
