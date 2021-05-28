@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-28T06:51:46.831Z</id>
+    <id>urn:2021-05-28T07:46:02.267Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T06:51:46.831Z</updated>
+    <updated>2021-05-28T07:46:02.267Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Types of Cloud Computing Service Models Everyone Should Know About]]></title>
+        <id>https://www.designernews.co/stories/115706-types-of-cloud-computing-service-models-everyone-should-know-about</id>
+        <link href="https://www.designernews.co/stories/115706-types-of-cloud-computing-service-models-everyone-should-know-about"/>
+        <updated>2021-05-28T07:37:12.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/blog/types-of-cloud-computing-service-models-everyone-should-know-about]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Essential Tips For JavaScript]]></title>
+        <id>https://www.designernews.co/stories/115705-7-essential-tips-for-javascript</id>
+        <link href="https://www.designernews.co/stories/115705-7-essential-tips-for-javascript"/>
+        <updated>2021-05-28T07:00:13.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/7-essential-tips-for-javascript.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress is 18]]></title>
+        <id>https://ma.tt/2021/05/wordpress-18/</id>
+        <link href="http://www.webdesignernews.com/external/wordpress-is-18"/>
+        <updated>2021-05-28T07:00:04.000Z</updated>
+        <summary type="html"><![CDATA[https://ma.tt/2021/05/wordpress-18/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Laurent - Web UI kit with 120+ blocks for easy landings' building]]></title>
         <id>https://laurent.craftwork.design/</id>
@@ -307,16 +337,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Minimal Avatars - Create minimal, unique and playful avatars for free]]></title>
-        <id>https://minimalavatars.com/</id>
-        <link href="http://www.webdesignernews.com/external/minimal-avatars-create-minimal-unique-and-playful-avatars-for-free"/>
-        <updated>2021-05-26T17:33:00.000Z</updated>
-        <summary type="html"><![CDATA[https://minimalavatars.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Maximize the User Research You're Already Doing]]></title>
         <id>https://www.designernews.co/stories/115676-how-to-maximize-the-user-research-youre-already-doing</id>
         <link href="https://www.designernews.co/stories/115676-how-to-maximize-the-user-research-youre-already-doing"/>
@@ -535,26 +555,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <link href="https://www.designernews.co/stories/115617-show-dn-figma-design-kit-for-tailwind-css"/>
         <updated>2021-05-22T13:05:33.000Z</updated>
         <summary type="html"><![CDATA[https://tailwind-figma.com/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Ways to Write Elegant JavaScript Code]]></title>
-        <id>https://www.designernews.co/stories/115616-3-ways-to-write-elegant-javascript-code</id>
-        <link href="https://www.designernews.co/stories/115616-3-ways-to-write-elegant-javascript-code"/>
-        <updated>2021-05-22T12:25:26.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/3-ways-to-write-elegant-javascript-code.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete guide on how to create an app like Bet365]]></title>
-        <id>https://www.designernews.co/stories/115607-complete-guide-on-how-to-create-an-app-like-bet365</id>
-        <link href="https://www.designernews.co/stories/115607-complete-guide-on-how-to-create-an-app-like-bet365"/>
-        <updated>2021-05-22T04:46:29.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
