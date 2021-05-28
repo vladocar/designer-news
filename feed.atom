@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-28T12:27:42.003Z</id>
+    <id>urn:2021-05-28T13:47:30.469Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T12:27:42.003Z</updated>
+    <updated>2021-05-28T13:47:30.469Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Image Resizer 2.0 - Resize your images in 3 easy steps for free]]></title>
+        <id>https://promo.com/tools/image-resizer/</id>
+        <link href="http://www.webdesignernews.com/external/image-resizer-2-0-resize-your-images-in-3-easy-steps-for-free"/>
+        <updated>2021-05-28T12:46:00.000Z</updated>
+        <summary type="html"><![CDATA[https://promo.com/tools/image-resizer/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adding A Commenting System To A WYSIWYG Editor]]></title>
         <id>https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/</id>
@@ -321,16 +331,6 @@
         <link href="http://www.webdesignernews.com/external/making-friends-with-developers-how-to-set-your-design-up-for-success"/>
         <updated>2021-05-26T22:26:00.000Z</updated>
         <summary type="html"><![CDATA[https://dribbble.com/stories/2021/05/26/making-friends-with-developers]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI & UX Micro-Tips: Volume Five]]></title>
-        <id>https://marcandrew.me/ui-ux-micro-tips-volume-five/</id>
-        <link href="http://www.webdesignernews.com/external/ui-ux-micro-tips-volume-five"/>
-        <updated>2021-05-26T21:49:00.000Z</updated>
-        <summary type="html"><![CDATA[https://marcandrew.me/ui-ux-micro-tips-volume-five/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
