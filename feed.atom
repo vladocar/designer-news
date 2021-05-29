@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-29T12:24:56.002Z</id>
+    <id>urn:2021-05-29T13:57:39.020Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T12:24:56.002Z</updated>
+    <updated>2021-05-29T13:57:39.021Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Have I Been Pwned goes Open-source]]></title>
+        <id>https://thenextweb.com/news/have-i-been-pwned-open-source-fbi</id>
+        <link href="http://www.webdesignernews.com/external/have-i-been-pwned-goes-open-source"/>
+        <updated>2021-05-29T13:13:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/have-i-been-pwned-open-source-fbi]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiz: Find Your Design Career Heaven]]></title>
+        <id>https://www.webdesignerdepot.com/2021/05/quiz-find-your-design-career-heaven/</id>
+        <link href="http://www.webdesignernews.com/external/quiz-find-your-design-career-heaven"/>
+        <updated>2021-05-29T12:48:04.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/quiz-find-your-design-career-heaven/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why WordPress Agencies Are Embracing Gutenberg]]></title>
+        <id>https://torquemag.io/2021/05/why-wordpress-agencies-are-embracing-gutenberg/</id>
+        <link href="http://www.webdesignernews.com/external/why-wordpress-agencies-are-embracing-gutenberg"/>
+        <updated>2021-05-29T12:47:50.000Z</updated>
+        <summary type="html"><![CDATA[https://torquemag.io/2021/05/why-wordpress-agencies-are-embracing-gutenberg/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Modern Website Design Examples (and What You Can Learn From Them)]]></title>
+        <id>https://usabilitygeek.com/7-modern-website-design-examples-and-what-you-can-learn-from-them/</id>
+        <link href="http://www.webdesignernews.com/external/7-modern-website-design-examples-and-what-you-can-learn-from-them"/>
+        <updated>2021-05-29T12:35:06.000Z</updated>
+        <summary type="html"><![CDATA[https://usabilitygeek.com/7-modern-website-design-examples-and-what-you-can-learn-from-them/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Color Inspirations and Ideas]]></title>
         <id>https://hexcolor.co/color-inspiration</id>
@@ -227,26 +267,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zeroqode 4.0 - Build web and mobile apps without code and engineers]]></title>
-        <id>https://zeroqode.com/</id>
-        <link href="http://www.webdesignernews.com/external/zeroqode-4-0-build-web-and-mobile-apps-without-code-and-engineers"/>
-        <updated>2021-05-27T20:07:00.000Z</updated>
-        <summary type="html"><![CDATA[https://zeroqode.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crash Course in the PHP Ternary Operator With Examples]]></title>
-        <id>https://code.tutsplus.com/tutorials/crash-course-in-the-php-ternary-operator-with-examples--cms-37038</id>
-        <link href="http://www.webdesignernews.com/external/crash-course-in-the-php-ternary-operator-with-examples"/>
-        <updated>2021-05-27T19:13:00.000Z</updated>
-        <summary type="html"><![CDATA[https://code.tutsplus.com/tutorials/crash-course-in-the-php-ternary-operator-with-examples--cms-37038]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Logo A or B?]]></title>
         <id>https://www.designernews.co/stories/115701-logo-a-or-b</id>
         <link href="https://www.designernews.co/stories/115701-logo-a-or-b"/>
@@ -254,26 +274,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <summary type="html"><![CDATA[https://the-femalecompany.typeform.com/to/bRUyKDOZ]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Most SaaS Products Fail�and What to Do About It]]></title>
-        <id>https://adamfard.com/blog/why-most-saas-products-fail</id>
-        <link href="http://www.webdesignernews.com/external/why-most-saas-products-fail-and-what-to-do-about-it"/>
-        <updated>2021-05-27T18:05:00.000Z</updated>
-        <summary type="html"><![CDATA[https://adamfard.com/blog/why-most-saas-products-fail]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jitter Plugin for Figma - Animate your Figma designs in Jitter, easily]]></title>
-        <id>https://www.figma.com/community/plugin/961270034818256057</id>
-        <link href="http://www.webdesignernews.com/external/jitter-plugin-for-figma-animate-your-figma-designs-in-jitter-easily"/>
-        <updated>2021-05-27T17:29:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.figma.com/community/plugin/961270034818256057]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
