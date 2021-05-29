@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-29T14:35:25.456Z</id>
+    <id>urn:2021-05-29T15:11:12.486Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T14:35:25.456Z</updated>
+    <updated>2021-05-29T15:11:12.486Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trendy Gradients in Web Design]]></title>
+        <id>https://www.awwwards.com/gradients-in-web-design-elements.html</id>
+        <link href="http://www.webdesignernews.com/external/trendy-gradients-in-web-design"/>
+        <updated>2021-05-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.awwwards.com/gradients-in-web-design-elements.html]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adding A Commenting System To A WYSIWYG Editor]]></title>
         <id>https://www.smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/</id>
@@ -252,16 +262,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <link href="http://www.webdesignernews.com/external/wordpress-is-18"/>
         <updated>2021-05-28T07:00:04.000Z</updated>
         <summary type="html"><![CDATA[https://ma.tt/2021/05/wordpress-18/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laurent - Web UI kit with 120+ blocks for easy landings' building]]></title>
-        <id>https://laurent.craftwork.design/</id>
-        <link href="http://www.webdesignernews.com/external/laurent-web-ui-kit-with-120-blocks-for-easy-landings-building"/>
-        <updated>2021-05-27T21:18:57.000Z</updated>
-        <summary type="html"><![CDATA[https://laurent.craftwork.design/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
