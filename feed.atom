@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-29T18:37:42.070Z</id>
+    <id>urn:2021-05-29T20:07:10.518Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T18:37:42.070Z</updated>
+    <updated>2021-05-29T20:07:10.518Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Favicons for WordPress]]></title>
+        <id>https://css-tricks.com/dynamic-favicons-for-wordpress/</id>
+        <link href="http://www.webdesignernews.com/external/dynamic-favicons-for-wordpress"/>
+        <updated>2021-05-29T19:37:00.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/dynamic-favicons-for-wordpress/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why interruptions are frustrating to developers]]></title>
         <id>https://tellspin.app/blog/why-interruptions-are-frustrating-to-developers/</id>
@@ -232,16 +242,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <link href="http://www.webdesignernews.com/external/17-inspiring-examples-of-mobile-interaction-design"/>
         <updated>2021-05-28T07:59:47.000Z</updated>
         <summary type="html"><![CDATA[https://design4users.com/mobile-interaction-design-examples/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boring Avatars - Avatar Generator Playground]]></title>
-        <id>https://boringavatars.com/</id>
-        <link href="http://www.webdesignernews.com/external/boring-avatars-avatar-generator-playground"/>
-        <updated>2021-05-28T07:59:15.000Z</updated>
-        <summary type="html"><![CDATA[https://boringavatars.com/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
