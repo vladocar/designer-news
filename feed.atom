@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-29T20:07:10.518Z</id>
+    <id>urn:2021-05-29T21:17:43.595Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T20:07:10.518Z</updated>
+    <updated>2021-05-29T21:17:43.595Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is generative design?]]></title>
+        <id>https://www.designernews.co/stories/115727-what-is-generative-design</id>
+        <link href="https://www.designernews.co/stories/115727-what-is-generative-design"/>
+        <updated>2021-05-29T20:03:14.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vectornator.io/blog/generative-design]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Cover Letter Examples For Graphic Designers]]></title>
+        <id>https://www.designernews.co/stories/115726-best-cover-letter-examples-for-graphic-designers</id>
+        <link href="https://www.designernews.co/stories/115726-best-cover-letter-examples-for-graphic-designers"/>
+        <updated>2021-05-29T20:02:58.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vectornator.io/blog/graphic-designer-cover-letter]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamic Favicons for WordPress]]></title>
         <id>https://css-tricks.com/dynamic-favicons-for-wordpress/</id>
@@ -539,16 +559,6 @@ The post 20 Best Japanese Style Fonts appeared first on Design Inspiration.]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 Free Illustrator 3D Stitched Text Effects]]></title>
-        <id>https://www.designernews.co/stories/115633-10-free-illustrator-3d-stitched-text-effects</id>
-        <link href="https://www.designernews.co/stories/115633-10-free-illustrator-3d-stitched-text-effects"/>
-        <updated>2021-05-24T10:33:17.000Z</updated>
-        <summary type="html"><![CDATA[https://www.designinspiration.info/10-free-illustrator-3d-stitched-text-effect-styles/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10 Free Illustrator 3D Stitched Text Effect Styles]]></title>
         <id>https://www.designinspiration.info/?p=2651</id>
         <link href="https://www.designinspiration.info/10-free-illustrator-3d-stitched-text-effect-styles/"/>
@@ -557,16 +567,6 @@ The post 20 Best Japanese Style Fonts appeared first on Design Inspiration.]]></
 The post 10 Free Illustrator 3D Stitched Text Effect Styles appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add Remove Input Fields Dynamically With Jquery]]></title>
-        <id>https://www.designernews.co/stories/115624-add-remove-input-fields-dynamically-with-jquery</id>
-        <link href="https://www.designernews.co/stories/115624-add-remove-input-fields-dynamically-with-jquery"/>
-        <updated>2021-05-23T16:55:00.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2015/06/addremove-input-fields-dynamically-with.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -823,16 +823,6 @@ The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
-        <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
-        <updated>2021-04-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
