@@ -6,6 +6,15 @@
       "siteUrl": "https://www.designinspiration.info",
       "articles": [
         {
+          "id": "https://www.designinspiration.info/?p=1965",
+          "author": "Editorial Staff",
+          "description": "If you’re looking for a cool new font for a project or just love vaporware design, this list of the best vaporwave fonts will help you find exactly what you need. The Vaporwave art movement has started in early the 2010s. It is a visual arts movement linked to VHS\nThe post 16 Best Vaporwave Fonts appeared first on Design Inspiration.",
+          "link": "https://www.designinspiration.info/vaporwave-fonts/",
+          "publishedOn": "2021-05-29T22:26:31.000Z",
+          "wordCount": 1746,
+          "title": "16 Best Vaporwave Fonts"
+        },
+        {
           "id": "https://www.designinspiration.info/?p=2662",
           "author": "Editorial Staff",
           "description": "Arcade fonts are just the icing on the cake when it comes to designing a vintage layout and an arcade game. But, what you may not know is that video games often have their own individual font, which in most cases are in a pixel style. Gamers, designers and artists\nThe post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.",
@@ -85,15 +94,6 @@
           "publishedOn": "2021-05-11T12:34:13.000Z",
           "wordCount": 274,
           "title": "10 Free Illustrator Shadow Text Effect (Graphic Styles)"
-        },
-        {
-          "id": "https://www.designinspiration.info/?p=2462",
-          "author": "Editorial Staff",
-          "description": "If you are biker, or just love the look of motorcycle fonts – this collection is for you! Bikers know that the best way to make their bikes unique is to add unique and cool motorcycle parts. The font is the heart for any bike club or brand. The fonts\nThe post 14 Best Biker Fonts appeared first on Design Inspiration.",
-          "link": "https://www.designinspiration.info/biker-fonts/",
-          "publishedOn": "2021-05-10T22:56:38.000Z",
-          "wordCount": 1371,
-          "title": "14 Best Biker Fonts"
         }
       ]
     },
@@ -354,7 +354,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3696,
+          "wordCount": 3735,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -438,7 +438,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9433,
+          "wordCount": 9431,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -522,7 +522,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2957,
+          "wordCount": 2951,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -536,7 +536,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2435,
+          "wordCount": 2393,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -606,7 +606,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6361,
+          "wordCount": 6355,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -634,7 +634,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2668,
+          "wordCount": 2664,
           "title": "Improving The Performance Of Shopify Themes (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
@@ -648,7 +648,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2338,
+          "wordCount": 2343,
           "title": "Reducing HTML Payload With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0019f4c3-ebdd-4b09-9f45-47173587307b/reduce-data-sent-client-nextjs.jpg",
@@ -690,7 +690,7 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2178,
+          "wordCount": 2180,
           "title": "The Evolution Of Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
@@ -738,7 +738,7 @@
           "description": "https://www.awwwards.com/gradients-in-web-design-elements.html",
           "link": "http://www.webdesignernews.com/external/trendy-gradients-in-web-design",
           "publishedOn": "2021-05-29T15:00:00.000Z",
-          "wordCount": 978,
+          "wordCount": 976,
           "title": "Trendy Gradients in Web Design"
         },
         {
@@ -765,7 +765,7 @@
           "description": "https://www.webdesignerdepot.com/2021/05/quiz-find-your-design-career-heaven/",
           "link": "http://www.webdesignernews.com/external/quiz-find-your-design-career-heaven",
           "publishedOn": "2021-05-29T12:48:04.000Z",
-          "wordCount": 468,
+          "wordCount": 471,
           "title": "Quiz: Find Your Design Career Heaven"
         },
         {
@@ -882,7 +882,7 @@
           "description": "https://design4users.com/mobile-interaction-design-examples/",
           "link": "http://www.webdesignernews.com/external/17-inspiring-examples-of-mobile-interaction-design",
           "publishedOn": "2021-05-28T07:59:47.000Z",
-          "wordCount": 549,
+          "wordCount": 546,
           "title": "17 Inspiring Examples of Mobile Interaction Design"
         }
       ]

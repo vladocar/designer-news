@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-29T22:16:23.666Z</id>
+    <id>urn:2021-05-29T23:17:34.651Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T22:16:23.666Z</updated>
+    <updated>2021-05-29T23:17:34.651Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[16 Best Vaporwave Fonts]]></title>
+        <id>https://www.designinspiration.info/?p=1965</id>
+        <link href="https://www.designinspiration.info/vaporwave-fonts/"/>
+        <updated>2021-05-29T22:26:31.000Z</updated>
+        <summary type="html"><![CDATA[If you’re looking for a cool new font for a project or just love vaporware design, this list of the best vaporwave fonts will help you find exactly what you need. The Vaporwave art movement has started in early the 2010s. It is a visual arts movement linked to VHS
+The post 16 Best Vaporwave Fonts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is generative design?]]></title>
         <id>https://www.designernews.co/stories/115727-what-is-generative-design</id>
@@ -742,17 +753,6 @@ The post 10 Free Illustrator Shadow Text Effect (Graphic Styles) appeared first 
         <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14 Best Biker Fonts]]></title>
-        <id>https://www.designinspiration.info/?p=2462</id>
-        <link href="https://www.designinspiration.info/biker-fonts/"/>
-        <updated>2021-05-10T22:56:38.000Z</updated>
-        <summary type="html"><![CDATA[If you are biker, or just love the look of motorcycle fonts – this collection is for you! Bikers know that the best way to make their bikes unique is to add unique and cool motorcycle parts. The font is the heart for any bike club or brand. The fonts
-The post 14 Best Biker Fonts appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
