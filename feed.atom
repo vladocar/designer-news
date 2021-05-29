@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-29T16:33:06.311Z</id>
+    <id>urn:2021-05-29T18:37:42.070Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T16:33:06.311Z</updated>
+    <updated>2021-05-29T18:37:42.070Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why interruptions are frustrating to developers]]></title>
+        <id>https://tellspin.app/blog/why-interruptions-are-frustrating-to-developers/</id>
+        <link href="http://www.webdesignernews.com/external/why-interruptions-are-frustrating-to-developers"/>
+        <updated>2021-05-29T17:37:00.000Z</updated>
+        <summary type="html"><![CDATA[https://tellspin.app/blog/why-interruptions-are-frustrating-to-developers/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to Heatmaps: What is a Heatmap, the Use, and Types?]]></title>
+        <id>https://attentioninsight.com/heatmaps-101/</id>
+        <link href="http://www.webdesignernews.com/external/a-guide-to-heatmaps-what-is-a-heatmap-the-use-and-types"/>
+        <updated>2021-05-29T16:47:00.000Z</updated>
+        <summary type="html"><![CDATA[https://attentioninsight.com/heatmaps-101/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trendy Gradients in Web Design]]></title>
         <id>https://www.awwwards.com/gradients-in-web-design-elements.html</id>
@@ -227,16 +247,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pizza Typefaces? latest release is an original taste called (and all about) Pleasure]]></title>
-        <id>https://www.itsnicethat.com/articles/pizza-typefaces-pleasure-graphic-design-270521</id>
-        <link href="http://www.webdesignernews.com/external/pizza-typefaces-latest-release-is-an-original-taste-called-and-all-about-pleasure"/>
-        <updated>2021-05-28T07:58:58.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/pizza-typefaces-pleasure-graphic-design-270521]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Types of Cloud Computing Service Models Everyone Should Know About]]></title>
         <id>https://www.designernews.co/stories/115706-types-of-cloud-computing-service-models-everyone-should-know-about</id>
         <link href="https://www.designernews.co/stories/115706-types-of-cloud-computing-service-models-everyone-should-know-about"/>
@@ -254,16 +264,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/7-essential-tips-for-javascript.html]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress is 18]]></title>
-        <id>https://ma.tt/2021/05/wordpress-18/</id>
-        <link href="http://www.webdesignernews.com/external/wordpress-is-18"/>
-        <updated>2021-05-28T07:00:04.000Z</updated>
-        <summary type="html"><![CDATA[https://ma.tt/2021/05/wordpress-18/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
