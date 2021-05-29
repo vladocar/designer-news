@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-29T05:47:21.008Z</id>
+    <id>urn:2021-05-29T07:14:57.834Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T05:47:21.008Z</updated>
+    <updated>2021-05-29T07:14:57.834Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[7 Best Tips For Web Developers]]></title>
+        <id>https://www.designernews.co/stories/115718-7-best-tips-for-web-developers</id>
+        <link href="https://www.designernews.co/stories/115718-7-best-tips-for-web-developers"/>
+        <updated>2021-05-29T05:57:57.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/7-best-tips-for-web-developers.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[27 Best Gaming Arcade Fonts]]></title>
         <id>https://www.designinspiration.info/?p=2662</id>
@@ -555,16 +565,6 @@ The post 10 Free Illustrator 3D Stitched Text Effect Styles appeared first on De
         <link href="https://www.designernews.co/stories/115624-add-remove-input-fields-dynamically-with-jquery"/>
         <updated>2021-05-23T16:55:00.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2015/06/addremove-input-fields-dynamically-with.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Read and write json file with php and mysql]]></title>
-        <id>https://www.designernews.co/stories/115623-read-and-write-json-file-with-php-and-mysql</id>
-        <link href="https://www.designernews.co/stories/115623-read-and-write-json-file-with-php-and-mysql"/>
-        <updated>2021-05-23T16:52:57.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2019/05/read-and-write-json-file-with-php-and.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
