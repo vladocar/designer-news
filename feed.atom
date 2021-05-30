@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-30T21:19:07.355Z</id>
+    <id>urn:2021-05-30T22:17:36.581Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T21:19:07.355Z</updated>
+    <updated>2021-05-30T22:17:36.581Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[26 Best Block Fonts]]></title>
+        <id>https://www.designinspiration.info/?p=2295</id>
+        <link href="https://www.designinspiration.info/block-fonts/"/>
+        <updated>2021-05-30T22:16:18.000Z</updated>
+        <summary type="html"><![CDATA[Block type is one of the key factors that can make any design stand out. Although this can be quite subjective based on the designer’s taste and approach, we’ve collected some of the best block fonts that might interest you. A lot of designers said that block fonts are really
+The post 26 Best Block Fonts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoTTY ? Share your terminal as a web application]]></title>
         <id>https://github.com/sorenisanerd/gotty</id>
@@ -732,17 +743,6 @@ The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Insp
         <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Free Illustrator Shadow Text Effect (Graphic Styles)]]></title>
-        <id>https://www.designinspiration.info/?p=2494</id>
-        <link href="https://www.designinspiration.info/free-illustrator-shadow-text-effect-graphic-styles/"/>
-        <updated>2021-05-11T12:34:13.000Z</updated>
-        <summary type="html"><![CDATA[We bring you 10 free one click Illustrator Graphics Styles for applying text shadow effect. All text shadow effects can be applied to any text or font in Illustrator and also can be easily customized. The Graphic Stiles can be customized in the Appearance panel (Window > Appearance) and you
-The post 10 Free Illustrator Shadow Text Effect (Graphic Styles) appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
