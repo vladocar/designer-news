@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-30T18:33:10.336Z</id>
+    <id>urn:2021-05-30T20:05:10.504Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T18:33:10.336Z</updated>
+    <updated>2021-05-30T20:05:10.504Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GoTTY ? Share your terminal as a web application]]></title>
+        <id>https://github.com/sorenisanerd/gotty</id>
+        <link href="http://www.webdesignernews.com/external/gotty-share-your-terminal-as-a-web-application"/>
+        <updated>2021-05-30T19:31:00.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/sorenisanerd/gotty]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Web Accessibility? How to Make Your Content Inclusive]]></title>
+        <id>https://learn.g2.com/what-is-web-accessibility</id>
+        <link href="http://www.webdesignernews.com/external/what-is-web-accessibility-how-to-make-your-content-inclusive"/>
+        <updated>2021-05-30T18:51:00.000Z</updated>
+        <summary type="html"><![CDATA[https://learn.g2.com/what-is-web-accessibility]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fresh Resources for Web Designers and Developers (May 2021)]]></title>
         <id>https://www.hongkiat.com/blog/designers-developers-monthly-05-2021/</id>
@@ -253,26 +273,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <link href="http://www.webdesignernews.com/external/animated-illustrations-by-icons8-100-moving-pictures-to-liven-up-your-designs"/>
         <updated>2021-05-28T22:47:00.000Z</updated>
         <summary type="html"><![CDATA[https://icons8.com/l/animations/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Site Editing in WordPress 5.8]]></title>
-        <id>https://torquemag.io/2021/05/full-site-editing-in-wordpress-5-8/</id>
-        <link href="http://www.webdesignernews.com/external/full-site-editing-in-wordpress-5-8"/>
-        <updated>2021-05-28T20:51:00.000Z</updated>
-        <summary type="html"><![CDATA[https://torquemag.io/2021/05/full-site-editing-in-wordpress-5-8/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Picker - One color picker app for all your devices]]></title>
-        <id>https://color-picker.koti.cloud/#/home</id>
-        <link href="http://www.webdesignernews.com/external/color-picker-one-color-picker-app-for-all-your-devices"/>
-        <updated>2021-05-28T19:34:00.000Z</updated>
-        <summary type="html"><![CDATA[https://color-picker.koti.cloud/#/home]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
