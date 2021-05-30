@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-30T09:28:37.930Z</id>
+    <id>urn:2021-05-30T10:31:26.560Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T09:28:37.930Z</updated>
+    <updated>2021-05-30T10:31:26.560Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Best chrome extensions 2021]]></title>
+        <id>https://www.designernews.co/stories/115730--best-chrome-extensions-2021</id>
+        <link href="https://www.designernews.co/stories/115730--best-chrome-extensions-2021"/>
+        <updated>2021-05-30T09:45:08.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/5-chrome-extensions-that-will-help-you.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[16 Best Vaporwave Fonts]]></title>
         <id>https://www.designinspiration.info/?p=1965</id>
@@ -527,16 +537,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
 The post 20 Best Japanese Style Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Figma Empathy Map Template]]></title>
-        <id>https://www.designernews.co/stories/115641-figma-empathy-map-template</id>
-        <link href="https://www.designernews.co/stories/115641-figma-empathy-map-template"/>
-        <updated>2021-05-24T18:40:03.000Z</updated>
-        <summary type="html"><![CDATA[https://www.figma.com/community/file/978728971487203968/Empathy-Map-by-Human-Deluxe]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
