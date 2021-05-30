@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-30T12:26:05.322Z</id>
+    <id>urn:2021-05-30T13:57:12.115Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T12:26:05.322Z</updated>
+    <updated>2021-05-30T13:57:12.115Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Finding Design Inspiration for a New Website]]></title>
+        <id>https://www.business2community.com/web-design/finding-design-inspiration-for-a-new-website-02407386</id>
+        <link href="http://www.webdesignernews.com/external/finding-design-inspiration-for-a-new-website"/>
+        <updated>2021-05-30T13:49:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.business2community.com/web-design/finding-design-inspiration-for-a-new-website-02407386]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15 Best Hotjar Alternatives (Website User Tracking Tools)]]></title>
         <id>https://marketsplash.com/hotjar-alternatives/</id>
@@ -273,16 +283,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <link href="http://www.webdesignernews.com/external/es-devlin-asks-designers-how-can-design-fix-the-world-s-problems"/>
         <updated>2021-05-28T17:51:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.itsnicethat.com/news/london-design-biennale-event-media-partnership-270521]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The graphic designer's guide to building a stand-out personal brand]]></title>
-        <id>https://dribbble.com/stories/2021/05/27/personal-branding-guide-graphic-designers</id>
-        <link href="http://www.webdesignernews.com/external/the-graphic-designer-s-guide-to-building-a-stand-out-personal-brand"/>
-        <updated>2021-05-28T16:24:00.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/05/27/personal-branding-guide-graphic-designers]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
