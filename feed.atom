@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-30T11:33:10.726Z</id>
+    <id>urn:2021-05-30T12:26:05.322Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T11:33:10.726Z</updated>
+    <updated>2021-05-30T12:26:05.322Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[15 Best Hotjar Alternatives (Website User Tracking Tools)]]></title>
+        <id>https://marketsplash.com/hotjar-alternatives/</id>
+        <link href="http://www.webdesignernews.com/external/15-best-hotjar-alternatives-website-user-tracking-tools"/>
+        <updated>2021-05-30T11:41:43.000Z</updated>
+        <summary type="html"><![CDATA[https://marketsplash.com/hotjar-alternatives/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Custom Color Palettes in WordPress Gutenberg]]></title>
+        <id>https://webdesign.tutsplus.com/tutorials/create-custom-color-palettes-in-wordpress-gutenberg--cms-37019</id>
+        <link href="http://www.webdesignernews.com/external/how-to-create-custom-color-palettes-in-wordpress-gutenberg"/>
+        <updated>2021-05-30T11:41:32.000Z</updated>
+        <summary type="html"><![CDATA[https://webdesign.tutsplus.com/tutorials/create-custom-color-palettes-in-wordpress-gutenberg--cms-37019]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gradient King - Curated collection of 125+ fresh gradients]]></title>
+        <id>https://gradient-king.vercel.app/</id>
+        <link href="http://www.webdesignernews.com/external/gradient-king-curated-collection-of-125-fresh-gradients"/>
+        <updated>2021-05-30T11:41:09.000Z</updated>
+        <summary type="html"><![CDATA[https://gradient-king.vercel.app/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Generative Design?]]></title>
         <id>https://www.vectornator.io/blog/generative-design</id>
@@ -253,36 +283,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <link href="http://www.webdesignernews.com/external/the-graphic-designer-s-guide-to-building-a-stand-out-personal-brand"/>
         <updated>2021-05-28T16:24:00.000Z</updated>
         <summary type="html"><![CDATA[https://dribbble.com/stories/2021/05/27/personal-branding-guide-graphic-designers]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NocoDB ? The Open Source Airtable Alternative]]></title>
-        <id>https://www.nocodb.com/</id>
-        <link href="http://www.webdesignernews.com/external/nocodb-the-open-source-airtable-alternative"/>
-        <updated>2021-05-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.nocodb.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 Sites That Will Pay You To Test Websites]]></title>
-        <id>https://the-webdesigner.co/9-sites-that-pay-you-to-test-websites/</id>
-        <link href="http://www.webdesignernews.com/external/9-sites-that-will-pay-you-to-test-websites"/>
-        <updated>2021-05-28T14:22:00.000Z</updated>
-        <summary type="html"><![CDATA[https://the-webdesigner.co/9-sites-that-pay-you-to-test-websites/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Image Resizer 2.0 - Resize your images in 3 easy steps for free]]></title>
-        <id>https://promo.com/tools/image-resizer/</id>
-        <link href="http://www.webdesignernews.com/external/image-resizer-2-0-resize-your-images-in-3-easy-steps-for-free"/>
-        <updated>2021-05-28T12:46:00.000Z</updated>
-        <summary type="html"><![CDATA[https://promo.com/tools/image-resizer/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
