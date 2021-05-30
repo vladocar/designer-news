@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-30T13:57:12.115Z</id>
+    <id>urn:2021-05-30T14:36:15.514Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T13:57:12.115Z</updated>
+    <updated>2021-05-30T14:36:15.514Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DevHuntr - A search engine huntr for devs]]></title>
+        <id>https://devhuntr.codes/</id>
+        <link href="http://www.webdesignernews.com/external/devhuntr-a-search-engine-huntr-for-devs"/>
+        <updated>2021-05-30T14:28:00.000Z</updated>
+        <summary type="html"><![CDATA[https://devhuntr.codes/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Finding Design Inspiration for a New Website]]></title>
         <id>https://www.business2community.com/web-design/finding-design-inspiration-for-a-new-website-02407386</id>
@@ -275,16 +285,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <summary type="html"><![CDATA[https://brokenrubik.co/what-is-suitecommerce-advanced]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Es Devlin asks designers: how can design fix the world?s problems?]]></title>
-        <id>https://www.itsnicethat.com/news/london-design-biennale-event-media-partnership-270521</id>
-        <link href="http://www.webdesignernews.com/external/es-devlin-asks-designers-how-can-design-fix-the-world-s-problems"/>
-        <updated>2021-05-28T17:51:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/news/london-design-biennale-event-media-partnership-270521]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
