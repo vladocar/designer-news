@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-30T15:10:56.946Z</id>
+    <id>urn:2021-05-30T16:37:05.137Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T15:10:56.946Z</updated>
+    <updated>2021-05-30T16:37:05.137Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fresh Resources for Web Designers and Developers (May 2021)]]></title>
+        <id>https://www.hongkiat.com/blog/designers-developers-monthly-05-2021/</id>
+        <link href="http://www.webdesignernews.com/external/fresh-resources-for-web-designers-and-developers-may-2021"/>
+        <updated>2021-05-30T15:58:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.hongkiat.com/blog/designers-developers-monthly-05-2021/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevHuntr - A search engine huntr for devs]]></title>
         <id>https://devhuntr.codes/</id>
@@ -263,16 +273,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <link href="http://www.webdesignernews.com/external/color-picker-one-color-picker-app-for-all-your-devices"/>
         <updated>2021-05-28T19:34:00.000Z</updated>
         <summary type="html"><![CDATA[https://color-picker.koti.cloud/#/home]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idiosyncrasies of the HTML Parser]]></title>
-        <id>https://htmlparser.info/</id>
-        <link href="http://www.webdesignernews.com/external/idiosyncrasies-of-the-html-parser"/>
-        <updated>2021-05-28T18:46:00.000Z</updated>
-        <summary type="html"><![CDATA[https://htmlparser.info/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
