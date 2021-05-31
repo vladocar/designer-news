@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-31T14:00:34.888Z</id>
+    <id>urn:2021-05-31T14:36:49.152Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T14:00:34.889Z</updated>
+    <updated>2021-05-31T14:36:49.152Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS :is]]></title>
+        <id>https://davidwalsh.name/css-is</id>
+        <link href="http://www.webdesignernews.com/external/css-is"/>
+        <updated>2021-05-31T14:01:00.000Z</updated>
+        <summary type="html"><![CDATA[https://davidwalsh.name/css-is]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Burner Page - Validate ideas with burner pages in 60 seconds]]></title>
         <id>https://burnerpage.com/</id>
@@ -354,16 +364,6 @@ The post 16 Best Vaporwave Fonts appeared first on Design Inspiration.]]></summa
         <link href="http://www.webdesignernews.com/external/adding-a-commenting-system-to-a-wysiwyg-editor"/>
         <updated>2021-05-29T14:14:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have I Been Pwned goes Open-source]]></title>
-        <id>https://thenextweb.com/news/have-i-been-pwned-open-source-fbi</id>
-        <link href="http://www.webdesignernews.com/external/have-i-been-pwned-goes-open-source"/>
-        <updated>2021-05-29T13:13:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/have-i-been-pwned-open-source-fbi]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
