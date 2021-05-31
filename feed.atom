@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-31T20:24:37.805Z</id>
+    <id>urn:2021-05-31T21:43:33.623Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T20:24:37.805Z</updated>
+    <updated>2021-05-31T21:43:33.623Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Generate Random Background Colors With JavaScript]]></title>
+        <id>https://webdesign.tutsplus.com/tutorials/generate-random-background-colors-javascript--cms-37030</id>
+        <link href="http://www.webdesignernews.com/external/how-to-generate-random-background-colors-with-javascript"/>
+        <updated>2021-05-31T20:27:00.000Z</updated>
+        <summary type="html"><![CDATA[https://webdesign.tutsplus.com/tutorials/generate-random-background-colors-javascript--cms-37030]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FlowBite: Figma UI design kit]]></title>
         <id>https://www.designernews.co/stories/115754-flowbite-figma-ui-design-kit</id>
@@ -366,16 +376,6 @@ The post 16 Best Vaporwave Fonts appeared first on Design Inspiration.]]></summa
         <summary type="html"><![CDATA[https://www.vectornator.io/blog/graphic-designer-cover-letter]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic Favicons for WordPress]]></title>
-        <id>https://css-tricks.com/dynamic-favicons-for-wordpress/</id>
-        <link href="http://www.webdesignernews.com/external/dynamic-favicons-for-wordpress"/>
-        <updated>2021-05-29T19:37:00.000Z</updated>
-        <summary type="html"><![CDATA[https://css-tricks.com/dynamic-favicons-for-wordpress/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
