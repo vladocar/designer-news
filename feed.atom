@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-31T06:38:04.715Z</id>
+    <id>urn:2021-05-31T08:17:25.914Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T06:38:04.715Z</updated>
+    <updated>2021-05-31T08:17:25.914Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Design MBA: Gain business confidence. Design your impact.]]></title>
+        <id>https://www.designernews.co/stories/115738-design-mba-gain-business-confidence-design-your-impact</id>
+        <link href="https://www.designernews.co/stories/115738-design-mba-gain-business-confidence-design-your-impact"/>
+        <updated>2021-05-31T07:15:06.000Z</updated>
+        <summary type="html"><![CDATA[https://d.mba/course]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do’s and Don’ts for Using Animation in UI]]></title>
+        <id>https://www.designernews.co/stories/115737-dos-and-donts-for-using-animation-in-ui</id>
+        <link href="https://www.designernews.co/stories/115737-dos-and-donts-for-using-animation-in-ui"/>
+        <updated>2021-05-31T06:58:04.000Z</updated>
+        <summary type="html"><![CDATA[https://drawer.design/blog/dos-and-donts-for-using-animation-in-ui/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Design lessons from the National Football League (NFL): Pt. I]]></title>
         <id>https://www.designernews.co/stories/115733-design-lessons-from-the-national-football-league-nfl-pt-i</id>
@@ -480,16 +500,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Write the First Blog Post with Success]]></title>
-        <id>https://www.designernews.co/stories/115659-how-to-write-the-first-blog-post-with-success</id>
-        <link href="https://www.designernews.co/stories/115659-how-to-write-the-first-blog-post-with-success"/>
-        <updated>2021-05-25T15:14:22.000Z</updated>
-        <summary type="html"><![CDATA[https://wpklik.com/wordpress-tips/first-blog-post/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git (Part 2)]]></title>
         <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/</id>
         <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/"/>
@@ -497,16 +507,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         <summary type="html"><![CDATA[Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anima now supports converting Figma/Sketch/XD to VueJS]]></title>
-        <id>https://www.designernews.co/stories/115657-anima-now-supports-converting-figmasketchxd-to-vuejs</id>
-        <link href="https://www.designernews.co/stories/115657-anima-now-supports-converting-figmasketchxd-to-vuejs"/>
-        <updated>2021-05-25T13:21:59.000Z</updated>
-        <summary type="html"><![CDATA[https://www.animaapp.com/blog/product-updates/announcing-vue-js-beta-release/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
