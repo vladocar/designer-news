@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-31T08:17:25.914Z</id>
+    <id>urn:2021-05-31T09:45:10.100Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T08:17:25.914Z</updated>
+    <updated>2021-05-31T09:45:10.100Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Clean My Speaker - Play Sound To Eject Water Out Of Phone's Speaker]]></title>
+        <id>https://www.designernews.co/stories/115740-clean-my-speaker--play-sound-to-eject-water-out-of-phones-speaker</id>
+        <link href="https://www.designernews.co/stories/115740-clean-my-speaker--play-sound-to-eject-water-out-of-phones-speaker"/>
+        <updated>2021-05-31T08:45:23.000Z</updated>
+        <summary type="html"><![CDATA[https://www.minicreo.com/apps/phone-cleaner.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Design MBA: Gain business confidence. Design your impact.]]></title>
         <id>https://www.designernews.co/stories/115738-design-mba-gain-business-confidence-design-your-impact</id>
@@ -507,16 +517,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         <summary type="html"><![CDATA[Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a better HTML : Death of div]]></title>
-        <id>https://www.designernews.co/stories/115655-create-a-better-html--death-of-div</id>
-        <link href="https://www.designernews.co/stories/115655-create-a-better-html--death-of-div"/>
-        <updated>2021-05-25T11:42:06.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/create-better-html-death-to-div.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
