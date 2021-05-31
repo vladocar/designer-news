@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-31T10:36:07.026Z</id>
+    <id>urn:2021-05-31T11:46:06.271Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T10:36:07.026Z</updated>
+    <updated>2021-05-31T11:46:06.271Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create Social Media videos from Google Spreadsheets.]]></title>
+        <id>https://www.designernews.co/stories/115744-create-social-media-videos-from-google-spreadsheets</id>
+        <link href="https://www.designernews.co/stories/115744-create-social-media-videos-from-google-spreadsheets"/>
+        <updated>2021-05-31T11:16:01.000Z</updated>
+        <summary type="html"><![CDATA[https://woxo.tech/video-maker]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Figma (Low Fidelity) Hand Drawn Wireframe Kit]]></title>
+        <id>https://www.designernews.co/stories/115743-free-figma-low-fidelity-hand-drawn-wireframe-kit</id>
+        <link href="https://www.designernews.co/stories/115743-free-figma-low-fidelity-hand-drawn-wireframe-kit"/>
+        <updated>2021-05-31T10:50:30.000Z</updated>
+        <summary type="html"><![CDATA[https://www.designinspiration.info/free-figma-low-fidelity-hand-drawn-wireframe-kit/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Figma (Low Fidelity) Hand Drawn Wireframe Kit]]></title>
+        <id>https://www.designinspiration.info/?p=2793</id>
+        <link href="https://www.designinspiration.info/free-figma-low-fidelity-hand-drawn-wireframe-kit/"/>
+        <updated>2021-05-31T10:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Low fidelity wireframes are sketches of the page layout and the basic navigation. The goal of a low fidelity wireframe is to give you a general sense of the hierarchy of information, the placement of major components on the screen, and the general flow of interaction. Below are a few
+The post Free Figma (Low Fidelity) Hand Drawn Wireframe Kit appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NopCommerce vs Magento - Which is the Best e-Commerce Platform for Enterprises?]]></title>
         <id>https://www.designernews.co/stories/115741-nopcommerce-vs-magento--which-is-the-best-ecommerce-platform-for-enterprises</id>
@@ -530,16 +561,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Portfolio Website Transformation (Free Figma Template)]]></title>
-        <id>https://www.designernews.co/stories/115650-portfolio-website-transformation-free-figma-template</id>
-        <link href="https://www.designernews.co/stories/115650-portfolio-website-transformation-free-figma-template"/>
-        <updated>2021-05-25T10:22:13.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=JO-SXrlnmEE]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A New Way To Reduce Font Loading Impact: CSS Font Descriptors]]></title>
         <id>https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/</id>
         <link href="https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/"/>
@@ -547,16 +568,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         <summary type="html"><![CDATA[Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a useful UI Kit]]></title>
-        <id>https://www.designernews.co/stories/115648-building-a-useful-ui-kit</id>
-        <link href="https://www.designernews.co/stories/115648-building-a-useful-ui-kit"/>
-        <updated>2021-05-25T07:10:38.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.plantapp.io/post/building-a-useful-ui-kit]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -702,17 +713,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18 Best Tropical Fonts for Summer Designs]]></title>
-        <id>https://www.designinspiration.info/?p=2464</id>
-        <link href="https://www.designinspiration.info/tropical-fonts/"/>
-        <updated>2021-05-12T21:15:11.000Z</updated>
-        <summary type="html"><![CDATA[Finding the right tropical fonts for your projects may not be a simple task. With this collection, we gathered some of the best tropical fonts for you to use in your projects. The range in appearance and use are diverse but they are generally well suited for summer themes or
-The post 18 Best Tropical Fonts for Summer Designs appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
