@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-31T15:17:42.625Z</id>
+    <id>urn:2021-05-31T16:50:52.711Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T15:17:42.625Z</updated>
+    <updated>2021-05-31T16:50:52.711Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[These are the hottest logo design trends of 2021]]></title>
+        <id>https://www.creativebloq.com/news/logo-trends-2021</id>
+        <link href="http://www.webdesignernews.com/external/these-are-the-hottest-logo-design-trends-of-2021"/>
+        <updated>2021-05-31T15:40:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.creativebloq.com/news/logo-trends-2021]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS :is]]></title>
         <id>https://davidwalsh.name/css-is</id>
@@ -354,16 +364,6 @@ The post 16 Best Vaporwave Fonts appeared first on Design Inspiration.]]></summa
         <link href="http://www.webdesignernews.com/external/trendy-gradients-in-web-design"/>
         <updated>2021-05-29T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.awwwards.com/gradients-in-web-design-elements.html]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding A Commenting System To A WYSIWYG Editor]]></title>
-        <id>https://www.smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/</id>
-        <link href="http://www.webdesignernews.com/external/adding-a-commenting-system-to-a-wysiwyg-editor"/>
-        <updated>2021-05-29T14:14:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
