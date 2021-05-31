@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-31T09:45:10.100Z</id>
+    <id>urn:2021-05-31T10:36:07.026Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T09:45:10.100Z</updated>
+    <updated>2021-05-31T10:36:07.026Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NopCommerce vs Magento - Which is the Best e-Commerce Platform for Enterprises?]]></title>
+        <id>https://www.designernews.co/stories/115741-nopcommerce-vs-magento--which-is-the-best-ecommerce-platform-for-enterprises</id>
+        <link href="https://www.designernews.co/stories/115741-nopcommerce-vs-magento--which-is-the-best-ecommerce-platform-for-enterprises"/>
+        <updated>2021-05-31T10:17:46.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/blog/nopcommerce-vs-magento-which-is-the-best-ecommerce-platform-for-enterprises]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clean My Speaker - Play Sound To Eject Water Out Of Phone's Speaker]]></title>
         <id>https://www.designernews.co/stories/115740-clean-my-speaker--play-sound-to-eject-water-out-of-phones-speaker</id>
@@ -525,16 +535,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         <link href="https://www.designernews.co/stories/115650-portfolio-website-transformation-free-figma-template"/>
         <updated>2021-05-25T10:22:13.000Z</updated>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=JO-SXrlnmEE]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make an App for Android and iOS]]></title>
-        <id>https://www.designernews.co/stories/115649-how-to-make-an-app-for-android-and-ios</id>
-        <link href="https://www.designernews.co/stories/115649-how-to-make-an-app-for-android-and-ios"/>
-        <updated>2021-05-25T09:52:11.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/how-to-make-an-app-for-android-and-ios]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
