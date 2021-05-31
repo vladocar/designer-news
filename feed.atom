@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-31T12:31:00.634Z</id>
+    <id>urn:2021-05-31T14:00:34.888Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T12:31:00.634Z</updated>
+    <updated>2021-05-31T14:00:34.889Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Burner Page - Validate ideas with burner pages in 60 seconds]]></title>
+        <id>https://burnerpage.com/</id>
+        <link href="http://www.webdesignernews.com/external/burner-page-validate-ideas-with-burner-pages-in-60-seconds"/>
+        <updated>2021-05-31T13:49:00.000Z</updated>
+        <summary type="html"><![CDATA[https://burnerpage.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Design A Personal Brand Logo (And Make It GREAT)]]></title>
+        <id>https://www.designernews.co/stories/115750-how-to-design-a-personal-brand-logo-and-make-it-great</id>
+        <link href="https://www.designernews.co/stories/115750-how-to-design-a-personal-brand-logo-and-make-it-great"/>
+        <updated>2021-05-31T13:46:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=isjmCr1z0gw]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is a Style Guide, And Why Does Your Business Need It]]></title>
+        <id>https://gapsystudio.com/blog/what-is-a-style-guide/</id>
+        <link href="http://www.webdesignernews.com/external/what-is-a-style-guide-and-why-does-your-business-need-it"/>
+        <updated>2021-05-31T13:27:42.000Z</updated>
+        <summary type="html"><![CDATA[https://gapsystudio.com/blog/what-is-a-style-guide/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UX tips & tools: How to give your customers a sleeker user experience]]></title>
+        <id>https://dribbble.com/stories/2021/05/31/ux-tips</id>
+        <link href="http://www.webdesignernews.com/external/ux-tips-tools-how-to-give-your-customers-a-sleeker-user-experience"/>
+        <updated>2021-05-31T13:26:51.000Z</updated>
+        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/05/31/ux-tips]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://www.smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/</id>
+        <link href="http://www.webdesignernews.com/external/happy-june-vibes-for-your-screen-2021-desktop-wallpapers-edition"/>
+        <updated>2021-05-31T13:19:15.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 Logo Trend Report]]></title>
         <id>https://www.logolounge.com/articles/2021-logo-trend-report</id>
@@ -319,46 +369,6 @@ The post 16 Best Vaporwave Fonts appeared first on Design Inspiration.]]></summa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quiz: Find Your Design Career Heaven]]></title>
-        <id>https://www.webdesignerdepot.com/2021/05/quiz-find-your-design-career-heaven/</id>
-        <link href="http://www.webdesignernews.com/external/quiz-find-your-design-career-heaven"/>
-        <updated>2021-05-29T12:48:04.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/05/quiz-find-your-design-career-heaven/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why WordPress Agencies Are Embracing Gutenberg]]></title>
-        <id>https://torquemag.io/2021/05/why-wordpress-agencies-are-embracing-gutenberg/</id>
-        <link href="http://www.webdesignernews.com/external/why-wordpress-agencies-are-embracing-gutenberg"/>
-        <updated>2021-05-29T12:47:50.000Z</updated>
-        <summary type="html"><![CDATA[https://torquemag.io/2021/05/why-wordpress-agencies-are-embracing-gutenberg/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Modern Website Design Examples (and What You Can Learn From Them)]]></title>
-        <id>https://usabilitygeek.com/7-modern-website-design-examples-and-what-you-can-learn-from-them/</id>
-        <link href="http://www.webdesignernews.com/external/7-modern-website-design-examples-and-what-you-can-learn-from-them"/>
-        <updated>2021-05-29T12:35:06.000Z</updated>
-        <summary type="html"><![CDATA[https://usabilitygeek.com/7-modern-website-design-examples-and-what-you-can-learn-from-them/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Inspirations and Ideas]]></title>
-        <id>https://hexcolor.co/color-inspiration</id>
-        <link href="http://www.webdesignernews.com/external/color-inspirations-and-ideas"/>
-        <updated>2021-05-29T12:17:11.000Z</updated>
-        <summary type="html"><![CDATA[https://hexcolor.co/color-inspiration]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7 Best Tips For Web Developers]]></title>
         <id>https://www.designernews.co/stories/115718-7-best-tips-for-web-developers</id>
         <link href="https://www.designernews.co/stories/115718-7-best-tips-for-web-developers"/>
@@ -548,16 +558,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carie Fisher)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An awesome & free open source design prototyping tool: Penpot]]></title>
-        <id>https://www.designernews.co/stories/115667-an-awesome--free-open-source-design-prototyping-tool-penpot</id>
-        <link href="https://www.designernews.co/stories/115667-an-awesome--free-open-source-design-prototyping-tool-penpot"/>
-        <updated>2021-05-26T05:56:58.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=nrKpsKOw7KI]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
