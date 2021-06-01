@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-01T20:11:59.285Z</id>
+    <id>urn:2021-06-01T22:03:30.782Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T20:11:59.285Z</updated>
+    <updated>2021-06-01T22:03:30.782Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Text-altering AI is changing our culture - try this tool to find out how]]></title>
+        <id>https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication</id>
+        <link href="http://www.webdesignernews.com/external/text-altering-ai-is-changing-our-culture-try-this-tool-to-find-out-how"/>
+        <updated>2021-06-01T21:16:40.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't call it dead: Hangouts just reached 5 billion downloads]]></title>
+        <id>https://www.androidpolice.com/2021/06/01/dont-call-it-dead-hangouts-just-reached-5-billion-downloads/</id>
+        <link href="http://www.webdesignernews.com/external/don-t-call-it-dead-hangouts-just-reached-5-billion-downloads"/>
+        <updated>2021-06-01T20:34:02.000Z</updated>
+        <summary type="html"><![CDATA[https://www.androidpolice.com/2021/06/01/dont-call-it-dead-hangouts-just-reached-5-billion-downloads/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The origin story of the Wingdings font]]></title>
         <id>https://uxdesign.cc/the-origin-story-of-the-wingdings-font-3b2ba088117f</id>
@@ -281,26 +301,6 @@
         <link href="http://www.webdesignernews.com/external/what-is-a-style-guide-and-why-does-your-business-need-it"/>
         <updated>2021-05-31T13:27:42.000Z</updated>
         <summary type="html"><![CDATA[https://gapsystudio.com/blog/what-is-a-style-guide/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UX tips & tools: How to give your customers a sleeker user experience]]></title>
-        <id>https://dribbble.com/stories/2021/05/31/ux-tips</id>
-        <link href="http://www.webdesignernews.com/external/ux-tips-tools-how-to-give-your-customers-a-sleeker-user-experience"/>
-        <updated>2021-05-31T13:26:51.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/05/31/ux-tips]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://www.smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/</id>
-        <link href="http://www.webdesignernews.com/external/happy-june-vibes-for-your-screen-2021-desktop-wallpapers-edition"/>
-        <updated>2021-05-31T13:19:15.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
