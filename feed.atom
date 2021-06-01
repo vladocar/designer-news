@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-01T10:42:35.816Z</id>
+    <id>urn:2021-06-01T11:41:55.109Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T10:42:35.816Z</updated>
+    <updated>2021-06-01T11:41:55.109Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[7 Themes to Make Your VS Code Look Beautiful]]></title>
+        <id>https://www.designernews.co/stories/115767-7-themes-to-make-your-vs-code-look-beautiful</id>
+        <link href="https://www.designernews.co/stories/115767-7-themes-to-make-your-vs-code-look-beautiful"/>
+        <updated>2021-06-01T11:14:51.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/7-themes-to-make-your-vs-code-look.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Development Trends  2021]]></title>
         <id>https://www.designernews.co/stories/115766-web-development-trends--2021</id>
@@ -30,7 +40,7 @@
         <id>https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/</id>
         <link href="https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/"/>
         <updated>2021-06-01T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon allows visitors to display prices in their own currency. Thanks to [ExchangeRatesApi.io](https://exchangeratesapi.io/?utm_source=SmashingMagazine&utm_medium=ThirdParties&utm_content=Article-exchangerateapi), we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.]]></summary>
+        <summary type="html"><![CDATA[Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
         </author>
@@ -535,16 +545,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <link href="https://www.designernews.co/stories/115689-uxui-design-collection-"/>
         <updated>2021-05-27T08:36:30.000Z</updated>
         <summary type="html"><![CDATA[https://maze.co/collections/ux-ui-design/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lineicons 3.0 | 5000+ Line Icons for Designers and Developers]]></title>
-        <id>https://www.designernews.co/stories/115684-lineicons-30--5000-line-icons-for-designers-and-developers</id>
-        <link href="https://www.designernews.co/stories/115684-lineicons-30--5000-line-icons-for-designers-and-developers"/>
-        <updated>2021-05-27T06:27:36.000Z</updated>
-        <summary type="html"><![CDATA[https://lineicons.com/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
