@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-01T11:41:55.109Z</id>
+    <id>urn:2021-06-01T12:37:45.681Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T11:41:55.109Z</updated>
+    <updated>2021-06-01T12:37:45.681Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,6 +43,16 @@
         <summary type="html"><![CDATA[Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Inspirational Web Designer and Developer Portfolios]]></title>
+        <id>https://www.designernews.co/stories/115756-12-inspirational-web-designer-and-developer-portfolios</id>
+        <link href="https://www.designernews.co/stories/115756-12-inspirational-web-designer-and-developer-portfolios"/>
+        <updated>2021-05-31T21:02:09.000Z</updated>
+        <summary type="html"><![CDATA[https://qodeinteractive.com/magazine/inspirational-web-designer-portfolios/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -485,16 +495,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <link href="https://www.designernews.co/stories/115701-logo-a-or-b"/>
         <updated>2021-05-27T18:06:42.000Z</updated>
         <summary type="html"><![CDATA[https://the-femalecompany.typeform.com/to/bRUyKDOZ]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's your definition of a design system?]]></title>
-        <id>https://www.designernews.co/stories/115698-whats-your-definition-of-a-design-system</id>
-        <link href="https://www.designernews.co/stories/115698-whats-your-definition-of-a-design-system"/>
-        <updated>2021-05-27T15:41:27.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/SethCoolen/status/1397936996320952321]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
