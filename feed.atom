@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-01T22:03:30.782Z</id>
+    <id>urn:2021-06-01T23:33:47.659Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T22:03:30.782Z</updated>
+    <updated>2021-06-01T23:33:47.659Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I?d rather trust the unknown and stay away from following a pattern ~ Jason Chuang]]></title>
+        <id>https://www.itsnicethat.com/articles/jason-chuang-illustration-010621</id>
+        <link href="http://www.webdesignernews.com/external/i-d-rather-trust-the-unknown-and-stay-away-from-following-a-pattern-illustrator-jason-chuang-on-what-makes-him-proud"/>
+        <updated>2021-06-01T23:21:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/jason-chuang-illustration-010621]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuton - The knowledge base built for new creator economy]]></title>
+        <id>https://www.nuton.co/</id>
+        <link href="http://www.webdesignernews.com/external/nuton-the-knowledge-base-built-for-new-creator-economy"/>
+        <updated>2021-06-01T22:40:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.nuton.co/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guess the Growth - Can you match famous startups and their growth tactics?]]></title>
+        <id>https://guessthegrowth.com/</id>
+        <link href="http://www.webdesignernews.com/external/guess-the-growth-can-you-match-famous-startups-and-their-growth-tactics"/>
+        <updated>2021-06-01T22:06:40.000Z</updated>
+        <summary type="html"><![CDATA[https://guessthegrowth.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Text-altering AI is changing our culture - try this tool to find out how]]></title>
         <id>https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication</id>
@@ -266,26 +296,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS :is]]></title>
-        <id>https://davidwalsh.name/css-is</id>
-        <link href="http://www.webdesignernews.com/external/css-is"/>
-        <updated>2021-05-31T14:01:00.000Z</updated>
-        <summary type="html"><![CDATA[https://davidwalsh.name/css-is]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burner Page - Validate ideas with burner pages in 60 seconds]]></title>
-        <id>https://burnerpage.com/</id>
-        <link href="http://www.webdesignernews.com/external/burner-page-validate-ideas-with-burner-pages-in-60-seconds"/>
-        <updated>2021-05-31T13:49:00.000Z</updated>
-        <summary type="html"><![CDATA[https://burnerpage.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Design A Personal Brand Logo (And Make It GREAT)]]></title>
         <id>https://www.designernews.co/stories/115750-how-to-design-a-personal-brand-logo-and-make-it-great</id>
         <link href="https://www.designernews.co/stories/115750-how-to-design-a-personal-brand-logo-and-make-it-great"/>
@@ -293,16 +303,6 @@
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=isjmCr1z0gw]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is a Style Guide, And Why Does Your Business Need It]]></title>
-        <id>https://gapsystudio.com/blog/what-is-a-style-guide/</id>
-        <link href="http://www.webdesignernews.com/external/what-is-a-style-guide-and-why-does-your-business-need-it"/>
-        <updated>2021-05-31T13:27:42.000Z</updated>
-        <summary type="html"><![CDATA[https://gapsystudio.com/blog/what-is-a-style-guide/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
