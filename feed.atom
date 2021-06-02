@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-02T11:08:11.087Z</id>
+    <id>urn:2021-06-02T12:38:06.912Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T11:08:11.087Z</updated>
+    <updated>2021-06-02T12:38:06.912Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Simple, Classic Design Should Work]]></title>
+        <id>https://speckyboy.com/simple-classic-design-works/</id>
+        <link href="http://www.webdesignernews.com/external/how-simple-classic-design-should-work"/>
+        <updated>2021-06-02T12:01:00.000Z</updated>
+        <summary type="html"><![CDATA[https://speckyboy.com/simple-classic-design-works/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ABC has a new logo (and it feels like d�j� vu)]]></title>
+        <id>https://www.creativebloq.com/news/abc-new-logo</id>
+        <link href="http://www.webdesignernews.com/external/abc-has-a-new-logo-and-it-feels-like-d-j-vu"/>
+        <updated>2021-06-02T11:40:22.000Z</updated>
+        <summary type="html"><![CDATA[https://www.creativebloq.com/news/abc-new-logo]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A fresh new Firefox is here]]></title>
+        <id>https://blog.mozilla.org/en/products/firefox/fresh-new-look-for-firefox/</id>
+        <link href="http://www.webdesignernews.com/external/a-fresh-new-firefox-is-here"/>
+        <updated>2021-06-02T11:40:10.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.mozilla.org/en/products/firefox/fresh-new-look-for-firefox/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WWDC Highlights Through the Decades]]></title>
+        <id>https://9to5mac.com/2021/06/01/explore-some-of-the-most-memorable-moments-in-wwdc-history-as-we-approach-apples-32nd-conference/</id>
+        <link href="http://www.webdesignernews.com/external/wwdc-highlights-through-the-decades"/>
+        <updated>2021-06-02T11:40:07.000Z</updated>
+        <summary type="html"><![CDATA[https://9to5mac.com/2021/06/01/explore-some-of-the-most-memorable-moments-in-wwdc-history-as-we-approach-apples-32nd-conference/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cognitive Bias and the Design Process]]></title>
+        <id>https://jonyablonski.com/articles/2021/cognitive-bias-and-the-design-process/</id>
+        <link href="http://www.webdesignernews.com/external/cognitive-bias-and-the-design-process"/>
+        <updated>2021-06-02T11:39:52.000Z</updated>
+        <summary type="html"><![CDATA[https://jonyablonski.com/articles/2021/cognitive-bias-and-the-design-process/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 VSCode Extensions That Every Web Developer Should Use]]></title>
+        <id>https://www.designernews.co/stories/115794-13-vscode-extensions-that-every-web-developer-should-use</id>
+        <link href="https://www.designernews.co/stories/115794-13-vscode-extensions-that-every-web-developer-should-use"/>
+        <updated>2021-06-02T11:32:28.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/03/13-vscode-extensions-that-every-web.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best VS Code Shortcuts To Make Your Coding Faster]]></title>
+        <id>https://www.designernews.co/stories/115793-best-vs-code-shortcuts-to-make-your-coding-faster</id>
+        <link href="https://www.designernews.co/stories/115793-best-vs-code-shortcuts-to-make-your-coding-faster"/>
+        <updated>2021-06-02T11:29:41.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/best-vs-code-shortcuts-to-make-your.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Top 8 Mistakes You?re Making in WordPress]]></title>
         <id>https://mediatemple.net/blog/web-development-tech/the-top-8-mistakes-youre-making-in-wordpress/</id>
@@ -236,16 +306,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to turn creativity into a rigorous business strategy]]></title>
-        <id>https://www.fastcompany.com/90641880/how-to-turn-creativity-into-a-rigorous-business-strategy</id>
-        <link href="http://www.webdesignernews.com/external/how-to-turn-creativity-into-a-rigorous-business-strategy"/>
-        <updated>2021-06-01T11:06:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.fastcompany.com/90641880/how-to-turn-creativity-into-a-rigorous-business-strategy]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web Development Trends  2021]]></title>
         <id>https://www.designernews.co/stories/115766-web-development-trends--2021</id>
         <link href="https://www.designernews.co/stories/115766-web-development-trends--2021"/>
@@ -286,16 +346,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Generate Random Background Colors With JavaScript]]></title>
-        <id>https://webdesign.tutsplus.com/tutorials/generate-random-background-colors-javascript--cms-37030</id>
-        <link href="http://www.webdesignernews.com/external/how-to-generate-random-background-colors-with-javascript"/>
-        <updated>2021-05-31T20:27:00.000Z</updated>
-        <summary type="html"><![CDATA[https://webdesign.tutsplus.com/tutorials/generate-random-background-colors-javascript--cms-37030]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FlowBite: Figma UI design kit]]></title>
         <id>https://www.designernews.co/stories/115754-flowbite-figma-ui-design-kit</id>
         <link href="https://www.designernews.co/stories/115754-flowbite-figma-ui-design-kit"/>
@@ -303,36 +353,6 @@
         <summary type="html"><![CDATA[http://flowbite.design/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanilla-Extract - Zero runtime Stylesheets in TypeScript]]></title>
-        <id>https://vanilla-extract.style/</id>
-        <link href="http://www.webdesignernews.com/external/vanilla-extract-zero-runtime-stylesheets-in-typescript"/>
-        <updated>2021-05-31T18:08:00.000Z</updated>
-        <summary type="html"><![CDATA[https://vanilla-extract.style/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get 100 Score on Google PageSpeed Insights]]></title>
-        <id>https://joetechreviews.com/how-to-get-100-score-on-google-pagespeed-insights/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-get-100-score-on-google-pagespeed-insights"/>
-        <updated>2021-05-31T17:14:00.000Z</updated>
-        <summary type="html"><![CDATA[https://joetechreviews.com/how-to-get-100-score-on-google-pagespeed-insights/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adidas Font]]></title>
-        <id>https://fontspanda.com/adidas-font-free-download/</id>
-        <link href="http://www.webdesignernews.com/external/adidas-font"/>
-        <updated>2021-05-31T16:52:00.000Z</updated>
-        <summary type="html"><![CDATA[https://fontspanda.com/adidas-font-free-download/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -520,16 +540,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Netsuite SuiteCommerce Advanced?]]></title>
-        <id>https://www.designernews.co/stories/115717-what-is-netsuite-suitecommerce-advanced</id>
-        <link href="https://www.designernews.co/stories/115717-what-is-netsuite-suitecommerce-advanced"/>
-        <updated>2021-05-28T17:53:41.000Z</updated>
-        <summary type="html"><![CDATA[https://brokenrubik.co/what-is-suitecommerce-advanced]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adding A Commenting System To A WYSIWYG Editor]]></title>
         <id>https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/</id>
         <link href="https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/"/>
@@ -537,16 +547,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <summary type="html"><![CDATA[In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Essential Tips For JavaScript]]></title>
-        <id>https://www.designernews.co/stories/115705-7-essential-tips-for-javascript</id>
-        <link href="https://www.designernews.co/stories/115705-7-essential-tips-for-javascript"/>
-        <updated>2021-05-28T07:00:13.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/7-essential-tips-for-javascript.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
