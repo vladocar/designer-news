@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-02T09:31:05.741Z</id>
+    <id>urn:2021-06-02T11:08:11.087Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T09:31:05.741Z</updated>
+    <updated>2021-06-02T11:08:11.087Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Top 8 Mistakes You?re Making in WordPress]]></title>
+        <id>https://mediatemple.net/blog/web-development-tech/the-top-8-mistakes-youre-making-in-wordpress/</id>
+        <link href="http://www.webdesignernews.com/external/the-top-8-mistakes-you-re-making-in-wordpress"/>
+        <updated>2021-06-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[https://mediatemple.net/blog/web-development-tech/the-top-8-mistakes-youre-making-in-wordpress/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving The Performance Of An Online Store (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/</id>
+        <link href="https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/"/>
+        <updated>2021-06-02T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jennifer Brehm)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Robotic Process Automation (RPA) in Healthcare Industry]]></title>
         <id>https://www.designernews.co/stories/115789-robotic-process-automation-rpa-in-healthcare-industry</id>
@@ -311,16 +331,6 @@
         <link href="http://www.webdesignernews.com/external/adidas-font"/>
         <updated>2021-05-31T16:52:00.000Z</updated>
         <summary type="html"><![CDATA[https://fontspanda.com/adidas-font-free-download/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These are the hottest logo design trends of 2021]]></title>
-        <id>https://www.creativebloq.com/news/logo-trends-2021</id>
-        <link href="http://www.webdesignernews.com/external/these-are-the-hottest-logo-design-trends-of-2021"/>
-        <updated>2021-05-31T15:40:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.creativebloq.com/news/logo-trends-2021]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
