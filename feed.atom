@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-02T07:06:29.712Z</id>
+    <id>urn:2021-06-02T09:31:05.741Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T07:06:29.712Z</updated>
+    <updated>2021-06-02T09:31:05.741Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Robotic Process Automation (RPA) in Healthcare Industry]]></title>
+        <id>https://www.designernews.co/stories/115789-robotic-process-automation-rpa-in-healthcare-industry</id>
+        <link href="https://www.designernews.co/stories/115789-robotic-process-automation-rpa-in-healthcare-industry"/>
+        <updated>2021-06-02T09:17:41.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/blog/robotic-process-automation-rpa-in-healthcare-industry]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rossmann website redesign]]></title>
+        <id>https://www.designernews.co/stories/115788-rossmann-website-redesign</id>
+        <link href="https://www.designernews.co/stories/115788-rossmann-website-redesign"/>
+        <updated>2021-06-02T08:58:31.000Z</updated>
+        <summary type="html"><![CDATA[https://www.behance.net/gallery/120714471/Rossmann-Website-redesign?]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I?d rather trust the unknown and stay away from following a pattern ~ Jason Chuang]]></title>
         <id>https://www.itsnicethat.com/articles/jason-chuang-illustration-010621</id>
@@ -510,16 +530,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Types of Cloud Computing Service Models Everyone Should Know About]]></title>
-        <id>https://www.designernews.co/stories/115706-types-of-cloud-computing-service-models-everyone-should-know-about</id>
-        <link href="https://www.designernews.co/stories/115706-types-of-cloud-computing-service-models-everyone-should-know-about"/>
-        <updated>2021-05-28T07:37:12.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/types-of-cloud-computing-service-models-everyone-should-know-about]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7 Essential Tips For JavaScript]]></title>
         <id>https://www.designernews.co/stories/115705-7-essential-tips-for-javascript</id>
         <link href="https://www.designernews.co/stories/115705-7-essential-tips-for-javascript"/>
@@ -537,16 +547,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Inspiration ideas in 2021]]></title>
-        <id>https://www.designernews.co/stories/115692-color-inspiration-ideas-in-2021</id>
-        <link href="https://www.designernews.co/stories/115692-color-inspiration-ideas-in-2021"/>
-        <updated>2021-05-27T12:00:07.000Z</updated>
-        <summary type="html"><![CDATA[https://hexcolor.co/color-inspiration]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
