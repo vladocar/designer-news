@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-02T15:39:54.700Z</id>
+    <id>urn:2021-06-02T17:22:11.497Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T15:39:54.700Z</updated>
+    <updated>2021-06-02T17:22:11.497Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Apple in the Enterprise: A 2021 Report Card]]></title>
+        <id>https://sixcolors.com/post/2021/06/apple-in-the-enterprise-a-2021-report-card/</id>
+        <link href="http://www.webdesignernews.com/external/apple-in-the-enterprise-a-2021-report-card"/>
+        <updated>2021-06-02T16:02:00.000Z</updated>
+        <summary type="html"><![CDATA[https://sixcolors.com/post/2021/06/apple-in-the-enterprise-a-2021-report-card/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best VS Code Shortcuts To Make Your Coding Faster]]></title>
+        <id>https://www.designernews.co/stories/115806-best-vs-code-shortcuts-to-make-your-coding-faster</id>
+        <link href="https://www.designernews.co/stories/115806-best-vs-code-shortcuts-to-make-your-coding-faster"/>
+        <updated>2021-06-02T15:49:38.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/best-vs-code-shortcuts-to-make-your.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a single source of truth, and why do you need it?]]></title>
         <id>https://www.uxpin.com/studio/blog/single-source-truth-benefits/</id>
@@ -261,16 +281,6 @@
         <link href="http://www.webdesignernews.com/external/responsive-design-and-container-queries-oh-my"/>
         <updated>2021-06-01T15:20:26.000Z</updated>
         <summary type="html"><![CDATA[https://ethanmarcotte.com/wrote/responsive-design-at-11-container-queries/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to practice inclusive design in your daily workflow (6 tips for designers)]]></title>
-        <id>https://dribbble.com/stories/2021/06/01/inclusive-design-tips</id>
-        <link href="http://www.webdesignernews.com/external/how-to-practice-inclusive-design-in-your-daily-workflow-6-tips-for-designers"/>
-        <updated>2021-06-01T15:20:24.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/01/inclusive-design-tips]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
@@ -535,16 +545,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <link href="https://www.designernews.co/stories/115706-types-of-cloud-computing-service-models-everyone-should-know-about"/>
         <updated>2021-05-28T07:37:12.000Z</updated>
         <summary type="html"><![CDATA[https://www.zenesys.com/blog/types-of-cloud-computing-service-models-everyone-should-know-about]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic Intro Video Maker - Pixiko - with 100% customization, logo and text animation. Easy like 1, 2, 3]]></title>
-        <id>https://www.designernews.co/stories/115696-magic-intro-video-maker--pixiko--with-100-customization-logo-and-text-animation-easy-like-1-2-3</id>
-        <link href="https://www.designernews.co/stories/115696-magic-intro-video-maker--pixiko--with-100-customization-logo-and-text-animation-easy-like-1-2-3"/>
-        <updated>2021-05-27T15:10:52.000Z</updated>
-        <summary type="html"><![CDATA[https://pixiko.com/editors/intro-maker]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -853,16 +853,6 @@ The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summa
         <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
-        <updated>2021-05-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>
