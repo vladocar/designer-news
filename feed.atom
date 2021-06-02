@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-02T00:59:38.058Z</id>
+    <id>urn:2021-06-02T04:41:08.171Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T00:59:38.058Z</updated>
+    <updated>2021-06-02T04:41:08.171Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,6 +43,16 @@
         <summary type="html"><![CDATA[https://thenextweb.com/news/text-altering-ai-changing-culture-try-this-tool-find-out-how-syndication]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose the Best React Drag and Drop? Top 15 Free Libraries to Set Up]]></title>
+        <id>https://www.designernews.co/stories/115783-how-to-choose-the-best-react-drag-and-drop-top-15-free-libraries-to-set-up</id>
+        <link href="https://www.designernews.co/stories/115783-how-to-choose-the-best-react-drag-and-drop-top-15-free-libraries-to-set-up"/>
+        <updated>2021-06-01T20:54:46.000Z</updated>
+        <summary type="html"><![CDATA[https://flatlogic.com/blog/how-to-choose-the-best-react-drag-and-drop-top-15-free-libraries-to-set-up/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -515,16 +525,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <link href="https://www.designernews.co/stories/115705-7-essential-tips-for-javascript"/>
         <updated>2021-05-28T07:00:13.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/7-essential-tips-for-javascript.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic Intro Video Maker - Pixiko - with 100% customization, logo and text animation. Easy like 1, 2, 3]]></title>
-        <id>https://www.designernews.co/stories/115696-magic-intro-video-maker--pixiko--with-100-customization-logo-and-text-animation-easy-like-1-2-3</id>
-        <link href="https://www.designernews.co/stories/115696-magic-intro-video-maker--pixiko--with-100-customization-logo-and-text-animation-easy-like-1-2-3"/>
-        <updated>2021-05-27T15:10:52.000Z</updated>
-        <summary type="html"><![CDATA[https://pixiko.com/editors/intro-maker]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
