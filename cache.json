@@ -748,6 +748,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://cognition.happycog.com/article/preparing-for-googles-core-web-vitals-update",
+          "author": null,
+          "description": "https://cognition.happycog.com/article/preparing-for-googles-core-web-vitals-update",
+          "link": "http://www.webdesignernews.com/external/preparing-for-google-s-core-web-vitals-update",
+          "publishedOn": "2021-06-02T23:02:00.000Z",
+          "wordCount": 783,
+          "title": "Preparing for Google?s Core Web Vitals Update"
+        },
+        {
           "id": "https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9",
           "author": null,
           "description": "https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9",
@@ -917,15 +926,6 @@
           "publishedOn": "2021-06-01T21:16:40.000Z",
           "wordCount": 1288,
           "title": "Text-altering AI is changing our culture - try this tool to find out how"
-        },
-        {
-          "id": "https://www.androidpolice.com/2021/06/01/dont-call-it-dead-hangouts-just-reached-5-billion-downloads/",
-          "author": null,
-          "description": "https://www.androidpolice.com/2021/06/01/dont-call-it-dead-hangouts-just-reached-5-billion-downloads/",
-          "link": "http://www.webdesignernews.com/external/don-t-call-it-dead-hangouts-just-reached-5-billion-downloads",
-          "publishedOn": "2021-06-01T20:34:02.000Z",
-          "wordCount": 1703,
-          "title": "Don't call it dead: Hangouts just reached 5 billion downloads"
         }
       ]
     }

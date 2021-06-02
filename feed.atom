@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-02T22:50:25.015Z</id>
+    <id>urn:2021-06-02T23:33:24.036Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T22:50:25.015Z</updated>
+    <updated>2021-06-02T23:33:24.036Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Preparing for Google?s Core Web Vitals Update]]></title>
+        <id>https://cognition.happycog.com/article/preparing-for-googles-core-web-vitals-update</id>
+        <link href="http://www.webdesignernews.com/external/preparing-for-google-s-core-web-vitals-update"/>
+        <updated>2021-06-02T23:02:00.000Z</updated>
+        <summary type="html"><![CDATA[https://cognition.happycog.com/article/preparing-for-googles-core-web-vitals-update]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Apple M1 compiles Linux 30% faster than my Intel i9]]></title>
         <id>https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9</id>
@@ -283,16 +293,6 @@
         <summary type="html"><![CDATA[https://flatlogic.com/blog/how-to-choose-the-best-react-drag-and-drop-top-15-free-libraries-to-set-up/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't call it dead: Hangouts just reached 5 billion downloads]]></title>
-        <id>https://www.androidpolice.com/2021/06/01/dont-call-it-dead-hangouts-just-reached-5-billion-downloads/</id>
-        <link href="http://www.webdesignernews.com/external/don-t-call-it-dead-hangouts-just-reached-5-billion-downloads"/>
-        <updated>2021-06-01T20:34:02.000Z</updated>
-        <summary type="html"><![CDATA[https://www.androidpolice.com/2021/06/01/dont-call-it-dead-hangouts-just-reached-5-billion-downloads/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
