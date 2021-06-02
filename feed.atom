@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-02T12:38:06.912Z</id>
+    <id>urn:2021-06-02T14:24:22.901Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T12:38:06.912Z</updated>
+    <updated>2021-06-02T14:24:22.901Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Show DN: Free Figma Admin Dashboard Kit]]></title>
+        <id>https://www.designernews.co/stories/115798-show-dn-free-figma-admin-dashboard-kit</id>
+        <link href="https://www.designernews.co/stories/115798-show-dn-free-figma-admin-dashboard-kit"/>
+        <updated>2021-06-02T13:29:57.000Z</updated>
+        <summary type="html"><![CDATA[https://www.figma.com/community/file/981909581633093086]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top CSS Resources, Tools & Articles from May]]></title>
+        <id>https://www.designernews.co/stories/115797-top-css-resources-tools--articles-from-may</id>
+        <link href="https://www.designernews.co/stories/115797-top-css-resources-tools--articles-from-may"/>
+        <updated>2021-06-02T13:19:14.000Z</updated>
+        <summary type="html"><![CDATA[https://dailydevlinks.com/top-css-resources-tools-articles-from-may-2021/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Fix Cumulative Layout Shift (CLS) Issues]]></title>
+        <id>https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/</id>
+        <link href="https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/"/>
+        <updated>2021-06-02T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Simple, Classic Design Should Work]]></title>
         <id>https://speckyboy.com/simple-classic-design-works/</id>
@@ -504,26 +534,6 @@ The post 16 Best Vaporwave Fonts appeared first on Design Inspiration.]]></summa
         <link href="https://www.designernews.co/stories/115727-what-is-generative-design"/>
         <updated>2021-05-29T20:03:14.000Z</updated>
         <summary type="html"><![CDATA[https://www.vectornator.io/blog/generative-design]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Cover Letter Examples For Graphic Designers]]></title>
-        <id>https://www.designernews.co/stories/115726-best-cover-letter-examples-for-graphic-designers</id>
-        <link href="https://www.designernews.co/stories/115726-best-cover-letter-examples-for-graphic-designers"/>
-        <updated>2021-05-29T20:02:58.000Z</updated>
-        <summary type="html"><![CDATA[https://www.vectornator.io/blog/graphic-designer-cover-letter]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Best Tips For Web Developers]]></title>
-        <id>https://www.designernews.co/stories/115718-7-best-tips-for-web-developers</id>
-        <link href="https://www.designernews.co/stories/115718-7-best-tips-for-web-developers"/>
-        <updated>2021-05-29T05:57:57.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/7-best-tips-for-web-developers.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
