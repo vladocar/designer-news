@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T16:49:59.865Z</id>
+    <id>urn:2021-06-03T19:10:13.577Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T16:49:59.865Z</updated>
+    <updated>2021-06-03T19:10:13.577Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Crash Course in WordPress Block Filters]]></title>
+        <id>https://css-tricks.com/a-crash-course-in-wordpress-block-filters/</id>
+        <link href="http://www.webdesignernews.com/external/a-crash-course-in-wordpress-block-filters"/>
+        <updated>2021-06-03T19:02:00.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/a-crash-course-in-wordpress-block-filters/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Change the Default Search Engine on All Browsers and Devices]]></title>
+        <id>https://kinsta.com/blog/how-to-change-search-engine/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-change-the-default-search-engine-on-all-browsers-and-devices"/>
+        <updated>2021-06-03T18:19:00.000Z</updated>
+        <summary type="html"><![CDATA[https://kinsta.com/blog/how-to-change-search-engine/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with Bootstrap 5, React, and Sass]]></title>
+        <id>https://designmodo.com/bootstrap-react-sass/</id>
+        <link href="http://www.webdesignernews.com/external/getting-started-with-bootstrap-5-react-and-sass"/>
+        <updated>2021-06-03T17:31:00.000Z</updated>
+        <summary type="html"><![CDATA[https://designmodo.com/bootstrap-react-sass/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Grid Lessons]]></title>
         <id>https://www.euismod.dev/</id>
@@ -304,36 +334,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         <summary type="html"><![CDATA[Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Simple, Classic Design Should Work]]></title>
-        <id>https://speckyboy.com/simple-classic-design-works/</id>
-        <link href="http://www.webdesignernews.com/external/how-simple-classic-design-should-work"/>
-        <updated>2021-06-02T12:01:00.000Z</updated>
-        <summary type="html"><![CDATA[https://speckyboy.com/simple-classic-design-works/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABC has a new logo (and it feels like d�j� vu)]]></title>
-        <id>https://www.creativebloq.com/news/abc-new-logo</id>
-        <link href="http://www.webdesignernews.com/external/abc-has-a-new-logo-and-it-feels-like-d-j-vu"/>
-        <updated>2021-06-02T11:40:22.000Z</updated>
-        <summary type="html"><![CDATA[https://www.creativebloq.com/news/abc-new-logo]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A fresh new Firefox is here]]></title>
-        <id>https://blog.mozilla.org/en/products/firefox/fresh-new-look-for-firefox/</id>
-        <link href="http://www.webdesignernews.com/external/a-fresh-new-firefox-is-here"/>
-        <updated>2021-06-02T11:40:10.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.mozilla.org/en/products/firefox/fresh-new-look-for-firefox/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
