@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T19:10:13.577Z</id>
+    <id>urn:2021-06-03T21:02:11.690Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T19:10:13.577Z</updated>
+    <updated>2021-06-03T21:02:11.690Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10 mistakes you?re making as a startup employee]]></title>
+        <id>https://thenextweb.com/news/startup-employee-mistakes-syndication</id>
+        <link href="http://www.webdesignernews.com/external/10-mistakes-you-re-making-as-a-startup-employee"/>
+        <updated>2021-06-03T20:28:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/startup-employee-mistakes-syndication]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Crash Course in WordPress Block Filters]]></title>
         <id>https://css-tricks.com/a-crash-course-in-wordpress-block-filters/</id>
@@ -292,16 +302,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         <link href="http://www.webdesignernews.com/external/11-ways-to-monetize-a-website-the-web-designer"/>
         <updated>2021-06-02T14:59:00.000Z</updated>
         <summary type="html"><![CDATA[https://the-webdesigner.co/11-ways-to-monetize-a-website/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 graphic designers to follow on TikTok for endless inspiration]]></title>
-        <id>https://dribbble.com/stories/2021/06/02/graphic-designers-tiktok</id>
-        <link href="http://www.webdesignernews.com/external/7-graphic-designers-to-follow-on-tiktok-for-endless-inspiration"/>
-        <updated>2021-06-02T14:51:32.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/02/graphic-designers-tiktok]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
