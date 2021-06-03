@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-02T23:33:24.036Z</id>
+    <id>urn:2021-06-03T00:48:15.312Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T23:33:24.036Z</updated>
+    <updated>2021-06-03T00:48:15.312Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[36 Best Whimsical Fonts for Your Fabulous Designs]]></title>
+        <id>https://www.designinspiration.info/?p=2840</id>
+        <link href="https://www.designinspiration.info/whimsical-fonts/"/>
+        <updated>2021-06-03T00:10:33.000Z</updated>
+        <summary type="html"><![CDATA[What is a whimsical font? Basically, it is a simple and eye-catching font that can be used in a variety of designs. We’ve found a number of beautiful whimsical fonts for you to use in your designs. You can find a variety of whimsical fonts in this collection. Whimsical designs
+The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Preparing for Google?s Core Web Vitals Update]]></title>
         <id>https://cognition.happycog.com/article/preparing-for-googles-core-web-vitals-update</id>
@@ -742,17 +753,6 @@ The post 24 Best Fonts with Swashes appeared first on Design Inspiration.]]></su
         <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24 Best Signature Fonts]]></title>
-        <id>https://www.designinspiration.info/?p=2546</id>
-        <link href="https://www.designinspiration.info/signature-fonts/"/>
-        <updated>2021-05-15T20:24:22.000Z</updated>
-        <summary type="html"><![CDATA[There’s nothing more stylish than a well-crafted signature font. It’s all about creating the right image, and certain fonts can give your name a real boost in the right direction. I’m sure you’ll find the one that fits your preferred design style amidst the awesome signature font designs we’ve put
-The post 24 Best Signature Fonts appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
