@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T15:16:25.242Z</id>
+    <id>urn:2021-06-03T16:49:59.865Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T15:16:25.242Z</updated>
+    <updated>2021-06-03T16:49:59.865Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Grid Lessons]]></title>
+        <id>https://www.euismod.dev/</id>
+        <link href="http://www.webdesignernews.com/external/css-grid-lessons"/>
+        <updated>2021-06-03T15:58:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.euismod.dev/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D Design Foundations Course - Uxcel & Spline]]></title>
         <id>https://www.designernews.co/stories/115829-3d-design-foundations-course--uxcel--spline</id>
@@ -322,16 +332,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         <link href="http://www.webdesignernews.com/external/a-fresh-new-firefox-is-here"/>
         <updated>2021-06-02T11:40:10.000Z</updated>
         <summary type="html"><![CDATA[https://blog.mozilla.org/en/products/firefox/fresh-new-look-for-firefox/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WWDC Highlights Through the Decades]]></title>
-        <id>https://9to5mac.com/2021/06/01/explore-some-of-the-most-memorable-moments-in-wwdc-history-as-we-approach-apples-32nd-conference/</id>
-        <link href="http://www.webdesignernews.com/external/wwdc-highlights-through-the-decades"/>
-        <updated>2021-06-02T11:40:07.000Z</updated>
-        <summary type="html"><![CDATA[https://9to5mac.com/2021/06/01/explore-some-of-the-most-memorable-moments-in-wwdc-history-as-we-approach-apples-32nd-conference/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
