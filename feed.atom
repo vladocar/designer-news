@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T00:48:15.312Z</id>
+    <id>urn:2021-06-03T04:02:37.138Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T00:48:15.312Z</updated>
+    <updated>2021-06-03T04:02:37.138Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -843,16 +843,6 @@ The post 24 Best Fonts with Swashes appeared first on Design Inspiration.]]></su
         <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Liran Cohen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
-        <updated>2021-05-04T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
         </author>
     </entry>
 </feed>
