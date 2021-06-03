@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T13:54:20.397Z</id>
+    <id>urn:2021-06-03T14:29:28.927Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T13:54:20.397Z</updated>
+    <updated>2021-06-03T14:29:28.927Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ready UI - 200+ Bootstrap UI blocks to create beautiful websites]]></title>
+        <id>https://readyui.co/</id>
+        <link href="http://www.webdesignernews.com/external/ready-ui-200-bootstrap-ui-blocks-to-create-beautiful-websites"/>
+        <updated>2021-06-03T14:13:00.000Z</updated>
+        <summary type="html"><![CDATA[https://readyui.co/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VectorIcons Mixer - Free icon variations using colorful shapes]]></title>
         <id>https://www.iconshock.com/vectoricons/</id>
@@ -312,16 +322,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         <link href="http://www.webdesignernews.com/external/wwdc-highlights-through-the-decades"/>
         <updated>2021-06-02T11:40:07.000Z</updated>
         <summary type="html"><![CDATA[https://9to5mac.com/2021/06/01/explore-some-of-the-most-memorable-moments-in-wwdc-history-as-we-approach-apples-32nd-conference/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cognitive Bias and the Design Process]]></title>
-        <id>https://jonyablonski.com/articles/2021/cognitive-bias-and-the-design-process/</id>
-        <link href="http://www.webdesignernews.com/external/cognitive-bias-and-the-design-process"/>
-        <updated>2021-06-02T11:39:52.000Z</updated>
-        <summary type="html"><![CDATA[https://jonyablonski.com/articles/2021/cognitive-bias-and-the-design-process/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
