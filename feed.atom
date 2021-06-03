@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T21:02:11.690Z</id>
+    <id>urn:2021-06-03T22:32:51.331Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T21:02:11.690Z</updated>
+    <updated>2021-06-03T22:32:51.331Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[https://thenextweb.com/news/startup-employee-mistakes-syndication]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Number One Design Tip to Improve your UI]]></title>
+        <id>https://www.designernews.co/stories/115835-the-number-one-design-tip-to-improve-your-ui</id>
+        <link href="https://www.designernews.co/stories/115835-the-number-one-design-tip-to-improve-your-ui"/>
+        <updated>2021-06-03T19:50:17.000Z</updated>
+        <summary type="html"><![CDATA[https://deesignre.com/the-number-one-design-tip-to-improve-your-ui/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -528,16 +538,6 @@ The post Free Figma (Low Fidelity) Hand Drawn Wireframe Kit appeared first on De
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Design lessons from the National Football League (NFL): Pt. I]]></title>
-        <id>https://www.designernews.co/stories/115733-design-lessons-from-the-national-football-league-nfl-pt-i</id>
-        <link href="https://www.designernews.co/stories/115733-design-lessons-from-the-national-football-league-nfl-pt-i"/>
-        <updated>2021-05-31T02:22:34.000Z</updated>
-        <summary type="html"><![CDATA[https://link.medium.com/1uDw7wGcHgb]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[26 Best Block Fonts]]></title>
         <id>https://www.designinspiration.info/?p=2295</id>
         <link href="https://www.designinspiration.info/block-fonts/"/>
@@ -843,16 +843,6 @@ The post 24 Best Fonts with Swashes appeared first on Design Inspiration.]]></su
         <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carson Shold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
-        <updated>2021-05-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Liran Cohen)</name>
         </author>
     </entry>
 </feed>
