@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T12:25:56.835Z</id>
+    <id>urn:2021-06-03T13:54:20.397Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T12:25:56.835Z</updated>
+    <updated>2021-06-03T13:54:20.397Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[VectorIcons Mixer - Free icon variations using colorful shapes]]></title>
+        <id>https://www.iconshock.com/vectoricons/</id>
+        <link href="http://www.webdesignernews.com/external/vectoricons-mixer-free-icon-variations-using-colorful-shapes"/>
+        <updated>2021-06-03T12:22:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.iconshock.com/vectoricons/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Online slideshow maker with great transitions, filters and animations to create coolest social media posts!]]></title>
         <id>https://www.designernews.co/stories/115825-online-slideshow-maker-with-great-transitions-filters-and-animations-to-create-coolest-social-media-posts</id>
@@ -312,16 +322,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         <link href="http://www.webdesignernews.com/external/cognitive-bias-and-the-design-process"/>
         <updated>2021-06-02T11:39:52.000Z</updated>
         <summary type="html"><![CDATA[https://jonyablonski.com/articles/2021/cognitive-bias-and-the-design-process/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Top 8 Mistakes You?re Making in WordPress]]></title>
-        <id>https://mediatemple.net/blog/web-development-tech/the-top-8-mistakes-youre-making-in-wordpress/</id>
-        <link href="http://www.webdesignernews.com/external/the-top-8-mistakes-you-re-making-in-wordpress"/>
-        <updated>2021-06-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[https://mediatemple.net/blog/web-development-tech/the-top-8-mistakes-youre-making-in-wordpress/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
