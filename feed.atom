@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T14:29:28.927Z</id>
+    <id>urn:2021-06-03T15:16:25.242Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T14:29:28.927Z</updated>
+    <updated>2021-06-03T15:16:25.242Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3D Design Foundations Course - Uxcel & Spline]]></title>
+        <id>https://www.designernews.co/stories/115829-3d-design-foundations-course--uxcel--spline</id>
+        <link href="https://www.designernews.co/stories/115829-3d-design-foundations-course--uxcel--spline"/>
+        <updated>2021-06-03T14:33:43.000Z</updated>
+        <summary type="html"><![CDATA[https://app.uxcel.com/learn/3d-design-foundations]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ready UI - 200+ Bootstrap UI blocks to create beautiful websites]]></title>
         <id>https://readyui.co/</id>
@@ -536,16 +546,6 @@ The post Free Figma (Low Fidelity) Hand Drawn Wireframe Kit appeared first on De
 The post 26 Best Block Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best chrome extensions 2021]]></title>
-        <id>https://www.designernews.co/stories/115730--best-chrome-extensions-2021</id>
-        <link href="https://www.designernews.co/stories/115730--best-chrome-extensions-2021"/>
-        <updated>2021-05-30T09:45:08.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/5-chrome-extensions-that-will-help-you.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
