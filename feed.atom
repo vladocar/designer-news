@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T04:02:37.138Z</id>
+    <id>urn:2021-06-03T06:36:45.358Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T04:02:37.138Z</updated>
+    <updated>2021-06-03T06:36:45.358Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[5 Common CSS mistakes developers make]]></title>
+        <id>https://www.designernews.co/stories/115815-5-common-css-mistakes-developers-make</id>
+        <link href="https://www.designernews.co/stories/115815-5-common-css-mistakes-developers-make"/>
+        <updated>2021-06-03T04:42:18.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/5-common-css-mistakes-developers-make.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[36 Best Whimsical Fonts for Your Fabulous Designs]]></title>
         <id>https://www.designinspiration.info/?p=2840</id>
@@ -558,16 +568,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <summary type="html"><![CDATA[In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Types of Cloud Computing Service Models Everyone Should Know About]]></title>
-        <id>https://www.designernews.co/stories/115706-types-of-cloud-computing-service-models-everyone-should-know-about</id>
-        <link href="https://www.designernews.co/stories/115706-types-of-cloud-computing-service-models-everyone-should-know-about"/>
-        <updated>2021-05-28T07:37:12.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/types-of-cloud-computing-service-models-everyone-should-know-about]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
