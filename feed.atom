@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T22:32:51.331Z</id>
+    <id>urn:2021-06-03T23:37:12.064Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T22:32:51.331Z</updated>
+    <updated>2021-06-03T23:37:12.064Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Improving The Performance Of An Online Store (Case Study)]]></title>
+        <id>https://www.smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/</id>
+        <link href="http://www.webdesignernews.com/external/improving-the-performance-of-an-online-store-case-study"/>
+        <updated>2021-06-03T23:09:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stack Overflow acquired by Prosus for a whopping $1.8B]]></title>
+        <id>https://thenextweb.com/news/stack-overflow-acquisition-prousu-1-8-billion</id>
+        <link href="http://www.webdesignernews.com/external/stack-overflow-acquired-by-prosus-for-a-whopping-1-8b"/>
+        <updated>2021-06-03T22:36:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/stack-overflow-acquisition-prousu-1-8-billion]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 mistakes you?re making as a startup employee]]></title>
         <id>https://thenextweb.com/news/startup-employee-mistakes-syndication</id>
@@ -294,26 +314,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/best-vs-code-shortcuts-to-make-your.html]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a single source of truth, and why do you need it?]]></title>
-        <id>https://www.uxpin.com/studio/blog/single-source-truth-benefits/</id>
-        <link href="http://www.webdesignernews.com/external/what-is-a-single-source-of-truth-and-why-do-you-need-it"/>
-        <updated>2021-06-02T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/single-source-truth-benefits/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 Ways to Monetize a Website]]></title>
-        <id>https://the-webdesigner.co/11-ways-to-monetize-a-website/</id>
-        <link href="http://www.webdesignernews.com/external/11-ways-to-monetize-a-website-the-web-designer"/>
-        <updated>2021-06-02T14:59:00.000Z</updated>
-        <summary type="html"><![CDATA[https://the-webdesigner.co/11-ways-to-monetize-a-website/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
