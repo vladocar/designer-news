@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-04T11:03:01.893Z</id>
+    <id>urn:2021-06-04T12:42:27.454Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T11:03:01.893Z</updated>
+    <updated>2021-06-04T12:42:27.454Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I helped pioneer UX design. What I see today horrifies me]]></title>
+        <id>https://www.fastcompany.com/90642462/i-helped-pioneer-ux-design-what-i-see-today-horrifies-me</id>
+        <link href="http://www.webdesignernews.com/external/i-helped-pioneer-ux-design-what-i-see-today-horrifies-me"/>
+        <updated>2021-06-04T12:06:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.fastcompany.com/90642462/i-helped-pioneer-ux-design-what-i-see-today-horrifies-me]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twiso for Video: Turn your web recordings into beautiful promo videos]]></title>
+        <id>https://www.designernews.co/stories/115848-twiso-for-video-turn-your-web-recordings-into-beautiful-promo-videos</id>
+        <link href="https://www.designernews.co/stories/115848-twiso-for-video-turn-your-web-recordings-into-beautiful-promo-videos"/>
+        <updated>2021-06-04T11:58:44.000Z</updated>
+        <summary type="html"><![CDATA[https://video.twiso.co/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[38 Best Bold Fonts for Impactful Designs]]></title>
+        <id>https://www.designinspiration.info/?p=2843</id>
+        <link href="https://www.designinspiration.info/bold-fonts/"/>
+        <updated>2021-06-04T11:12:37.000Z</updated>
+        <summary type="html"><![CDATA[Bold fonts stand out in a sentence or line of text and they can be used as a part of typography. There are quite a few reasons why people love bold fonts. It’s mostly because of the legibility, the cleanness of the bold fonts, the bold fonts make readability better
+The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Web Hosting Technology Trends in 2021]]></title>
         <id>https://www.hongkiat.com/blog/web-hosting-tech-trends/</id>
@@ -317,16 +348,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Letterlike - Add a like button to your newsletter]]></title>
-        <id>https://letterlike.app/</id>
-        <link href="http://www.webdesignernews.com/external/letterlike-add-a-like-button-to-your-newsletter"/>
-        <updated>2021-06-02T20:08:00.000Z</updated>
-        <summary type="html"><![CDATA[https://letterlike.app/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Learn Figma in 10 Minutes - No BS Guide]]></title>
         <id>https://www.designernews.co/stories/115811-learn-figma-in-10-minutes--no-bs-guide</id>
         <link href="https://www.designernews.co/stories/115811-learn-figma-in-10-minutes--no-bs-guide"/>
@@ -502,16 +523,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         <link href="https://www.designernews.co/stories/115744-create-social-media-videos-from-google-spreadsheets"/>
         <updated>2021-05-31T11:16:01.000Z</updated>
         <summary type="html"><![CDATA[https://woxo.tech/video-maker]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Figma (Low Fidelity) Hand Drawn Wireframe Kit]]></title>
-        <id>https://www.designernews.co/stories/115743-free-figma-low-fidelity-hand-drawn-wireframe-kit</id>
-        <link href="https://www.designernews.co/stories/115743-free-figma-low-fidelity-hand-drawn-wireframe-kit"/>
-        <updated>2021-05-31T10:50:30.000Z</updated>
-        <summary type="html"><![CDATA[https://www.designinspiration.info/free-figma-low-fidelity-hand-drawn-wireframe-kit/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -752,17 +763,6 @@ The post 10 Best Premium Canva Templates for Sale appeared first on Design Inspi
         <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24 Best Fonts with Swashes]]></title>
-        <id>https://www.designinspiration.info/?p=2588</id>
-        <link href="https://www.designinspiration.info/fonts-with-swashes/"/>
-        <updated>2021-05-17T22:55:20.000Z</updated>
-        <summary type="html"><![CDATA[Swashes are a set of decorative, calligraphic “outlines” added to type. Fonts with swashes are more decorative than normal fonts. A swash is a flourish character added to the beginning, inside, or end of a letter. They are used to add a touch of artfulness to otherwise ordinary designs. In
-The post 24 Best Fonts with Swashes appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
