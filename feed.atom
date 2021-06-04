@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-04T07:33:59.746Z</id>
+    <id>urn:2021-06-04T09:21:03.939Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T07:33:59.746Z</updated>
+    <updated>2021-06-04T09:21:03.939Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Case Study: Redesigning Profession.hu – the most visited HR Portal of Hungary]]></title>
+        <id>https://www.designernews.co/stories/115845-case-study-redesigning-professionhu--the-most-visited-hr-portal-of-hungary</id>
+        <link href="https://www.designernews.co/stories/115845-case-study-redesigning-professionhu--the-most-visited-hr-portal-of-hungary"/>
+        <updated>2021-06-04T09:02:50.000Z</updated>
+        <summary type="html"><![CDATA[https://www.behance.net/gallery/116091757/Profession]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improving The Performance Of An Online Store (Case Study)]]></title>
         <id>https://www.smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/</id>
@@ -503,16 +513,6 @@ The post Free Figma (Low Fidelity) Hand Drawn Wireframe Kit appeared first on De
         <link href="https://www.designernews.co/stories/115741-nopcommerce-vs-magento--which-is-the-best-ecommerce-platform-for-enterprises"/>
         <updated>2021-05-31T10:17:46.000Z</updated>
         <summary type="html"><![CDATA[https://www.zenesys.com/blog/nopcommerce-vs-magento-which-is-the-best-ecommerce-platform-for-enterprises]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clean My Speaker - Play Sound To Eject Water Out Of Phone's Speaker]]></title>
-        <id>https://www.designernews.co/stories/115740-clean-my-speaker--play-sound-to-eject-water-out-of-phones-speaker</id>
-        <link href="https://www.designernews.co/stories/115740-clean-my-speaker--play-sound-to-eject-water-out-of-phones-speaker"/>
-        <updated>2021-05-31T08:45:23.000Z</updated>
-        <summary type="html"><![CDATA[https://www.minicreo.com/apps/phone-cleaner.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
