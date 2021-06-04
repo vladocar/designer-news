@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-04T12:42:27.454Z</id>
+    <id>urn:2021-06-04T14:08:10.699Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T12:42:27.454Z</updated>
+    <updated>2021-06-04T14:08:10.699Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries]]></title>
+        <id>https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/</id>
+        <link href="http://www.webdesignernews.com/external/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries"/>
+        <updated>2021-06-04T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I helped pioneer UX design. What I see today horrifies me]]></title>
         <id>https://www.fastcompany.com/90642462/i-helped-pioneer-ux-design-what-i-see-today-horrifies-me</id>
@@ -333,16 +343,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         <link href="http://www.webdesignernews.com/external/preparing-for-google-s-core-web-vitals-update"/>
         <updated>2021-06-02T23:02:00.000Z</updated>
         <summary type="html"><![CDATA[https://cognition.happycog.com/article/preparing-for-googles-core-web-vitals-update]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Apple M1 compiles Linux 30% faster than my Intel i9]]></title>
-        <id>https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9</id>
-        <link href="http://www.webdesignernews.com/external/the-apple-m1-compiles-linux-30-faster-than-my-intel-i9"/>
-        <updated>2021-06-02T22:42:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
