@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-04T21:35:24.839Z</id>
+    <id>urn:2021-06-04T22:23:12.598Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T21:35:24.839Z</updated>
+    <updated>2021-06-04T22:23:12.598Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -539,6 +539,16 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
     </entry>
     <entry>
         <title type="html"><![CDATA[Free Figma (Low Fidelity) Hand Drawn Wireframe Kit]]></title>
+        <id>https://www.designernews.co/stories/115743-free-figma-low-fidelity-hand-drawn-wireframe-kit</id>
+        <link href="https://www.designernews.co/stories/115743-free-figma-low-fidelity-hand-drawn-wireframe-kit"/>
+        <updated>2021-05-31T10:50:30.000Z</updated>
+        <summary type="html"><![CDATA[https://www.designinspiration.info/free-figma-low-fidelity-hand-drawn-wireframe-kit/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Figma (Low Fidelity) Hand Drawn Wireframe Kit]]></title>
         <id>https://www.designinspiration.info/?p=2793</id>
         <link href="https://www.designinspiration.info/free-figma-low-fidelity-hand-drawn-wireframe-kit/"/>
         <updated>2021-05-31T10:44:45.000Z</updated>
@@ -546,16 +556,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
 The post Free Figma (Low Fidelity) Hand Drawn Wireframe Kit appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NopCommerce vs Magento - Which is the Best e-Commerce Platform for Enterprises?]]></title>
-        <id>https://www.designernews.co/stories/115741-nopcommerce-vs-magento--which-is-the-best-ecommerce-platform-for-enterprises</id>
-        <link href="https://www.designernews.co/stories/115741-nopcommerce-vs-magento--which-is-the-best-ecommerce-platform-for-enterprises"/>
-        <updated>2021-05-31T10:17:46.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/nopcommerce-vs-magento-which-is-the-best-ecommerce-platform-for-enterprises]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
