@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-04T14:08:10.699Z</id>
+    <id>urn:2021-06-04T15:29:23.301Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T14:08:10.699Z</updated>
+    <updated>2021-06-04T15:29:23.301Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Developers: Use side projects to build a career you can be proud of]]></title>
+        <id>https://thenextweb.com/news/developer-side-projects-career-syndication</id>
+        <link href="http://www.webdesignernews.com/external/developers-use-side-projects-to-build-a-career-you-can-be-proud-of"/>
+        <updated>2021-06-04T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/developer-side-projects-career-syndication]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries]]></title>
         <id>https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/</id>
@@ -335,16 +345,6 @@ The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspi
 The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preparing for Google?s Core Web Vitals Update]]></title>
-        <id>https://cognition.happycog.com/article/preparing-for-googles-core-web-vitals-update</id>
-        <link href="http://www.webdesignernews.com/external/preparing-for-google-s-core-web-vitals-update"/>
-        <updated>2021-06-02T23:02:00.000Z</updated>
-        <summary type="html"><![CDATA[https://cognition.happycog.com/article/preparing-for-googles-core-web-vitals-update]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
