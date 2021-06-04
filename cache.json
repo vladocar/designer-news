@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115846-9-minutes-typing-test",
+          "author": null,
+          "description": "https://onlinetypingtests.com/9-minutes-typing-test",
+          "link": "https://www.designernews.co/stories/115846-9-minutes-typing-test",
+          "publishedOn": "2021-06-04T09:35:24.000Z",
+          "wordCount": 220,
+          "title": "9 Minutes Typing Test"
+        },
+        {
           "id": "https://www.designernews.co/stories/115845-case-study-redesigning-professionhu--the-most-visited-hr-portal-of-hungary",
           "author": null,
           "description": "https://www.behance.net/gallery/116091757/Profession",
@@ -310,15 +319,6 @@
           "title": "NopCommerce vs Magento - Which is the Best e-Commerce Platform for Enterprises?"
         },
         {
-          "id": "https://www.designernews.co/stories/115738-design-mba-gain-business-confidence-design-your-impact",
-          "author": null,
-          "description": "https://d.mba/course",
-          "link": "https://www.designernews.co/stories/115738-design-mba-gain-business-confidence-design-your-impact",
-          "publishedOn": "2021-05-31T07:15:06.000Z",
-          "wordCount": 172,
-          "title": "Design MBA: Gain business confidence. Design your impact."
-        },
-        {
           "id": "https://www.designernews.co/stories/115737-dos-and-donts-for-using-animation-in-ui",
           "author": null,
           "description": "https://drawer.design/blog/dos-and-donts-for-using-animation-in-ui/",
@@ -335,12 +335,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
+          "author": "hello@smashingmagazine.com (Nwani Victory)",
+          "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
+          "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
+          "publishedOn": "2021-06-04T10:00:00.000Z",
+          "wordCount": 4130,
+          "title": "Getting Started With Webpack",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "author": "hello@smashingmagazine.com (Shawn Wildermuth)",
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3459,
+          "wordCount": 3501,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -354,7 +368,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4337,
+          "wordCount": 4347,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -368,7 +382,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5393,
+          "wordCount": 5387,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -410,7 +424,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2484,
+          "wordCount": 2445,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -424,7 +438,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10175,
+          "wordCount": 10220,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -438,7 +452,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3735,
+          "wordCount": 3747,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -522,7 +536,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9436,
+          "wordCount": 9394,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -550,7 +564,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1958,
+          "wordCount": 1956,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -606,7 +620,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2953,
+          "wordCount": 2943,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -620,7 +634,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2440,
+          "wordCount": 2444,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -704,7 +718,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4164,
+          "wordCount": 4169,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
@@ -718,7 +732,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2668,
+          "wordCount": 2656,
           "title": "Improving The Performance Of Shopify Themes (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
@@ -734,12 +748,48 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.hongkiat.com/blog/web-hosting-tech-trends/",
+          "author": null,
+          "description": "https://www.hongkiat.com/blog/web-hosting-tech-trends/",
+          "link": "http://www.webdesignernews.com/external/5-web-hosting-technology-trends-in-2021",
+          "publishedOn": "2021-06-04T10:34:10.000Z",
+          "wordCount": 1552,
+          "title": "5 Web Hosting Technology Trends in 2021"
+        },
+        {
+          "id": "https://httpstatusdogs.com/",
+          "author": null,
+          "description": "https://httpstatusdogs.com/",
+          "link": "http://www.webdesignernews.com/external/http-status-dogs",
+          "publishedOn": "2021-06-04T10:33:49.000Z",
+          "wordCount": 55,
+          "title": "HTTP Status Dogs"
+        },
+        {
+          "id": "https://web.dev/css-web-vitals/",
+          "author": null,
+          "description": "https://web.dev/css-web-vitals/",
+          "link": "http://www.webdesignernews.com/external/css-for-web-vitals",
+          "publishedOn": "2021-06-04T10:33:45.000Z",
+          "wordCount": 1641,
+          "title": "CSS for Web Vitals"
+        },
+        {
+          "id": "https://philipcdavis.com/writing/command-palette-interfaces",
+          "author": null,
+          "description": "https://philipcdavis.com/writing/command-palette-interfaces",
+          "link": "http://www.webdesignernews.com/external/command-palette-interfaces",
+          "publishedOn": "2021-06-04T10:32:52.000Z",
+          "wordCount": 377,
+          "title": "Command Palette Interfaces"
+        },
+        {
           "id": "https://www.smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "author": null,
           "description": "https://www.smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "link": "http://www.webdesignernews.com/external/improving-the-performance-of-an-online-store-case-study",
           "publishedOn": "2021-06-03T23:09:00.000Z",
-          "wordCount": 5393,
+          "wordCount": 5387,
           "title": "Improving The Performance Of An Online Store (Case Study)"
         },
         {
@@ -748,7 +798,7 @@
           "description": "https://thenextweb.com/news/stack-overflow-acquisition-prousu-1-8-billion",
           "link": "http://www.webdesignernews.com/external/stack-overflow-acquired-by-prosus-for-a-whopping-1-8b",
           "publishedOn": "2021-06-03T22:36:00.000Z",
-          "wordCount": 528,
+          "wordCount": 532,
           "title": "Stack Overflow acquired by Prosus for a whopping $1.8B"
         },
         {
@@ -757,7 +807,7 @@
           "description": "https://thenextweb.com/news/startup-employee-mistakes-syndication",
           "link": "http://www.webdesignernews.com/external/10-mistakes-you-re-making-as-a-startup-employee",
           "publishedOn": "2021-06-03T20:28:00.000Z",
-          "wordCount": 3003,
+          "wordCount": 3007,
           "title": "10 mistakes you?re making as a startup employee"
         },
         {
@@ -820,7 +870,7 @@
           "description": "https://www.webdesignerdepot.com/2021/06/is-it-time-to-reset-html/",
           "link": "http://www.webdesignernews.com/external/is-it-time-to-reset-html",
           "publishedOn": "2021-06-03T08:45:12.000Z",
-          "wordCount": 1546,
+          "wordCount": 1556,
           "title": "Is It Time to Reset HTML?"
         },
         {
@@ -876,42 +926,6 @@
           "publishedOn": "2021-06-02T20:08:00.000Z",
           "wordCount": 3,
           "title": "Letterlike - Add a like button to your newsletter"
-        },
-        {
-          "id": "https://css-tricks.com/front-end-testing-is-for-everyone/",
-          "author": null,
-          "description": "https://css-tricks.com/front-end-testing-is-for-everyone/",
-          "link": "http://www.webdesignernews.com/external/front-end-testing-is-for-everyone",
-          "publishedOn": "2021-06-02T19:58:00.000Z",
-          "wordCount": 4077,
-          "title": "Front-End Testing is For Everyone"
-        },
-        {
-          "id": "https://uxdesign.cc/a-guide-to-the-modern-minimal-ui-style-531ac1e9fbfe",
-          "author": null,
-          "description": "https://uxdesign.cc/a-guide-to-the-modern-minimal-ui-style-531ac1e9fbfe",
-          "link": "http://www.webdesignernews.com/external/a-guide-to-the-modern-minimal-ui-style",
-          "publishedOn": "2021-06-02T18:14:00.000Z",
-          "wordCount": 1396,
-          "title": "A guide to the Modern Minimal UI style"
-        },
-        {
-          "id": "https://www.itsnicethat.com/articles/brian-okarski-graphic-design-020621",
-          "author": null,
-          "description": "https://www.itsnicethat.com/articles/brian-okarski-graphic-design-020621",
-          "link": "http://www.webdesignernews.com/external/for-graphic-designer-brian-okarski-working-on-projects-that-align-with-his-values-is-crucial",
-          "publishedOn": "2021-06-02T17:26:00.000Z",
-          "wordCount": 1370,
-          "title": "For graphic designer Brian Okarski working on projects that align with his values is crucial"
-        },
-        {
-          "id": "https://sixcolors.com/post/2021/06/apple-in-the-enterprise-a-2021-report-card/",
-          "author": null,
-          "description": "https://sixcolors.com/post/2021/06/apple-in-the-enterprise-a-2021-report-card/",
-          "link": "http://www.webdesignernews.com/external/apple-in-the-enterprise-a-2021-report-card",
-          "publishedOn": "2021-06-02T16:02:00.000Z",
-          "wordCount": 10678,
-          "title": "Apple in the Enterprise: A 2021 Report Card"
         }
       ]
     }

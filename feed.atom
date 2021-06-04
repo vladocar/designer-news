@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-04T09:21:03.939Z</id>
+    <id>urn:2021-06-04T11:03:01.893Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T09:21:03.939Z</updated>
+    <updated>2021-06-04T11:03:01.893Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[5 Web Hosting Technology Trends in 2021]]></title>
+        <id>https://www.hongkiat.com/blog/web-hosting-tech-trends/</id>
+        <link href="http://www.webdesignernews.com/external/5-web-hosting-technology-trends-in-2021"/>
+        <updated>2021-06-04T10:34:10.000Z</updated>
+        <summary type="html"><![CDATA[https://www.hongkiat.com/blog/web-hosting-tech-trends/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP Status Dogs]]></title>
+        <id>https://httpstatusdogs.com/</id>
+        <link href="http://www.webdesignernews.com/external/http-status-dogs"/>
+        <updated>2021-06-04T10:33:49.000Z</updated>
+        <summary type="html"><![CDATA[https://httpstatusdogs.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS for Web Vitals]]></title>
+        <id>https://web.dev/css-web-vitals/</id>
+        <link href="http://www.webdesignernews.com/external/css-for-web-vitals"/>
+        <updated>2021-06-04T10:33:45.000Z</updated>
+        <summary type="html"><![CDATA[https://web.dev/css-web-vitals/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Command Palette Interfaces]]></title>
+        <id>https://philipcdavis.com/writing/command-palette-interfaces</id>
+        <link href="http://www.webdesignernews.com/external/command-palette-interfaces"/>
+        <updated>2021-06-04T10:32:52.000Z</updated>
+        <summary type="html"><![CDATA[https://philipcdavis.com/writing/command-palette-interfaces]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Webpack]]></title>
+        <id>https://smashingmagazine.com/2021/06/getting-started-webpack/</id>
+        <link href="https://smashingmagazine.com/2021/06/getting-started-webpack/"/>
+        <updated>2021-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nwani Victory)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 Minutes Typing Test]]></title>
+        <id>https://www.designernews.co/stories/115846-9-minutes-typing-test</id>
+        <link href="https://www.designernews.co/stories/115846-9-minutes-typing-test"/>
+        <updated>2021-06-04T09:35:24.000Z</updated>
+        <summary type="html"><![CDATA[https://onlinetypingtests.com/9-minutes-typing-test]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Case Study: Redesigning Profession.hu – the most visited HR Portal of Hungary]]></title>
         <id>https://www.designernews.co/stories/115845-case-study-redesigning-professionhu--the-most-visited-hr-portal-of-hungary</id>
@@ -267,16 +327,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Front-End Testing is For Everyone]]></title>
-        <id>https://css-tricks.com/front-end-testing-is-for-everyone/</id>
-        <link href="http://www.webdesignernews.com/external/front-end-testing-is-for-everyone"/>
-        <updated>2021-06-02T19:58:00.000Z</updated>
-        <summary type="html"><![CDATA[https://css-tricks.com/front-end-testing-is-for-everyone/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Learn Figma in 10 Minutes - No BS Guide]]></title>
         <id>https://www.designernews.co/stories/115811-learn-figma-in-10-minutes--no-bs-guide</id>
         <link href="https://www.designernews.co/stories/115811-learn-figma-in-10-minutes--no-bs-guide"/>
@@ -284,36 +334,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=nZ57MPVbHUg]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A guide to the Modern Minimal UI style]]></title>
-        <id>https://uxdesign.cc/a-guide-to-the-modern-minimal-ui-style-531ac1e9fbfe</id>
-        <link href="http://www.webdesignernews.com/external/a-guide-to-the-modern-minimal-ui-style"/>
-        <updated>2021-06-02T18:14:00.000Z</updated>
-        <summary type="html"><![CDATA[https://uxdesign.cc/a-guide-to-the-modern-minimal-ui-style-531ac1e9fbfe]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For graphic designer Brian Okarski working on projects that align with his values is crucial]]></title>
-        <id>https://www.itsnicethat.com/articles/brian-okarski-graphic-design-020621</id>
-        <link href="http://www.webdesignernews.com/external/for-graphic-designer-brian-okarski-working-on-projects-that-align-with-his-values-is-crucial"/>
-        <updated>2021-06-02T17:26:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/brian-okarski-graphic-design-020621]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple in the Enterprise: A 2021 Report Card]]></title>
-        <id>https://sixcolors.com/post/2021/06/apple-in-the-enterprise-a-2021-report-card/</id>
-        <link href="http://www.webdesignernews.com/external/apple-in-the-enterprise-a-2021-report-card"/>
-        <updated>2021-06-02T16:02:00.000Z</updated>
-        <summary type="html"><![CDATA[https://sixcolors.com/post/2021/06/apple-in-the-enterprise-a-2021-report-card/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -513,16 +533,6 @@ The post Free Figma (Low Fidelity) Hand Drawn Wireframe Kit appeared first on De
         <link href="https://www.designernews.co/stories/115741-nopcommerce-vs-magento--which-is-the-best-ecommerce-platform-for-enterprises"/>
         <updated>2021-05-31T10:17:46.000Z</updated>
         <summary type="html"><![CDATA[https://www.zenesys.com/blog/nopcommerce-vs-magento-which-is-the-best-ecommerce-platform-for-enterprises]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design MBA: Gain business confidence. Design your impact.]]></title>
-        <id>https://www.designernews.co/stories/115738-design-mba-gain-business-confidence-design-your-impact</id>
-        <link href="https://www.designernews.co/stories/115738-design-mba-gain-business-confidence-design-your-impact"/>
-        <updated>2021-05-31T07:15:06.000Z</updated>
-        <summary type="html"><![CDATA[https://d.mba/course]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
