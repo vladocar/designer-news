@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-05T12:23:54.694Z</id>
+    <id>urn:2021-06-05T13:52:26.235Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T12:23:54.694Z</updated>
+    <updated>2021-06-05T13:52:26.236Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Glassmorphism? (With Examples)]]></title>
+        <id>https://spyrestudios.com/what-is-glassmorphism-with-examples/</id>
+        <link href="http://www.webdesignernews.com/external/what-is-glassmorphism-with-examples"/>
+        <updated>2021-06-05T13:19:00.000Z</updated>
+        <summary type="html"><![CDATA[https://spyrestudios.com/what-is-glassmorphism-with-examples/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Start a Web Design Business With No Portfolio and Little Experience]]></title>
+        <id>https://millo.co/starting-a-web-design-business-with-no-portfolio</id>
+        <link href="http://www.webdesignernews.com/external/how-to-start-a-web-design-business-with-no-portfolio-and-little-experience"/>
+        <updated>2021-06-05T12:26:00.000Z</updated>
+        <summary type="html"><![CDATA[https://millo.co/starting-a-web-design-business-with-no-portfolio]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[php interview question]]></title>
         <id>https://www.designernews.co/stories/115860-php-interview-question</id>
@@ -297,16 +317,6 @@ The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 mistakes you?re making as a startup employee]]></title>
-        <id>https://thenextweb.com/news/startup-employee-mistakes-syndication</id>
-        <link href="http://www.webdesignernews.com/external/10-mistakes-you-re-making-as-a-startup-employee"/>
-        <updated>2021-06-03T20:28:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/startup-employee-mistakes-syndication]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Number One Design Tip to Improve your UI]]></title>
         <id>https://www.designernews.co/stories/115835-the-number-one-design-tip-to-improve-your-ui</id>
         <link href="https://www.designernews.co/stories/115835-the-number-one-design-tip-to-improve-your-ui"/>
@@ -314,16 +324,6 @@ The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspi
         <summary type="html"><![CDATA[https://deesignre.com/the-number-one-design-tip-to-improve-your-ui/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Crash Course in WordPress Block Filters]]></title>
-        <id>https://css-tricks.com/a-crash-course-in-wordpress-block-filters/</id>
-        <link href="http://www.webdesignernews.com/external/a-crash-course-in-wordpress-block-filters"/>
-        <updated>2021-06-03T19:02:00.000Z</updated>
-        <summary type="html"><![CDATA[https://css-tricks.com/a-crash-course-in-wordpress-block-filters/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
