@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-05T06:05:22.501Z</id>
+    <id>urn:2021-06-05T07:40:34.344Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T06:05:22.501Z</updated>
+    <updated>2021-06-05T07:40:34.344Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Spline 3D Design Tool lets you convert 2D vector path to 3D objects]]></title>
+        <id>https://www.designernews.co/stories/115857-spline-3d-design-tool-lets-you-convert-2d-vector-path-to-3d-objects-</id>
+        <link href="https://www.designernews.co/stories/115857-spline-3d-design-tool-lets-you-convert-2d-vector-path-to-3d-objects-"/>
+        <updated>2021-06-05T06:04:34.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=8qniXBxnu70]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Assetroulette ? Randomized Assets for Webdesign]]></title>
         <id>https://assetroulette.com/</id>
@@ -533,16 +543,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         <link href="https://www.designernews.co/stories/115744-create-social-media-videos-from-google-spreadsheets"/>
         <updated>2021-05-31T11:16:01.000Z</updated>
         <summary type="html"><![CDATA[https://woxo.tech/video-maker]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Figma (Low Fidelity) Hand Drawn Wireframe Kit]]></title>
-        <id>https://www.designernews.co/stories/115743-free-figma-low-fidelity-hand-drawn-wireframe-kit</id>
-        <link href="https://www.designernews.co/stories/115743-free-figma-low-fidelity-hand-drawn-wireframe-kit"/>
-        <updated>2021-05-31T10:50:30.000Z</updated>
-        <summary type="html"><![CDATA[https://www.designinspiration.info/free-figma-low-fidelity-hand-drawn-wireframe-kit/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
