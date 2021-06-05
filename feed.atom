@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-05T16:25:38.917Z</id>
+    <id>urn:2021-06-05T18:11:14.552Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T16:25:38.918Z</updated>
+    <updated>2021-06-05T18:11:14.553Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[50 Free Cursive Handwritten Fonts to Spice Up Your Design]]></title>
+        <id>https://www.hongkiat.com/blog/free-cursive-handwritten-fonts/</id>
+        <link href="http://www.webdesignernews.com/external/50-free-cursive-handwritten-fonts-to-spice-up-your-design"/>
+        <updated>2021-06-05T17:41:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.hongkiat.com/blog/free-cursive-handwritten-fonts/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Can Eye Tracking Tell Us About Usability Testing?]]></title>
         <id>https://attentioninsight.com/what-can-eye-tracking-tell-us-about-usability-testing/</id>
@@ -304,16 +314,6 @@ The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspi
         <summary type="html"><![CDATA[https://www.behance.net/gallery/116091757/Profession]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of An Online Store (Case Study)]]></title>
-        <id>https://www.smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/</id>
-        <link href="http://www.webdesignernews.com/external/improving-the-performance-of-an-online-store-case-study"/>
-        <updated>2021-06-03T23:09:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
