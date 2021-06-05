@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-05T18:11:14.552Z</id>
+    <id>urn:2021-06-05T19:46:28.129Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T18:11:14.553Z</updated>
+    <updated>2021-06-05T19:46:28.129Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Steer Clients from Bad Design Choices]]></title>
+        <id>https://mediatemple.net/blog/design-creative/how-to-steer-clients-from-bad-design-choices/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-steer-clients-from-bad-design-choices"/>
+        <updated>2021-06-05T18:27:00.000Z</updated>
+        <summary type="html"><![CDATA[https://mediatemple.net/blog/design-creative/how-to-steer-clients-from-bad-design-choices/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[50 Free Cursive Handwritten Fonts to Spice Up Your Design]]></title>
         <id>https://www.hongkiat.com/blog/free-cursive-handwritten-fonts/</id>
@@ -272,16 +282,6 @@ The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspi
         <link href="http://www.webdesignernews.com/external/css-for-web-vitals"/>
         <updated>2021-06-04T10:33:45.000Z</updated>
         <summary type="html"><![CDATA[https://web.dev/css-web-vitals/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Command Palette Interfaces]]></title>
-        <id>https://philipcdavis.com/writing/command-palette-interfaces</id>
-        <link href="http://www.webdesignernews.com/external/command-palette-interfaces"/>
-        <updated>2021-06-04T10:32:52.000Z</updated>
-        <summary type="html"><![CDATA[https://philipcdavis.com/writing/command-palette-interfaces]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
