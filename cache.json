@@ -711,20 +711,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "author": "hello@smashingmagazine.com (Valeriia Panina)",
-          "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
-          "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4127,
-          "title": "How To Organize Product-Related Assets And Collaborate Better",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -766,7 +752,7 @@
           "description": "https://spyrestudios.com/what-is-glassmorphism-with-examples/",
           "link": "http://www.webdesignernews.com/external/what-is-glassmorphism-with-examples",
           "publishedOn": "2021-06-05T13:19:00.000Z",
-          "wordCount": 568,
+          "wordCount": 567,
           "title": "What Is Glassmorphism? (With Examples)"
         },
         {
@@ -784,7 +770,7 @@
           "description": "https://www.webdesignerdepot.com/2021/06/fiendishly-hard-logo-quiz/",
           "link": "http://www.webdesignernews.com/external/fiendishly-hard-logo-quiz",
           "publishedOn": "2021-06-05T10:06:54.000Z",
-          "wordCount": 342,
+          "wordCount": 344,
           "title": "Fiendishly Hard Logo Quiz"
         },
         {
@@ -802,7 +788,7 @@
           "description": "https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/",
           "link": "http://www.webdesignernews.com/external/trigonometry-in-css-and-javascript-beyond-triangles",
           "publishedOn": "2021-06-05T09:59:59.000Z",
-          "wordCount": 2654,
+          "wordCount": 2655,
           "title": "Trigonometry in CSS and JavaScript: Beyond Triangles"
         },
         {
@@ -847,7 +833,7 @@
           "description": "https://www.awwwards.com/20-figma-plugins-and-tools-to-boost-your-design-workflow.html",
           "link": "http://www.webdesignernews.com/external/20-figma-plugins-and-tools-to-boost-your-design-workflow",
           "publishedOn": "2021-06-04T18:03:00.000Z",
-          "wordCount": 1403,
+          "wordCount": 1401,
           "title": "20 Figma Plugins and Tools to Boost your Design Workflow"
         },
         {
