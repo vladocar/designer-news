@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-05T13:52:26.235Z</id>
+    <id>urn:2021-06-05T14:28:28.069Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T13:52:26.236Z</updated>
+    <updated>2021-06-05T14:28:28.069Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Can Eye Tracking Tell Us About Usability Testing?]]></title>
+        <id>https://attentioninsight.com/what-can-eye-tracking-tell-us-about-usability-testing/</id>
+        <link href="http://www.webdesignernews.com/external/what-can-eye-tracking-tell-us-about-usability-testing"/>
+        <updated>2021-06-05T14:11:00.000Z</updated>
+        <summary type="html"><![CDATA[https://attentioninsight.com/what-can-eye-tracking-tell-us-about-usability-testing/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Glassmorphism? (With Examples)]]></title>
         <id>https://spyrestudios.com/what-is-glassmorphism-with-examples/</id>
@@ -302,16 +312,6 @@ The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspi
         <link href="http://www.webdesignernews.com/external/improving-the-performance-of-an-online-store-case-study"/>
         <updated>2021-06-03T23:09:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stack Overflow acquired by Prosus for a whopping $1.8B]]></title>
-        <id>https://thenextweb.com/news/stack-overflow-acquisition-prousu-1-8-billion</id>
-        <link href="http://www.webdesignernews.com/external/stack-overflow-acquired-by-prosus-for-a-whopping-1-8b"/>
-        <updated>2021-06-03T22:36:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/stack-overflow-acquisition-prousu-1-8-billion]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
