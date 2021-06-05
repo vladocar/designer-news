@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-05T09:28:32.475Z</id>
+    <id>urn:2021-06-05T10:31:03.220Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T09:28:32.475Z</updated>
+    <updated>2021-06-05T10:31:03.220Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fiendishly Hard Logo Quiz]]></title>
+        <id>https://www.webdesignerdepot.com/2021/06/fiendishly-hard-logo-quiz/</id>
+        <link href="http://www.webdesignernews.com/external/fiendishly-hard-logo-quiz"/>
+        <updated>2021-06-05T10:06:54.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/fiendishly-hard-logo-quiz/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Disruptive Design (So It Will Get Seen)]]></title>
+        <id>https://designshack.net/articles/graphics/how-to-create-a-disruptive-design/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-create-a-disruptive-design-so-it-will-get-seen"/>
+        <updated>2021-06-05T10:06:40.000Z</updated>
+        <summary type="html"><![CDATA[https://designshack.net/articles/graphics/how-to-create-a-disruptive-design/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trigonometry in CSS and JavaScript: Beyond Triangles]]></title>
+        <id>https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/</id>
+        <link href="http://www.webdesignernews.com/external/trigonometry-in-css-and-javascript-beyond-triangles"/>
+        <updated>2021-06-05T09:59:59.000Z</updated>
+        <summary type="html"><![CDATA[https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Webpack]]></title>
+        <id>https://www.smashingmagazine.com/2021/06/getting-started-webpack/</id>
+        <link href="http://www.webdesignernews.com/external/getting-started-with-webpack"/>
+        <updated>2021-06-05T09:55:49.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/getting-started-webpack/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spline 3D Design Tool lets you convert 2D vector path to 3D objects]]></title>
         <id>https://www.designernews.co/stories/115857-spline-3d-design-tool-lets-you-convert-2d-vector-path-to-3d-objects-</id>
@@ -43,6 +83,26 @@
         <summary type="html"><![CDATA[https://www.vectornator.io/blog/storytelling-in-design]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Designer's Guide To Managing Client Feedback In 2021]]></title>
+        <id>https://www.designernews.co/stories/115855-a-designers-guide-to-managing-client-feedback-in-2021</id>
+        <link href="https://www.designernews.co/stories/115855-a-designers-guide-to-managing-client-feedback-in-2021"/>
+        <updated>2021-06-04T19:30:33.000Z</updated>
+        <summary type="html"><![CDATA[https://marketsplash.com/client-feedback/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every user Interface is a conversation]]></title>
+        <id>https://www.designernews.co/stories/115854-every-user-interface-is-a-conversation</id>
+        <link href="https://www.designernews.co/stories/115854-every-user-interface-is-a-conversation"/>
+        <updated>2021-06-04T19:29:12.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vectornator.io/blog/conversational-interfaces]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -247,36 +307,6 @@ The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Change the Default Search Engine on All Browsers and Devices]]></title>
-        <id>https://kinsta.com/blog/how-to-change-search-engine/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-change-the-default-search-engine-on-all-browsers-and-devices"/>
-        <updated>2021-06-03T18:19:00.000Z</updated>
-        <summary type="html"><![CDATA[https://kinsta.com/blog/how-to-change-search-engine/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with Bootstrap 5, React, and Sass]]></title>
-        <id>https://designmodo.com/bootstrap-react-sass/</id>
-        <link href="http://www.webdesignernews.com/external/getting-started-with-bootstrap-5-react-and-sass"/>
-        <updated>2021-06-03T17:31:00.000Z</updated>
-        <summary type="html"><![CDATA[https://designmodo.com/bootstrap-react-sass/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Grid Lessons]]></title>
-        <id>https://www.euismod.dev/</id>
-        <link href="http://www.webdesignernews.com/external/css-grid-lessons"/>
-        <updated>2021-06-03T15:58:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.euismod.dev/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3D Design Foundations Course - Uxcel & Spline]]></title>
         <id>https://www.designernews.co/stories/115829-3d-design-foundations-course--uxcel--spline</id>
         <link href="https://www.designernews.co/stories/115829-3d-design-foundations-course--uxcel--spline"/>
@@ -284,16 +314,6 @@ The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspi
         <summary type="html"><![CDATA[https://app.uxcel.com/learn/3d-design-foundations]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ready UI - 200+ Bootstrap UI blocks to create beautiful websites]]></title>
-        <id>https://readyui.co/</id>
-        <link href="http://www.webdesignernews.com/external/ready-ui-200-bootstrap-ui-blocks-to-create-beautiful-websites"/>
-        <updated>2021-06-03T14:13:00.000Z</updated>
-        <summary type="html"><![CDATA[https://readyui.co/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -498,31 +518,11 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12 Inspirational Web Designer and Developer Portfolios]]></title>
-        <id>https://www.designernews.co/stories/115756-12-inspirational-web-designer-and-developer-portfolios</id>
-        <link href="https://www.designernews.co/stories/115756-12-inspirational-web-designer-and-developer-portfolios"/>
-        <updated>2021-05-31T21:02:09.000Z</updated>
-        <summary type="html"><![CDATA[https://qodeinteractive.com/magazine/inspirational-web-designer-portfolios/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FlowBite: Figma UI design kit]]></title>
         <id>https://www.designernews.co/stories/115754-flowbite-figma-ui-design-kit</id>
         <link href="https://www.designernews.co/stories/115754-flowbite-figma-ui-design-kit"/>
         <updated>2021-05-31T18:15:23.000Z</updated>
         <summary type="html"><![CDATA[http://flowbite.design/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Design A Personal Brand Logo (And Make It GREAT)]]></title>
-        <id>https://www.designernews.co/stories/115750-how-to-design-a-personal-brand-logo-and-make-it-great</id>
-        <link href="https://www.designernews.co/stories/115750-how-to-design-a-personal-brand-logo-and-make-it-great"/>
-        <updated>2021-05-31T13:46:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=isjmCr1z0gw]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
