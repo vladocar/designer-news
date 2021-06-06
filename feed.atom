@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-06T07:42:36.650Z</id>
+    <id>urn:2021-06-06T08:32:20.380Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T07:42:36.650Z</updated>
+    <updated>2021-06-06T08:32:20.380Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[5 Practices to Keep Your DIY WordPress Website Fast and Secure]]></title>
+        <id>https://www.hongkiat.com/blog/keep-wordpress-fast-and-secure/</id>
+        <link href="http://www.webdesignernews.com/external/5-practices-to-keep-your-diy-wordpress-website-fast-and-secure"/>
+        <updated>2021-06-06T08:10:30.000Z</updated>
+        <summary type="html"><![CDATA[https://www.hongkiat.com/blog/keep-wordpress-fast-and-secure/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flag Maker]]></title>
+        <id>https://flag.rachel.systems/</id>
+        <link href="http://www.webdesignernews.com/external/flag-maker"/>
+        <updated>2021-06-06T08:10:20.000Z</updated>
+        <summary type="html"><![CDATA[https://flag.rachel.systems/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Productive Things Designers Can Do with Downtime]]></title>
+        <id>https://www.vandelaydesign.com/things-to-do-with-down-time/</id>
+        <link href="http://www.webdesignernews.com/external/15-productive-things-designers-can-do-with-downtime"/>
+        <updated>2021-06-06T08:10:05.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vandelaydesign.com/things-to-do-with-down-time/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Ways How to Improve Website Design to Get More Traffic]]></title>
+        <id>https://gapsystudio.com/blog/improve-website-design/</id>
+        <link href="http://www.webdesignernews.com/external/6-ways-how-to-improve-website-design-to-get-more-traffic"/>
+        <updated>2021-06-06T08:09:05.000Z</updated>
+        <summary type="html"><![CDATA[https://gapsystudio.com/blog/improve-website-design/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24 Best Hipster Fonts for Cool Designs]]></title>
         <id>https://www.designinspiration.info/?p=1732</id>
@@ -247,16 +287,6 @@ The post 24 Best Hipster Fonts for Cool Designs appeared first on Design Inspira
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I helped pioneer UX design. What I see today horrifies me]]></title>
-        <id>https://www.fastcompany.com/90642462/i-helped-pioneer-ux-design-what-i-see-today-horrifies-me</id>
-        <link href="http://www.webdesignernews.com/external/i-helped-pioneer-ux-design-what-i-see-today-horrifies-me"/>
-        <updated>2021-06-04T12:06:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.fastcompany.com/90642462/i-helped-pioneer-ux-design-what-i-see-today-horrifies-me]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Twiso for Video: Turn your web recordings into beautiful promo videos]]></title>
         <id>https://www.designernews.co/stories/115848-twiso-for-video-turn-your-web-recordings-into-beautiful-promo-videos</id>
         <link href="https://www.designernews.co/stories/115848-twiso-for-video-turn-your-web-recordings-into-beautiful-promo-videos"/>
@@ -275,36 +305,6 @@ The post 24 Best Hipster Fonts for Cool Designs appeared first on Design Inspira
 The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Web Hosting Technology Trends in 2021]]></title>
-        <id>https://www.hongkiat.com/blog/web-hosting-tech-trends/</id>
-        <link href="http://www.webdesignernews.com/external/5-web-hosting-technology-trends-in-2021"/>
-        <updated>2021-06-04T10:34:10.000Z</updated>
-        <summary type="html"><![CDATA[https://www.hongkiat.com/blog/web-hosting-tech-trends/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTTP Status Dogs]]></title>
-        <id>https://httpstatusdogs.com/</id>
-        <link href="http://www.webdesignernews.com/external/http-status-dogs"/>
-        <updated>2021-06-04T10:33:49.000Z</updated>
-        <summary type="html"><![CDATA[https://httpstatusdogs.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS for Web Vitals]]></title>
-        <id>https://web.dev/css-web-vitals/</id>
-        <link href="http://www.webdesignernews.com/external/css-for-web-vitals"/>
-        <updated>2021-06-04T10:33:45.000Z</updated>
-        <summary type="html"><![CDATA[https://web.dev/css-web-vitals/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
