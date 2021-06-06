@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-06T16:26:20.325Z</id>
+    <id>urn:2021-06-06T18:09:15.007Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T16:26:20.325Z</updated>
+    <updated>2021-06-06T18:09:15.007Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trym - API-Based URL Shortener for Developers]]></title>
+        <id>https://trym.app/</id>
+        <link href="http://www.webdesignernews.com/external/trym-api-based-url-shortener-for-developers"/>
+        <updated>2021-06-06T17:48:00.000Z</updated>
+        <summary type="html"><![CDATA[https://trym.app/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DitherPaint ? Modern MacPaint for the Browser]]></title>
+        <id>https://beyondloom.com/tools/ditherpaint.html</id>
+        <link href="http://www.webdesignernews.com/external/ditherpaint-modern-macpaint-for-the-browser"/>
+        <updated>2021-06-06T16:59:00.000Z</updated>
+        <summary type="html"><![CDATA[https://beyondloom.com/tools/ditherpaint.html]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Million.js - A fast virtual DOM]]></title>
         <id>https://github.com/millionjs/million</id>
@@ -264,26 +284,6 @@ The post 24 Best Hipster Fonts for Cool Designs appeared first on Design Inspira
         <summary type="html"><![CDATA[https://mahdif.com/blog/the-art-of-design-specing/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 Figma Plugins and Tools to Boost your Design Workflow]]></title>
-        <id>https://www.awwwards.com/20-figma-plugins-and-tools-to-boost-your-design-workflow.html</id>
-        <link href="http://www.webdesignernews.com/external/20-figma-plugins-and-tools-to-boost-your-design-workflow"/>
-        <updated>2021-06-04T18:03:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.awwwards.com/20-figma-plugins-and-tools-to-boost-your-design-workflow.html]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Designer's Guide To Managing Client Feedback In 2021]]></title>
-        <id>https://marketsplash.com/client-feedback/</id>
-        <link href="http://www.webdesignernews.com/external/a-designer-s-guide-to-managing-client-feedback-in-2021"/>
-        <updated>2021-06-04T17:22:00.000Z</updated>
-        <summary type="html"><![CDATA[https://marketsplash.com/client-feedback/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
