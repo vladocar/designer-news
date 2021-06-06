@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-06T18:09:15.007Z</id>
+    <id>urn:2021-06-06T19:47:50.077Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T18:09:15.007Z</updated>
+    <updated>2021-06-06T19:47:50.077Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Botup - Powerful platform to build chatbots for your teams]]></title>
+        <id>https://botup.com/</id>
+        <link href="http://www.webdesignernews.com/external/botup-powerful-platform-to-build-chatbots-for-your-teams"/>
+        <updated>2021-06-06T19:09:00.000Z</updated>
+        <summary type="html"><![CDATA[https://botup.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trym - API-Based URL Shortener for Developers]]></title>
         <id>https://trym.app/</id>
@@ -242,16 +252,6 @@ The post 24 Best Hipster Fonts for Cool Designs appeared first on Design Inspira
         <link href="http://www.webdesignernews.com/external/how-to-cut-your-bounce-rate-in-half-with-interactive-content"/>
         <updated>2021-06-04T22:26:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.quicksprout.com/how-to-cut-your-bounce-rate-in-half-with-interactive-content/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storytelling In Design - Top Trends For 2021]]></title>
-        <id>https://www.vectornator.io/blog/storytelling-in-design</id>
-        <link href="http://www.webdesignernews.com/external/storytelling-in-design-top-trends-for-2021"/>
-        <updated>2021-06-04T20:47:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.vectornator.io/blog/storytelling-in-design]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
