@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-06T21:11:54.288Z</id>
+    <id>urn:2021-06-06T22:10:49.679Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T21:11:54.288Z</updated>
+    <updated>2021-06-06T22:10:49.679Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Devzat - Chat with other devs over SSH in your Terminal]]></title>
+        <id>https://github.com/quackduck/devzat</id>
+        <link href="http://www.webdesignernews.com/external/devzat-chat-with-other-devs-over-ssh-in-your-terminal"/>
+        <updated>2021-06-06T21:22:00.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/quackduck/devzat]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clay Mockups - Free set of beautiful device mockups for your designs]]></title>
         <id>https://gumroad.com/l/claymockups</id>
@@ -244,16 +254,6 @@ The post 24 Best Hipster Fonts for Cool Designs appeared first on Design Inspira
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=8qniXBxnu70]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assetroulette ? Randomized Assets for Webdesign]]></title>
-        <id>https://assetroulette.com/</id>
-        <link href="http://www.webdesignernews.com/external/assetroulette-randomized-assets-for-webdesign"/>
-        <updated>2021-06-04T23:02:00.000Z</updated>
-        <summary type="html"><![CDATA[https://assetroulette.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
