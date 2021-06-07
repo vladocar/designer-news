@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-07T16:54:21.201Z</id>
+    <id>urn:2021-06-07T19:01:18.530Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T16:54:21.201Z</updated>
+    <updated>2021-06-07T19:01:18.530Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to brand fintech in the volatile Gamestop era]]></title>
+        <id>https://www.fastcompany.com/90643799/come-for-the-gamestop-hype-stay-for-the-analysis-inside-the-brand-strategy-of-a-hot-new-fintech-startup</id>
+        <link href="http://www.webdesignernews.com/external/how-to-brand-fintech-in-the-volatile-gamestop-era"/>
+        <updated>2021-06-07T17:19:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.fastcompany.com/90643799/come-for-the-gamestop-hype-stay-for-the-analysis-inside-the-brand-strategy-of-a-hot-new-fintech-startup]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Color Contrast Ratio Explained | Why is it important & how is it calculated?]]></title>
         <id>https://www.designernews.co/stories/115900-color-contrast-ratio-explained--why-is-it-important--how-is-it-calculated</id>
@@ -363,16 +373,6 @@ The post 24 Best Hipster Fonts for Cool Designs appeared first on Design Inspira
         <link href="http://www.webdesignernews.com/external/how-to-steer-clients-from-bad-design-choices"/>
         <updated>2021-06-05T18:27:00.000Z</updated>
         <summary type="html"><![CDATA[https://mediatemple.net/blog/design-creative/how-to-steer-clients-from-bad-design-choices/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50 Free Cursive Handwritten Fonts to Spice Up Your Design]]></title>
-        <id>https://www.hongkiat.com/blog/free-cursive-handwritten-fonts/</id>
-        <link href="http://www.webdesignernews.com/external/50-free-cursive-handwritten-fonts-to-spice-up-your-design"/>
-        <updated>2021-06-05T17:41:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.hongkiat.com/blog/free-cursive-handwritten-fonts/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
