@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-07T19:01:18.530Z</id>
+    <id>urn:2021-06-07T21:01:32.967Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T19:01:18.530Z</updated>
+    <updated>2021-06-07T21:01:32.967Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The SaaS CTO Security Checklist Redux]]></title>
+        <id>https://www.goldfiglabs.com/guide/saas-cto-security-checklist/</id>
+        <link href="http://www.webdesignernews.com/external/the-saas-cto-security-checklist-redux"/>
+        <updated>2021-06-07T20:36:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.goldfiglabs.com/guide/saas-cto-security-checklist/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to brand fintech in the volatile Gamestop era]]></title>
         <id>https://www.fastcompany.com/90643799/come-for-the-gamestop-hype-stay-for-the-analysis-inside-the-brand-strategy-of-a-hot-new-fintech-startup</id>
@@ -365,16 +375,6 @@ The post 24 Best Hipster Fonts for Cool Designs appeared first on Design Inspira
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=HqEQSMzV9tw]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Steer Clients from Bad Design Choices]]></title>
-        <id>https://mediatemple.net/blog/design-creative/how-to-steer-clients-from-bad-design-choices/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-steer-clients-from-bad-design-choices"/>
-        <updated>2021-06-05T18:27:00.000Z</updated>
-        <summary type="html"><![CDATA[https://mediatemple.net/blog/design-creative/how-to-steer-clients-from-bad-design-choices/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
