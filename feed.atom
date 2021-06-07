@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-07T21:01:32.967Z</id>
+    <id>urn:2021-06-07T22:26:55.533Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T21:01:32.967Z</updated>
+    <updated>2021-06-07T22:26:55.533Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ToolJet - Open-source alternative for Retool]]></title>
+        <id>https://tooljet.io/</id>
+        <link href="http://www.webdesignernews.com/external/tooljet-open-source-alternative-for-retool"/>
+        <updated>2021-06-07T21:38:00.000Z</updated>
+        <summary type="html"><![CDATA[https://tooljet.io/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The SaaS CTO Security Checklist Redux]]></title>
         <id>https://www.goldfiglabs.com/guide/saas-cto-security-checklist/</id>
@@ -342,16 +352,6 @@ The post 8 Free Illustrator Neon 80s Text Effect appeared first on Design Inspir
         <link href="http://www.webdesignernews.com/external/15-productive-things-designers-can-do-with-downtime"/>
         <updated>2021-06-06T08:10:05.000Z</updated>
         <summary type="html"><![CDATA[https://www.vandelaydesign.com/things-to-do-with-down-time/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Ways How to Improve Website Design to Get More Traffic]]></title>
-        <id>https://gapsystudio.com/blog/improve-website-design/</id>
-        <link href="http://www.webdesignernews.com/external/6-ways-how-to-improve-website-design-to-get-more-traffic"/>
-        <updated>2021-06-06T08:09:05.000Z</updated>
-        <summary type="html"><![CDATA[https://gapsystudio.com/blog/improve-website-design/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
