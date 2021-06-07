@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-07T22:26:55.533Z</id>
+    <id>urn:2021-06-07T23:24:10.696Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T22:26:55.533Z</updated>
+    <updated>2021-06-07T23:24:10.696Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An incomplete list of skills senior engineers need, beyond coding]]></title>
+        <id>https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f</id>
+        <link href="http://www.webdesignernews.com/external/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding"/>
+        <updated>2021-06-07T22:27:00.000Z</updated>
+        <summary type="html"><![CDATA[https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ToolJet - Open-source alternative for Retool]]></title>
         <id>https://tooljet.io/</id>
@@ -342,16 +352,6 @@ The post 8 Free Illustrator Neon 80s Text Effect appeared first on Design Inspir
         <link href="http://www.webdesignernews.com/external/flag-maker"/>
         <updated>2021-06-06T08:10:20.000Z</updated>
         <summary type="html"><![CDATA[https://flag.rachel.systems/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 Productive Things Designers Can Do with Downtime]]></title>
-        <id>https://www.vandelaydesign.com/things-to-do-with-down-time/</id>
-        <link href="http://www.webdesignernews.com/external/15-productive-things-designers-can-do-with-downtime"/>
-        <updated>2021-06-06T08:10:05.000Z</updated>
-        <summary type="html"><![CDATA[https://www.vandelaydesign.com/things-to-do-with-down-time/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
