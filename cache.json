@@ -103,6 +103,33 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/115897-glassmorphism-ui",
+          "author": null,
+          "description": "https://ui.glass/",
+          "link": "https://www.designernews.co/stories/115897-glassmorphism-ui",
+          "publishedOn": "2021-06-07T14:50:34.000Z",
+          "wordCount": 165,
+          "title": "Glassmorphism UI"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115896-10-examples-of-innovative-contact-form-design",
+          "author": null,
+          "description": "https://qodeinteractive.com/magazine/innovative-contact-form-design/",
+          "link": "https://www.designernews.co/stories/115896-10-examples-of-innovative-contact-form-design",
+          "publishedOn": "2021-06-07T14:26:54.000Z",
+          "wordCount": 172,
+          "title": "10 Examples of Innovative Contact Form Design"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115895-the-ultimate-ui-design-trends--no-bs-guide",
+          "author": null,
+          "description": "https://www.youtube.com/watch?v=BI3wWh4qVZc",
+          "link": "https://www.designernews.co/stories/115895-the-ultimate-ui-design-trends--no-bs-guide",
+          "publishedOn": "2021-06-07T14:20:21.000Z",
+          "wordCount": 176,
+          "title": "The Ultimate UI Design Trends - No BS Guide"
+        },
+        {
           "id": "https://www.designernews.co/stories/115893-plainadmin--free-vanilla-js-bootstrap-5-admin-template",
           "author": null,
           "description": "https://github.com/PlainAdmin/plain-free-bootstrap-admin-template",
@@ -292,33 +319,6 @@
           "title": "3D Design Foundations Course - Uxcel & Spline"
         },
         {
-          "id": "https://www.designernews.co/stories/115825-online-slideshow-maker-with-great-transitions-filters-and-animations-to-create-coolest-social-media-posts",
-          "author": null,
-          "description": "https://pixiko.com/editors/slideshow-maker",
-          "link": "https://www.designernews.co/stories/115825-online-slideshow-maker-with-great-transitions-filters-and-animations-to-create-coolest-social-media-posts",
-          "publishedOn": "2021-06-03T11:41:37.000Z",
-          "wordCount": 191,
-          "title": "Online slideshow maker with great transitions, filters and animations to create coolest social media posts!"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115820-7-best-array-methods-in-javascript-2021",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/06/7-best-array-methods-in-javascript-2021.html",
-          "link": "https://www.designernews.co/stories/115820-7-best-array-methods-in-javascript-2021",
-          "publishedOn": "2021-06-03T10:19:14.000Z",
-          "wordCount": 174,
-          "title": "7 Best Array Methods In JavaScript 2021"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115818-an-ultimate-guide-on-microsoft-dynamics-365",
-          "author": null,
-          "description": "https://www.zenesys.com/blog/an-ultimate-guide-on-microsoft-dynamics-365",
-          "link": "https://www.designernews.co/stories/115818-an-ultimate-guide-on-microsoft-dynamics-365",
-          "publishedOn": "2021-06-03T08:58:32.000Z",
-          "wordCount": 177,
-          "title": "An Ultimate Guide on Microsoft Dynamics 365"
-        },
-        {
           "id": "https://www.designernews.co/stories/115817-how-we-conduct--a-product-development-seminar",
           "author": null,
           "description": "https://uptech.team/blog/how-to-design-a-workshop",
@@ -340,7 +340,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2206,
+          "wordCount": 2209,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -354,7 +354,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4136,
+          "wordCount": 4138,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -368,7 +368,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3510,
+          "wordCount": 3498,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -396,7 +396,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5342,
+          "wordCount": 5389,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -438,7 +438,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2496,
+          "wordCount": 2484,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -452,7 +452,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10214,
+          "wordCount": 10220,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -466,7 +466,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3741,
+          "wordCount": 3747,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -508,7 +508,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2116,
+          "wordCount": 2118,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -578,7 +578,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1958,
+          "wordCount": 1956,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -634,7 +634,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2943,
+          "wordCount": 2951,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -648,7 +648,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2435,
+          "wordCount": 2432,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -734,12 +734,30 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://github.com/blitz-js/blitz",
+          "author": null,
+          "description": "https://github.com/blitz-js/blitz",
+          "link": "http://www.webdesignernews.com/external/blitz-a-fullstack-react-framework-built-on-next-js",
+          "publishedOn": "2021-06-07T15:15:00.000Z",
+          "wordCount": 2086,
+          "title": "Blitz: A Fullstack React Framework, Built on Next.js"
+        },
+        {
+          "id": "https://ericwbailey.design/writing/dont-use-custom-css-mouse-cursors/",
+          "author": null,
+          "description": "https://ericwbailey.design/writing/dont-use-custom-css-mouse-cursors/",
+          "link": "http://www.webdesignernews.com/external/don-t-use-custom-css-mouse-cursors",
+          "publishedOn": "2021-06-07T14:12:00.000Z",
+          "wordCount": 1191,
+          "title": "Don?t use custom CSS mouse cursors"
+        },
+        {
           "id": "https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "author": null,
           "description": "https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "link": "http://www.webdesignernews.com/external/how-to-build-a-geocoding-app-in-vue-js-using-mapbox",
           "publishedOn": "2021-06-07T13:37:14.000Z",
-          "wordCount": 2206,
+          "wordCount": 2209,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox"
         },
         {
@@ -775,7 +793,7 @@
           "description": "https://github.com/quackduck/devzat",
           "link": "http://www.webdesignernews.com/external/devzat-chat-with-other-devs-over-ssh-in-your-terminal",
           "publishedOn": "2021-06-06T21:22:00.000Z",
-          "wordCount": 1002,
+          "wordCount": 1045,
           "title": "Devzat - Chat with other devs over SSH in your Terminal"
         },
         {
@@ -820,7 +838,7 @@
           "description": "https://github.com/millionjs/million",
           "link": "http://www.webdesignernews.com/external/million-js-a-fast-virtual-dom",
           "publishedOn": "2021-06-06T15:57:00.000Z",
-          "wordCount": 882,
+          "wordCount": 890,
           "title": "Million.js - A fast virtual DOM"
         },
         {
@@ -894,24 +912,6 @@
           "publishedOn": "2021-06-05T14:11:00.000Z",
           "wordCount": 3330,
           "title": "What Can Eye Tracking Tell Us About Usability Testing?"
-        },
-        {
-          "id": "https://spyrestudios.com/what-is-glassmorphism-with-examples/",
-          "author": null,
-          "description": "https://spyrestudios.com/what-is-glassmorphism-with-examples/",
-          "link": "http://www.webdesignernews.com/external/what-is-glassmorphism-with-examples",
-          "publishedOn": "2021-06-05T13:19:00.000Z",
-          "wordCount": 568,
-          "title": "What Is Glassmorphism? (With Examples)"
-        },
-        {
-          "id": "https://millo.co/starting-a-web-design-business-with-no-portfolio",
-          "author": null,
-          "description": "https://millo.co/starting-a-web-design-business-with-no-portfolio",
-          "link": "http://www.webdesignernews.com/external/how-to-start-a-web-design-business-with-no-portfolio-and-little-experience",
-          "publishedOn": "2021-06-05T12:26:00.000Z",
-          "wordCount": 2350,
-          "title": "How to Start a Web Design Business With No Portfolio and Little Experience"
         }
       ]
     }
