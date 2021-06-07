@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-07T15:22:03.670Z</id>
+    <id>urn:2021-06-07T16:54:21.201Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T15:22:03.670Z</updated>
+    <updated>2021-06-07T16:54:21.201Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Color Contrast Ratio Explained | Why is it important & how is it calculated?]]></title>
+        <id>https://www.designernews.co/stories/115900-color-contrast-ratio-explained--why-is-it-important--how-is-it-calculated</id>
+        <link href="https://www.designernews.co/stories/115900-color-contrast-ratio-explained--why-is-it-important--how-is-it-calculated"/>
+        <updated>2021-06-07T16:29:21.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=-chsX0O76aY]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PATTTTERNS - An open catalog of design patterns]]></title>
+        <id>https://patttterns.com/</id>
+        <link href="http://www.webdesignernews.com/external/patttterns-an-open-catalog-of-design-patterns"/>
+        <updated>2021-06-07T16:27:00.000Z</updated>
+        <summary type="html"><![CDATA[https://patttterns.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blitz: A Fullstack React Framework, Built on Next.js]]></title>
         <id>https://github.com/blitz-js/blitz</id>
@@ -358,16 +378,6 @@ The post 24 Best Hipster Fonts for Cool Designs appeared first on Design Inspira
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Can Eye Tracking Tell Us About Usability Testing?]]></title>
-        <id>https://attentioninsight.com/what-can-eye-tracking-tell-us-about-usability-testing/</id>
-        <link href="http://www.webdesignernews.com/external/what-can-eye-tracking-tell-us-about-usability-testing"/>
-        <updated>2021-06-05T14:11:00.000Z</updated>
-        <summary type="html"><![CDATA[https://attentioninsight.com/what-can-eye-tracking-tell-us-about-usability-testing/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[php interview question]]></title>
         <id>https://www.designernews.co/stories/115860-php-interview-question</id>
         <link href="https://www.designernews.co/stories/115860-php-interview-question"/>
@@ -506,16 +516,6 @@ The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspi
         <summary type="html"><![CDATA[Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Shawn Wildermuth)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Conduct  A Product Development Seminar]]></title>
-        <id>https://www.designernews.co/stories/115817-how-we-conduct--a-product-development-seminar</id>
-        <link href="https://www.designernews.co/stories/115817-how-we-conduct--a-product-development-seminar"/>
-        <updated>2021-06-03T08:16:38.000Z</updated>
-        <summary type="html"><![CDATA[https://uptech.team/blog/how-to-design-a-workshop]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
