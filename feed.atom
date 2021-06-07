@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-07T12:30:06.327Z</id>
+    <id>urn:2021-06-07T14:10:36.028Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T12:30:06.327Z</updated>
+    <updated>2021-06-07T14:10:36.028Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PlainAdmin - Free Vanilla JS Bootstrap 5 Admin Template]]></title>
+        <id>https://www.designernews.co/stories/115893-plainadmin--free-vanilla-js-bootstrap-5-admin-template</id>
+        <link href="https://www.designernews.co/stories/115893-plainadmin--free-vanilla-js-bootstrap-5-admin-template"/>
+        <updated>2021-06-07T14:06:00.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/PlainAdmin/plain-free-bootstrap-admin-template]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build A Geocoding App In Vue.js Using Mapbox]]></title>
+        <id>https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-build-a-geocoding-app-in-vue-js-using-mapbox"/>
+        <updated>2021-06-07T13:37:14.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dark Side of Notepad++: V8]]></title>
+        <id>https://notepad-plus-plus.org/news/v8-dark-mode/</id>
+        <link href="http://www.webdesignernews.com/external/the-dark-side-of-notepad-v8"/>
+        <updated>2021-06-07T13:37:02.000Z</updated>
+        <summary type="html"><![CDATA[https://notepad-plus-plus.org/news/v8-dark-mode/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Truthy and Falsy Values in JavaScript Work]]></title>
+        <id>https://blog.alexdevero.com/truthy-falsy-values-in-javascript/</id>
+        <link href="http://www.webdesignernews.com/external/how-truthy-and-falsy-values-in-javascript-work"/>
+        <updated>2021-06-07T13:36:47.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.alexdevero.com/truthy-falsy-values-in-javascript/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginner's Guide To Different Types Of Logo Designs]]></title>
+        <id>https://marketsplash.com/types-of-logo-designs/</id>
+        <link href="http://www.webdesignernews.com/external/a-beginner-s-guide-to-different-types-of-logo-designs"/>
+        <updated>2021-06-07T13:16:00.000Z</updated>
+        <summary type="html"><![CDATA[https://marketsplash.com/types-of-logo-designs/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strategy Design Sprint (open source)]]></title>
+        <id>https://www.designernews.co/stories/115887-strategy-design-sprint-open-source</id>
+        <link href="https://www.designernews.co/stories/115887-strategy-design-sprint-open-source"/>
+        <updated>2021-06-07T13:10:48.000Z</updated>
+        <summary type="html"><![CDATA[https://d.mba/guides/strategy-design-sprint]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Build A Geocoding App In Vue.js Using Mapbox]]></title>
         <id>https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/</id>
@@ -298,46 +358,6 @@ The post 24 Best Hipster Fonts for Cool Designs appeared first on Design Inspira
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fiendishly Hard Logo Quiz]]></title>
-        <id>https://www.webdesignerdepot.com/2021/06/fiendishly-hard-logo-quiz/</id>
-        <link href="http://www.webdesignernews.com/external/fiendishly-hard-logo-quiz"/>
-        <updated>2021-06-05T10:06:54.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/fiendishly-hard-logo-quiz/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Disruptive Design (So It Will Get Seen)]]></title>
-        <id>https://designshack.net/articles/graphics/how-to-create-a-disruptive-design/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-create-a-disruptive-design-so-it-will-get-seen"/>
-        <updated>2021-06-05T10:06:40.000Z</updated>
-        <summary type="html"><![CDATA[https://designshack.net/articles/graphics/how-to-create-a-disruptive-design/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trigonometry in CSS and JavaScript: Beyond Triangles]]></title>
-        <id>https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/</id>
-        <link href="http://www.webdesignernews.com/external/trigonometry-in-css-and-javascript-beyond-triangles"/>
-        <updated>2021-06-05T09:59:59.000Z</updated>
-        <summary type="html"><![CDATA[https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started With Webpack]]></title>
-        <id>https://www.smashingmagazine.com/2021/06/getting-started-webpack/</id>
-        <link href="http://www.webdesignernews.com/external/getting-started-with-webpack"/>
-        <updated>2021-06-05T09:55:49.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/getting-started-webpack/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spline 3D Design Tool lets you convert 2D vector path to 3D objects]]></title>
         <id>https://www.designernews.co/stories/115857-spline-3d-design-tool-lets-you-convert-2d-vector-path-to-3d-objects-</id>
         <link href="https://www.designernews.co/stories/115857-spline-3d-design-tool-lets-you-convert-2d-vector-path-to-3d-objects-"/>
@@ -499,16 +519,6 @@ The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Common CSS mistakes developers make]]></title>
-        <id>https://www.designernews.co/stories/115815-5-common-css-mistakes-developers-make</id>
-        <link href="https://www.designernews.co/stories/115815-5-common-css-mistakes-developers-make"/>
-        <updated>2021-06-03T04:42:18.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/5-common-css-mistakes-developers-make.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[36 Best Whimsical Fonts for Your Fabulous Designs]]></title>
         <id>https://www.designinspiration.info/?p=2840</id>
         <link href="https://www.designinspiration.info/whimsical-fonts/"/>
@@ -517,16 +527,6 @@ The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspi
 The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Figma in 10 Minutes - No BS Guide]]></title>
-        <id>https://www.designernews.co/stories/115811-learn-figma-in-10-minutes--no-bs-guide</id>
-        <link href="https://www.designernews.co/stories/115811-learn-figma-in-10-minutes--no-bs-guide"/>
-        <updated>2021-06-02T18:40:53.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=nZ57MPVbHUg]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
