@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-07T06:40:36.949Z</id>
+    <id>urn:2021-06-07T08:25:38.107Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T06:40:36.949Z</updated>
+    <updated>2021-06-07T08:25:38.107Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[12 Modern CSS Techniques For Older CSS Problems]]></title>
+        <id>https://www.designernews.co/stories/115873-12-modern-css-techniques-for-older-css-problems</id>
+        <link href="https://www.designernews.co/stories/115873-12-modern-css-techniques-for-older-css-problems"/>
+        <updated>2021-06-07T07:31:23.000Z</updated>
+        <summary type="html"><![CDATA[https://www.lambdatest.com/blog/modern-css-techniques-for-older-css-problems/?utm_source=designernews&utm_medium=blog&utm_campaign=PM-07June21&utm_term=organicPosting]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS vs Azure vs Google Cloud: Which Cloud Services is better for Enterprises?]]></title>
+        <id>https://www.designernews.co/stories/115871-aws-vs-azure-vs-google-cloud-which-cloud-services-is-better-for-enterprises</id>
+        <link href="https://www.designernews.co/stories/115871-aws-vs-azure-vs-google-cloud-which-cloud-services-is-better-for-enterprises"/>
+        <updated>2021-06-07T07:28:17.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/blog/aws-vs-azure-vs-google-cloud-which-cloud-services-is-better-for-enterprises]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TOP 7 Monitors For Gammers / Programmers / Coders]]></title>
         <id>https://www.designernews.co/stories/115867-top-7-monitors-for-gammers--programmers--coders</id>
@@ -464,26 +484,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         <link href="https://www.designernews.co/stories/115806-best-vs-code-shortcuts-to-make-your-coding-faster"/>
         <updated>2021-06-02T15:49:38.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/best-vs-code-shortcuts-to-make-your.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show DN: Free Figma Admin Dashboard Kit]]></title>
-        <id>https://www.designernews.co/stories/115798-show-dn-free-figma-admin-dashboard-kit</id>
-        <link href="https://www.designernews.co/stories/115798-show-dn-free-figma-admin-dashboard-kit"/>
-        <updated>2021-06-02T13:29:57.000Z</updated>
-        <summary type="html"><![CDATA[https://www.figma.com/community/file/981909581633093086]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top CSS Resources, Tools & Articles from May]]></title>
-        <id>https://www.designernews.co/stories/115797-top-css-resources-tools--articles-from-may</id>
-        <link href="https://www.designernews.co/stories/115797-top-css-resources-tools--articles-from-may"/>
-        <updated>2021-06-02T13:19:14.000Z</updated>
-        <summary type="html"><![CDATA[https://dailydevlinks.com/top-css-resources-tools-articles-from-may-2021/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
