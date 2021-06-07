@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-07T11:01:18.953Z</id>
+    <id>urn:2021-06-07T12:30:06.327Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T11:01:18.953Z</updated>
+    <updated>2021-06-07T12:30:06.327Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How To Build A Geocoding App In Vue.js Using Mapbox]]></title>
+        <id>https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/</id>
+        <link href="https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/"/>
+        <updated>2021-06-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Prince Chukwudire)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free Illustrator Neon 80s Text Effect]]></title>
         <id>https://www.designernews.co/stories/115878-free-illustrator-neon-80s-text-effect</id>
