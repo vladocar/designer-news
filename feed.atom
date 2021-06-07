@@ -1,16 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-07T09:57:28.455Z</id>
+    <id>urn:2021-06-07T11:01:18.953Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T09:57:28.455Z</updated>
+    <updated>2021-06-07T11:01:18.953Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Free Illustrator Neon 80s Text Effect]]></title>
+        <id>https://www.designernews.co/stories/115878-free-illustrator-neon-80s-text-effect</id>
+        <link href="https://www.designernews.co/stories/115878-free-illustrator-neon-80s-text-effect"/>
+        <updated>2021-06-07T10:27:55.000Z</updated>
+        <summary type="html"><![CDATA[https://www.designinspiration.info/free-illustrator-neon-80s-text-styles/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Free Illustrator Neon 80s Text Effect]]></title>
+        <id>https://www.designinspiration.info/?p=2932</id>
+        <link href="https://www.designinspiration.info/free-illustrator-neon-80s-text-styles/"/>
+        <updated>2021-06-07T10:20:32.000Z</updated>
+        <summary type="html"><![CDATA[We bring you 8 free one click Illustrator Graphics Styles for applying Neon Retro 80’s text effect. All neon effects can be applied to any text or shape in Illustrator. Installation: From the Graphic Styles window click the Left Bottom Corner Button and select Other Library. Browse to your Retro
+The post 8 Free Illustrator Neon 80s Text Effect appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What do think is the best way for someone to learn Design?]]></title>
+        <id>https://www.designernews.co/stories/115877-what-do-think-is-the-best-way-for-someone-to-learn-design</id>
+        <link href="https://www.designernews.co/stories/115877-what-do-think-is-the-best-way-for-someone-to-learn-design"/>
+        <updated>2021-06-07T09:56:44.000Z</updated>
+        <summary type="html"><![CDATA[What methods or approaches can one take to learn design and how to design? Aspects that include - collaborating, UI, UX, etc.]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12 Modern CSS Techniques For Older CSS Problems]]></title>
         <id>https://www.designernews.co/stories/115873-12-modern-css-techniques-for-older-css-problems</id>
         <link href="https://www.designernews.co/stories/115873-12-modern-css-techniques-for-older-css-problems"/>
         <updated>2021-06-07T07:31:23.000Z</updated>
         <summary type="html"><![CDATA[https://www.lambdatest.com/blog/modern-css-techniques-for-older-css-problems/?utm_source=designernews&utm_medium=blog&utm_campaign=PM-07June21&utm_term=organicPosting]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the role of binary thinking in Western typography?]]></title>
+        <id>https://www.designernews.co/stories/115872-what-is-the-role-of-binary-thinking-in-western-typography</id>
+        <link href="https://www.designernews.co/stories/115872-what-is-the-role-of-binary-thinking-in-western-typography"/>
+        <updated>2021-06-07T07:31:06.000Z</updated>
+        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/ellen-lupton-extra-bold-opinion-graphic-design-040621]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -479,16 +520,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best VS Code Shortcuts To Make Your Coding Faster]]></title>
-        <id>https://www.designernews.co/stories/115806-best-vs-code-shortcuts-to-make-your-coding-faster</id>
-        <link href="https://www.designernews.co/stories/115806-best-vs-code-shortcuts-to-make-your-coding-faster"/>
-        <updated>2021-06-02T15:49:38.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/best-vs-code-shortcuts-to-make-your.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Fix Cumulative Layout Shift (CLS) Issues]]></title>
         <id>https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/</id>
         <link href="https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/"/>
@@ -506,26 +537,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         <summary type="html"><![CDATA[Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jennifer Brehm)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robotic Process Automation (RPA) in Healthcare Industry]]></title>
-        <id>https://www.designernews.co/stories/115789-robotic-process-automation-rpa-in-healthcare-industry</id>
-        <link href="https://www.designernews.co/stories/115789-robotic-process-automation-rpa-in-healthcare-industry"/>
-        <updated>2021-06-02T09:17:41.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/robotic-process-automation-rpa-in-healthcare-industry]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rossmann website redesign]]></title>
-        <id>https://www.designernews.co/stories/115788-rossmann-website-redesign</id>
-        <link href="https://www.designernews.co/stories/115788-rossmann-website-redesign"/>
-        <updated>2021-06-02T08:58:31.000Z</updated>
-        <summary type="html"><![CDATA[https://www.behance.net/gallery/120714471/Rossmann-Website-redesign?]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -692,17 +703,6 @@ The post 20 Best Japanese Style Fonts appeared first on Design Inspiration.]]></
         <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Free Illustrator 3D Stitched Text Effect Styles]]></title>
-        <id>https://www.designinspiration.info/?p=2651</id>
-        <link href="https://www.designinspiration.info/10-free-illustrator-3d-stitched-text-effect-styles/"/>
-        <updated>2021-05-24T10:29:41.000Z</updated>
-        <summary type="html"><![CDATA[We bring you 10 free one click Illustrator Graphics Styles for applying 3D Stitched Text Effect. All text shadow effects can be applied to any text or font in Illustrator and also can be easily customized. The Graphic Stiles can be customized in the Appearance panel (Window > Appearance) and
-The post 10 Free Illustrator 3D Stitched Text Effect Styles appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
