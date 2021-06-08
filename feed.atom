@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-08T15:00:42.867Z</id>
+    <id>urn:2021-06-08T16:15:19.216Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T15:00:42.867Z</updated>
+    <updated>2021-06-08T16:15:19.216Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google changes Core Web Vitals metrics]]></title>
+        <id>https://searchengineland.com/google-changes-core-web-vitals-metrics-how-to-use-lab-and-field-data-for-optimization-349184</id>
+        <link href="http://www.webdesignernews.com/external/google-changes-core-web-vitals-metrics-how-to-use-lab-and-field-data-for-optimization"/>
+        <updated>2021-06-08T16:01:18.000Z</updated>
+        <summary type="html"><![CDATA[https://searchengineland.com/google-changes-core-web-vitals-metrics-how-to-use-lab-and-field-data-for-optimization-349184]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I moved my workspace to VR, here's what I learnt]]></title>
+        <id>https://blog.borodutch.com/i-moved-my-workspace-to-vr-heres-what-i-learnt/</id>
+        <link href="http://www.webdesignernews.com/external/i-moved-my-workspace-to-vr-here-s-what-i-learnt"/>
+        <updated>2021-06-08T16:01:07.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.borodutch.com/i-moved-my-workspace-to-vr-heres-what-i-learnt/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All you need is 5 fonts]]></title>
+        <id>https://betterwebtype.com/articles/2021/06/07/all-you-need-is-5-fonts/</id>
+        <link href="http://www.webdesignernews.com/external/all-you-need-is-5-fonts"/>
+        <updated>2021-06-08T16:01:04.000Z</updated>
+        <summary type="html"><![CDATA[https://betterwebtype.com/articles/2021/06/07/all-you-need-is-5-fonts/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Essential Design Trends, June 2021]]></title>
+        <id>https://www.webdesignerdepot.com/2021/06/3-essential-design-trends-june-2021/</id>
+        <link href="http://www.webdesignernews.com/external/3-essential-design-trends-june-2021"/>
+        <updated>2021-06-08T16:00:51.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/3-essential-design-trends-june-2021/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to build better digital experiences with UX writing principles]]></title>
+        <id>https://medium.com/sainsburys-digital-experience/how-to-build-better-digital-experiences-with-ux-writing-principles-3c65fcdbcef8</id>
+        <link href="http://www.webdesignernews.com/external/how-to-build-better-digital-experiences-with-ux-writing-principles"/>
+        <updated>2021-06-08T16:00:38.000Z</updated>
+        <summary type="html"><![CDATA[https://medium.com/sainsburys-digital-experience/how-to-build-better-digital-experiences-with-ux-writing-principles-3c65fcdbcef8]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A/B Testing The Words In Your Product]]></title>
+        <id>https://usabilitygeek.com/a-b-testing-the-words-in-your-product/</id>
+        <link href="http://www.webdesignernews.com/external/a-b-testing-the-words-in-your-product"/>
+        <updated>2021-06-08T15:27:00.000Z</updated>
+        <summary type="html"><![CDATA[https://usabilitygeek.com/a-b-testing-the-words-in-your-product/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Case Study: Designing Film Moon – an international matchmaking platform for film makers and festivals]]></title>
         <id>https://www.designernews.co/stories/115934-case-study-designing-film-moon--an-international-matchmaking-platform-for-film-makers-and-festivals</id>
@@ -36,6 +96,26 @@ Nowadays products are pushed to customers rather than being requested by them. U
 Our motivation is to make everyone part of the product ideation process through a platform for seamless collaboration between product companies, freelance designers and c…]]></summary>
         <author>
             <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text ? a designer tool]]></title>
+        <id>https://blog.plantapp.io/post/text-a-designer-tool</id>
+        <link href="http://www.webdesignernews.com/external/text-a-designer-tool"/>
+        <updated>2021-06-08T12:14:00.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.plantapp.io/post/text-a-designer-tool]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From AVIF to WebP: A New Smashing Book By Addy Osmani]]></title>
+        <id>https://smashingmagazine.com/2021/06/image-optimization-book-release/</id>
+        <link href="https://smashingmagazine.com/2021/06/image-optimization-book-release/"/>
+        <updated>2021-06-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
     <entry>
@@ -415,76 +495,6 @@ The post 8 Free Illustrator Neon 80s Text Effect appeared first on Design Inspir
         <link href="http://www.webdesignernews.com/external/devzat-chat-with-other-devs-over-ssh-in-your-terminal"/>
         <updated>2021-06-06T21:22:00.000Z</updated>
         <summary type="html"><![CDATA[https://github.com/quackduck/devzat]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clay Mockups - Free set of beautiful device mockups for your designs]]></title>
-        <id>https://gumroad.com/l/claymockups</id>
-        <link href="http://www.webdesignernews.com/external/clay-mockups-free-set-of-beautiful-device-mockups-for-your-designs"/>
-        <updated>2021-06-06T20:56:00.000Z</updated>
-        <summary type="html"><![CDATA[https://gumroad.com/l/claymockups]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Botup - Powerful platform to build chatbots for your teams]]></title>
-        <id>https://botup.com/</id>
-        <link href="http://www.webdesignernews.com/external/botup-powerful-platform-to-build-chatbots-for-your-teams"/>
-        <updated>2021-06-06T19:09:00.000Z</updated>
-        <summary type="html"><![CDATA[https://botup.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trym - API-Based URL Shortener for Developers]]></title>
-        <id>https://trym.app/</id>
-        <link href="http://www.webdesignernews.com/external/trym-api-based-url-shortener-for-developers"/>
-        <updated>2021-06-06T17:48:00.000Z</updated>
-        <summary type="html"><![CDATA[https://trym.app/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DitherPaint ? Modern MacPaint for the Browser]]></title>
-        <id>https://beyondloom.com/tools/ditherpaint.html</id>
-        <link href="http://www.webdesignernews.com/external/ditherpaint-modern-macpaint-for-the-browser"/>
-        <updated>2021-06-06T16:59:00.000Z</updated>
-        <summary type="html"><![CDATA[https://beyondloom.com/tools/ditherpaint.html]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Million.js - A fast virtual DOM]]></title>
-        <id>https://github.com/millionjs/million</id>
-        <link href="http://www.webdesignernews.com/external/million-js-a-fast-virtual-dom"/>
-        <updated>2021-06-06T15:57:00.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/millionjs/million]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the role of binary thinking in Western typography?]]></title>
-        <id>https://www.itsnicethat.com/articles/ellen-lupton-extra-bold-opinion-graphic-design-040621</id>
-        <link href="http://www.webdesignernews.com/external/what-is-the-role-of-binary-thinking-in-western-typography"/>
-        <updated>2021-06-06T15:50:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/ellen-lupton-extra-bold-opinion-graphic-design-040621]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Practices to Keep Your DIY WordPress Website Fast and Secure]]></title>
-        <id>https://www.hongkiat.com/blog/keep-wordpress-fast-and-secure/</id>
-        <link href="http://www.webdesignernews.com/external/5-practices-to-keep-your-diy-wordpress-website-fast-and-secure"/>
-        <updated>2021-06-06T08:10:30.000Z</updated>
-        <summary type="html"><![CDATA[https://www.hongkiat.com/blog/keep-wordpress-fast-and-secure/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
