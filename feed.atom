@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-08T21:02:10.865Z</id>
+    <id>urn:2021-06-08T22:00:52.244Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T21:02:10.865Z</updated>
+    <updated>2021-06-08T22:00:52.244Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to build your own meme generator with machine learning]]></title>
+        <id>https://thenextweb.com/news/how-to-build-your-own-meme-generator-with-machine-learning</id>
+        <link href="http://www.webdesignernews.com/external/how-to-build-your-own-meme-generator-with-machine-learning"/>
+        <updated>2021-06-08T21:55:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/how-to-build-your-own-meme-generator-with-machine-learning]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What I Learned by Relearning HTML]]></title>
         <id>https://www.dannyguo.com/blog/what-i-learned-by-relearning-html</id>
@@ -394,16 +404,6 @@ Our motivation is to make everyone part of the product ideation process through 
         <link href="http://www.webdesignernews.com/external/how-to-build-a-geocoding-app-in-vue-js-using-mapbox"/>
         <updated>2021-06-07T13:37:14.000Z</updated>
         <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Dark Side of Notepad++: V8]]></title>
-        <id>https://notepad-plus-plus.org/news/v8-dark-mode/</id>
-        <link href="http://www.webdesignernews.com/external/the-dark-side-of-notepad-v8"/>
-        <updated>2021-06-07T13:37:02.000Z</updated>
-        <summary type="html"><![CDATA[https://notepad-plus-plus.org/news/v8-dark-mode/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
