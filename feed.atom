@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-08T09:05:43.498Z</id>
+    <id>urn:2021-06-08T10:06:04.262Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T09:05:43.498Z</updated>
+    <updated>2021-06-08T10:06:04.262Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Marc Cuban and other illustrated portraits for Harvard Business Review]]></title>
+        <id>https://www.designernews.co/stories/115920-marc-cuban-and-other-illustrated-portraits-for-harvard-business-review</id>
+        <link href="https://www.designernews.co/stories/115920-marc-cuban-and-other-illustrated-portraits-for-harvard-business-review"/>
+        <updated>2021-06-08T09:50:36.000Z</updated>
+        <summary type="html"><![CDATA[https://www.owlillustration.com/2020/12/09/portraits-for-harvard-business-review/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made an Open Source deployment tool with Free Hosting]]></title>
+        <id>https://www.designernews.co/stories/115919-i-made-an-open-source-deployment-tool-with-free-hosting</id>
+        <link href="https://www.designernews.co/stories/115919-i-made-an-open-source-deployment-tool-with-free-hosting"/>
+        <updated>2021-06-08T09:45:08.000Z</updated>
+        <summary type="html"><![CDATA[https://mdbgo.com/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User flow diagramming trends in 2021 - annual report with charts, maps, and data]]></title>
+        <id>https://www.designernews.co/stories/115918-user-flow-diagramming-trends-in-2021--annual-report-with-charts-maps-and-data</id>
+        <link href="https://www.designernews.co/stories/115918-user-flow-diagramming-trends-in-2021--annual-report-with-charts-maps-and-data"/>
+        <updated>2021-06-08T09:33:01.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.overflow.io/user-flow-diagramming-trends-in-2021-1ab4d3d262ba]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Look at this nice mix of 3D design & No-Code.  What do you think?]]></title>
+        <id>https://www.designernews.co/stories/115916-look-at-this-nice-mix-of-3d-design--nocode--what-do-you-think-</id>
+        <link href="https://www.designernews.co/stories/115916-look-at-this-nice-mix-of-3d-design--nocode--what-do-you-think-"/>
+        <updated>2021-06-08T09:15:18.000Z</updated>
+        <summary type="html"><![CDATA[http://zeroqode.com/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Text – a designer tool]]></title>
         <id>https://www.designernews.co/stories/115913-text--a-designer-tool</id>
@@ -438,41 +478,11 @@ The post 24 Best Hipster Fonts for Cool Designs appeared first on Design Inspira
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Designer's Guide To Managing Client Feedback In 2021]]></title>
-        <id>https://www.designernews.co/stories/115855-a-designers-guide-to-managing-client-feedback-in-2021</id>
-        <link href="https://www.designernews.co/stories/115855-a-designers-guide-to-managing-client-feedback-in-2021"/>
-        <updated>2021-06-04T19:30:33.000Z</updated>
-        <summary type="html"><![CDATA[https://marketsplash.com/client-feedback/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every user Interface is a conversation]]></title>
-        <id>https://www.designernews.co/stories/115854-every-user-interface-is-a-conversation</id>
-        <link href="https://www.designernews.co/stories/115854-every-user-interface-is-a-conversation"/>
-        <updated>2021-06-04T19:29:12.000Z</updated>
-        <summary type="html"><![CDATA[https://www.vectornator.io/blog/conversational-interfaces]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Art of Design Spec'ing]]></title>
         <id>https://www.designernews.co/stories/115853-the-art-of-design-specing</id>
         <link href="https://www.designernews.co/stories/115853-the-art-of-design-specing"/>
         <updated>2021-06-04T19:27:45.000Z</updated>
         <summary type="html"><![CDATA[https://mahdif.com/blog/the-art-of-design-specing/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twiso for Video: Turn your web recordings into beautiful promo videos]]></title>
-        <id>https://www.designernews.co/stories/115848-twiso-for-video-turn-your-web-recordings-into-beautiful-promo-videos</id>
-        <link href="https://www.designernews.co/stories/115848-twiso-for-video-turn-your-web-recordings-into-beautiful-promo-videos"/>
-        <updated>2021-06-04T11:58:44.000Z</updated>
-        <summary type="html"><![CDATA[https://video.twiso.co/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -496,16 +506,6 @@ The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspi
         <summary type="html"><![CDATA[Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nwani Victory)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 Minutes Typing Test]]></title>
-        <id>https://www.designernews.co/stories/115846-9-minutes-typing-test</id>
-        <link href="https://www.designernews.co/stories/115846-9-minutes-typing-test"/>
-        <updated>2021-06-04T09:35:24.000Z</updated>
-        <summary type="html"><![CDATA[https://onlinetypingtests.com/9-minutes-typing-test]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
