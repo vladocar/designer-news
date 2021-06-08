@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-07T23:24:10.696Z</id>
+    <id>urn:2021-06-08T00:30:40.732Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T23:24:10.696Z</updated>
+    <updated>2021-06-08T00:30:40.732Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Laasy - A free landing page builder to collect emails easily]]></title>
+        <id>https://laasy.tech/</id>
+        <link href="http://www.webdesignernews.com/external/laasy-a-free-landing-page-builder-to-collect-emails-easily"/>
+        <updated>2021-06-07T23:25:00.000Z</updated>
+        <summary type="html"><![CDATA[https://laasy.tech/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An incomplete list of skills senior engineers need, beyond coding]]></title>
         <id>https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f</id>
@@ -342,16 +352,6 @@ The post 8 Free Illustrator Neon 80s Text Effect appeared first on Design Inspir
         <link href="http://www.webdesignernews.com/external/5-practices-to-keep-your-diy-wordpress-website-fast-and-secure"/>
         <updated>2021-06-06T08:10:30.000Z</updated>
         <summary type="html"><![CDATA[https://www.hongkiat.com/blog/keep-wordpress-fast-and-secure/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flag Maker]]></title>
-        <id>https://flag.rachel.systems/</id>
-        <link href="http://www.webdesignernews.com/external/flag-maker"/>
-        <updated>2021-06-06T08:10:20.000Z</updated>
-        <summary type="html"><![CDATA[https://flag.rachel.systems/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
