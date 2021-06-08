@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-08T22:00:52.244Z</id>
+    <id>urn:2021-06-08T23:02:18.693Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T22:00:52.244Z</updated>
+    <updated>2021-06-08T23:02:18.693Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uh oh, half the internet just went down]]></title>
+        <id>https://www.androidpolice.com/2021/06/08/uh-oh-half-the-internet-just-went-down/</id>
+        <link href="http://www.webdesignernews.com/external/uh-oh-half-the-internet-just-went-down"/>
+        <updated>2021-06-08T22:42:33.000Z</updated>
+        <summary type="html"><![CDATA[https://www.androidpolice.com/2021/06/08/uh-oh-half-the-internet-just-went-down/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to build your own meme generator with machine learning]]></title>
         <id>https://thenextweb.com/news/how-to-build-your-own-meme-generator-with-machine-learning</id>
@@ -396,16 +406,6 @@ Our motivation is to make everyone part of the product ideation process through 
         <summary type="html"><![CDATA[https://github.com/PlainAdmin/plain-free-bootstrap-admin-template]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build A Geocoding App In Vue.js Using Mapbox]]></title>
-        <id>https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-build-a-geocoding-app-in-vue-js-using-mapbox"/>
-        <updated>2021-06-07T13:37:14.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -856,16 +856,6 @@ The post 20 Best Japanese Style Fonts appeared first on Design Inspiration.]]></
         <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
-        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
-        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
-        <updated>2021-05-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
         </author>
     </entry>
 </feed>
