@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-08T16:15:19.216Z</id>
+    <id>urn:2021-06-08T17:43:07.135Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T16:15:19.216Z</updated>
+    <updated>2021-06-08T17:43:07.135Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[4 Testimonial Page Examples for UX/UI Design]]></title>
+        <id>https://www.uxpin.com/studio/blog/testimonial-page-examples/</id>
+        <link href="http://www.webdesignernews.com/external/4-testimonial-page-examples-for-ux-ui-design"/>
+        <updated>2021-06-08T16:51:01.000Z</updated>
+        <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/testimonial-page-examples/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A drogerie website redesign]]></title>
+        <id>https://www.designernews.co/stories/115937-a-drogerie-website-redesign</id>
+        <link href="https://www.designernews.co/stories/115937-a-drogerie-website-redesign"/>
+        <updated>2021-06-08T16:39:52.000Z</updated>
+        <summary type="html"><![CDATA[https://www.behance.net/gallery/120714471/Rossmann-Website-redesign]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google changes Core Web Vitals metrics]]></title>
         <id>https://searchengineland.com/google-changes-core-web-vitals-metrics-how-to-use-lab-and-field-data-for-optimization-349184</id>
@@ -477,26 +497,6 @@ The post 8 Free Illustrator Neon 80s Text Effect appeared first on Design Inspir
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/top-7-monitors-for-gammers-programmers.html]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best keyboards for programming in 2021]]></title>
-        <id>https://www.designernews.co/stories/115866-best-keyboards-for-programming-in-2021</id>
-        <link href="https://www.designernews.co/stories/115866-best-keyboards-for-programming-in-2021"/>
-        <updated>2021-06-07T04:24:45.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/best-keyboards-for-programming-in-2021.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devzat - Chat with other devs over SSH in your Terminal]]></title>
-        <id>https://github.com/quackduck/devzat</id>
-        <link href="http://www.webdesignernews.com/external/devzat-chat-with-other-devs-over-ssh-in-your-terminal"/>
-        <updated>2021-06-06T21:22:00.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/quackduck/devzat]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
