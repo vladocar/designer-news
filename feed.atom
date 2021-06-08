@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-08T12:00:57.344Z</id>
+    <id>urn:2021-06-08T13:23:16.401Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T12:00:57.344Z</updated>
+    <updated>2021-06-08T13:23:16.401Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I made a collaborative platform for product ideation and concept testing (visioneerhub.com)]]></title>
+        <id>https://www.designernews.co/stories/115930-i-made-a-collaborative-platform-for-product-ideation-and-concept-testing-visioneerhubcom</id>
+        <link href="https://www.designernews.co/stories/115930-i-made-a-collaborative-platform-for-product-ideation-and-concept-testing-visioneerhubcom"/>
+        <updated>2021-06-08T12:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Hey guys,
+
+I have launched a collaborative platform for product ideation and concept testing:
+
+[https://visioneerhub.com]
+(https://visioneerhub.com/)
+
+# The problem
+
+Nowadays products are pushed to customers rather than being requested by them. Users are being tracked, analyzed and categorized instead of being asked directly what they want. For businesses this means increased risk when launching a new product. Buyers are kept out of the decision making process and can only vote with their wallet. The end result often is unfulfilled needs, decreased user trust and lower brand loyalty.
+
+# What is VisioneerHub?
+
+Our motivation is to make everyone part of the product ideation process through a platform for seamless collaboration between product companies, freelance designers and c…]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crazy memes maker Pixiko: online, fast, split screen, animated. Easiest way to create meme!]]></title>
         <id>https://www.designernews.co/stories/115924-crazy-memes-maker-pixiko-online-fast-split-screen-animated-easiest-way-to-create-meme</id>
@@ -473,16 +496,6 @@ The post 24 Best Hipster Fonts for Cool Designs appeared first on Design Inspira
         <link href="https://www.designernews.co/stories/115860-php-interview-question"/>
         <updated>2021-06-05T11:59:44.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2014/06/interview-questions-for-php.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful tools, libraries and resources for developer to speed up the development]]></title>
-        <id>https://www.designernews.co/stories/115859-useful-tools-libraries-and-resources-for-developer-to-speed-up-the-development</id>
-        <link href="https://www.designernews.co/stories/115859-useful-tools-libraries-and-resources-for-developer-to-speed-up-the-development"/>
-        <updated>2021-06-05T11:55:35.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/useful-tools-libraries-and-resources.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
