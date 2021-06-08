@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-08T13:23:16.401Z</id>
+    <id>urn:2021-06-08T14:11:15.993Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T13:23:16.401Z</updated>
+    <updated>2021-06-08T14:11:15.993Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Case Study: Designing Film Moon – an international matchmaking platform for film makers and festivals]]></title>
+        <id>https://www.designernews.co/stories/115934-case-study-designing-film-moon--an-international-matchmaking-platform-for-film-makers-and-festivals</id>
+        <link href="https://www.designernews.co/stories/115934-case-study-designing-film-moon--an-international-matchmaking-platform-for-film-makers-and-festivals"/>
+        <updated>2021-06-08T13:47:18.000Z</updated>
+        <summary type="html"><![CDATA[https://www.behance.net/gallery/116498609/Film-Moon]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I made a collaborative platform for product ideation and concept testing (visioneerhub.com)]]></title>
         <id>https://www.designernews.co/stories/115930-i-made-a-collaborative-platform-for-product-ideation-and-concept-testing-visioneerhubcom</id>
@@ -94,6 +104,16 @@ Our motivation is to make everyone part of the product ideation process through 
         <link href="https://www.designernews.co/stories/115913-text--a-designer-tool"/>
         <updated>2021-06-08T06:51:27.000Z</updated>
         <summary type="html"><![CDATA[https://blog.plantapp.io/post/text-a-designer-tool]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User Experience Design Team]]></title>
+        <id>https://www.designernews.co/stories/115911-user-experience-design-team</id>
+        <link href="https://www.designernews.co/stories/115911-user-experience-design-team"/>
+        <updated>2021-06-08T06:17:19.000Z</updated>
+        <summary type="html"><![CDATA[https://www.uiux.studio/user-experience-design-firm.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -478,26 +498,6 @@ The post 8 Free Illustrator Neon 80s Text Effect appeared first on Design Inspir
 The post 24 Best Hipster Fonts for Cool Designs appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Star Rating Animation in Figma using Interactive Components with Source File]]></title>
-        <id>https://www.designernews.co/stories/115862-star-rating-animation-in-figma-using-interactive-components-with-source-file</id>
-        <link href="https://www.designernews.co/stories/115862-star-rating-animation-in-figma-using-interactive-components-with-source-file"/>
-        <updated>2021-06-05T20:02:32.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=HqEQSMzV9tw]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[php interview question]]></title>
-        <id>https://www.designernews.co/stories/115860-php-interview-question</id>
-        <link href="https://www.designernews.co/stories/115860-php-interview-question"/>
-        <updated>2021-06-05T11:59:44.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2014/06/interview-questions-for-php.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
