@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-08T04:35:45.958Z</id>
+    <id>urn:2021-06-08T05:43:52.803Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T04:35:45.958Z</updated>
+    <updated>2021-06-08T05:43:52.803Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[7 Best Array Methods In JavaScript 2021]]></title>
+        <id>https://www.designernews.co/stories/115909-7-best-array-methods-in-javascript-2021</id>
+        <link href="https://www.designernews.co/stories/115909-7-best-array-methods-in-javascript-2021"/>
+        <updated>2021-06-08T04:50:51.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/7-best-array-methods-in-javascript-2021.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful Tips & Tricks In JavaScript]]></title>
+        <id>https://www.designernews.co/stories/115908-useful-tips--tricks-in-javascript</id>
+        <link href="https://www.designernews.co/stories/115908-useful-tips--tricks-in-javascript"/>
+        <updated>2021-06-08T04:50:15.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/useful-tips-in-javascript.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Laasy - A free landing page builder to collect emails easily]]></title>
         <id>https://laasy.tech/</id>
@@ -484,26 +504,6 @@ The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspi
         <link href="https://www.designernews.co/stories/115845-case-study-redesigning-professionhu--the-most-visited-hr-portal-of-hungary"/>
         <updated>2021-06-04T09:02:50.000Z</updated>
         <summary type="html"><![CDATA[https://www.behance.net/gallery/116091757/Profession]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Number One Design Tip to Improve your UI]]></title>
-        <id>https://www.designernews.co/stories/115835-the-number-one-design-tip-to-improve-your-ui</id>
-        <link href="https://www.designernews.co/stories/115835-the-number-one-design-tip-to-improve-your-ui"/>
-        <updated>2021-06-03T19:50:17.000Z</updated>
-        <summary type="html"><![CDATA[https://deesignre.com/the-number-one-design-tip-to-improve-your-ui/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Design Foundations Course - Uxcel & Spline]]></title>
-        <id>https://www.designernews.co/stories/115829-3d-design-foundations-course--uxcel--spline</id>
-        <link href="https://www.designernews.co/stories/115829-3d-design-foundations-course--uxcel--spline"/>
-        <updated>2021-06-03T14:33:43.000Z</updated>
-        <summary type="html"><![CDATA[https://app.uxcel.com/learn/3d-design-foundations]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
