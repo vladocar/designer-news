@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T03:27:30.794Z</id>
+    <id>urn:2021-06-09T04:24:01.711Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T03:27:30.794Z</updated>
+    <updated>2021-06-09T04:24:01.711Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create an App Like YouTube?]]></title>
+        <id>https://www.designernews.co/stories/115942-how-to-create-an-app-like-youtube</id>
+        <link href="https://www.designernews.co/stories/115942-how-to-create-an-app-like-youtube"/>
+        <updated>2021-06-09T04:13:30.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/how-to-create-a-video-sharing-app-like-youtube/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[27 Best Nostalgia Retro 80s Fonts]]></title>
         <id>https://www.designinspiration.info/?p=2946</id>
@@ -476,16 +486,6 @@ The post 8 Free Illustrator Neon 80s Text Effect appeared first on Design Inspir
         <link href="https://www.designernews.co/stories/115873-12-modern-css-techniques-for-older-css-problems"/>
         <updated>2021-06-07T07:31:23.000Z</updated>
         <summary type="html"><![CDATA[https://www.lambdatest.com/blog/modern-css-techniques-for-older-css-problems/?utm_source=designernews&utm_medium=blog&utm_campaign=PM-07June21&utm_term=organicPosting]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the role of binary thinking in Western typography?]]></title>
-        <id>https://www.designernews.co/stories/115872-what-is-the-role-of-binary-thinking-in-western-typography</id>
-        <link href="https://www.designernews.co/stories/115872-what-is-the-role-of-binary-thinking-in-western-typography"/>
-        <updated>2021-06-07T07:31:06.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/ellen-lupton-extra-bold-opinion-graphic-design-040621]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
