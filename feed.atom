@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T15:00:56.174Z</id>
+    <id>urn:2021-06-09T16:11:36.823Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T15:00:56.174Z</updated>
+    <updated>2021-06-09T16:11:36.823Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fixing contrast issues, on your own site and elsewhere]]></title>
+        <id>https://www.a11yproject.com/posts/2021-06-07-fixing-contrast-issues-on-your-own-site-and-elsewhere/</id>
+        <link href="http://www.webdesignernews.com/external/fixing-contrast-issues-on-your-own-site-and-elsewhere"/>
+        <updated>2021-06-09T16:09:36.000Z</updated>
+        <summary type="html"><![CDATA[https://www.a11yproject.com/posts/2021-06-07-fixing-contrast-issues-on-your-own-site-and-elsewhere/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The biggest rebrands of the decade have this visionary designer in common]]></title>
+        <id>https://www.fastcompany.com/90644265/the-biggest-rebrands-of-the-decade-have-this-visionary-designer-in-common</id>
+        <link href="http://www.webdesignernews.com/external/the-biggest-rebrands-of-the-decade-have-this-visionary-designer-in-common"/>
+        <updated>2021-06-09T16:08:32.000Z</updated>
+        <summary type="html"><![CDATA[https://www.fastcompany.com/90644265/the-biggest-rebrands-of-the-decade-have-this-visionary-designer-in-common]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking of going freelance? Here are 6 pieces of advice from a pro]]></title>
+        <id>https://dribbble.com/stories/2021/06/09/freelancing-advice-james-round</id>
+        <link href="http://www.webdesignernews.com/external/thinking-of-going-freelance-here-are-6-pieces-of-advice-from-a-pro"/>
+        <updated>2021-06-09T16:08:30.000Z</updated>
+        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/09/freelancing-advice-james-round]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vivaldi is launching an email client, a feed reader, and a translation tool]]></title>
+        <id>https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed</id>
+        <link href="http://www.webdesignernews.com/external/vivaldi-is-launching-an-email-client-a-feed-reader-and-a-translation-tool"/>
+        <updated>2021-06-09T16:08:16.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram finally reveals the secret of its mysterious algorithm]]></title>
+        <id>https://www.creativebloq.com/news/instagram-reveals-algorithm-secrets</id>
+        <link href="http://www.webdesignernews.com/external/instagram-finally-reveals-the-secret-of-its-mysterious-algorithm"/>
+        <updated>2021-06-09T16:08:11.000Z</updated>
+        <summary type="html"><![CDATA[https://www.creativebloq.com/news/instagram-reveals-algorithm-secrets]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 Amazing Design-Resource Package Sites]]></title>
+        <id>https://www.webdesignerdepot.com/2021/06/9-amazing-design-resource-package-sites/</id>
+        <link href="http://www.webdesignernews.com/external/9-amazing-design-resource-package-sites"/>
+        <updated>2021-06-09T16:08:09.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/9-amazing-design-resource-package-sites/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to wrap design in a transparent and systematic process]]></title>
         <id>https://www.designernews.co/stories/115953-how-to-wrap-design-in-a-transparent-and-systematic-process</id>
@@ -380,36 +440,6 @@ Our motivation is to make everyone part of the product ideation process through 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ToolJet - Open-source alternative for Retool]]></title>
-        <id>https://tooljet.io/</id>
-        <link href="http://www.webdesignernews.com/external/tooljet-open-source-alternative-for-retool"/>
-        <updated>2021-06-07T21:38:00.000Z</updated>
-        <summary type="html"><![CDATA[https://tooljet.io/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The SaaS CTO Security Checklist Redux]]></title>
-        <id>https://www.goldfiglabs.com/guide/saas-cto-security-checklist/</id>
-        <link href="http://www.webdesignernews.com/external/the-saas-cto-security-checklist-redux"/>
-        <updated>2021-06-07T20:36:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.goldfiglabs.com/guide/saas-cto-security-checklist/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to brand fintech in the volatile Gamestop era]]></title>
-        <id>https://www.fastcompany.com/90643799/come-for-the-gamestop-hype-stay-for-the-analysis-inside-the-brand-strategy-of-a-hot-new-fintech-startup</id>
-        <link href="http://www.webdesignernews.com/external/how-to-brand-fintech-in-the-volatile-gamestop-era"/>
-        <updated>2021-06-07T17:19:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.fastcompany.com/90643799/come-for-the-gamestop-hype-stay-for-the-analysis-inside-the-brand-strategy-of-a-hot-new-fintech-startup]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Color Contrast Ratio Explained | Why is it important & how is it calculated?]]></title>
         <id>https://www.designernews.co/stories/115900-color-contrast-ratio-explained--why-is-it-important--how-is-it-calculated</id>
         <link href="https://www.designernews.co/stories/115900-color-contrast-ratio-explained--why-is-it-important--how-is-it-calculated"/>
@@ -417,26 +447,6 @@ Our motivation is to make everyone part of the product ideation process through 
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=-chsX0O76aY]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PATTTTERNS - An open catalog of design patterns]]></title>
-        <id>https://patttterns.com/</id>
-        <link href="http://www.webdesignernews.com/external/patttterns-an-open-catalog-of-design-patterns"/>
-        <updated>2021-06-07T16:27:00.000Z</updated>
-        <summary type="html"><![CDATA[https://patttterns.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blitz: A Fullstack React Framework, Built on Next.js]]></title>
-        <id>https://github.com/blitz-js/blitz</id>
-        <link href="http://www.webdesignernews.com/external/blitz-a-fullstack-react-framework-built-on-next-js"/>
-        <updated>2021-06-07T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/blitz-js/blitz]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -467,16 +477,6 @@ Our motivation is to make everyone part of the product ideation process through 
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=BI3wWh4qVZc]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don?t use custom CSS mouse cursors]]></title>
-        <id>https://ericwbailey.design/writing/dont-use-custom-css-mouse-cursors/</id>
-        <link href="http://www.webdesignernews.com/external/don-t-use-custom-css-mouse-cursors"/>
-        <updated>2021-06-07T14:12:00.000Z</updated>
-        <summary type="html"><![CDATA[https://ericwbailey.design/writing/dont-use-custom-css-mouse-cursors/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
