@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T17:33:42.342Z</id>
+    <id>urn:2021-06-09T18:22:47.168Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T17:33:42.342Z</updated>
+    <updated>2021-06-09T18:22:47.168Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The web we choose to build]]></title>
+        <id>https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b</id>
+        <link href="http://www.webdesignernews.com/external/the-web-we-choose-to-build"/>
+        <updated>2021-06-09T17:42:00.000Z</updated>
+        <summary type="html"><![CDATA[https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Plott.so - Very minimal inline editor + page builder (made in 1 day to practice #nocode)]]></title>
         <id>https://www.designernews.co/stories/115959-plottso--very-minimal-inline-editor--page-builder-made-in-1-day-to-practice-nocode</id>
@@ -282,16 +292,6 @@ The post 27 Best Nostalgia Retro 80s Fonts appeared first on Design Inspiration.
         <link href="http://www.webdesignernews.com/external/how-to-build-better-digital-experiences-with-ux-writing-principles"/>
         <updated>2021-06-08T16:00:38.000Z</updated>
         <summary type="html"><![CDATA[https://medium.com/sainsburys-digital-experience/how-to-build-better-digital-experiences-with-ux-writing-principles-3c65fcdbcef8]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A/B Testing The Words In Your Product]]></title>
-        <id>https://usabilitygeek.com/a-b-testing-the-words-in-your-product/</id>
-        <link href="http://www.webdesignernews.com/external/a-b-testing-the-words-in-your-product"/>
-        <updated>2021-06-08T15:27:00.000Z</updated>
-        <summary type="html"><![CDATA[https://usabilitygeek.com/a-b-testing-the-words-in-your-product/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
