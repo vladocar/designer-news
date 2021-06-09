@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T20:00:40.799Z</id>
+    <id>urn:2021-06-09T21:00:50.410Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T20:00:40.799Z</updated>
+    <updated>2021-06-09T21:00:50.410Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kraken and Bitfinex are reportedly exploring ways to enter India]]></title>
+        <id>https://thenextweb.com/news/kraken-bitfinex-kucoin-india-crypto-report</id>
+        <link href="http://www.webdesignernews.com/external/kraken-and-bitfinex-are-reportedly-exploring-ways-to-enter-india"/>
+        <updated>2021-06-09T20:53:36.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/kraken-bitfinex-kucoin-india-crypto-report]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Art of Design Spec?ing]]></title>
         <id>https://mahdif.com/blog/the-art-of-design-specing/</id>
@@ -282,16 +292,6 @@ The post 27 Best Nostalgia Retro 80s Fonts appeared first on Design Inspiration.
         <link href="http://www.webdesignernews.com/external/all-you-need-is-5-fonts"/>
         <updated>2021-06-08T16:01:04.000Z</updated>
         <summary type="html"><![CDATA[https://betterwebtype.com/articles/2021/06/07/all-you-need-is-5-fonts/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Essential Design Trends, June 2021]]></title>
-        <id>https://www.webdesignerdepot.com/2021/06/3-essential-design-trends-june-2021/</id>
-        <link href="http://www.webdesignernews.com/external/3-essential-design-trends-june-2021"/>
-        <updated>2021-06-08T16:00:51.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/3-essential-design-trends-june-2021/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
