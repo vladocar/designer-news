@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T12:00:59.470Z</id>
+    <id>urn:2021-06-09T13:20:36.364Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T12:00:59.470Z</updated>
+    <updated>2021-06-09T13:20:36.364Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to wrap design in a transparent and systematic process]]></title>
+        <id>https://www.designernews.co/stories/115953-how-to-wrap-design-in-a-transparent-and-systematic-process</id>
+        <link href="https://www.designernews.co/stories/115953-how-to-wrap-design-in-a-transparent-and-systematic-process"/>
+        <updated>2021-06-09T12:35:40.000Z</updated>
+        <summary type="html"><![CDATA[https://d.mba/stories/how-fabrizio-used-hypothesis-driven-design-to-double-subscribers]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet <code>:has</code>, A Native CSS Parent Selector (And More)]]></title>
         <id>https://smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
@@ -508,16 +518,6 @@ Our motivation is to make everyone part of the product ideation process through 
 The post 8 Free Illustrator Neon 80s Text Effect appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 Modern CSS Techniques For Older CSS Problems]]></title>
-        <id>https://www.designernews.co/stories/115873-12-modern-css-techniques-for-older-css-problems</id>
-        <link href="https://www.designernews.co/stories/115873-12-modern-css-techniques-for-older-css-problems"/>
-        <updated>2021-06-07T07:31:23.000Z</updated>
-        <summary type="html"><![CDATA[https://www.lambdatest.com/blog/modern-css-techniques-for-older-css-problems/?utm_source=designernews&utm_medium=blog&utm_campaign=PM-07June21&utm_term=organicPosting]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
