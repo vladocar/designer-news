@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T04:24:01.711Z</id>
+    <id>urn:2021-06-09T05:28:36.805Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T04:24:01.711Z</updated>
+    <updated>2021-06-09T05:28:36.805Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hire Mobile App Developers]]></title>
+        <id>https://www.designernews.co/stories/115943-hire-mobile-app-developers</id>
+        <link href="https://www.designernews.co/stories/115943-hire-mobile-app-developers"/>
+        <updated>2021-06-09T04:39:39.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/hire-dedicated-mobile-app-developers/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create an App Like YouTube?]]></title>
         <id>https://www.designernews.co/stories/115942-how-to-create-an-app-like-youtube</id>
@@ -496,16 +506,6 @@ The post 8 Free Illustrator Neon 80s Text Effect appeared first on Design Inspir
         <link href="https://www.designernews.co/stories/115871-aws-vs-azure-vs-google-cloud-which-cloud-services-is-better-for-enterprises"/>
         <updated>2021-06-07T07:28:17.000Z</updated>
         <summary type="html"><![CDATA[https://www.zenesys.com/blog/aws-vs-azure-vs-google-cloud-which-cloud-services-is-better-for-enterprises]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOP 7 Monitors For Gammers / Programmers / Coders]]></title>
-        <id>https://www.designernews.co/stories/115867-top-7-monitors-for-gammers--programmers--coders</id>
-        <link href="https://www.designernews.co/stories/115867-top-7-monitors-for-gammers--programmers--coders"/>
-        <updated>2021-06-07T04:27:07.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/top-7-monitors-for-gammers-programmers.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
