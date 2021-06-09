@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T10:01:07.217Z</id>
+    <id>urn:2021-06-09T11:02:15.572Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T10:01:07.217Z</updated>
+    <updated>2021-06-09T11:02:15.572Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[7 Best Webcams For Programmers, Coders, Developers, zoom meetings, teaching online classes]]></title>
+        <id>https://www.designernews.co/stories/115951-7-best-webcams-for-programmers-coders-developers-zoom-meetings-teaching-online-classes</id>
+        <link href="https://www.designernews.co/stories/115951-7-best-webcams-for-programmers-coders-developers-zoom-meetings-teaching-online-classes"/>
+        <updated>2021-06-09T10:21:06.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/7-best-webcams-for-programmers-coders.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Git Commands with Examples]]></title>
         <id>https://www.designernews.co/stories/115948-top-git-commands-with-examples</id>
@@ -217,6 +227,16 @@ Our motivation is to make everyone part of the product ideation process through 
         <summary type="html"><![CDATA[It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Most User-Friendly Bed and Breakfast WordPress Themes]]></title>
+        <id>https://www.designernews.co/stories/115925-5-most-userfriendly-bed-and-breakfast-wordpress-themes</id>
+        <link href="https://www.designernews.co/stories/115925-5-most-userfriendly-bed-and-breakfast-wordpress-themes"/>
+        <updated>2021-06-08T11:16:40.000Z</updated>
+        <summary type="html"><![CDATA[https://wpklik.com/wordpress-themes/bed-and-breakfast-wordpress-themes/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -481,31 +501,11 @@ The post 8 Free Illustrator Neon 80s Text Effect appeared first on Design Inspir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What do think is the best way for someone to learn Design?]]></title>
-        <id>https://www.designernews.co/stories/115877-what-do-think-is-the-best-way-for-someone-to-learn-design</id>
-        <link href="https://www.designernews.co/stories/115877-what-do-think-is-the-best-way-for-someone-to-learn-design"/>
-        <updated>2021-06-07T09:56:44.000Z</updated>
-        <summary type="html"><![CDATA[What methods or approaches can one take to learn design and how to design? Aspects that include - collaborating, UI, UX, etc.]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[12 Modern CSS Techniques For Older CSS Problems]]></title>
         <id>https://www.designernews.co/stories/115873-12-modern-css-techniques-for-older-css-problems</id>
         <link href="https://www.designernews.co/stories/115873-12-modern-css-techniques-for-older-css-problems"/>
         <updated>2021-06-07T07:31:23.000Z</updated>
         <summary type="html"><![CDATA[https://www.lambdatest.com/blog/modern-css-techniques-for-older-css-problems/?utm_source=designernews&utm_medium=blog&utm_campaign=PM-07June21&utm_term=organicPosting]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS vs Azure vs Google Cloud: Which Cloud Services is better for Enterprises?]]></title>
-        <id>https://www.designernews.co/stories/115871-aws-vs-azure-vs-google-cloud-which-cloud-services-is-better-for-enterprises</id>
-        <link href="https://www.designernews.co/stories/115871-aws-vs-azure-vs-google-cloud-which-cloud-services-is-better-for-enterprises"/>
-        <updated>2021-06-07T07:28:17.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/aws-vs-azure-vs-google-cloud-which-cloud-services-is-better-for-enterprises]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
