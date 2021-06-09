@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T21:00:50.410Z</id>
+    <id>urn:2021-06-09T22:00:43.662Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T21:00:50.410Z</updated>
+    <updated>2021-06-09T22:00:43.662Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[One Fastly customer triggered internet meltdown]]></title>
+        <id>https://www.bbc.co.uk/news/technology-57413224</id>
+        <link href="http://www.webdesignernews.com/external/one-fastly-customer-triggered-internet-meltdown"/>
+        <updated>2021-06-09T21:33:58.000Z</updated>
+        <summary type="html"><![CDATA[https://www.bbc.co.uk/news/technology-57413224]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kraken and Bitfinex are reportedly exploring ways to enter India]]></title>
         <id>https://thenextweb.com/news/kraken-bitfinex-kucoin-india-crypto-report</id>
@@ -282,16 +292,6 @@ The post 27 Best Nostalgia Retro 80s Fonts appeared first on Design Inspiration.
         <link href="http://www.webdesignernews.com/external/i-moved-my-workspace-to-vr-here-s-what-i-learnt"/>
         <updated>2021-06-08T16:01:07.000Z</updated>
         <summary type="html"><![CDATA[https://blog.borodutch.com/i-moved-my-workspace-to-vr-heres-what-i-learnt/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All you need is 5 fonts]]></title>
-        <id>https://betterwebtype.com/articles/2021/06/07/all-you-need-is-5-fonts/</id>
-        <link href="http://www.webdesignernews.com/external/all-you-need-is-5-fonts"/>
-        <updated>2021-06-08T16:01:04.000Z</updated>
-        <summary type="html"><![CDATA[https://betterwebtype.com/articles/2021/06/07/all-you-need-is-5-fonts/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
@@ -856,16 +856,6 @@ The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design I
         <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
-        <updated>2021-05-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
         </author>
     </entry>
 </feed>
