@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T08:00:51.652Z</id>
+    <id>urn:2021-06-09T09:00:48.766Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T08:00:51.652Z</updated>
+    <updated>2021-06-09T09:00:48.766Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top Git Commands with Examples]]></title>
+        <id>https://www.designernews.co/stories/115948-top-git-commands-with-examples</id>
+        <link href="https://www.designernews.co/stories/115948-top-git-commands-with-examples"/>
+        <updated>2021-06-09T07:59:12.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/blog/top-git-commands-with-examples]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hire Mobile App Developers]]></title>
         <id>https://www.designernews.co/stories/115943-hire-mobile-app-developers</id>
@@ -457,16 +467,6 @@ Our motivation is to make everyone part of the product ideation process through 
         <summary type="html"><![CDATA[In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Prince Chukwudire)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Illustrator Neon 80s Text Effect]]></title>
-        <id>https://www.designernews.co/stories/115878-free-illustrator-neon-80s-text-effect</id>
-        <link href="https://www.designernews.co/stories/115878-free-illustrator-neon-80s-text-effect"/>
-        <updated>2021-06-07T10:27:55.000Z</updated>
-        <summary type="html"><![CDATA[https://www.designinspiration.info/free-illustrator-neon-80s-text-styles/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
