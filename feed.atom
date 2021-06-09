@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T11:02:15.572Z</id>
+    <id>urn:2021-06-09T12:00:59.470Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T11:02:15.572Z</updated>
+    <updated>2021-06-09T12:00:59.470Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Meet <code>:has</code>, A Native CSS Parent Selector (And More)]]></title>
+        <id>https://smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
+        <link href="https://smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
+        <updated>2021-06-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Best Webcams For Programmers, Coders, Developers, zoom meetings, teaching online classes]]></title>
         <id>https://www.designernews.co/stories/115951-7-best-webcams-for-programmers-coders-developers-zoom-meetings-teaching-online-classes</id>
