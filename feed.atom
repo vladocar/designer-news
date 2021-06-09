@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T16:11:36.823Z</id>
+    <id>urn:2021-06-09T17:33:42.342Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T16:11:36.823Z</updated>
+    <updated>2021-06-09T17:33:42.342Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Plott.so - Very minimal inline editor + page builder (made in 1 day to practice #nocode)]]></title>
+        <id>https://www.designernews.co/stories/115959-plottso--very-minimal-inline-editor--page-builder-made-in-1-day-to-practice-nocode</id>
+        <link href="https://www.designernews.co/stories/115959-plottso--very-minimal-inline-editor--page-builder-made-in-1-day-to-practice-nocode"/>
+        <updated>2021-06-09T16:31:34.000Z</updated>
+        <summary type="html"><![CDATA[https://plott.so]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fixing contrast issues, on your own site and elsewhere]]></title>
         <id>https://www.a11yproject.com/posts/2021-06-07-fixing-contrast-issues-on-your-own-site-and-elsewhere/</id>
@@ -66,6 +76,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Looking at WCAG 2.5.5 for Better Target Sizes]]></title>
+        <id>https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/</id>
+        <link href="http://www.webdesignernews.com/external/looking-at-wcag-2-5-5-for-better-target-sizes"/>
+        <updated>2021-06-09T15:59:00.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Documenting the almighty button]]></title>
+        <id>https://uxdesign.cc/documenting-the-almighty-button-bb37cebb4647</id>
+        <link href="http://www.webdesignernews.com/external/documenting-the-almighty-button"/>
+        <updated>2021-06-09T13:48:00.000Z</updated>
+        <summary type="html"><![CDATA[https://uxdesign.cc/documenting-the-almighty-button-bb37cebb4647]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to wrap design in a transparent and systematic process]]></title>
         <id>https://www.designernews.co/stories/115953-how-to-wrap-design-in-a-transparent-and-systematic-process</id>
         <link href="https://www.designernews.co/stories/115953-how-to-wrap-design-in-a-transparent-and-systematic-process"/>
@@ -73,6 +103,16 @@
         <summary type="html"><![CDATA[https://d.mba/stories/how-fabrizio-used-hypothesis-driven-design-to-double-subscribers]]></summary>
         <author>
             <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Beautiful Glassmorphism Examples]]></title>
+        <id>https://1stwebdesigner.com/10-beautiful-glassmorphism-examples/</id>
+        <link href="http://www.webdesignernews.com/external/10-beautiful-glassmorphism-examples"/>
+        <updated>2021-06-09T11:07:00.000Z</updated>
+        <summary type="html"><![CDATA[https://1stwebdesigner.com/10-beautiful-glassmorphism-examples/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -290,16 +330,6 @@ Our motivation is to make everyone part of the product ideation process through 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Text ? a designer tool]]></title>
-        <id>https://blog.plantapp.io/post/text-a-designer-tool</id>
-        <link href="http://www.webdesignernews.com/external/text-a-designer-tool"/>
-        <updated>2021-06-08T12:14:00.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.plantapp.io/post/text-a-designer-tool]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[From AVIF to WebP: A New Smashing Book By Addy Osmani]]></title>
         <id>https://smashingmagazine.com/2021/06/image-optimization-book-release/</id>
         <link href="https://smashingmagazine.com/2021/06/image-optimization-book-release/"/>
@@ -420,26 +450,6 @@ Our motivation is to make everyone part of the product ideation process through 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Laasy - A free landing page builder to collect emails easily]]></title>
-        <id>https://laasy.tech/</id>
-        <link href="http://www.webdesignernews.com/external/laasy-a-free-landing-page-builder-to-collect-emails-easily"/>
-        <updated>2021-06-07T23:25:00.000Z</updated>
-        <summary type="html"><![CDATA[https://laasy.tech/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An incomplete list of skills senior engineers need, beyond coding]]></title>
-        <id>https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f</id>
-        <link href="http://www.webdesignernews.com/external/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding"/>
-        <updated>2021-06-07T22:27:00.000Z</updated>
-        <summary type="html"><![CDATA[https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Color Contrast Ratio Explained | Why is it important & how is it calculated?]]></title>
         <id>https://www.designernews.co/stories/115900-color-contrast-ratio-explained--why-is-it-important--how-is-it-calculated</id>
         <link href="https://www.designernews.co/stories/115900-color-contrast-ratio-explained--why-is-it-important--how-is-it-calculated"/>
@@ -485,16 +495,6 @@ Our motivation is to make everyone part of the product ideation process through 
         <link href="https://www.designernews.co/stories/115893-plainadmin--free-vanilla-js-bootstrap-5-admin-template"/>
         <updated>2021-06-07T14:06:00.000Z</updated>
         <summary type="html"><![CDATA[https://github.com/PlainAdmin/plain-free-bootstrap-admin-template]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy Design Sprint (open source)]]></title>
-        <id>https://www.designernews.co/stories/115887-strategy-design-sprint-open-source</id>
-        <link href="https://www.designernews.co/stories/115887-strategy-design-sprint-open-source"/>
-        <updated>2021-06-07T13:10:48.000Z</updated>
-        <summary type="html"><![CDATA[https://d.mba/guides/strategy-design-sprint]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
