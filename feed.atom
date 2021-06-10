@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-10T15:00:52.720Z</id>
+    <id>urn:2021-06-10T16:11:18.906Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T15:00:52.720Z</updated>
+    <updated>2021-06-10T16:11:18.906Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Useful Front-End Boilerplates And Starter Kits]]></title>
+        <id>https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/</id>
+        <link href="https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/"/>
+        <updated>2021-06-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Fastly outage can teach us about writing error messages]]></title>
+        <id>https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages</id>
+        <link href="http://www.webdesignernews.com/external/what-the-fastly-outage-can-teach-us-about-writing-error-messages"/>
+        <updated>2021-06-10T14:56:00.000Z</updated>
+        <summary type="html"><![CDATA[https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Business of Design by Keith Granet]]></title>
         <id>https://www.designernews.co/stories/115996-the-business-of-design-by-keith-granet</id>
@@ -384,16 +404,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <summary type="html"><![CDATA[https://www.linkedin.com/feed/update/urn:li:activity:6808392899617665024]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Documenting the almighty button]]></title>
-        <id>https://uxdesign.cc/documenting-the-almighty-button-bb37cebb4647</id>
-        <link href="http://www.webdesignernews.com/external/documenting-the-almighty-button"/>
-        <updated>2021-06-09T13:48:00.000Z</updated>
-        <summary type="html"><![CDATA[https://uxdesign.cc/documenting-the-almighty-button-bb37cebb4647]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
