@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-10T07:13:51.958Z</id>
+    <id>urn:2021-06-10T08:00:58.566Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T07:13:51.958Z</updated>
+    <updated>2021-06-10T08:00:58.566Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -173,6 +173,16 @@
         <summary type="html"><![CDATA[https://uxdesign.cc/documenting-the-almighty-button-bb37cebb4647]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Best Cloud WordPress Themes for Professional Impression]]></title>
+        <id>https://www.designernews.co/stories/115954-5-best-cloud-wordpress-themes-for-professional-impression</id>
+        <link href="https://www.designernews.co/stories/115954-5-best-cloud-wordpress-themes-for-professional-impression"/>
+        <updated>2021-06-09T12:45:28.000Z</updated>
+        <summary type="html"><![CDATA[https://wpklik.com/wordpress-themes/cloud-wordpress-themes/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -475,16 +485,6 @@ Our motivation is to make everyone part of the product ideation process through 
         <link href="https://www.designernews.co/stories/115897-glassmorphism-ui"/>
         <updated>2021-06-07T14:50:34.000Z</updated>
         <summary type="html"><![CDATA[https://ui.glass/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Examples of Innovative Contact Form Design]]></title>
-        <id>https://www.designernews.co/stories/115896-10-examples-of-innovative-contact-form-design</id>
-        <link href="https://www.designernews.co/stories/115896-10-examples-of-innovative-contact-form-design"/>
-        <updated>2021-06-07T14:26:54.000Z</updated>
-        <summary type="html"><![CDATA[https://qodeinteractive.com/magazine/innovative-contact-form-design/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
