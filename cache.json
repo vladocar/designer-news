@@ -725,20 +725,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.",
-          "link": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
-          "publishedOn": "2021-05-12T08:00:00.000Z",
-          "wordCount": 1993,
-          "title": "Little Smashing Stories",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b820c735-621c-4e60-8a3f-accb3f66d312/smashing-newsletter-banner.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -861,7 +847,7 @@
           "description": "https://www.bbc.co.uk/news/technology-57413224",
           "link": "http://www.webdesignernews.com/external/one-fastly-customer-triggered-internet-meltdown",
           "publishedOn": "2021-06-09T21:33:58.000Z",
-          "wordCount": 779,
+          "wordCount": 781,
           "title": "One Fastly customer triggered internet meltdown"
         },
         {
@@ -870,7 +856,7 @@
           "description": "https://thenextweb.com/news/kraken-bitfinex-kucoin-india-crypto-report",
           "link": "http://www.webdesignernews.com/external/kraken-and-bitfinex-are-reportedly-exploring-ways-to-enter-india",
           "publishedOn": "2021-06-09T20:53:36.000Z",
-          "wordCount": 540,
+          "wordCount": 544,
           "title": "Kraken and Bitfinex are reportedly exploring ways to enter India"
         },
         {
@@ -924,7 +910,7 @@
           "description": "https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed",
           "link": "http://www.webdesignernews.com/external/vivaldi-is-launching-an-email-client-a-feed-reader-and-a-translation-tool",
           "publishedOn": "2021-06-09T16:08:16.000Z",
-          "wordCount": 846,
+          "wordCount": 842,
           "title": "Vivaldi is launching an email client, a feed reader, and a translation tool"
         }
       ]
