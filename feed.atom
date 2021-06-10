@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-10T08:00:58.566Z</id>
+    <id>urn:2021-06-10T09:00:45.080Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T08:00:58.566Z</updated>
+    <updated>2021-06-10T09:00:45.080Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create your own 3D mobile mockups presentation using Spline Design!]]></title>
+        <id>https://www.designernews.co/stories/115972-create-your-own-3d-mobile-mockups-presentation-using-spline-design</id>
+        <link href="https://www.designernews.co/stories/115972-create-your-own-3d-mobile-mockups-presentation-using-spline-design"/>
+        <updated>2021-06-10T08:03:03.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=3-EmhcuU-eI]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Best Camping WordPress Themes for New Adventure]]></title>
+        <id>https://www.designernews.co/stories/115971-5-best-camping-wordpress-themes-for-new-adventure</id>
+        <link href="https://www.designernews.co/stories/115971-5-best-camping-wordpress-themes-for-new-adventure"/>
+        <updated>2021-06-10T07:56:51.000Z</updated>
+        <summary type="html"><![CDATA[https://wpklik.com/wordpress-themes/camping-wordpress-themes/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visual design principles in UX]]></title>
         <id>https://www.designernews.co/stories/115969-visual-design-principles-in-ux</id>
@@ -465,26 +485,6 @@ Our motivation is to make everyone part of the product ideation process through 
         <link href="https://www.designernews.co/stories/115908-useful-tips--tricks-in-javascript"/>
         <updated>2021-06-08T04:50:15.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/useful-tips-in-javascript.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Contrast Ratio Explained | Why is it important & how is it calculated?]]></title>
-        <id>https://www.designernews.co/stories/115900-color-contrast-ratio-explained--why-is-it-important--how-is-it-calculated</id>
-        <link href="https://www.designernews.co/stories/115900-color-contrast-ratio-explained--why-is-it-important--how-is-it-calculated"/>
-        <updated>2021-06-07T16:29:21.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=-chsX0O76aY]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glassmorphism UI]]></title>
-        <id>https://www.designernews.co/stories/115897-glassmorphism-ui</id>
-        <link href="https://www.designernews.co/stories/115897-glassmorphism-ui"/>
-        <updated>2021-06-07T14:50:34.000Z</updated>
-        <summary type="html"><![CDATA[https://ui.glass/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
