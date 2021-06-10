@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-10T21:00:42.768Z</id>
+    <id>urn:2021-06-10T22:00:42.030Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T21:00:42.768Z</updated>
+    <updated>2021-06-10T22:00:42.030Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[You use more open source software than you think]]></title>
+        <id>https://github.com/readme/unseen-oss</id>
+        <link href="http://www.webdesignernews.com/external/you-use-more-open-source-software-than-you-think"/>
+        <updated>2021-06-10T21:27:00.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/readme/unseen-oss]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Typomotion - Just add text and get kinetic typography video in minutes]]></title>
         <id>https://tyle.io/typomotion/landing</id>
@@ -382,16 +392,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <link href="http://www.webdesignernews.com/external/the-biggest-rebrands-of-the-decade-have-this-visionary-designer-in-common"/>
         <updated>2021-06-09T16:08:32.000Z</updated>
         <summary type="html"><![CDATA[https://www.fastcompany.com/90644265/the-biggest-rebrands-of-the-decade-have-this-visionary-designer-in-common]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinking of going freelance? Here are 6 pieces of advice from a pro]]></title>
-        <id>https://dribbble.com/stories/2021/06/09/freelancing-advice-james-round</id>
-        <link href="http://www.webdesignernews.com/external/thinking-of-going-freelance-here-are-6-pieces-of-advice-from-a-pro"/>
-        <updated>2021-06-09T16:08:30.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/09/freelancing-advice-james-round]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
