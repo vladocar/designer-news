@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-10T20:00:33.509Z</id>
+    <id>urn:2021-06-10T21:00:42.768Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T20:00:33.509Z</updated>
+    <updated>2021-06-10T21:00:42.768Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Typomotion - Just add text and get kinetic typography video in minutes]]></title>
+        <id>https://tyle.io/typomotion/landing</id>
+        <link href="http://www.webdesignernews.com/external/typomotion-just-add-text-and-get-kinetic-typography-video-in-minutes"/>
+        <updated>2021-06-10T20:34:00.000Z</updated>
+        <summary type="html"><![CDATA[https://tyle.io/typomotion/landing]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6 self-care tips every remote worker needs for WFH success]]></title>
         <id>https://dribbble.com/stories/2021/06/10/6-self-care-tips-every-remote-worker-needs-for-wfh-success</id>
@@ -382,16 +392,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <link href="http://www.webdesignernews.com/external/thinking-of-going-freelance-here-are-6-pieces-of-advice-from-a-pro"/>
         <updated>2021-06-09T16:08:30.000Z</updated>
         <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/09/freelancing-advice-james-round]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivaldi is launching an email client, a feed reader, and a translation tool]]></title>
-        <id>https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed</id>
-        <link href="http://www.webdesignernews.com/external/vivaldi-is-launching-an-email-client-a-feed-reader-and-a-translation-tool"/>
-        <updated>2021-06-09T16:08:16.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>

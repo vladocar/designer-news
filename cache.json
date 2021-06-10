@@ -734,6 +734,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://tyle.io/typomotion/landing",
+          "author": null,
+          "description": "https://tyle.io/typomotion/landing",
+          "link": "http://www.webdesignernews.com/external/typomotion-just-add-text-and-get-kinetic-typography-video-in-minutes",
+          "publishedOn": "2021-06-10T20:34:00.000Z",
+          "wordCount": 14,
+          "title": "Typomotion - Just add text and get kinetic typography video in minutes"
+        },
+        {
           "id": "https://dribbble.com/stories/2021/06/10/6-self-care-tips-every-remote-worker-needs-for-wfh-success",
           "author": null,
           "description": "https://dribbble.com/stories/2021/06/10/6-self-care-tips-every-remote-worker-needs-for-wfh-success",
@@ -847,7 +856,7 @@
           "description": "https://www.bbc.co.uk/news/technology-57413224",
           "link": "http://www.webdesignernews.com/external/one-fastly-customer-triggered-internet-meltdown",
           "publishedOn": "2021-06-09T21:33:58.000Z",
-          "wordCount": 781,
+          "wordCount": 779,
           "title": "One Fastly customer triggered internet meltdown"
         },
         {
@@ -903,15 +912,6 @@
           "publishedOn": "2021-06-09T16:08:30.000Z",
           "wordCount": 1856,
           "title": "Thinking of going freelance? Here are 6 pieces of advice from a pro"
-        },
-        {
-          "id": "https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed",
-          "author": null,
-          "description": "https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed",
-          "link": "http://www.webdesignernews.com/external/vivaldi-is-launching-an-email-client-a-feed-reader-and-a-translation-tool",
-          "publishedOn": "2021-06-09T16:08:16.000Z",
-          "wordCount": 842,
-          "title": "Vivaldi is launching an email client, a feed reader, and a translation tool"
         }
       ]
     }
