@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-10T06:09:45.897Z</id>
+    <id>urn:2021-06-10T07:13:51.958Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T06:09:45.897Z</updated>
+    <updated>2021-06-10T07:13:51.958Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Visual design principles in UX]]></title>
+        <id>https://www.designernews.co/stories/115969-visual-design-principles-in-ux</id>
+        <link href="https://www.designernews.co/stories/115969-visual-design-principles-in-ux"/>
+        <updated>2021-06-10T07:09:00.000Z</updated>
+        <summary type="html"><![CDATA[https://drawer.design/blog/visual-design-principles-in-ux/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Woocommerce?s integration with Google Shopping is now live]]></title>
         <id>https://searchengineland.com/woocommerces-integration-with-google-shopping-is-now-live-349426</id>
@@ -485,16 +495,6 @@ Our motivation is to make everyone part of the product ideation process through 
         <link href="https://www.designernews.co/stories/115895-the-ultimate-ui-design-trends--no-bs-guide"/>
         <updated>2021-06-07T14:20:21.000Z</updated>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=BI3wWh4qVZc]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlainAdmin - Free Vanilla JS Bootstrap 5 Admin Template]]></title>
-        <id>https://www.designernews.co/stories/115893-plainadmin--free-vanilla-js-bootstrap-5-admin-template</id>
-        <link href="https://www.designernews.co/stories/115893-plainadmin--free-vanilla-js-bootstrap-5-admin-template"/>
-        <updated>2021-06-07T14:06:00.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/PlainAdmin/plain-free-bootstrap-admin-template]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
