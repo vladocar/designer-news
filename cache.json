@@ -748,6 +748,15 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/",
+          "author": null,
+          "description": "https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/",
+          "link": "http://www.webdesignernews.com/external/meet-code-has-code-a-native-css-parent-selector-and-more",
+          "publishedOn": "2021-06-10T17:41:00.000Z",
+          "wordCount": 2600,
+          "title": "Meet :has, A Native CSS Parent Selector (And More)"
+        },
+        {
           "id": "https://inonesnap.medium.com/unprofessional-landing-pages-how-to-make-your-pages-look-like-a-design-team-was-behind-it-50868ed524fb",
           "author": null,
           "description": "https://inonesnap.medium.com/unprofessional-landing-pages-how-to-make-your-pages-look-like-a-design-team-was-behind-it-50868ed524fb",
@@ -843,7 +852,7 @@
           "description": "https://www.bbc.co.uk/news/technology-57413224",
           "link": "http://www.webdesignernews.com/external/one-fastly-customer-triggered-internet-meltdown",
           "publishedOn": "2021-06-09T21:33:58.000Z",
-          "wordCount": 783,
+          "wordCount": 789,
           "title": "One Fastly customer triggered internet meltdown"
         },
         {
@@ -852,7 +861,7 @@
           "description": "https://thenextweb.com/news/kraken-bitfinex-kucoin-india-crypto-report",
           "link": "http://www.webdesignernews.com/external/kraken-and-bitfinex-are-reportedly-exploring-ways-to-enter-india",
           "publishedOn": "2021-06-09T20:53:36.000Z",
-          "wordCount": 540,
+          "wordCount": 544,
           "title": "Kraken and Bitfinex are reportedly exploring ways to enter India"
         },
         {
@@ -906,7 +915,7 @@
           "description": "https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed",
           "link": "http://www.webdesignernews.com/external/vivaldi-is-launching-an-email-client-a-feed-reader-and-a-translation-tool",
           "publishedOn": "2021-06-09T16:08:16.000Z",
-          "wordCount": 842,
+          "wordCount": 846,
           "title": "Vivaldi is launching an email client, a feed reader, and a translation tool"
         },
         {
@@ -917,15 +926,6 @@
           "publishedOn": "2021-06-09T16:08:11.000Z",
           "wordCount": 860,
           "title": "Instagram finally reveals the secret of its mysterious algorithm"
-        },
-        {
-          "id": "https://www.webdesignerdepot.com/2021/06/9-amazing-design-resource-package-sites/",
-          "author": null,
-          "description": "https://www.webdesignerdepot.com/2021/06/9-amazing-design-resource-package-sites/",
-          "link": "http://www.webdesignernews.com/external/9-amazing-design-resource-package-sites",
-          "publishedOn": "2021-06-09T16:08:09.000Z",
-          "wordCount": 2270,
-          "title": "9 Amazing Design-Resource Package Sites"
         }
       ]
     }
