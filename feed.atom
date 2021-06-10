@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-10T11:01:36.938Z</id>
+    <id>urn:2021-06-10T12:00:41.831Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T11:01:36.938Z</updated>
+    <updated>2021-06-10T12:00:41.831Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,6 +16,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Simplicity Is Beauty]]></title>
+        <id>https://www.designernews.co/stories/115979-simplicity-is-beauty</id>
+        <link href="https://www.designernews.co/stories/115979-simplicity-is-beauty"/>
+        <updated>2021-06-10T10:00:09.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vectornator.io/blog/simplicity-in-design]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 Inspiring Graphic Design Trends For 2021]]></title>
+        <id>https://www.designernews.co/stories/115978-13-inspiring-graphic-design-trends-for-2021</id>
+        <link href="https://www.designernews.co/stories/115978-13-inspiring-graphic-design-trends-for-2021"/>
+        <updated>2021-06-10T09:57:21.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vectornator.io/blog/graphic-design-trends]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 Famous Graphic Designers & Artists To Follow In 2021]]></title>
+        <id>https://www.designernews.co/stories/115977-11-famous-graphic-designers--artists-to-follow-in-2021</id>
+        <link href="https://www.designernews.co/stories/115977-11-famous-graphic-designers--artists-to-follow-in-2021"/>
+        <updated>2021-06-10T09:54:21.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vectornator.io/blog/famous-graphic-designers]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[42 Best Silhouette Fonts for Crafters]]></title>
         <id>https://www.designinspiration.info/?p=2963</id>
         <link href="https://www.designinspiration.info/best-silhouette-fonts/"/>
@@ -24,6 +54,26 @@
 The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Average Penetration Testing Pricing in 2021]]></title>
+        <id>https://www.designernews.co/stories/115976-average-penetration-testing-pricing-in-2021</id>
+        <link href="https://www.designernews.co/stories/115976-average-penetration-testing-pricing-in-2021"/>
+        <updated>2021-06-10T09:46:09.000Z</updated>
+        <summary type="html"><![CDATA[https://u-tor.com/topic/penetration-testing-pricing-in-2021]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25 Simple Rules For Maximum Productivity]]></title>
+        <id>https://www.designernews.co/stories/115975-25-simple-rules-for-maximum-productivity</id>
+        <link href="https://www.designernews.co/stories/115975-25-simple-rules-for-maximum-productivity"/>
+        <updated>2021-06-10T09:36:47.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.tmetric.com/25-simple-rules-for-maximum-productivity/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -64,6 +114,26 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <summary type="html"><![CDATA[https://web.dev/font-best-practices/]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginner's Guide To Different Types Of Logo Designs]]></title>
+        <id>https://www.designernews.co/stories/115974-a-beginners-guide-to-different-types-of-logo-designs</id>
+        <link href="https://www.designernews.co/stories/115974-a-beginners-guide-to-different-types-of-logo-designs"/>
+        <updated>2021-06-10T09:08:45.000Z</updated>
+        <summary type="html"><![CDATA[https://marketsplash.com/types-of-logo-designs/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top MedTech Solution Providers in 2021]]></title>
+        <id>https://www.designernews.co/stories/115973---top-medtech-solution-providers-in-2021</id>
+        <link href="https://www.designernews.co/stories/115973---top-medtech-solution-providers-in-2021"/>
+        <updated>2021-06-10T08:18:16.000Z</updated>
+        <summary type="html"><![CDATA[https://healthcare.mytechmag.com/top-medtech-software-providers]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -247,6 +317,16 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Launching WaveMakers - Discover The Leader Inside of You!]]></title>
+        <id>https://www.designernews.co/stories/115955-launching-wavemakers--discover-the-leader-inside-of-you</id>
+        <link href="https://www.designernews.co/stories/115955-launching-wavemakers--discover-the-leader-inside-of-you"/>
+        <updated>2021-06-09T14:11:02.000Z</updated>
+        <summary type="html"><![CDATA[https://www.linkedin.com/feed/update/urn:li:activity:6808392899617665024]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Documenting the almighty button]]></title>
         <id>https://uxdesign.cc/documenting-the-almighty-button-bb37cebb4647</id>
         <link href="http://www.webdesignernews.com/external/documenting-the-almighty-button"/>
@@ -368,29 +448,6 @@ The post 27 Best Nostalgia Retro 80s Fonts appeared first on Design Inspiration.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I made a collaborative platform for product ideation and concept testing (visioneerhub.com)]]></title>
-        <id>https://www.designernews.co/stories/115930-i-made-a-collaborative-platform-for-product-ideation-and-concept-testing-visioneerhubcom</id>
-        <link href="https://www.designernews.co/stories/115930-i-made-a-collaborative-platform-for-product-ideation-and-concept-testing-visioneerhubcom"/>
-        <updated>2021-06-08T12:31:07.000Z</updated>
-        <summary type="html"><![CDATA[Hey guys,
-
-I have launched a collaborative platform for product ideation and concept testing:
-
-[https://visioneerhub.com]
-(https://visioneerhub.com/)
-
-# The problem
-
-Nowadays products are pushed to customers rather than being requested by them. Users are being tracked, analyzed and categorized instead of being asked directly what they want. For businesses this means increased risk when launching a new product. Buyers are kept out of the decision making process and can only vote with their wallet. The end result often is unfulfilled needs, decreased user trust and lower brand loyalty.
-
-# What is VisioneerHub?
-
-Our motivation is to make everyone part of the product ideation process through a platform for seamless collaboration between product companies, freelance designers and c…]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[From AVIF to WebP: A New Smashing Book By Addy Osmani]]></title>
         <id>https://smashingmagazine.com/2021/06/image-optimization-book-release/</id>
         <link href="https://smashingmagazine.com/2021/06/image-optimization-book-release/"/>
@@ -401,41 +458,11 @@ Our motivation is to make everyone part of the product ideation process through 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Most User-Friendly Bed and Breakfast WordPress Themes]]></title>
-        <id>https://www.designernews.co/stories/115925-5-most-userfriendly-bed-and-breakfast-wordpress-themes</id>
-        <link href="https://www.designernews.co/stories/115925-5-most-userfriendly-bed-and-breakfast-wordpress-themes"/>
-        <updated>2021-06-08T11:16:40.000Z</updated>
-        <summary type="html"><![CDATA[https://wpklik.com/wordpress-themes/bed-and-breakfast-wordpress-themes/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crazy memes maker Pixiko: online, fast, split screen, animated. Easiest way to create meme!]]></title>
         <id>https://www.designernews.co/stories/115924-crazy-memes-maker-pixiko-online-fast-split-screen-animated-easiest-way-to-create-meme</id>
         <link href="https://www.designernews.co/stories/115924-crazy-memes-maker-pixiko-online-fast-split-screen-animated-easiest-way-to-create-meme"/>
         <updated>2021-06-08T11:01:41.000Z</updated>
         <summary type="html"><![CDATA[https://pixiko.com/editors/meme-maker]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do Enterprises leverage Azure DevOps?]]></title>
-        <id>https://www.designernews.co/stories/115923-how-do-enterprises-leverage-azure-devops</id>
-        <link href="https://www.designernews.co/stories/115923-how-do-enterprises-leverage-azure-devops"/>
-        <updated>2021-06-08T10:56:18.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/how-do-enterprises-leverage-azure-devops]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marc Cuban and other illustrated portraits for Harvard Business Review]]></title>
-        <id>https://www.designernews.co/stories/115920-marc-cuban-and-other-illustrated-portraits-for-harvard-business-review</id>
-        <link href="https://www.designernews.co/stories/115920-marc-cuban-and-other-illustrated-portraits-for-harvard-business-review"/>
-        <updated>2021-06-08T09:50:36.000Z</updated>
-        <summary type="html"><![CDATA[https://www.owlillustration.com/2020/12/09/portraits-for-harvard-business-review/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -461,51 +488,11 @@ Our motivation is to make everyone part of the product ideation process through 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Look at this nice mix of 3D design & No-Code.  What do you think?]]></title>
-        <id>https://www.designernews.co/stories/115916-look-at-this-nice-mix-of-3d-design--nocode--what-do-you-think-</id>
-        <link href="https://www.designernews.co/stories/115916-look-at-this-nice-mix-of-3d-design--nocode--what-do-you-think-"/>
-        <updated>2021-06-08T09:15:18.000Z</updated>
-        <summary type="html"><![CDATA[http://zeroqode.com/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Text – a designer tool]]></title>
         <id>https://www.designernews.co/stories/115913-text--a-designer-tool</id>
         <link href="https://www.designernews.co/stories/115913-text--a-designer-tool"/>
         <updated>2021-06-08T06:51:27.000Z</updated>
         <summary type="html"><![CDATA[https://blog.plantapp.io/post/text-a-designer-tool]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[User Experience Design Team]]></title>
-        <id>https://www.designernews.co/stories/115911-user-experience-design-team</id>
-        <link href="https://www.designernews.co/stories/115911-user-experience-design-team"/>
-        <updated>2021-06-08T06:17:19.000Z</updated>
-        <summary type="html"><![CDATA[https://www.uiux.studio/user-experience-design-firm.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Best Array Methods In JavaScript 2021]]></title>
-        <id>https://www.designernews.co/stories/115909-7-best-array-methods-in-javascript-2021</id>
-        <link href="https://www.designernews.co/stories/115909-7-best-array-methods-in-javascript-2021"/>
-        <updated>2021-06-08T04:50:51.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/7-best-array-methods-in-javascript-2021.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Tips & Tricks In JavaScript]]></title>
-        <id>https://www.designernews.co/stories/115908-useful-tips--tricks-in-javascript</id>
-        <link href="https://www.designernews.co/stories/115908-useful-tips--tricks-in-javascript"/>
-        <updated>2021-06-08T04:50:15.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/useful-tips-in-javascript.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>

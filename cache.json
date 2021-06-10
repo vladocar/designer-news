@@ -108,8 +108,71 @@
           "description": "https://www.zenesys.com/blog/everything-you-should-know-about-bootstrap-5",
           "link": "https://www.designernews.co/stories/115980-everything-you-should-know-about-bootstrap-5",
           "publishedOn": "2021-06-10T10:38:41.000Z",
-          "wordCount": 176,
+          "wordCount": 172,
           "title": "Everything you should know about Bootstrap 5"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115979-simplicity-is-beauty",
+          "author": null,
+          "description": "https://www.vectornator.io/blog/simplicity-in-design",
+          "link": "https://www.designernews.co/stories/115979-simplicity-is-beauty",
+          "publishedOn": "2021-06-10T10:00:09.000Z",
+          "wordCount": 162,
+          "title": "Simplicity Is Beauty"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115978-13-inspiring-graphic-design-trends-for-2021",
+          "author": null,
+          "description": "https://www.vectornator.io/blog/graphic-design-trends",
+          "link": "https://www.designernews.co/stories/115978-13-inspiring-graphic-design-trends-for-2021",
+          "publishedOn": "2021-06-10T09:57:21.000Z",
+          "wordCount": 170,
+          "title": "13 Inspiring Graphic Design Trends For 2021"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115977-11-famous-graphic-designers--artists-to-follow-in-2021",
+          "author": null,
+          "description": "https://www.vectornator.io/blog/famous-graphic-designers",
+          "link": "https://www.designernews.co/stories/115977-11-famous-graphic-designers--artists-to-follow-in-2021",
+          "publishedOn": "2021-06-10T09:54:21.000Z",
+          "wordCount": 176,
+          "title": "11 Famous Graphic Designers & Artists To Follow In 2021"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115976-average-penetration-testing-pricing-in-2021",
+          "author": null,
+          "description": "https://u-tor.com/topic/penetration-testing-pricing-in-2021",
+          "link": "https://www.designernews.co/stories/115976-average-penetration-testing-pricing-in-2021",
+          "publishedOn": "2021-06-10T09:46:09.000Z",
+          "wordCount": 166,
+          "title": "Average Penetration Testing Pricing in 2021"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115975-25-simple-rules-for-maximum-productivity",
+          "author": null,
+          "description": "https://blog.tmetric.com/25-simple-rules-for-maximum-productivity/",
+          "link": "https://www.designernews.co/stories/115975-25-simple-rules-for-maximum-productivity",
+          "publishedOn": "2021-06-10T09:36:47.000Z",
+          "wordCount": 205,
+          "title": "25 Simple Rules For Maximum Productivity"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115974-a-beginners-guide-to-different-types-of-logo-designs",
+          "author": null,
+          "description": "https://marketsplash.com/types-of-logo-designs/",
+          "link": "https://www.designernews.co/stories/115974-a-beginners-guide-to-different-types-of-logo-designs",
+          "publishedOn": "2021-06-10T09:08:45.000Z",
+          "wordCount": 174,
+          "title": "A Beginner's Guide To Different Types Of Logo Designs"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115973---top-medtech-solution-providers-in-2021",
+          "author": null,
+          "description": "https://healthcare.mytechmag.com/top-medtech-software-providers",
+          "link": "https://www.designernews.co/stories/115973---top-medtech-solution-providers-in-2021",
+          "publishedOn": "2021-06-10T08:18:16.000Z",
+          "wordCount": 167,
+          "title": "Top MedTech Solution Providers in 2021"
         },
         {
           "id": "https://www.designernews.co/stories/115972-create-your-own-3d-mobile-mockups-presentation-using-spline-design",
@@ -117,7 +180,7 @@
           "description": "https://www.youtube.com/watch?v=3-EmhcuU-eI",
           "link": "https://www.designernews.co/stories/115972-create-your-own-3d-mobile-mockups-presentation-using-spline-design",
           "publishedOn": "2021-06-10T08:03:03.000Z",
-          "wordCount": 179,
+          "wordCount": 175,
           "title": "Create your own 3D mobile mockups presentation using Spline Design!"
         },
         {
@@ -126,7 +189,7 @@
           "description": "https://wpklik.com/wordpress-themes/camping-wordpress-themes/",
           "link": "https://www.designernews.co/stories/115971-5-best-camping-wordpress-themes-for-new-adventure",
           "publishedOn": "2021-06-10T07:56:51.000Z",
-          "wordCount": 173,
+          "wordCount": 169,
           "title": "5 Best Camping WordPress Themes for New Adventure"
         },
         {
@@ -135,7 +198,7 @@
           "description": "https://drawer.design/blog/visual-design-principles-in-ux/",
           "link": "https://www.designernews.co/stories/115969-visual-design-principles-in-ux",
           "publishedOn": "2021-06-10T07:09:00.000Z",
-          "wordCount": 169,
+          "wordCount": 165,
           "title": "Visual design principles in UX"
         },
         {
@@ -144,8 +207,17 @@
           "description": "https://plott.so",
           "link": "https://www.designernews.co/stories/115959-plottso--very-minimal-inline-editor--page-builder-made-in-1-day-to-practice-nocode",
           "publishedOn": "2021-06-09T16:31:34.000Z",
-          "wordCount": 190,
+          "wordCount": 186,
           "title": "Plott.so - Very minimal inline editor + page builder (made in 1 day to practice #nocode)"
+        },
+        {
+          "id": "https://www.designernews.co/stories/115955-launching-wavemakers--discover-the-leader-inside-of-you",
+          "author": null,
+          "description": "https://www.linkedin.com/feed/update/urn:li:activity:6808392899617665024",
+          "link": "https://www.designernews.co/stories/115955-launching-wavemakers--discover-the-leader-inside-of-you",
+          "publishedOn": "2021-06-09T14:11:02.000Z",
+          "wordCount": 172,
+          "title": "Launching WaveMakers - Discover The Leader Inside of You!"
         },
         {
           "id": "https://www.designernews.co/stories/115954-5-best-cloud-wordpress-themes-for-professional-impression",
@@ -153,7 +225,7 @@
           "description": "https://wpklik.com/wordpress-themes/cloud-wordpress-themes/",
           "link": "https://www.designernews.co/stories/115954-5-best-cloud-wordpress-themes-for-professional-impression",
           "publishedOn": "2021-06-09T12:45:28.000Z",
-          "wordCount": 174,
+          "wordCount": 170,
           "title": "5 Best Cloud WordPress Themes for Professional Impression"
         },
         {
@@ -162,7 +234,7 @@
           "description": "https://d.mba/stories/how-fabrizio-used-hypothesis-driven-design-to-double-subscribers",
           "link": "https://www.designernews.co/stories/115953-how-to-wrap-design-in-a-transparent-and-systematic-process",
           "publishedOn": "2021-06-09T12:35:40.000Z",
-          "wordCount": 179,
+          "wordCount": 175,
           "title": "How to wrap design in a transparent and systematic process"
         },
         {
@@ -171,7 +243,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/06/7-best-webcams-for-programmers-coders.html",
           "link": "https://www.designernews.co/stories/115951-7-best-webcams-for-programmers-coders-developers-zoom-meetings-teaching-online-classes",
           "publishedOn": "2021-06-09T10:21:06.000Z",
-          "wordCount": 183,
+          "wordCount": 179,
           "title": "7 Best Webcams For Programmers, Coders, Developers, zoom meetings, teaching online classes"
         },
         {
@@ -180,7 +252,7 @@
           "description": "https://www.zenesys.com/blog/top-git-commands-with-examples",
           "link": "https://www.designernews.co/stories/115948-top-git-commands-with-examples",
           "publishedOn": "2021-06-09T07:59:12.000Z",
-          "wordCount": 170,
+          "wordCount": 166,
           "title": "Top Git Commands with Examples"
         },
         {
@@ -189,7 +261,7 @@
           "description": "https://www.webcluesinfotech.com/hire-dedicated-mobile-app-developers/",
           "link": "https://www.designernews.co/stories/115943-hire-mobile-app-developers",
           "publishedOn": "2021-06-09T04:39:39.000Z",
-          "wordCount": 166,
+          "wordCount": 162,
           "title": "Hire Mobile App Developers"
         },
         {
@@ -198,7 +270,7 @@
           "description": "https://www.webcluesinfotech.com/how-to-create-a-video-sharing-app-like-youtube/",
           "link": "https://www.designernews.co/stories/115942-how-to-create-an-app-like-youtube",
           "publishedOn": "2021-06-09T04:13:30.000Z",
-          "wordCount": 173,
+          "wordCount": 169,
           "title": "How to Create an App Like YouTube?"
         },
         {
@@ -207,7 +279,7 @@
           "description": "https://www.behance.net/gallery/120714471/Rossmann-Website-redesign",
           "link": "https://www.designernews.co/stories/115937-a-drogerie-website-redesign",
           "publishedOn": "2021-06-08T16:39:52.000Z",
-          "wordCount": 165,
+          "wordCount": 161,
           "title": "A drogerie website redesign"
         },
         {
@@ -216,26 +288,8 @@
           "description": "https://www.behance.net/gallery/116498609/Film-Moon",
           "link": "https://www.designernews.co/stories/115934-case-study-designing-film-moon--an-international-matchmaking-platform-for-film-makers-and-festivals",
           "publishedOn": "2021-06-08T13:47:18.000Z",
-          "wordCount": 351,
+          "wordCount": 347,
           "title": "Case Study: Designing Film Moon – an international matchmaking platform for film makers and festivals"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115930-i-made-a-collaborative-platform-for-product-ideation-and-concept-testing-visioneerhubcom",
-          "author": null,
-          "description": "Hey guys,\r\n\r\nI have launched a collaborative platform for product ideation and concept testing:\r\n\r\n[https://visioneerhub.com]\r\n(https://visioneerhub.com/)\r\n\r\n# The problem\r\n\r\nNowadays products are pushed to customers rather than being requested by them. Users are being tracked, analyzed and categorized instead of being asked directly what they want. For businesses this means increased risk when launching a new product. Buyers are kept out of the decision making process and can only vote with their wallet. The end result often is unfulfilled needs, decreased user trust and lower brand loyalty.\r\n\r\n# What is VisioneerHub?\r\n\r\nOur motivation is to make everyone part of the product ideation process through a platform for seamless collaboration between product companies, freelance designers and c…",
-          "link": "https://www.designernews.co/stories/115930-i-made-a-collaborative-platform-for-product-ideation-and-concept-testing-visioneerhubcom",
-          "publishedOn": "2021-06-08T12:31:07.000Z",
-          "wordCount": 507,
-          "title": "I made a collaborative platform for product ideation and concept testing (visioneerhub.com)"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115925-5-most-userfriendly-bed-and-breakfast-wordpress-themes",
-          "author": null,
-          "description": "https://wpklik.com/wordpress-themes/bed-and-breakfast-wordpress-themes/",
-          "link": "https://www.designernews.co/stories/115925-5-most-userfriendly-bed-and-breakfast-wordpress-themes",
-          "publishedOn": "2021-06-08T11:16:40.000Z",
-          "wordCount": 175,
-          "title": "5 Most User-Friendly Bed and Breakfast WordPress Themes"
         },
         {
           "id": "https://www.designernews.co/stories/115924-crazy-memes-maker-pixiko-online-fast-split-screen-animated-easiest-way-to-create-meme",
@@ -243,26 +297,8 @@
           "description": "https://pixiko.com/editors/meme-maker",
           "link": "https://www.designernews.co/stories/115924-crazy-memes-maker-pixiko-online-fast-split-screen-animated-easiest-way-to-create-meme",
           "publishedOn": "2021-06-08T11:01:41.000Z",
-          "wordCount": 197,
+          "wordCount": 193,
           "title": "Crazy memes maker Pixiko: online, fast, split screen, animated. Easiest way to create meme!"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115923-how-do-enterprises-leverage-azure-devops",
-          "author": null,
-          "description": "https://www.zenesys.com/blog/how-do-enterprises-leverage-azure-devops",
-          "link": "https://www.designernews.co/stories/115923-how-do-enterprises-leverage-azure-devops",
-          "publishedOn": "2021-06-08T10:56:18.000Z",
-          "wordCount": 172,
-          "title": "How do Enterprises leverage Azure DevOps?"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115920-marc-cuban-and-other-illustrated-portraits-for-harvard-business-review",
-          "author": null,
-          "description": "https://www.owlillustration.com/2020/12/09/portraits-for-harvard-business-review/",
-          "link": "https://www.designernews.co/stories/115920-marc-cuban-and-other-illustrated-portraits-for-harvard-business-review",
-          "publishedOn": "2021-06-08T09:50:36.000Z",
-          "wordCount": 180,
-          "title": "Marc Cuban and other illustrated portraits for Harvard Business Review"
         },
         {
           "id": "https://www.designernews.co/stories/115919-i-made-an-open-source-deployment-tool-with-free-hosting",
@@ -270,7 +306,7 @@
           "description": "https://mdbgo.com/",
           "link": "https://www.designernews.co/stories/115919-i-made-an-open-source-deployment-tool-with-free-hosting",
           "publishedOn": "2021-06-08T09:45:08.000Z",
-          "wordCount": 686,
+          "wordCount": 682,
           "title": "I made an Open Source deployment tool with Free Hosting"
         },
         {
@@ -279,17 +315,8 @@
           "description": "https://blog.overflow.io/user-flow-diagramming-trends-in-2021-1ab4d3d262ba",
           "link": "https://www.designernews.co/stories/115918-user-flow-diagramming-trends-in-2021--annual-report-with-charts-maps-and-data",
           "publishedOn": "2021-06-08T09:33:01.000Z",
-          "wordCount": 185,
+          "wordCount": 181,
           "title": "User flow diagramming trends in 2021 - annual report with charts, maps, and data"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115916-look-at-this-nice-mix-of-3d-design--nocode--what-do-you-think-",
-          "author": null,
-          "description": "http://zeroqode.com/",
-          "link": "https://www.designernews.co/stories/115916-look-at-this-nice-mix-of-3d-design--nocode--what-do-you-think-",
-          "publishedOn": "2021-06-08T09:15:18.000Z",
-          "wordCount": 200,
-          "title": "Look at this nice mix of 3D design & No-Code.  What do you think?"
         },
         {
           "id": "https://www.designernews.co/stories/115913-text--a-designer-tool",
@@ -297,35 +324,8 @@
           "description": "https://blog.plantapp.io/post/text-a-designer-tool",
           "link": "https://www.designernews.co/stories/115913-text--a-designer-tool",
           "publishedOn": "2021-06-08T06:51:27.000Z",
-          "wordCount": 168,
+          "wordCount": 164,
           "title": "Text – a designer tool"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115911-user-experience-design-team",
-          "author": null,
-          "description": "https://www.uiux.studio/user-experience-design-firm.html",
-          "link": "https://www.designernews.co/stories/115911-user-experience-design-team",
-          "publishedOn": "2021-06-08T06:17:19.000Z",
-          "wordCount": 167,
-          "title": "User Experience Design Team"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115909-7-best-array-methods-in-javascript-2021",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/06/7-best-array-methods-in-javascript-2021.html",
-          "link": "https://www.designernews.co/stories/115909-7-best-array-methods-in-javascript-2021",
-          "publishedOn": "2021-06-08T04:50:51.000Z",
-          "wordCount": 173,
-          "title": "7 Best Array Methods In JavaScript 2021"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115908-useful-tips--tricks-in-javascript",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/06/useful-tips-in-javascript.html",
-          "link": "https://www.designernews.co/stories/115908-useful-tips--tricks-in-javascript",
-          "publishedOn": "2021-06-08T04:50:15.000Z",
-          "wordCount": 171,
-          "title": "Useful Tips & Tricks In JavaScript"
         }
       ]
     },
@@ -340,7 +340,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2600,
+          "wordCount": 2602,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -368,7 +368,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2250,
+          "wordCount": 2239,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -382,7 +382,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4174,
+          "wordCount": 4164,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -396,7 +396,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3538,
+          "wordCount": 3531,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -410,7 +410,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4378,
+          "wordCount": 4376,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -424,7 +424,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5427,
+          "wordCount": 5376,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -466,7 +466,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2524,
+          "wordCount": 2518,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -480,7 +480,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10249,
+          "wordCount": 10254,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -494,7 +494,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3776,
+          "wordCount": 3768,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -522,7 +522,7 @@
           "description": "Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.",
           "link": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
           "publishedOn": "2021-05-26T13:20:00.000Z",
-          "wordCount": 1581,
+          "wordCount": 1580,
           "title": "Accessible SVGs: Perfect Patterns For Screen Reader Users",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35bf2e3a-ae5b-49a3-843a-318b4c81f5af/accessible-svg-patterns.jpg",
@@ -536,7 +536,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2148,
+          "wordCount": 2161,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -550,7 +550,7 @@
           "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
           "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
           "publishedOn": "2021-05-25T09:30:00.000Z",
-          "wordCount": 2106,
+          "wordCount": 2108,
           "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f0c69413-365e-4c39-9ee8-ad1d2b44e56b/reduce-font-loading-impact-css-descriptors.jpg",
@@ -564,7 +564,7 @@
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2738,
+          "wordCount": 2736,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d6d809b-0c1a-4074-9eeb-8509dc4d383f/css-container-queries-use-cases-migration-strategies.jpg",
@@ -578,7 +578,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9475,
+          "wordCount": 9426,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -606,7 +606,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1992,
+          "wordCount": 2003,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -620,7 +620,7 @@
           "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 5060,
+          "wordCount": 5058,
           "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7c233470-63c3-4557-93c0-a8cc6709b6dd/13-mega-dropdown-hover-menus.png",
@@ -662,7 +662,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2985,
+          "wordCount": 2941,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -676,7 +676,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2464,
+          "wordCount": 2478,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -690,7 +690,7 @@
           "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
           "publishedOn": "2021-05-12T12:42:00.000Z",
-          "wordCount": 3514,
+          "wordCount": 3516,
           "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f773d7bb-df56-409f-a3fb-aa1e6e0eea09/4-birthday-picker.jpg",
@@ -788,7 +788,7 @@
           "description": "https://www.bbc.co.uk/news/technology-57413224",
           "link": "http://www.webdesignernews.com/external/one-fastly-customer-triggered-internet-meltdown",
           "publishedOn": "2021-06-09T21:33:58.000Z",
-          "wordCount": 783,
+          "wordCount": 795,
           "title": "One Fastly customer triggered internet meltdown"
         },
         {
@@ -869,7 +869,7 @@
           "description": "https://www.webdesignerdepot.com/2021/06/9-amazing-design-resource-package-sites/",
           "link": "http://www.webdesignernews.com/external/9-amazing-design-resource-package-sites",
           "publishedOn": "2021-06-09T16:08:09.000Z",
-          "wordCount": 2281,
+          "wordCount": 2267,
           "title": "9 Amazing Design-Resource Package Sites"
         },
         {
