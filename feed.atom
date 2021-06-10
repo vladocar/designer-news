@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T23:00:45.726Z</id>
+    <id>urn:2021-06-10T00:10:27.599Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T23:00:45.726Z</updated>
+    <updated>2021-06-10T00:10:27.599Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Woocommerce?s integration with Google Shopping is now live]]></title>
+        <id>https://searchengineland.com/woocommerces-integration-with-google-shopping-is-now-live-349426</id>
+        <link href="http://www.webdesignernews.com/external/woocommerce-s-integration-with-google-shopping-is-now-live"/>
+        <updated>2021-06-09T23:44:00.000Z</updated>
+        <summary type="html"><![CDATA[https://searchengineland.com/woocommerces-integration-with-google-shopping-is-now-live-349426]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11 secret tips for Firefox that will make you an internet pro]]></title>
         <id>https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/</id>
@@ -272,16 +282,6 @@ The post 27 Best Nostalgia Retro 80s Fonts appeared first on Design Inspiration.
         <link href="http://www.webdesignernews.com/external/the-4-biggest-ui-trends-shaping-apple-8217-s-future"/>
         <updated>2021-06-08T19:32:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.fastcompany.com/90644335/the-4-biggest-ui-trends-shaping-apples-future]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Testimonial Page Examples for UX/UI Design]]></title>
-        <id>https://www.uxpin.com/studio/blog/testimonial-page-examples/</id>
-        <link href="http://www.webdesignernews.com/external/4-testimonial-page-examples-for-ux-ui-design"/>
-        <updated>2021-06-08T16:51:01.000Z</updated>
-        <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/testimonial-page-examples/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
