@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-10T18:21:41.210Z</id>
+    <id>urn:2021-06-10T19:16:57.855Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T18:21:41.210Z</updated>
+    <updated>2021-06-10T19:16:57.855Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[6 self-care tips every remote worker needs for WFH success]]></title>
+        <id>https://dribbble.com/stories/2021/06/10/6-self-care-tips-every-remote-worker-needs-for-wfh-success</id>
+        <link href="http://www.webdesignernews.com/external/6-self-care-tips-every-remote-worker-needs-for-wfh-success"/>
+        <updated>2021-06-10T18:47:00.000Z</updated>
+        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/10/6-self-care-tips-every-remote-worker-needs-for-wfh-success]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet :has, A Native CSS Parent Selector (And More)]]></title>
         <id>https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
@@ -382,16 +392,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <link href="http://www.webdesignernews.com/external/vivaldi-is-launching-an-email-client-a-feed-reader-and-a-translation-tool"/>
         <updated>2021-06-09T16:08:16.000Z</updated>
         <summary type="html"><![CDATA[https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram finally reveals the secret of its mysterious algorithm]]></title>
-        <id>https://www.creativebloq.com/news/instagram-reveals-algorithm-secrets</id>
-        <link href="http://www.webdesignernews.com/external/instagram-finally-reveals-the-secret-of-its-mysterious-algorithm"/>
-        <updated>2021-06-09T16:08:11.000Z</updated>
-        <summary type="html"><![CDATA[https://www.creativebloq.com/news/instagram-reveals-algorithm-secrets]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
