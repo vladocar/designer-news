@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-10T09:00:45.080Z</id>
+    <id>urn:2021-06-10T10:00:55.058Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T09:00:45.080Z</updated>
+    <updated>2021-06-10T10:00:55.058Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[42 Best Silhouette Fonts for Crafters]]></title>
+        <id>https://www.designinspiration.info/?p=2963</id>
+        <link href="https://www.designinspiration.info/best-silhouette-fonts/"/>
+        <updated>2021-06-10T09:48:37.000Z</updated>
+        <summary type="html"><![CDATA[What are best fonts for Silhouette cutting machine? We’re presenting some of the best Silhouette fonts you can download for your craft projects and designs. A Silhouette machine is a cutting tool that can make beautifully detailed cuts, but the fonts can also be used for any design like wedding
+The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Plugin Acquisitions: What They Say About the Future]]></title>
+        <id>https://speckyboy.com/wordpress-plugin-acquisitions/</id>
+        <link href="http://www.webdesignernews.com/external/wordpress-plugin-acquisitions-what-they-say-about-the-future"/>
+        <updated>2021-06-10T09:26:50.000Z</updated>
+        <summary type="html"><![CDATA[https://speckyboy.com/wordpress-plugin-acquisitions/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Guide to Front-End Prototyping]]></title>
+        <id>https://www.uxpin.com/studio/blog/guide-front-end-prototyping/</id>
+        <link href="http://www.webdesignernews.com/external/the-guide-to-front-end-prototyping"/>
+        <updated>2021-06-10T09:25:53.000Z</updated>
+        <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/guide-front-end-prototyping/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100+ Resources on GPT-3 - Videos, tutorials, code, no-code resources on GPT-3]]></title>
+        <id>https://gumroad.com/l/wiSvc</id>
+        <link href="http://www.webdesignernews.com/external/100-resources-on-gpt-3-videos-tutorials-code-no-code-resources-on-gpt-3"/>
+        <updated>2021-06-10T09:25:41.000Z</updated>
+        <summary type="html"><![CDATA[https://gumroad.com/l/wiSvc]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Practices for Fonts]]></title>
+        <id>https://web.dev/font-best-practices/</id>
+        <link href="http://www.webdesignernews.com/external/best-practices-for-fonts"/>
+        <updated>2021-06-10T09:25:24.000Z</updated>
+        <summary type="html"><![CDATA[https://web.dev/font-best-practices/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create your own 3D mobile mockups presentation using Spline Design!]]></title>
         <id>https://www.designernews.co/stories/115972-create-your-own-3d-mobile-mockups-presentation-using-spline-design</id>
@@ -284,46 +335,6 @@
 The post 27 Best Nostalgia Retro 80s Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uh oh, half the internet just went down]]></title>
-        <id>https://www.androidpolice.com/2021/06/08/uh-oh-half-the-internet-just-went-down/</id>
-        <link href="http://www.webdesignernews.com/external/uh-oh-half-the-internet-just-went-down"/>
-        <updated>2021-06-08T22:42:33.000Z</updated>
-        <summary type="html"><![CDATA[https://www.androidpolice.com/2021/06/08/uh-oh-half-the-internet-just-went-down/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to build your own meme generator with machine learning]]></title>
-        <id>https://thenextweb.com/news/how-to-build-your-own-meme-generator-with-machine-learning</id>
-        <link href="http://www.webdesignernews.com/external/how-to-build-your-own-meme-generator-with-machine-learning"/>
-        <updated>2021-06-08T21:55:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/how-to-build-your-own-meme-generator-with-machine-learning]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I Learned by Relearning HTML]]></title>
-        <id>https://www.dannyguo.com/blog/what-i-learned-by-relearning-html</id>
-        <link href="http://www.webdesignernews.com/external/what-i-learned-by-relearning-html"/>
-        <updated>2021-06-08T20:14:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.dannyguo.com/blog/what-i-learned-by-relearning-html]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 4 biggest UI trends shaping Apple's future]]></title>
-        <id>https://www.fastcompany.com/90644335/the-4-biggest-ui-trends-shaping-apples-future</id>
-        <link href="http://www.webdesignernews.com/external/the-4-biggest-ui-trends-shaping-apple-8217-s-future"/>
-        <updated>2021-06-08T19:32:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.fastcompany.com/90644335/the-4-biggest-ui-trends-shaping-apples-future]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -695,17 +706,6 @@ The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></s
         <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22 Best Art Deco Fonts for Glamorous Designs]]></title>
-        <id>https://www.designinspiration.info/?p=2695</id>
-        <link href="https://www.designinspiration.info/art-deco-fonts/"/>
-        <updated>2021-05-26T21:27:16.000Z</updated>
-        <summary type="html"><![CDATA[Art deco fonts will give your designs a unique character. The art deco movement was prominent during the 1920s and 1930s. Art deco fonts are characterized by their playful yet classy letterforms, with extra-thin serifs and smooth curvy shapes. It’s a creative typeface genre because it embraces the design styles
-The post 22 Best Art Deco Fonts for Glamorous Designs appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
