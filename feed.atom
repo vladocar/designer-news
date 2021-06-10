@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-10T10:00:55.058Z</id>
+    <id>urn:2021-06-10T11:01:36.938Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T10:00:55.058Z</updated>
+    <updated>2021-06-10T11:01:36.938Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Everything you should know about Bootstrap 5]]></title>
+        <id>https://www.designernews.co/stories/115980-everything-you-should-know-about-bootstrap-5</id>
+        <link href="https://www.designernews.co/stories/115980-everything-you-should-know-about-bootstrap-5"/>
+        <updated>2021-06-10T10:38:41.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/blog/everything-you-should-know-about-bootstrap-5]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[42 Best Silhouette Fonts for Crafters]]></title>
         <id>https://www.designinspiration.info/?p=2963</id>
@@ -496,16 +506,6 @@ Our motivation is to make everyone part of the product ideation process through 
         <link href="https://www.designernews.co/stories/115908-useful-tips--tricks-in-javascript"/>
         <updated>2021-06-08T04:50:15.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/useful-tips-in-javascript.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate UI Design Trends - No BS Guide]]></title>
-        <id>https://www.designernews.co/stories/115895-the-ultimate-ui-design-trends--no-bs-guide</id>
-        <link href="https://www.designernews.co/stories/115895-the-ultimate-ui-design-trends--no-bs-guide"/>
-        <updated>2021-06-07T14:20:21.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=BI3wWh4qVZc]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
