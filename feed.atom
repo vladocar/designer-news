@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-11T18:06:09.988Z</id>
+    <id>urn:2021-06-11T19:03:36.754Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T18:06:09.988Z</updated>
+    <updated>2021-06-11T19:03:36.754Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Everything you should know about Bootstrap 5]]></title>
+        <id>https://www.zenesys.com/blog/everything-you-should-know-about-bootstrap-5</id>
+        <link href="http://www.webdesignernews.com/external/everything-you-should-know-about-bootstrap-5"/>
+        <updated>2021-06-11T18:58:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/blog/everything-you-should-know-about-bootstrap-5]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Auxl - A whole new way to organize, test, and develop APIs]]></title>
         <id>https://auxl.io/</id>
@@ -383,16 +393,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <link href="http://www.webdesignernews.com/external/the-guide-to-front-end-prototyping"/>
         <updated>2021-06-10T09:25:53.000Z</updated>
         <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/guide-front-end-prototyping/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100+ Resources on GPT-3 - Videos, tutorials, code, no-code resources on GPT-3]]></title>
-        <id>https://gumroad.com/l/wiSvc</id>
-        <link href="http://www.webdesignernews.com/external/100-resources-on-gpt-3-videos-tutorials-code-no-code-resources-on-gpt-3"/>
-        <updated>2021-06-10T09:25:41.000Z</updated>
-        <summary type="html"><![CDATA[https://gumroad.com/l/wiSvc]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
