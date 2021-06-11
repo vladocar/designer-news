@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-11T07:07:17.569Z</id>
+    <id>urn:2021-06-11T08:00:44.292Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T07:07:17.570Z</updated>
+    <updated>2021-06-11T08:00:44.292Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -96,9 +96,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Business of Design by Keith Granet]]></title>
-        <id>https://www.designernews.co/stories/115996-the-business-of-design-by-keith-granet</id>
-        <link href="https://www.designernews.co/stories/115996-the-business-of-design-by-keith-granet"/>
+        <title type="html"><![CDATA[The Business of Design: Balancing Creativity and Profitability]]></title>
+        <id>https://www.designernews.co/stories/115996-the-business-of-design-balancing-creativity-and-profitability</id>
+        <link href="https://www.designernews.co/stories/115996-the-business-of-design-balancing-creativity-and-profitability"/>
         <updated>2021-06-10T13:12:13.000Z</updated>
         <summary type="html"><![CDATA[https://bookpedia.co/684378233/the-business-of-design]]></summary>
         <author>
