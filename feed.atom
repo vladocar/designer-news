@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-11T08:00:44.292Z</id>
+    <id>urn:2021-06-11T09:00:37.774Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T08:00:44.292Z</updated>
+    <updated>2021-06-11T09:00:37.774Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[13 Inspiring Graphic Design Trends For 2021]]></title>
+        <id>https://www.vectornator.io/blog/graphic-design-trends</id>
+        <link href="http://www.webdesignernews.com/external/13-inspiring-graphic-design-trends-for-2021"/>
+        <updated>2021-06-11T08:49:41.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vectornator.io/blog/graphic-design-trends]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Link shorteners: why you shouldn't use them]]></title>
+        <id>https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/</id>
+        <link href="http://www.webdesignernews.com/external/link-shorteners-why-you-shouldn-t-use-them"/>
+        <updated>2021-06-11T08:49:26.000Z</updated>
+        <summary type="html"><![CDATA[https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Front-End Auditing Tools I Discovered Recently]]></title>
+        <id>https://www.smashingmagazine.com/2021/06/three-frontend-auditing-tools/</id>
+        <link href="http://www.webdesignernews.com/external/three-front-end-auditing-tools-i-discovered-recently"/>
+        <updated>2021-06-11T08:49:10.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/three-frontend-auditing-tools/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy Analysis of FLoC]]></title>
+        <id>https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/</id>
+        <link href="http://www.webdesignernews.com/external/privacy-analysis-of-floc"/>
+        <updated>2021-06-11T08:39:04.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hire App Developers - iOS & Android]]></title>
         <id>https://www.designernews.co/stories/116008-hire-app-developers--ios--android-</id>
@@ -357,36 +397,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kraken and Bitfinex are reportedly exploring ways to enter India]]></title>
-        <id>https://thenextweb.com/news/kraken-bitfinex-kucoin-india-crypto-report</id>
-        <link href="http://www.webdesignernews.com/external/kraken-and-bitfinex-are-reportedly-exploring-ways-to-enter-india"/>
-        <updated>2021-06-09T20:53:36.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/kraken-bitfinex-kucoin-india-crypto-report]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Art of Design Spec?ing]]></title>
-        <id>https://mahdif.com/blog/the-art-of-design-specing/</id>
-        <link href="http://www.webdesignernews.com/external/the-art-of-design-spec-ing"/>
-        <updated>2021-06-09T19:21:00.000Z</updated>
-        <summary type="html"><![CDATA[https://mahdif.com/blog/the-art-of-design-specing/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The web we choose to build]]></title>
-        <id>https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b</id>
-        <link href="http://www.webdesignernews.com/external/the-web-we-choose-to-build"/>
-        <updated>2021-06-09T17:42:00.000Z</updated>
-        <summary type="html"><![CDATA[https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Plott.so - Very minimal inline editor + page builder (made in 1 day to practice #nocode)]]></title>
         <id>https://www.designernews.co/stories/115959-plottso--very-minimal-inline-editor--page-builder-made-in-1-day-to-practice-nocode</id>
         <link href="https://www.designernews.co/stories/115959-plottso--very-minimal-inline-editor--page-builder-made-in-1-day-to-practice-nocode"/>
@@ -394,16 +404,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <summary type="html"><![CDATA[https://plott.so]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixing contrast issues, on your own site and elsewhere]]></title>
-        <id>https://www.a11yproject.com/posts/2021-06-07-fixing-contrast-issues-on-your-own-site-and-elsewhere/</id>
-        <link href="http://www.webdesignernews.com/external/fixing-contrast-issues-on-your-own-site-and-elsewhere"/>
-        <updated>2021-06-09T16:09:36.000Z</updated>
-        <summary type="html"><![CDATA[https://www.a11yproject.com/posts/2021-06-07-fixing-contrast-issues-on-your-own-site-and-elsewhere/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
