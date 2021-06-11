@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-11T12:00:41.346Z</id>
+    <id>urn:2021-06-11T13:15:58.538Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T12:00:41.346Z</updated>
+    <updated>2021-06-11T13:15:58.538Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Adobe reveals a logo for every star sign (and they're all delightful)]]></title>
+        <id>https://www.creativebloq.com/news/adobe-star-sign-logos</id>
+        <link href="http://www.webdesignernews.com/external/adobe-reveals-a-logo-for-every-star-sign-and-they-re-all-delightful"/>
+        <updated>2021-06-11T13:06:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.creativebloq.com/news/adobe-star-sign-logos]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imaging for Science and Life]]></title>
+        <id>https://www.designernews.co/stories/116022-imaging-for-science-and-life</id>
+        <link href="https://www.designernews.co/stories/116022-imaging-for-science-and-life"/>
+        <updated>2021-06-11T12:14:44.000Z</updated>
+        <summary type="html"><![CDATA[https://www.behance.net/gallery/117354051/Mediso-Portal-and-brand-redesign]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Made With Briefbox Spring 2021]]></title>
         <id>https://www.designernews.co/stories/116018-made-with-briefbox-spring-2021</id>
@@ -407,16 +427,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One Fastly customer triggered internet meltdown]]></title>
-        <id>https://www.bbc.co.uk/news/technology-57413224</id>
-        <link href="http://www.webdesignernews.com/external/one-fastly-customer-triggered-internet-meltdown"/>
-        <updated>2021-06-09T21:33:58.000Z</updated>
-        <summary type="html"><![CDATA[https://www.bbc.co.uk/news/technology-57413224]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Plott.so - Very minimal inline editor + page builder (made in 1 day to practice #nocode)]]></title>
         <id>https://www.designernews.co/stories/115959-plottso--very-minimal-inline-editor--page-builder-made-in-1-day-to-practice-nocode</id>
         <link href="https://www.designernews.co/stories/115959-plottso--very-minimal-inline-editor--page-builder-made-in-1-day-to-practice-nocode"/>
@@ -442,16 +452,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <link href="https://www.designernews.co/stories/115954-5-best-cloud-wordpress-themes-for-professional-impression"/>
         <updated>2021-06-09T12:45:28.000Z</updated>
         <summary type="html"><![CDATA[https://wpklik.com/wordpress-themes/cloud-wordpress-themes/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to wrap design in a transparent and systematic process]]></title>
-        <id>https://www.designernews.co/stories/115953-how-to-wrap-design-in-a-transparent-and-systematic-process</id>
-        <link href="https://www.designernews.co/stories/115953-how-to-wrap-design-in-a-transparent-and-systematic-process"/>
-        <updated>2021-06-09T12:35:40.000Z</updated>
-        <summary type="html"><![CDATA[https://d.mba/stories/how-fabrizio-used-hypothesis-driven-design-to-double-subscribers]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
