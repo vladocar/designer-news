@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-11T04:04:01.015Z</id>
+    <id>urn:2021-06-11T05:10:28.113Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T04:04:01.015Z</updated>
+    <updated>2021-06-11T05:10:28.113Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hire App Developers - iOS & Android]]></title>
+        <id>https://www.designernews.co/stories/116008-hire-app-developers--ios--android-</id>
+        <link href="https://www.designernews.co/stories/116008-hire-app-developers--ios--android-"/>
+        <updated>2021-06-11T04:33:34.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/hire-dedicated-mobile-app-developers/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BootStarters - Huge open source collection of free themes for Bootstrap 5]]></title>
         <id>https://www.bootstarters.com/</id>
@@ -485,16 +495,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
 The post 27 Best Nostalgia Retro 80s Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A drogerie website redesign]]></title>
-        <id>https://www.designernews.co/stories/115937-a-drogerie-website-redesign</id>
-        <link href="https://www.designernews.co/stories/115937-a-drogerie-website-redesign"/>
-        <updated>2021-06-08T16:39:52.000Z</updated>
-        <summary type="html"><![CDATA[https://www.behance.net/gallery/120714471/Rossmann-Website-redesign]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
