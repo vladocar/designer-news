@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-10T23:00:32.065Z</id>
+    <id>urn:2021-06-11T00:09:58.690Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T23:00:32.065Z</updated>
+    <updated>2021-06-11T00:09:58.690Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BootStarters - Huge open source collection of free themes for Bootstrap 5]]></title>
+        <id>https://www.bootstarters.com/</id>
+        <link href="http://www.webdesignernews.com/external/bootstarters-huge-open-source-collection-of-free-themes-for-bootstrap-5"/>
+        <updated>2021-06-10T23:37:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.bootstarters.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You use more open source software than you think]]></title>
         <id>https://github.com/readme/unseen-oss</id>
@@ -382,16 +392,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <link href="http://www.webdesignernews.com/external/fixing-contrast-issues-on-your-own-site-and-elsewhere"/>
         <updated>2021-06-09T16:09:36.000Z</updated>
         <summary type="html"><![CDATA[https://www.a11yproject.com/posts/2021-06-07-fixing-contrast-issues-on-your-own-site-and-elsewhere/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The biggest rebrands of the decade have this visionary designer in common]]></title>
-        <id>https://www.fastcompany.com/90644265/the-biggest-rebrands-of-the-decade-have-this-visionary-designer-in-common</id>
-        <link href="http://www.webdesignernews.com/external/the-biggest-rebrands-of-the-decade-have-this-visionary-designer-in-common"/>
-        <updated>2021-06-09T16:08:32.000Z</updated>
-        <summary type="html"><![CDATA[https://www.fastcompany.com/90644265/the-biggest-rebrands-of-the-decade-have-this-visionary-designer-in-common]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
