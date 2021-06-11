@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-11T10:00:42.187Z</id>
+    <id>urn:2021-06-11T11:00:29.294Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T10:00:42.187Z</updated>
+    <updated>2021-06-11T11:00:29.294Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Made With Briefbox Spring 2021]]></title>
+        <id>https://www.designernews.co/stories/116018-made-with-briefbox-spring-2021</id>
+        <link href="https://www.designernews.co/stories/116018-made-with-briefbox-spring-2021"/>
+        <updated>2021-06-11T10:27:20.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.briefbox.me/made-with-briefbox-spring-2021/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[74 illustrated a4 pages about buttons. Free sample]]></title>
         <id>https://www.designernews.co/stories/116016-74-illustrated-a4-pages-about-buttons-free-sample</id>
@@ -482,16 +492,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <link href="https://www.designernews.co/stories/115943-hire-mobile-app-developers"/>
         <updated>2021-06-09T04:39:39.000Z</updated>
         <summary type="html"><![CDATA[https://www.webcluesinfotech.com/hire-dedicated-mobile-app-developers/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an App Like YouTube?]]></title>
-        <id>https://www.designernews.co/stories/115942-how-to-create-an-app-like-youtube</id>
-        <link href="https://www.designernews.co/stories/115942-how-to-create-an-app-like-youtube"/>
-        <updated>2021-06-09T04:13:30.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/how-to-create-a-video-sharing-app-like-youtube/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
