@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-11T13:15:58.538Z</id>
+    <id>urn:2021-06-11T14:00:42.860Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T13:15:58.538Z</updated>
+    <updated>2021-06-11T14:00:42.860Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,9 +16,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Imaging for Science and Life]]></title>
-        <id>https://www.designernews.co/stories/116022-imaging-for-science-and-life</id>
-        <link href="https://www.designernews.co/stories/116022-imaging-for-science-and-life"/>
+        <title type="html"><![CDATA[Imaging for Science and Life: How to Design for a Medical Company?]]></title>
+        <id>https://www.designernews.co/stories/116022-imaging-for-science-and-life-how-to-design-for-a-medical-company</id>
+        <link href="https://www.designernews.co/stories/116022-imaging-for-science-and-life-how-to-design-for-a-medical-company"/>
         <updated>2021-06-11T12:14:44.000Z</updated>
         <summary type="html"><![CDATA[https://www.behance.net/gallery/117354051/Mediso-Portal-and-brand-redesign]]></summary>
         <author>
