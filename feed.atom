@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-11T14:00:42.860Z</id>
+    <id>urn:2021-06-11T15:00:47.882Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T14:00:42.860Z</updated>
+    <updated>2021-06-11T15:00:47.882Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UI Chunks E01 - Buttons - Design system in easy-to-learn chunks & component libraries]]></title>
+        <id>https://gumroad.com/l/uichunks-e01-buttons</id>
+        <link href="http://www.webdesignernews.com/external/ui-chunks-e01-buttons-design-system-in-easy-to-learn-chunks-component-libraries"/>
+        <updated>2021-06-11T14:08:00.000Z</updated>
+        <summary type="html"><![CDATA[https://gumroad.com/l/uichunks-e01-buttons]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adobe reveals a logo for every star sign (and they're all delightful)]]></title>
         <id>https://www.creativebloq.com/news/adobe-star-sign-logos</id>
@@ -412,16 +422,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <link href="http://www.webdesignernews.com/external/11-secret-tips-for-firefox-that-will-make-you-an-internet-pro"/>
         <updated>2021-06-09T22:46:09.000Z</updated>
         <summary type="html"><![CDATA[https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Announces Native Apple Silicon Versions of Illustrator and InDesign]]></title>
-        <id>https://blog.adobe.com/en/publish/2021/06/08/illustrator-indesign-run-natively-apple-silicon-m1.html</id>
-        <link href="http://www.webdesignernews.com/external/adobe-announces-native-apple-silicon-versions-of-illustrator-and-indesign"/>
-        <updated>2021-06-09T22:11:34.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.adobe.com/en/publish/2021/06/08/illustrator-indesign-run-natively-apple-silicon-m1.html]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
