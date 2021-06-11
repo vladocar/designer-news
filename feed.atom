@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-11T15:00:47.882Z</id>
+    <id>urn:2021-06-11T16:06:57.854Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T15:00:47.882Z</updated>
+    <updated>2021-06-11T16:06:57.854Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Akar Icons]]></title>
+        <id>https://akaricons.com/</id>
+        <link href="http://www.webdesignernews.com/external/akar-icons"/>
+        <updated>2021-06-11T15:42:00.000Z</updated>
+        <summary type="html"><![CDATA[https://akaricons.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Fonts with Hearts]]></title>
+        <id>https://www.designinspiration.info/?p=1722</id>
+        <link href="https://www.designinspiration.info/best-fonts-with-hearts/"/>
+        <updated>2021-06-11T15:30:47.000Z</updated>
+        <summary type="html"><![CDATA[A list with the best fonts with hearts for graphic designers who want to make heart designs. Hearts are used in many occasions like for Valentines day design, in fashion design anywhere hearts fit the design. Hearts can be also used in typographic or creative designs and invitations etc. I’ve
+The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: Making Use Of Audio]]></title>
+        <id>https://smashingmagazine.com/2021/06/web-design-done-well-audio/</id>
+        <link href="https://smashingmagazine.com/2021/06/web-design-done-well-audio/"/>
+        <updated>2021-06-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UI Chunks E01 - Buttons - Design system in easy-to-learn chunks & component libraries]]></title>
         <id>https://gumroad.com/l/uichunks-e01-buttons</id>
@@ -417,16 +448,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[11 secret tips for Firefox that will make you an internet pro]]></title>
-        <id>https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/</id>
-        <link href="http://www.webdesignernews.com/external/11-secret-tips-for-firefox-that-will-make-you-an-internet-pro"/>
-        <updated>2021-06-09T22:46:09.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Plott.so - Very minimal inline editor + page builder (made in 1 day to practice #nocode)]]></title>
         <id>https://www.designernews.co/stories/115959-plottso--very-minimal-inline-editor--page-builder-made-in-1-day-to-practice-nocode</id>
         <link href="https://www.designernews.co/stories/115959-plottso--very-minimal-inline-editor--page-builder-made-in-1-day-to-practice-nocode"/>
@@ -670,17 +691,6 @@ The post 26 Best Block Fonts appeared first on Design Inspiration.]]></summary>
         <updated>2021-05-29T22:26:31.000Z</updated>
         <summary type="html"><![CDATA[If you’re looking for a cool new font for a project or just love vaporware design, this list of the best vaporwave fonts will help you find exactly what you need. The Vaporwave art movement has started in early the 2010s. It is a visual arts movement linked to VHS
 The post 16 Best Vaporwave Fonts appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27 Best Gaming Arcade Fonts]]></title>
-        <id>https://www.designinspiration.info/?p=2662</id>
-        <link href="https://www.designinspiration.info/gaming-arcade-fonts/"/>
-        <updated>2021-05-29T00:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Arcade fonts are just the icing on the cake when it comes to designing a vintage layout and an arcade game. But, what you may not know is that video games often have their own individual font, which in most cases are in a pixel style. Gamers, designers and artists
-The post 27 Best Gaming Arcade Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
         </author>
