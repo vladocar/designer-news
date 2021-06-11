@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-11T17:22:05.440Z</id>
+    <id>urn:2021-06-11T18:06:09.988Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T17:22:05.440Z</updated>
+    <updated>2021-06-11T18:06:09.988Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Auxl - A whole new way to organize, test, and develop APIs]]></title>
+        <id>https://auxl.io/</id>
+        <link href="http://www.webdesignernews.com/external/auxl-a-whole-new-way-to-organize-test-and-develop-apis"/>
+        <updated>2021-06-11T17:27:00.000Z</updated>
+        <summary type="html"><![CDATA[https://auxl.io/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: Fast CDN, Cheap CDN, Good CDN, Pick Any One?]]></title>
         <id>https://www.webdesignerdepot.com/2021/06/poll-fast-cdn-cheap-cdn-good-cdn-pick-any-one/</id>
@@ -383,16 +393,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <link href="http://www.webdesignernews.com/external/100-resources-on-gpt-3-videos-tutorials-code-no-code-resources-on-gpt-3"/>
         <updated>2021-06-10T09:25:41.000Z</updated>
         <summary type="html"><![CDATA[https://gumroad.com/l/wiSvc]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Practices for Fonts]]></title>
-        <id>https://web.dev/font-best-practices/</id>
-        <link href="http://www.webdesignernews.com/external/best-practices-for-fonts"/>
-        <updated>2021-06-10T09:25:24.000Z</updated>
-        <summary type="html"><![CDATA[https://web.dev/font-best-practices/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
