@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-11T16:06:57.854Z</id>
+    <id>urn:2021-06-11T17:22:05.440Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T16:06:57.854Z</updated>
+    <updated>2021-06-11T17:22:05.440Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Poll: Fast CDN, Cheap CDN, Good CDN, Pick Any One?]]></title>
+        <id>https://www.webdesignerdepot.com/2021/06/poll-fast-cdn-cheap-cdn-good-cdn-pick-any-one/</id>
+        <link href="http://www.webdesignernews.com/external/poll-fast-cdn-cheap-cdn-good-cdn-pick-any-one"/>
+        <updated>2021-06-11T16:39:48.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/poll-fast-cdn-cheap-cdn-good-cdn-pick-any-one/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Akar Icons]]></title>
         <id>https://akaricons.com/</id>
@@ -435,16 +445,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <summary type="html"><![CDATA[https://drawer.design/blog/visual-design-principles-in-ux/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woocommerce?s integration with Google Shopping is now live]]></title>
-        <id>https://searchengineland.com/woocommerces-integration-with-google-shopping-is-now-live-349426</id>
-        <link href="http://www.webdesignernews.com/external/woocommerce-s-integration-with-google-shopping-is-now-live"/>
-        <updated>2021-06-09T23:44:00.000Z</updated>
-        <summary type="html"><![CDATA[https://searchengineland.com/woocommerces-integration-with-google-shopping-is-now-live-349426]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
