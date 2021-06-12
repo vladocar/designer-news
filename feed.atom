@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-12T15:01:04.930Z</id>
+    <id>urn:2021-06-12T16:06:18.810Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T15:01:04.930Z</updated>
+    <updated>2021-06-12T16:06:18.810Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kopia ? Fast and Secure Open-Source Backup]]></title>
+        <id>https://kopia.io/</id>
+        <link href="http://www.webdesignernews.com/external/kopia-fast-and-secure-open-source-backup"/>
+        <updated>2021-06-12T15:16:00.000Z</updated>
+        <summary type="html"><![CDATA[https://kopia.io/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Colors - Dive into the world of colors, and get excited]]></title>
         <id>https://colors.tools/</id>
@@ -272,16 +282,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         <link href="http://www.webdesignernews.com/external/you-use-more-open-source-software-than-you-think"/>
         <updated>2021-06-10T21:27:00.000Z</updated>
         <summary type="html"><![CDATA[https://github.com/readme/unseen-oss]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typomotion - Just add text and get kinetic typography video in minutes]]></title>
-        <id>https://tyle.io/typomotion/landing</id>
-        <link href="http://www.webdesignernews.com/external/typomotion-just-add-text-and-get-kinetic-typography-video-in-minutes"/>
-        <updated>2021-06-10T20:34:00.000Z</updated>
-        <summary type="html"><![CDATA[https://tyle.io/typomotion/landing]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
