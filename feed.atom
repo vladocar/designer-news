@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-12T12:00:42.812Z</id>
+    <id>urn:2021-06-12T13:14:51.059Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T12:00:42.812Z</updated>
+    <updated>2021-06-12T13:14:51.059Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[6 SEO Factors to Consider in Web Design]]></title>
+        <id>https://www.business2community.com/web-design/6-seo-factors-to-consider-in-web-design-02411825</id>
+        <link href="http://www.webdesignernews.com/external/6-seo-factors-to-consider-in-web-design"/>
+        <updated>2021-06-12T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.business2community.com/web-design/6-seo-factors-to-consider-in-web-design-02411825]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How UX/UI designers should write a design proposal]]></title>
+        <id>https://www.uxpin.com/studio/blog/how-ux-ui-designers-should-write-a-design-proposal/</id>
+        <link href="http://www.webdesignernews.com/external/how-ux-ui-designers-should-write-a-design-proposal"/>
+        <updated>2021-06-12T12:51:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/how-ux-ui-designers-should-write-a-design-proposal/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Design Done Well: Making Use Of Audio]]></title>
         <id>https://www.smashingmagazine.com/2021/06/web-design-done-well-audio/</id>
@@ -262,26 +282,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         <link href="http://www.webdesignernews.com/external/6-self-care-tips-every-remote-worker-needs-for-wfh-success"/>
         <updated>2021-06-10T18:47:00.000Z</updated>
         <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/10/6-self-care-tips-every-remote-worker-needs-for-wfh-success]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet :has, A Native CSS Parent Selector (And More)]]></title>
-        <id>https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
-        <link href="http://www.webdesignernews.com/external/meet-code-has-code-a-native-css-parent-selector-and-more"/>
-        <updated>2021-06-10T17:41:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Your Landing Pages Look Like a Design Team Was Behind It]]></title>
-        <id>https://inonesnap.medium.com/unprofessional-landing-pages-how-to-make-your-pages-look-like-a-design-team-was-behind-it-50868ed524fb</id>
-        <link href="http://www.webdesignernews.com/external/how-to-make-your-landing-pages-look-like-a-design-team-was-behind-it"/>
-        <updated>2021-06-10T16:11:00.000Z</updated>
-        <summary type="html"><![CDATA[https://inonesnap.medium.com/unprofessional-landing-pages-how-to-make-your-pages-look-like-a-design-team-was-behind-it-50868ed524fb]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
