@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-12T19:05:11.580Z</id>
+    <id>urn:2021-06-12T20:00:54.090Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T19:05:11.580Z</updated>
+    <updated>2021-06-12T20:00:54.090Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[All the Ways You Can Vertically Center Content in CSS]]></title>
+        <id>https://livecodestream.dev/post/all-the-ways-you-can-vertically-center-content-in-css/</id>
+        <link href="http://www.webdesignernews.com/external/all-the-ways-you-can-vertically-center-content-in-css"/>
+        <updated>2021-06-12T19:12:00.000Z</updated>
+        <summary type="html"><![CDATA[https://livecodestream.dev/post/all-the-ways-you-can-vertically-center-content-in-css/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kopia ? Fast and Secure Open-Source Backup]]></title>
         <id>https://kopia.io/</id>
@@ -272,16 +282,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         <link href="http://www.webdesignernews.com/external/bootstarters-huge-open-source-collection-of-free-themes-for-bootstrap-5"/>
         <updated>2021-06-10T23:37:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.bootstarters.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You use more open source software than you think]]></title>
-        <id>https://github.com/readme/unseen-oss</id>
-        <link href="http://www.webdesignernews.com/external/you-use-more-open-source-software-than-you-think"/>
-        <updated>2021-06-10T21:27:00.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/readme/unseen-oss]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
