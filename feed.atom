@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-12T11:00:45.908Z</id>
+    <id>urn:2021-06-12T12:00:42.812Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T11:00:45.908Z</updated>
+    <updated>2021-06-12T12:00:42.812Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: Making Use Of Audio]]></title>
+        <id>https://www.smashingmagazine.com/2021/06/web-design-done-well-audio/</id>
+        <link href="http://www.webdesignernews.com/external/web-design-done-well-making-use-of-audio"/>
+        <updated>2021-06-12T11:04:37.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/web-design-done-well-audio/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Website Design Mockup: Pitch Your Ideas the Best Way]]></title>
+        <id>https://codegeekz.com/website-design-mockup-pitch-your-ideas-the-best-way/</id>
+        <link href="http://www.webdesignernews.com/external/website-design-mockup-pitch-your-ideas-the-best-way"/>
+        <updated>2021-06-12T11:03:59.000Z</updated>
+        <summary type="html"><![CDATA[https://codegeekz.com/website-design-mockup-pitch-your-ideas-the-best-way/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NoCode Revolution - See how NoCode is spreading around the world]]></title>
+        <id>https://www.spacebarcounter.net/no-code-revolution</id>
+        <link href="http://www.webdesignernews.com/external/nocode-revolution-see-how-nocode-is-spreading-around-the-world"/>
+        <updated>2021-06-12T11:01:28.000Z</updated>
+        <summary type="html"><![CDATA[https://www.spacebarcounter.net/no-code-revolution]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Tips for JavaScript 2021 to write optimized code]]></title>
         <id>https://www.designernews.co/stories/116027-4-tips-for-javascript-2021-to-write-optimized-code</id>
@@ -267,16 +297,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What the Fastly outage can teach us about writing error messages]]></title>
-        <id>https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages</id>
-        <link href="http://www.webdesignernews.com/external/what-the-fastly-outage-can-teach-us-about-writing-error-messages"/>
-        <updated>2021-06-10T14:56:00.000Z</updated>
-        <summary type="html"><![CDATA[https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Business of Design: Balancing Creativity and Profitability]]></title>
         <id>https://www.designernews.co/stories/115996-the-business-of-design-balancing-creativity-and-profitability</id>
         <link href="https://www.designernews.co/stories/115996-the-business-of-design-balancing-creativity-and-profitability"/>
@@ -294,16 +314,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         <summary type="html"><![CDATA[https://gumroad.com/a/43717747/EiVkk]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Material Tailwind Kit React - Free Tailwind CSS & React UI Kit]]></title>
-        <id>https://www.creative-tim.com/product/material-tailwind-kit-react</id>
-        <link href="http://www.webdesignernews.com/external/material-tailwind-kit-react-free-tailwind-css-react-ui-kit"/>
-        <updated>2021-06-10T12:06:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.creative-tim.com/product/material-tailwind-kit-react]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -405,16 +415,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <summary type="html"><![CDATA[https://blog.tmetric.com/25-simple-rules-for-maximum-productivity/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Plugin Acquisitions: What They Say About the Future]]></title>
-        <id>https://speckyboy.com/wordpress-plugin-acquisitions/</id>
-        <link href="http://www.webdesignernews.com/external/wordpress-plugin-acquisitions-what-they-say-about-the-future"/>
-        <updated>2021-06-10T09:26:50.000Z</updated>
-        <summary type="html"><![CDATA[https://speckyboy.com/wordpress-plugin-acquisitions/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
