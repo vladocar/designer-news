@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-12T14:00:40.159Z</id>
+    <id>urn:2021-06-12T15:01:04.930Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T14:00:40.159Z</updated>
+    <updated>2021-06-12T15:01:04.930Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Colors - Dive into the world of colors, and get excited]]></title>
+        <id>https://colors.tools/</id>
+        <link href="http://www.webdesignernews.com/external/colors-dive-into-the-world-of-colors-and-get-excited"/>
+        <updated>2021-06-12T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[https://colors.tools/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6 SEO Factors to Consider in Web Design]]></title>
         <id>https://www.business2community.com/web-design/6-seo-factors-to-consider-in-web-design-02411825</id>
@@ -272,16 +282,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         <link href="http://www.webdesignernews.com/external/typomotion-just-add-text-and-get-kinetic-typography-video-in-minutes"/>
         <updated>2021-06-10T20:34:00.000Z</updated>
         <summary type="html"><![CDATA[https://tyle.io/typomotion/landing]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 self-care tips every remote worker needs for WFH success]]></title>
-        <id>https://dribbble.com/stories/2021/06/10/6-self-care-tips-every-remote-worker-needs-for-wfh-success</id>
-        <link href="http://www.webdesignernews.com/external/6-self-care-tips-every-remote-worker-needs-for-wfh-success"/>
-        <updated>2021-06-10T18:47:00.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/10/6-self-care-tips-every-remote-worker-needs-for-wfh-success]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
