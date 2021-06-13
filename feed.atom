@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-13T20:00:35.456Z</id>
+    <id>urn:2021-06-13T21:00:44.143Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T20:00:35.456Z</updated>
+    <updated>2021-06-13T21:00:44.143Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PHP isset() vs empty() vs is_null()]]></title>
+        <id>https://code.tutsplus.com/tutorials/php-isset-vs-empty-vs-is_null--cms-37162</id>
+        <link href="http://www.webdesignernews.com/external/php-isset-vs-empty-vs-is_null"/>
+        <updated>2021-06-13T20:55:00.000Z</updated>
+        <summary type="html"><![CDATA[https://code.tutsplus.com/tutorials/php-isset-vs-empty-vs-is_null--cms-37162]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Component-Specific Design Tokens]]></title>
         <id>https://cloudfour.com/thinks/component-specific-design-tokens/</id>
@@ -243,16 +253,6 @@ The post 43 Best Fancy Fonts for Your Gorgeous Designs appeared first on Design 
         <link href="http://www.webdesignernews.com/external/auxl-a-whole-new-way-to-organize-test-and-develop-apis"/>
         <updated>2021-06-11T17:27:00.000Z</updated>
         <summary type="html"><![CDATA[https://auxl.io/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poll: Fast CDN, Cheap CDN, Good CDN, Pick Any One?]]></title>
-        <id>https://www.webdesignerdepot.com/2021/06/poll-fast-cdn-cheap-cdn-good-cdn-pick-any-one/</id>
-        <link href="http://www.webdesignernews.com/external/poll-fast-cdn-cheap-cdn-good-cdn-pick-any-one"/>
-        <updated>2021-06-11T16:39:48.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/poll-fast-cdn-cheap-cdn-good-cdn-pick-any-one/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
