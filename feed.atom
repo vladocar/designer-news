@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-13T06:00:28.836Z</id>
+    <id>urn:2021-06-13T07:06:36.748Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T06:00:28.836Z</updated>
+    <updated>2021-06-13T07:06:36.748Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[11 Best Gifts For Developers/ Coders/ Programmers]]></title>
+        <id>https://www.designernews.co/stories/116030-11-best-gifts-for-developers-coders-programmers</id>
+        <link href="https://www.designernews.co/stories/116030-11-best-gifts-for-developers-coders-programmers"/>
+        <updated>2021-06-13T07:03:00.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/11-best-gifts-for-developerscodersprogr.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[43 Best Fancy Fonts for Your Gorgeous Designs]]></title>
         <id>https://www.designinspiration.info/?p=3012</id>
@@ -514,16 +524,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <link href="https://www.designernews.co/stories/115951-7-best-webcams-for-programmers-coders-developers-zoom-meetings-teaching-online-classes"/>
         <updated>2021-06-09T10:21:06.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/7-best-webcams-for-programmers-coders.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Git Commands with Examples]]></title>
-        <id>https://www.designernews.co/stories/115948-top-git-commands-with-examples</id>
-        <link href="https://www.designernews.co/stories/115948-top-git-commands-with-examples"/>
-        <updated>2021-06-09T07:59:12.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/top-git-commands-with-examples]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
