@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-13T15:00:41.768Z</id>
+    <id>urn:2021-06-13T16:06:23.058Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T15:00:41.768Z</updated>
+    <updated>2021-06-13T16:06:23.058Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Does the Hamburger Menu Make Mincemeat of UX Design?]]></title>
+        <id>https://www.uxpin.com/studio/blog/hamburger-menu-and-ux-design/</id>
+        <link href="http://www.webdesignernews.com/external/does-the-hamburger-menu-make-mincemeat-of-ux-design"/>
+        <updated>2021-06-13T15:34:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/hamburger-menu-and-ux-design/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bootstrap Builder - Extensive dashboard design system built with Bootstrap 5]]></title>
         <id>https://dlex.io/nile-dashboard/html/</id>
@@ -266,16 +276,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         <summary type="html"><![CDATA[Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI Chunks E01 - Buttons - Design system in easy-to-learn chunks & component libraries]]></title>
-        <id>https://gumroad.com/l/uichunks-e01-buttons</id>
-        <link href="http://www.webdesignernews.com/external/ui-chunks-e01-buttons-design-system-in-easy-to-learn-chunks-component-libraries"/>
-        <updated>2021-06-11T14:08:00.000Z</updated>
-        <summary type="html"><![CDATA[https://gumroad.com/l/uichunks-e01-buttons]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
