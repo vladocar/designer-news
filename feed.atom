@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-13T12:00:53.588Z</id>
+    <id>urn:2021-06-13T13:16:09.739Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T12:00:53.588Z</updated>
+    <updated>2021-06-13T13:16:09.739Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lambify - Build your AWS Lambda Layer in a few clicks]]></title>
+        <id>https://lambify.app/</id>
+        <link href="http://www.webdesignernews.com/external/lambify-build-your-aws-lambda-layer-in-a-few-clicks"/>
+        <updated>2021-06-13T13:08:00.000Z</updated>
+        <summary type="html"><![CDATA[https://lambify.app/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17 Best Zombie Fonts]]></title>
+        <id>https://www.designinspiration.info/?p=3022</id>
+        <link href="https://www.designinspiration.info/zombie-fonts/"/>
+        <updated>2021-06-13T12:46:48.000Z</updated>
+        <summary type="html"><![CDATA[If you are looking for zombie fonts for your Halloween designs, this article is for you. We have some scary zombie fonts for you! You probably saw lots of designs related to the walking dead. In this post you will find the coolest typefaces of this popular thematic style. Zombie
+The post 17 Best Zombie Fonts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Shadows to SVG Icons With CSS and SVG Filters]]></title>
+        <id>https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/</id>
+        <link href="http://www.webdesignernews.com/external/adding-shadows-to-svg-icons-with-css-and-svg-filters"/>
+        <updated>2021-06-13T12:43:58.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perfection in Design: Why It?s a Bad Idea]]></title>
+        <id>https://www.hongkiat.com/blog/perfection-in-design-why-its-a-bad-idea/</id>
+        <link href="http://www.webdesignernews.com/external/perfection-in-design-why-it-s-a-bad-idea"/>
+        <updated>2021-06-13T12:43:58.000Z</updated>
+        <summary type="html"><![CDATA[https://www.hongkiat.com/blog/perfection-in-design-why-its-a-bad-idea/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scarlet illustrations - Abstract and surreal illustrations for web]]></title>
+        <id>https://www.getillustrations.com/illustration-pack/scarlet-surrealism-illustrations</id>
+        <link href="http://www.webdesignernews.com/external/scarlet-illustrations-abstract-and-surreal-illustrations-for-web"/>
+        <updated>2021-06-13T12:43:32.000Z</updated>
+        <summary type="html"><![CDATA[https://www.getillustrations.com/illustration-pack/scarlet-surrealism-illustrations]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 landing page design tips]]></title>
+        <id>https://www.designyourway.net/blog/misc/11-landing-page-design-tips-you-should-follow-today/</id>
+        <link href="http://www.webdesignernews.com/external/11-landing-page-design-tips"/>
+        <updated>2021-06-13T12:43:17.000Z</updated>
+        <summary type="html"><![CDATA[https://www.designyourway.net/blog/misc/11-landing-page-design-tips-you-should-follow-today/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11 Best Gifts For Developers/ Coders/ Programmers]]></title>
         <id>https://www.designernews.co/stories/116030-11-best-gifts-for-developers-coders-programmers</id>
@@ -248,46 +309,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[13 Inspiring Graphic Design Trends For 2021]]></title>
-        <id>https://www.vectornator.io/blog/graphic-design-trends</id>
-        <link href="http://www.webdesignernews.com/external/13-inspiring-graphic-design-trends-for-2021"/>
-        <updated>2021-06-11T08:49:41.000Z</updated>
-        <summary type="html"><![CDATA[https://www.vectornator.io/blog/graphic-design-trends]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Link shorteners: why you shouldn't use them]]></title>
-        <id>https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/</id>
-        <link href="http://www.webdesignernews.com/external/link-shorteners-why-you-shouldn-t-use-them"/>
-        <updated>2021-06-11T08:49:26.000Z</updated>
-        <summary type="html"><![CDATA[https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Front-End Auditing Tools I Discovered Recently]]></title>
-        <id>https://www.smashingmagazine.com/2021/06/three-frontend-auditing-tools/</id>
-        <link href="http://www.webdesignernews.com/external/three-front-end-auditing-tools-i-discovered-recently"/>
-        <updated>2021-06-11T08:49:10.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/three-frontend-auditing-tools/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy Analysis of FLoC]]></title>
-        <id>https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/</id>
-        <link href="http://www.webdesignernews.com/external/privacy-analysis-of-floc"/>
-        <updated>2021-06-11T08:39:04.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hire App Developers - iOS & Android]]></title>
         <id>https://www.designernews.co/stories/116008-hire-app-developers--ios--android-</id>
         <link href="https://www.designernews.co/stories/116008-hire-app-developers--ios--android-"/>
@@ -295,16 +316,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         <summary type="html"><![CDATA[https://www.webcluesinfotech.com/hire-dedicated-mobile-app-developers/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BootStarters - Huge open source collection of free themes for Bootstrap 5]]></title>
-        <id>https://www.bootstarters.com/</id>
-        <link href="http://www.webdesignernews.com/external/bootstarters-huge-open-source-collection-of-free-themes-for-bootstrap-5"/>
-        <updated>2021-06-10T23:37:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.bootstarters.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -680,17 +691,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         <updated>2021-05-31T10:44:45.000Z</updated>
         <summary type="html"><![CDATA[Low fidelity wireframes are sketches of the page layout and the basic navigation. The goal of a low fidelity wireframe is to give you a general sense of the hierarchy of information, the placement of major components on the screen, and the general flow of interaction. Below are a few
 The post Free Figma (Low Fidelity) Hand Drawn Wireframe Kit appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[26 Best Block Fonts]]></title>
-        <id>https://www.designinspiration.info/?p=2295</id>
-        <link href="https://www.designinspiration.info/block-fonts/"/>
-        <updated>2021-05-30T22:16:18.000Z</updated>
-        <summary type="html"><![CDATA[Block type is one of the key factors that can make any design stand out. Although this can be quite subjective based on the designer’s taste and approach, we’ve collected some of the best block fonts that might interest you. A lot of designers said that block fonts are really
-The post 26 Best Block Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
         </author>
