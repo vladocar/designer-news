@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-12T23:00:58.345Z</id>
+    <id>urn:2021-06-13T00:11:46.348Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T23:00:58.345Z</updated>
+    <updated>2021-06-13T00:11:46.348Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[43 Best Fancy Fonts for Your Gorgeous Designs]]></title>
+        <id>https://www.designinspiration.info/?p=3012</id>
+        <link href="https://www.designinspiration.info/fancy-fonts/"/>
+        <updated>2021-06-12T23:13:37.000Z</updated>
+        <summary type="html"><![CDATA[This is a list of the best amazing fancy fonts that can be used in any graphic design. We’ve collected some fancy handwritten fonts that are elegant and perfect for wedding invitations, invitations, logos, and so on. Big collection of fancy fonts. As for me, the best font is the
+The post 43 Best Fancy Fonts for Your Gorgeous Designs appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All the Ways You Can Vertically Center Content in CSS]]></title>
         <id>https://livecodestream.dev/post/all-the-ways-you-can-vertically-center-content-in-css/</id>
@@ -680,17 +691,6 @@ The post Free Figma (Low Fidelity) Hand Drawn Wireframe Kit appeared first on De
         <updated>2021-05-30T22:16:18.000Z</updated>
         <summary type="html"><![CDATA[Block type is one of the key factors that can make any design stand out. Although this can be quite subjective based on the designer’s taste and approach, we’ve collected some of the best block fonts that might interest you. A lot of designers said that block fonts are really
 The post 26 Best Block Fonts appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16 Best Vaporwave Fonts]]></title>
-        <id>https://www.designinspiration.info/?p=1965</id>
-        <link href="https://www.designinspiration.info/vaporwave-fonts/"/>
-        <updated>2021-05-29T22:26:31.000Z</updated>
-        <summary type="html"><![CDATA[If you’re looking for a cool new font for a project or just love vaporware design, this list of the best vaporwave fonts will help you find exactly what you need. The Vaporwave art movement has started in early the 2010s. It is a visual arts movement linked to VHS
-The post 16 Best Vaporwave Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
         </author>
