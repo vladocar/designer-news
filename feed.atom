@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-13T19:05:00.166Z</id>
+    <id>urn:2021-06-13T20:00:35.456Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T19:05:00.166Z</updated>
+    <updated>2021-06-13T20:00:35.456Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Component-Specific Design Tokens]]></title>
+        <id>https://cloudfour.com/thinks/component-specific-design-tokens/</id>
+        <link href="http://www.webdesignernews.com/external/component-specific-design-tokens"/>
+        <updated>2021-06-13T19:22:00.000Z</updated>
+        <summary type="html"><![CDATA[https://cloudfour.com/thinks/component-specific-design-tokens/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Does the Hamburger Menu Make Mincemeat of UX Design?]]></title>
         <id>https://www.uxpin.com/studio/blog/hamburger-menu-and-ux-design/</id>
@@ -243,16 +253,6 @@ The post 43 Best Fancy Fonts for Your Gorgeous Designs appeared first on Design 
         <link href="http://www.webdesignernews.com/external/poll-fast-cdn-cheap-cdn-good-cdn-pick-any-one"/>
         <updated>2021-06-11T16:39:48.000Z</updated>
         <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/poll-fast-cdn-cheap-cdn-good-cdn-pick-any-one/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akar Icons]]></title>
-        <id>https://akaricons.com/</id>
-        <link href="http://www.webdesignernews.com/external/akar-icons"/>
-        <updated>2021-06-11T15:42:00.000Z</updated>
-        <summary type="html"><![CDATA[https://akaricons.com/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
