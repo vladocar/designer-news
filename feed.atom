@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-13T21:00:44.143Z</id>
+    <id>urn:2021-06-13T22:00:44.259Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T21:00:44.143Z</updated>
+    <updated>2021-06-13T22:00:44.259Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[WordPress 5.8 Introduces Support for WebP Images]]></title>
+        <id>https://wptavern.com/wordpress-5-8-introduces-support-for-webp-images</id>
+        <link href="http://www.webdesignernews.com/external/wordpress-5-8-introduces-support-for-webp-images"/>
+        <updated>2021-06-13T21:42:00.000Z</updated>
+        <summary type="html"><![CDATA[https://wptavern.com/wordpress-5-8-introduces-support-for-webp-images]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHP isset() vs empty() vs is_null()]]></title>
         <id>https://code.tutsplus.com/tutorials/php-isset-vs-empty-vs-is_null--cms-37162</id>
@@ -243,16 +253,6 @@ The post 43 Best Fancy Fonts for Your Gorgeous Designs appeared first on Design 
         <link href="http://www.webdesignernews.com/external/everything-you-should-know-about-bootstrap-5"/>
         <updated>2021-06-11T18:58:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.zenesys.com/blog/everything-you-should-know-about-bootstrap-5]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auxl - A whole new way to organize, test, and develop APIs]]></title>
-        <id>https://auxl.io/</id>
-        <link href="http://www.webdesignernews.com/external/auxl-a-whole-new-way-to-organize-test-and-develop-apis"/>
-        <updated>2021-06-11T17:27:00.000Z</updated>
-        <summary type="html"><![CDATA[https://auxl.io/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
