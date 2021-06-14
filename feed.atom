@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-14T18:02:45.077Z</id>
+    <id>urn:2021-06-14T19:03:44.094Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T18:02:45.077Z</updated>
+    <updated>2021-06-14T19:03:44.094Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tom Hingston creates an elastic typographic identity for the V&A?s Alice in Wonderland show]]></title>
+        <id>https://www.itsnicethat.com/news/tom-hingston-victoria-and-albert-museum-curiouser-and-curiouser-graphic-design-140621</id>
+        <link href="http://www.webdesignernews.com/external/tom-hingston-creates-an-elastic-typographic-identity-for-the-v-a-s-alice-in-wonderland-show"/>
+        <updated>2021-06-14T18:26:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.itsnicethat.com/news/tom-hingston-victoria-and-albert-museum-curiouser-and-curiouser-graphic-design-140621]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scenarios Where WordPress May Not Be the Best Option]]></title>
         <id>https://speckyboy.com/wordpress-may-not-be-the-best-option/</id>
@@ -334,16 +344,6 @@ The post 43 Best Fancy Fonts for Your Gorgeous Designs appeared first on Design 
         <link href="http://www.webdesignernews.com/external/kopia-fast-and-secure-open-source-backup"/>
         <updated>2021-06-12T15:16:00.000Z</updated>
         <summary type="html"><![CDATA[https://kopia.io/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colors - Dive into the world of colors, and get excited]]></title>
-        <id>https://colors.tools/</id>
-        <link href="http://www.webdesignernews.com/external/colors-dive-into-the-world-of-colors-and-get-excited"/>
-        <updated>2021-06-12T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[https://colors.tools/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
