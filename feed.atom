@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-14T21:00:38.352Z</id>
+    <id>urn:2021-06-14T22:00:43.649Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T21:00:38.352Z</updated>
+    <updated>2021-06-14T22:00:43.649Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[7.css - A CSS framework for recreating Windows 7 UI]]></title>
+        <id>https://khang-nd.github.io/7.css/</id>
+        <link href="http://www.webdesignernews.com/external/7-css-a-css-framework-for-recreating-windows-7-ui"/>
+        <updated>2021-06-14T21:07:00.000Z</updated>
+        <summary type="html"><![CDATA[https://khang-nd.github.io/7.css/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 Best Circus Fonts]]></title>
+        <id>https://www.designinspiration.info/?p=3061</id>
+        <link href="https://www.designinspiration.info/circus-fonts/"/>
+        <updated>2021-06-14T21:04:32.000Z</updated>
+        <summary type="html"><![CDATA[What to create circus themed designs? We have created a large list of the top Circus Fonts. Dances, stories, posters, boards or just a spectacle of lines. You can use them to create circus posters, magazine covers or invitations. We’ve prepared an interesting list of the best circus fonts to
+The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Predesign - Create hand-drawn designs with printable device mockups]]></title>
         <id>https://predesign.me/</id>
@@ -339,16 +360,6 @@ The post 43 Best Fancy Fonts for Your Gorgeous Designs appeared first on Design 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All the Ways You Can Vertically Center Content in CSS]]></title>
-        <id>https://livecodestream.dev/post/all-the-ways-you-can-vertically-center-content-in-css/</id>
-        <link href="http://www.webdesignernews.com/external/all-the-ways-you-can-vertically-center-content-in-css"/>
-        <updated>2021-06-12T19:12:00.000Z</updated>
-        <summary type="html"><![CDATA[https://livecodestream.dev/post/all-the-ways-you-can-vertically-center-content-in-css/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[4 Tips for JavaScript 2021 to write optimized code]]></title>
         <id>https://www.designernews.co/stories/116027-4-tips-for-javascript-2021-to-write-optimized-code</id>
         <link href="https://www.designernews.co/stories/116027-4-tips-for-javascript-2021-to-write-optimized-code"/>
@@ -642,17 +653,6 @@ The post 38 Best Bold Fonts for Impactful Designs appeared first on Design Inspi
         <summary type="html"><![CDATA[Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Shawn Wildermuth)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[36 Best Whimsical Fonts for Your Fabulous Designs]]></title>
-        <id>https://www.designinspiration.info/?p=2840</id>
-        <link href="https://www.designinspiration.info/whimsical-fonts/"/>
-        <updated>2021-06-03T00:10:33.000Z</updated>
-        <summary type="html"><![CDATA[What is a whimsical font? Basically, it is a simple and eye-catching font that can be used in a variety of designs. We’ve found a number of beautiful whimsical fonts for you to use in your designs. You can find a variety of whimsical fonts in this collection. Whimsical designs
-The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
