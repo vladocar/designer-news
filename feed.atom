@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-14T14:01:27.617Z</id>
+    <id>urn:2021-06-14T15:00:51.376Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T14:01:27.617Z</updated>
+    <updated>2021-06-14T15:00:51.376Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Designers, remember: your portfolio is a part of your portfolio]]></title>
+        <id>https://uxdesign.cc/designers-remember-your-portfolio-is-a-part-of-your-portfolio-dcf6b8f6b43b</id>
+        <link href="http://www.webdesignernews.com/external/designers-remember-your-portfolio-is-a-part-of-your-portfolio"/>
+        <updated>2021-06-14T14:46:00.000Z</updated>
+        <summary type="html"><![CDATA[https://uxdesign.cc/designers-remember-your-portfolio-is-a-part-of-your-portfolio-dcf6b8f6b43b]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack Community for Developers & Designers]]></title>
+        <id>https://www.designernews.co/stories/116071-slack-community-for-developers--designers</id>
+        <link href="https://www.designernews.co/stories/116071-slack-community-for-developers--designers"/>
+        <updated>2021-06-14T14:45:58.000Z</updated>
+        <summary type="html"><![CDATA[https://dailydevlinks.com/community/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23 Responsive And Lightweight CSS Frameworks]]></title>
+        <id>https://www.designernews.co/stories/116070-23-responsive-and-lightweight-css-frameworks</id>
+        <link href="https://www.designernews.co/stories/116070-23-responsive-and-lightweight-css-frameworks"/>
+        <updated>2021-06-14T14:39:43.000Z</updated>
+        <summary type="html"><![CDATA[https://www.lambdatest.com/blog/responsive-lightweight-css-frameworks/?utm_source=designernews&utm_medium=blog&utm_campaign=PM-14June21&utm_term=organicPosting]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Mistakes Every Designer Makes]]></title>
+        <id>https://www.designernews.co/stories/116068-5-mistakes-every-designer-makes</id>
+        <link href="https://www.designernews.co/stories/116068-5-mistakes-every-designer-makes"/>
+        <updated>2021-06-14T14:10:54.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=CVdOMp_Suwc]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WaveMakers Leadership Program For Young Professionals, Career Changers, Creatives, ...]]></title>
         <id>https://www.designernews.co/stories/116066-wavemakers-leadership-program-for-young-professionals-career-changers-creatives-</id>
@@ -299,16 +339,6 @@ The post 43 Best Fancy Fonts for Your Gorgeous Designs appeared first on Design 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How UX/UI designers should write a design proposal]]></title>
-        <id>https://www.uxpin.com/studio/blog/how-ux-ui-designers-should-write-a-design-proposal/</id>
-        <link href="http://www.webdesignernews.com/external/how-ux-ui-designers-should-write-a-design-proposal"/>
-        <updated>2021-06-12T12:51:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/how-ux-ui-designers-should-write-a-design-proposal/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[4 Tips for JavaScript 2021 to write optimized code]]></title>
         <id>https://www.designernews.co/stories/116027-4-tips-for-javascript-2021-to-write-optimized-code</id>
         <link href="https://www.designernews.co/stories/116027-4-tips-for-javascript-2021-to-write-optimized-code"/>
@@ -460,31 +490,11 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Simplicity Is Beauty]]></title>
-        <id>https://www.designernews.co/stories/115979-simplicity-is-beauty</id>
-        <link href="https://www.designernews.co/stories/115979-simplicity-is-beauty"/>
-        <updated>2021-06-10T10:00:09.000Z</updated>
-        <summary type="html"><![CDATA[https://www.vectornator.io/blog/simplicity-in-design]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[13 Inspiring Graphic Design Trends For 2021]]></title>
         <id>https://www.designernews.co/stories/115978-13-inspiring-graphic-design-trends-for-2021</id>
         <link href="https://www.designernews.co/stories/115978-13-inspiring-graphic-design-trends-for-2021"/>
         <updated>2021-06-10T09:57:21.000Z</updated>
         <summary type="html"><![CDATA[https://www.vectornator.io/blog/graphic-design-trends]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 Famous Graphic Designers & Artists To Follow In 2021]]></title>
-        <id>https://www.designernews.co/stories/115977-11-famous-graphic-designers--artists-to-follow-in-2021</id>
-        <link href="https://www.designernews.co/stories/115977-11-famous-graphic-designers--artists-to-follow-in-2021"/>
-        <updated>2021-06-10T09:54:21.000Z</updated>
-        <summary type="html"><![CDATA[https://www.vectornator.io/blog/famous-graphic-designers]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -498,16 +508,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
 The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Average Penetration Testing Pricing in 2021]]></title>
-        <id>https://www.designernews.co/stories/115976-average-penetration-testing-pricing-in-2021</id>
-        <link href="https://www.designernews.co/stories/115976-average-penetration-testing-pricing-in-2021"/>
-        <updated>2021-06-10T09:46:09.000Z</updated>
-        <summary type="html"><![CDATA[https://u-tor.com/topic/penetration-testing-pricing-in-2021]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>

@@ -103,6 +103,33 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/116071-slack-community-for-developers--designers",
+          "author": null,
+          "description": "https://dailydevlinks.com/community/",
+          "link": "https://www.designernews.co/stories/116071-slack-community-for-developers--designers",
+          "publishedOn": "2021-06-14T14:45:58.000Z",
+          "wordCount": 164,
+          "title": "Slack Community for Developers & Designers"
+        },
+        {
+          "id": "https://www.designernews.co/stories/116070-23-responsive-and-lightweight-css-frameworks",
+          "author": null,
+          "description": "https://www.lambdatest.com/blog/responsive-lightweight-css-frameworks/?utm_source=designernews&utm_medium=blog&utm_campaign=PM-14June21&utm_term=organicPosting",
+          "link": "https://www.designernews.co/stories/116070-23-responsive-and-lightweight-css-frameworks",
+          "publishedOn": "2021-06-14T14:39:43.000Z",
+          "wordCount": 162,
+          "title": "23 Responsive And Lightweight CSS Frameworks"
+        },
+        {
+          "id": "https://www.designernews.co/stories/116068-5-mistakes-every-designer-makes",
+          "author": null,
+          "description": "https://www.youtube.com/watch?v=CVdOMp_Suwc",
+          "link": "https://www.designernews.co/stories/116068-5-mistakes-every-designer-makes",
+          "publishedOn": "2021-06-14T14:10:54.000Z",
+          "wordCount": 158,
+          "title": "5 Mistakes Every Designer Makes"
+        },
+        {
           "id": "https://www.designernews.co/stories/116066-wavemakers-leadership-program-for-young-professionals-career-changers-creatives-",
           "author": null,
           "description": "https://www.linkedin.com/posts/wavemakers-io_join-us-wavemakers-leadership-program-activity-6810143860681928704-cPYy",
@@ -256,15 +283,6 @@
           "title": "Everything you should know about Bootstrap 5"
         },
         {
-          "id": "https://www.designernews.co/stories/115979-simplicity-is-beauty",
-          "author": null,
-          "description": "https://www.vectornator.io/blog/simplicity-in-design",
-          "link": "https://www.designernews.co/stories/115979-simplicity-is-beauty",
-          "publishedOn": "2021-06-10T10:00:09.000Z",
-          "wordCount": 157,
-          "title": "Simplicity Is Beauty"
-        },
-        {
           "id": "https://www.designernews.co/stories/115978-13-inspiring-graphic-design-trends-for-2021",
           "author": null,
           "description": "https://www.vectornator.io/blog/graphic-design-trends",
@@ -272,24 +290,6 @@
           "publishedOn": "2021-06-10T09:57:21.000Z",
           "wordCount": 165,
           "title": "13 Inspiring Graphic Design Trends For 2021"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115977-11-famous-graphic-designers--artists-to-follow-in-2021",
-          "author": null,
-          "description": "https://www.vectornator.io/blog/famous-graphic-designers",
-          "link": "https://www.designernews.co/stories/115977-11-famous-graphic-designers--artists-to-follow-in-2021",
-          "publishedOn": "2021-06-10T09:54:21.000Z",
-          "wordCount": 171,
-          "title": "11 Famous Graphic Designers & Artists To Follow In 2021"
-        },
-        {
-          "id": "https://www.designernews.co/stories/115976-average-penetration-testing-pricing-in-2021",
-          "author": null,
-          "description": "https://u-tor.com/topic/penetration-testing-pricing-in-2021",
-          "link": "https://www.designernews.co/stories/115976-average-penetration-testing-pricing-in-2021",
-          "publishedOn": "2021-06-10T09:46:09.000Z",
-          "wordCount": 161,
-          "title": "Average Penetration Testing Pricing in 2021"
         },
         {
           "id": "https://www.designernews.co/stories/115975-25-simple-rules-for-maximum-productivity",
@@ -354,7 +354,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1582,
+          "wordCount": 1598,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -368,7 +368,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 4858,
+          "wordCount": 4856,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -424,7 +424,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2243,
+          "wordCount": 2198,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -452,7 +452,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3527,
+          "wordCount": 3539,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -480,7 +480,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5371,
+          "wordCount": 5420,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -522,7 +522,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2511,
+          "wordCount": 2527,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -550,7 +550,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3774,
+          "wordCount": 3762,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -592,7 +592,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2155,
+          "wordCount": 2149,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -606,7 +606,7 @@
           "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
           "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
           "publishedOn": "2021-05-25T09:30:00.000Z",
-          "wordCount": 2105,
+          "wordCount": 2103,
           "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f0c69413-365e-4c39-9ee8-ad1d2b44e56b/reduce-font-loading-impact-css-descriptors.jpg",
@@ -620,7 +620,7 @@
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2733,
+          "wordCount": 2735,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d6d809b-0c1a-4074-9eeb-8509dc4d383f/css-container-queries-use-cases-migration-strategies.jpg",
@@ -634,7 +634,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9460,
+          "wordCount": 9476,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -718,7 +718,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2982,
+          "wordCount": 2974,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -733,6 +733,15 @@
       "feedUrl": "http://feeds.feedburner.com/webdesignernews",
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
+        {
+          "id": "https://uxdesign.cc/designers-remember-your-portfolio-is-a-part-of-your-portfolio-dcf6b8f6b43b",
+          "author": null,
+          "description": "https://uxdesign.cc/designers-remember-your-portfolio-is-a-part-of-your-portfolio-dcf6b8f6b43b",
+          "link": "http://www.webdesignernews.com/external/designers-remember-your-portfolio-is-a-part-of-your-portfolio",
+          "publishedOn": "2021-06-14T14:46:00.000Z",
+          "wordCount": 1484,
+          "title": "Designers, remember: your portfolio is a part of your portfolio"
+        },
         {
           "id": "https://isometrica.xyz/",
           "author": null,
@@ -865,7 +874,7 @@
           "description": "https://www.designyourway.net/blog/misc/11-landing-page-design-tips-you-should-follow-today/",
           "link": "http://www.webdesignernews.com/external/11-landing-page-design-tips",
           "publishedOn": "2021-06-13T12:43:17.000Z",
-          "wordCount": 3594,
+          "wordCount": 3565,
           "title": "11 landing page design tips"
         },
         {
@@ -874,7 +883,7 @@
           "description": "https://livecodestream.dev/post/all-the-ways-you-can-vertically-center-content-in-css/",
           "link": "http://www.webdesignernews.com/external/all-the-ways-you-can-vertically-center-content-in-css",
           "publishedOn": "2021-06-12T19:12:00.000Z",
-          "wordCount": null,
+          "wordCount": 1728,
           "title": "All the Ways You Can Vertically Center Content in CSS"
         },
         {
@@ -903,15 +912,6 @@
           "publishedOn": "2021-06-12T13:00:00.000Z",
           "wordCount": 1330,
           "title": "6 SEO Factors to Consider in Web Design"
-        },
-        {
-          "id": "https://www.uxpin.com/studio/blog/how-ux-ui-designers-should-write-a-design-proposal/",
-          "author": null,
-          "description": "https://www.uxpin.com/studio/blog/how-ux-ui-designers-should-write-a-design-proposal/",
-          "link": "http://www.webdesignernews.com/external/how-ux-ui-designers-should-write-a-design-proposal",
-          "publishedOn": "2021-06-12T12:51:00.000Z",
-          "wordCount": 1306,
-          "title": "How UX/UI designers should write a design proposal"
         }
       ]
     }
