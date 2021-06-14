@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-14T12:00:30.806Z</id>
+    <id>urn:2021-06-14T13:17:33.093Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T12:00:30.806Z</updated>
+    <updated>2021-06-14T13:17:33.093Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is a graphic design career for you? (7 questions to ask yourself)]]></title>
+        <id>https://dribbble.com/stories/2021/06/14/is-graphic-design-for-you</id>
+        <link href="http://www.webdesignernews.com/external/is-a-graphic-design-career-for-you-7-questions-to-ask-yourself"/>
+        <updated>2021-06-14T13:08:50.000Z</updated>
+        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/14/is-graphic-design-for-you]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When CSS Isn?t Enough: JavaScript Requirements For Accessible Components]]></title>
+        <id>https://www.smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/</id>
+        <link href="http://www.webdesignernews.com/external/when-css-isn-t-enough-javascript-requirements-for-accessible-components"/>
+        <updated>2021-06-14T13:08:38.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Health Icons]]></title>
+        <id>https://healthicons.org/</id>
+        <link href="http://www.webdesignernews.com/external/health-icons"/>
+        <updated>2021-06-14T13:08:24.000Z</updated>
+        <summary type="html"><![CDATA[https://healthicons.org/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Your Own React Custom Hooks]]></title>
+        <id>https://blog.alexdevero.com/react-custom-hooks/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-create-your-own-react-custom-hooks"/>
+        <updated>2021-06-14T13:00:59.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.alexdevero.com/react-custom-hooks/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating 3D Mockups using Adobe Xd Plugins!]]></title>
+        <id>https://www.designernews.co/stories/116064-creating-3d-mockups-using-adobe-xd-plugins</id>
+        <link href="https://www.designernews.co/stories/116064-creating-3d-mockups-using-adobe-xd-plugins"/>
+        <updated>2021-06-14T12:15:22.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=UtpFdbDS1xE]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When CSS Isn’t Enough: JavaScript Requirements For Accessible Components]]></title>
         <id>https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/</id>
@@ -249,26 +299,6 @@ The post 43 Best Fancy Fonts for Your Gorgeous Designs appeared first on Design 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Website Design Mockup: Pitch Your Ideas the Best Way]]></title>
-        <id>https://codegeekz.com/website-design-mockup-pitch-your-ideas-the-best-way/</id>
-        <link href="http://www.webdesignernews.com/external/website-design-mockup-pitch-your-ideas-the-best-way"/>
-        <updated>2021-06-12T11:03:59.000Z</updated>
-        <summary type="html"><![CDATA[https://codegeekz.com/website-design-mockup-pitch-your-ideas-the-best-way/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NoCode Revolution - See how NoCode is spreading around the world]]></title>
-        <id>https://www.spacebarcounter.net/no-code-revolution</id>
-        <link href="http://www.webdesignernews.com/external/nocode-revolution-see-how-nocode-is-spreading-around-the-world"/>
-        <updated>2021-06-12T11:01:28.000Z</updated>
-        <summary type="html"><![CDATA[https://www.spacebarcounter.net/no-code-revolution]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[4 Tips for JavaScript 2021 to write optimized code]]></title>
         <id>https://www.designernews.co/stories/116027-4-tips-for-javascript-2021-to-write-optimized-code</id>
         <link href="https://www.designernews.co/stories/116027-4-tips-for-javascript-2021-to-write-optimized-code"/>
@@ -286,26 +316,6 @@ The post 43 Best Fancy Fonts for Your Gorgeous Designs appeared first on Design 
         <summary type="html"><![CDATA[https://www.webcluesinfotech.com/how-to-create-an-app-like-tinder/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18 Pure CSS Animated Page Loaders]]></title>
-        <id>https://csshint.com/css-animated-page-loaders/</id>
-        <link href="http://www.webdesignernews.com/external/18-pure-css-animated-page-loaders"/>
-        <updated>2021-06-11T20:41:00.000Z</updated>
-        <summary type="html"><![CDATA[https://csshint.com/css-animated-page-loaders/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything you should know about Bootstrap 5]]></title>
-        <id>https://www.zenesys.com/blog/everything-you-should-know-about-bootstrap-5</id>
-        <link href="http://www.webdesignernews.com/external/everything-you-should-know-about-bootstrap-5"/>
-        <updated>2021-06-11T18:58:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/everything-you-should-know-about-bootstrap-5]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -526,16 +536,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <link href="https://www.designernews.co/stories/115972-create-your-own-3d-mobile-mockups-presentation-using-spline-design"/>
         <updated>2021-06-10T08:03:03.000Z</updated>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=3-EmhcuU-eI]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Best Camping WordPress Themes for New Adventure]]></title>
-        <id>https://www.designernews.co/stories/115971-5-best-camping-wordpress-themes-for-new-adventure</id>
-        <link href="https://www.designernews.co/stories/115971-5-best-camping-wordpress-themes-for-new-adventure"/>
-        <updated>2021-06-10T07:56:51.000Z</updated>
-        <summary type="html"><![CDATA[https://wpklik.com/wordpress-themes/camping-wordpress-themes/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
