@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-14T13:17:33.093Z</id>
+    <id>urn:2021-06-14T14:01:27.617Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T13:17:33.093Z</updated>
+    <updated>2021-06-14T14:01:27.617Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[WaveMakers Leadership Program For Young Professionals, Career Changers, Creatives, ...]]></title>
+        <id>https://www.designernews.co/stories/116066-wavemakers-leadership-program-for-young-professionals-career-changers-creatives-</id>
+        <link href="https://www.designernews.co/stories/116066-wavemakers-leadership-program-for-young-professionals-career-changers-creatives-"/>
+        <updated>2021-06-14T13:54:05.000Z</updated>
+        <summary type="html"><![CDATA[https://www.linkedin.com/posts/wavemakers-io_join-us-wavemakers-leadership-program-activity-6810143860681928704-cPYy]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Isometrica - 3D illustration constructor with 380+ isometric objects]]></title>
+        <id>https://isometrica.xyz/</id>
+        <link href="http://www.webdesignernews.com/external/isometrica-3d-illustration-constructor-with-380-isometric-objects"/>
+        <updated>2021-06-14T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[https://isometrica.xyz/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is a graphic design career for you? (7 questions to ask yourself)]]></title>
         <id>https://dribbble.com/stories/2021/06/14/is-graphic-design-for-you</id>
@@ -289,16 +309,6 @@ The post 43 Best Fancy Fonts for Your Gorgeous Designs appeared first on Design 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Design Done Well: Making Use Of Audio]]></title>
-        <id>https://www.smashingmagazine.com/2021/06/web-design-done-well-audio/</id>
-        <link href="http://www.webdesignernews.com/external/web-design-done-well-making-use-of-audio"/>
-        <updated>2021-06-12T11:04:37.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/web-design-done-well-audio/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[4 Tips for JavaScript 2021 to write optimized code]]></title>
         <id>https://www.designernews.co/stories/116027-4-tips-for-javascript-2021-to-write-optimized-code</id>
         <link href="https://www.designernews.co/stories/116027-4-tips-for-javascript-2021-to-write-optimized-code"/>
@@ -516,16 +526,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <link href="https://www.designernews.co/stories/115974-a-beginners-guide-to-different-types-of-logo-designs"/>
         <updated>2021-06-10T09:08:45.000Z</updated>
         <summary type="html"><![CDATA[https://marketsplash.com/types-of-logo-designs/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top MedTech Solution Providers in 2021]]></title>
-        <id>https://www.designernews.co/stories/115973---top-medtech-solution-providers-in-2021</id>
-        <link href="https://www.designernews.co/stories/115973---top-medtech-solution-providers-in-2021"/>
-        <updated>2021-06-10T08:18:16.000Z</updated>
-        <summary type="html"><![CDATA[https://healthcare.mytechmag.com/top-medtech-software-providers]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
