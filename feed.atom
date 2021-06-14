@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-14T09:00:44.210Z</id>
+    <id>urn:2021-06-14T10:00:46.882Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T09:00:44.210Z</updated>
+    <updated>2021-06-14T10:00:46.882Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RPA Use Cases in Retail and E-commerce Industry]]></title>
+        <id>https://www.designernews.co/stories/116045-rpa-use-cases-in-retail-and-ecommerce-industry</id>
+        <link href="https://www.designernews.co/stories/116045-rpa-use-cases-in-retail-and-ecommerce-industry"/>
+        <updated>2021-06-14T09:28:40.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/blog/rpa-use-cases-in-retail-and-ecommerce-industry]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outrun 2.2 Release - Custom prize creation and UI updates!]]></title>
+        <id>https://www.designernews.co/stories/116044-outrun-22-release--custom-prize-creation-and-ui-updates</id>
+        <link href="https://www.designernews.co/stories/116044-outrun-22-release--custom-prize-creation-and-ui-updates"/>
+        <updated>2021-06-14T09:21:21.000Z</updated>
+        <summary type="html"><![CDATA[https://apps.apple.com/gb/app/outrun-win-money-with-steps/id1492764874]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free Seamless Geometric Patterns for Illustrator]]></title>
         <id>https://www.designernews.co/stories/116040-free-seamless-geometric-patterns-for-illustrator</id>
@@ -521,16 +541,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plott.so - Very minimal inline editor + page builder (made in 1 day to practice #nocode)]]></title>
-        <id>https://www.designernews.co/stories/115959-plottso--very-minimal-inline-editor--page-builder-made-in-1-day-to-practice-nocode</id>
-        <link href="https://www.designernews.co/stories/115959-plottso--very-minimal-inline-editor--page-builder-made-in-1-day-to-practice-nocode"/>
-        <updated>2021-06-09T16:31:34.000Z</updated>
-        <summary type="html"><![CDATA[https://plott.so]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet <code>:has</code>, A Native CSS Parent Selector (And More)]]></title>
         <id>https://smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
         <link href="https://smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
@@ -538,16 +548,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Best Webcams For Programmers, Coders, Developers, zoom meetings, teaching online classes]]></title>
-        <id>https://www.designernews.co/stories/115951-7-best-webcams-for-programmers-coders-developers-zoom-meetings-teaching-online-classes</id>
-        <link href="https://www.designernews.co/stories/115951-7-best-webcams-for-programmers-coders-developers-zoom-meetings-teaching-online-classes"/>
-        <updated>2021-06-09T10:21:06.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/7-best-webcams-for-programmers-coders.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
