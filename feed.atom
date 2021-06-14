@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-14T17:20:23.488Z</id>
+    <id>urn:2021-06-14T18:02:45.077Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T17:20:23.488Z</updated>
+    <updated>2021-06-14T18:02:45.077Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Scenarios Where WordPress May Not Be the Best Option]]></title>
+        <id>https://speckyboy.com/wordpress-may-not-be-the-best-option/</id>
+        <link href="http://www.webdesignernews.com/external/scenarios-where-wordpress-may-not-be-the-best-option"/>
+        <updated>2021-06-14T17:50:00.000Z</updated>
+        <summary type="html"><![CDATA[https://speckyboy.com/wordpress-may-not-be-the-best-option/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Lessons from 8 Years of Writing at Medium]]></title>
+        <id>https://www.designernews.co/stories/116072-8-lessons-from-8-years-of-writing-at-medium</id>
+        <link href="https://www.designernews.co/stories/116072-8-lessons-from-8-years-of-writing-at-medium"/>
+        <updated>2021-06-14T17:00:42.000Z</updated>
+        <summary type="html"><![CDATA[https://herbertlui.net/8-lessons-from-8-years-of-writing-at-medium/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Designers, remember: your portfolio is a part of your portfolio]]></title>
         <id>https://uxdesign.cc/designers-remember-your-portfolio-is-a-part-of-your-portfolio-dcf6b8f6b43b</id>
@@ -329,16 +349,6 @@ The post 43 Best Fancy Fonts for Your Gorgeous Designs appeared first on Design 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6 SEO Factors to Consider in Web Design]]></title>
-        <id>https://www.business2community.com/web-design/6-seo-factors-to-consider-in-web-design-02411825</id>
-        <link href="http://www.webdesignernews.com/external/6-seo-factors-to-consider-in-web-design"/>
-        <updated>2021-06-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.business2community.com/web-design/6-seo-factors-to-consider-in-web-design-02411825]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[4 Tips for JavaScript 2021 to write optimized code]]></title>
         <id>https://www.designernews.co/stories/116027-4-tips-for-javascript-2021-to-write-optimized-code</id>
         <link href="https://www.designernews.co/stories/116027-4-tips-for-javascript-2021-to-write-optimized-code"/>
@@ -508,16 +518,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
 The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25 Simple Rules For Maximum Productivity]]></title>
-        <id>https://www.designernews.co/stories/115975-25-simple-rules-for-maximum-productivity</id>
-        <link href="https://www.designernews.co/stories/115975-25-simple-rules-for-maximum-productivity"/>
-        <updated>2021-06-10T09:36:47.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.tmetric.com/25-simple-rules-for-maximum-productivity/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
