@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-14T10:00:46.882Z</id>
+    <id>urn:2021-06-14T11:00:48.845Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T10:00:46.882Z</updated>
+    <updated>2021-06-14T11:00:48.845Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[When CSS Isn’t Enough: JavaScript Requirements For Accessible Components]]></title>
+        <id>https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/</id>
+        <link href="https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/"/>
+        <updated>2021-06-14T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RPA Use Cases in Retail and E-commerce Industry]]></title>
         <id>https://www.designernews.co/stories/116045-rpa-use-cases-in-retail-and-ecommerce-industry</id>
