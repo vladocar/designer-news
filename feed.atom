@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-14T22:00:43.649Z</id>
+    <id>urn:2021-06-14T23:00:51.762Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T22:00:43.649Z</updated>
+    <updated>2021-06-14T23:00:51.762Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -34,6 +34,16 @@ The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[https://predesign.me/]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typography Trends in 2021: What Should You Know?]]></title>
+        <id>https://www.designernews.co/stories/116075-typography-trends-in-2021-what-should-you-know</id>
+        <link href="https://www.designernews.co/stories/116075-typography-trends-in-2021-what-should-you-know"/>
+        <updated>2021-06-14T18:47:07.000Z</updated>
+        <summary type="html"><![CDATA[https://www.robertcreative.com/blog/typography-trends-in-2021]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -529,16 +539,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
 The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner's Guide To Different Types Of Logo Designs]]></title>
-        <id>https://www.designernews.co/stories/115974-a-beginners-guide-to-different-types-of-logo-designs</id>
-        <link href="https://www.designernews.co/stories/115974-a-beginners-guide-to-different-types-of-logo-designs"/>
-        <updated>2021-06-10T09:08:45.000Z</updated>
-        <summary type="html"><![CDATA[https://marketsplash.com/types-of-logo-designs/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
