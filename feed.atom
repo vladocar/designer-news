@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-14T08:00:57.718Z</id>
+    <id>urn:2021-06-14T09:00:44.210Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T08:00:57.718Z</updated>
+    <updated>2021-06-14T09:00:44.210Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Free Seamless Geometric Patterns for Illustrator]]></title>
+        <id>https://www.designernews.co/stories/116040-free-seamless-geometric-patterns-for-illustrator</id>
+        <link href="https://www.designernews.co/stories/116040-free-seamless-geometric-patterns-for-illustrator"/>
+        <updated>2021-06-14T08:22:56.000Z</updated>
+        <summary type="html"><![CDATA[https://www.designinspiration.info/free-seamless-geometric-pattern-for-illustrator/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Free Seamless Geometric Patterns for Illustrator]]></title>
+        <id>https://www.designinspiration.info/?p=3051</id>
+        <link href="https://www.designinspiration.info/free-seamless-geometric-pattern-for-illustrator/"/>
+        <updated>2021-06-14T08:16:45.000Z</updated>
+        <summary type="html"><![CDATA[We bring you 15 Free Illustrator Seamless Geometric Pattern Backgrounds. All patterns can be applied directly from Swatches panel or simply copy pasted in Illustrator.
+The post 15 Free Seamless Geometric Patterns for Illustrator appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPress 5.8 Introduces Support for WebP Images]]></title>
         <id>https://wptavern.com/wordpress-5-8-introduces-support-for-webp-images</id>
@@ -510,16 +531,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Best Cloud WordPress Themes for Professional Impression]]></title>
-        <id>https://www.designernews.co/stories/115954-5-best-cloud-wordpress-themes-for-professional-impression</id>
-        <link href="https://www.designernews.co/stories/115954-5-best-cloud-wordpress-themes-for-professional-impression"/>
-        <updated>2021-06-09T12:45:28.000Z</updated>
-        <summary type="html"><![CDATA[https://wpklik.com/wordpress-themes/cloud-wordpress-themes/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet <code>:has</code>, A Native CSS Parent Selector (And More)]]></title>
         <id>https://smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
         <link href="https://smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
@@ -682,17 +693,6 @@ The post 36 Best Whimsical Fonts for Your Fabulous Designs appeared first on Des
         <summary type="html"><![CDATA[What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Figma (Low Fidelity) Hand Drawn Wireframe Kit]]></title>
-        <id>https://www.designinspiration.info/?p=2793</id>
-        <link href="https://www.designinspiration.info/free-figma-low-fidelity-hand-drawn-wireframe-kit/"/>
-        <updated>2021-05-31T10:44:45.000Z</updated>
-        <summary type="html"><![CDATA[Low fidelity wireframes are sketches of the page layout and the basic navigation. The goal of a low fidelity wireframe is to give you a general sense of the hierarchy of information, the placement of major components on the screen, and the general flow of interaction. Below are a few
-The post Free Figma (Low Fidelity) Hand Drawn Wireframe Kit appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>

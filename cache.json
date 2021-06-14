@@ -6,12 +6,21 @@
       "siteUrl": "https://www.designinspiration.info",
       "articles": [
         {
+          "id": "https://www.designinspiration.info/?p=3051",
+          "author": "Editorial Staff",
+          "description": "We bring you 15 Free Illustrator Seamless Geometric Pattern Backgrounds. All patterns can be applied directly from Swatches panel or simply copy pasted in Illustrator.\nThe post 15 Free Seamless Geometric Patterns for Illustrator appeared first on Design Inspiration.",
+          "link": "https://www.designinspiration.info/free-seamless-geometric-pattern-for-illustrator/",
+          "publishedOn": "2021-06-14T08:16:45.000Z",
+          "wordCount": 267,
+          "title": "15 Free Seamless Geometric Patterns for Illustrator"
+        },
+        {
           "id": "https://www.designinspiration.info/?p=3022",
           "author": "Editorial Staff",
           "description": "If you are looking for zombie fonts for your Halloween designs, this article is for you. We have some scary zombie fonts for you! You probably saw lots of designs related to the walking dead. In this post you will find the coolest typefaces of this popular thematic style. Zombie\nThe post 17 Best Zombie Fonts appeared first on Design Inspiration.",
           "link": "https://www.designinspiration.info/zombie-fonts/",
           "publishedOn": "2021-06-13T12:46:48.000Z",
-          "wordCount": 1511,
+          "wordCount": 1520,
           "title": "17 Best Zombie Fonts"
         },
         {
@@ -85,15 +94,6 @@
           "publishedOn": "2021-06-03T00:10:33.000Z",
           "wordCount": 3069,
           "title": "36 Best Whimsical Fonts for Your Fabulous Designs"
-        },
-        {
-          "id": "https://www.designinspiration.info/?p=2793",
-          "author": "Editorial Staff",
-          "description": "Low fidelity wireframes are sketches of the page layout and the basic navigation. The goal of a low fidelity wireframe is to give you a general sense of the hierarchy of information, the placement of major components on the screen, and the general flow of interaction. Below are a few\nThe post Free Figma (Low Fidelity) Hand Drawn Wireframe Kit appeared first on Design Inspiration.",
-          "link": "https://www.designinspiration.info/free-figma-low-fidelity-hand-drawn-wireframe-kit/",
-          "publishedOn": "2021-05-31T10:44:45.000Z",
-          "wordCount": 443,
-          "title": "Free Figma (Low Fidelity) Hand Drawn Wireframe Kit"
         }
       ]
     },
@@ -102,6 +102,15 @@
       "feedUrl": "http://www.designernews.co/?format=rss",
       "siteUrl": "/",
       "articles": [
+        {
+          "id": "https://www.designernews.co/stories/116040-free-seamless-geometric-patterns-for-illustrator",
+          "author": null,
+          "description": "https://www.designinspiration.info/free-seamless-geometric-pattern-for-illustrator/",
+          "link": "https://www.designernews.co/stories/116040-free-seamless-geometric-patterns-for-illustrator",
+          "publishedOn": "2021-06-14T08:22:56.000Z",
+          "wordCount": 163,
+          "title": "Free Seamless Geometric Patterns for Illustrator"
+        },
         {
           "id": "https://www.designernews.co/stories/116030-11-best-gifts-for-developers-coders-programmers",
           "author": null,
@@ -310,15 +319,6 @@
           "title": "Plott.so - Very minimal inline editor + page builder (made in 1 day to practice #nocode)"
         },
         {
-          "id": "https://www.designernews.co/stories/115954-5-best-cloud-wordpress-themes-for-professional-impression",
-          "author": null,
-          "description": "https://wpklik.com/wordpress-themes/cloud-wordpress-themes/",
-          "link": "https://www.designernews.co/stories/115954-5-best-cloud-wordpress-themes-for-professional-impression",
-          "publishedOn": "2021-06-09T12:45:28.000Z",
-          "wordCount": 166,
-          "title": "5 Best Cloud WordPress Themes for Professional Impression"
-        },
-        {
           "id": "https://www.designernews.co/stories/115951-7-best-webcams-for-programmers-coders-developers-zoom-meetings-teaching-online-classes",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/06/7-best-webcams-for-programmers-coders.html",
@@ -340,7 +340,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1587,
+          "wordCount": 1589,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -354,7 +354,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 4875,
+          "wordCount": 4861,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -368,7 +368,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 708,
+          "wordCount": 747,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -382,7 +382,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2600,
+          "wordCount": 2602,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -410,7 +410,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2201,
+          "wordCount": 2246,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -424,7 +424,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4177,
+          "wordCount": 4165,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -438,7 +438,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3542,
+          "wordCount": 3528,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -452,7 +452,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4379,
+          "wordCount": 4376,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -466,7 +466,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5423,
+          "wordCount": 5425,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -508,7 +508,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2522,
+          "wordCount": 2518,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -522,7 +522,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10244,
+          "wordCount": 10254,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -536,7 +536,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3769,
+          "wordCount": 3774,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -578,7 +578,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2153,
+          "wordCount": 2156,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -592,7 +592,7 @@
           "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
           "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
           "publishedOn": "2021-05-25T09:30:00.000Z",
-          "wordCount": 2108,
+          "wordCount": 2106,
           "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f0c69413-365e-4c39-9ee8-ad1d2b44e56b/reduce-font-loading-impact-css-descriptors.jpg",
@@ -606,7 +606,7 @@
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2738,
+          "wordCount": 2739,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d6d809b-0c1a-4074-9eeb-8509dc4d383f/css-container-queries-use-cases-migration-strategies.jpg",
@@ -620,7 +620,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9467,
+          "wordCount": 9463,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -648,7 +648,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1953,
+          "wordCount": 1990,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -662,7 +662,7 @@
           "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 5060,
+          "wordCount": 5059,
           "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7c233470-63c3-4557-93c0-a8cc6709b6dd/13-mega-dropdown-hover-menus.png",
@@ -704,7 +704,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2986,
+          "wordCount": 2979,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -806,7 +806,7 @@
           "description": "https://www.designyourway.net/blog/misc/11-landing-page-design-tips-you-should-follow-today/",
           "link": "http://www.webdesignernews.com/external/11-landing-page-design-tips",
           "publishedOn": "2021-06-13T12:43:17.000Z",
-          "wordCount": 3579,
+          "wordCount": 3575,
           "title": "11 landing page design tips"
         },
         {
@@ -860,7 +860,7 @@
           "description": "https://www.smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "link": "http://www.webdesignernews.com/external/web-design-done-well-making-use-of-audio",
           "publishedOn": "2021-06-12T11:04:37.000Z",
-          "wordCount": 1587,
+          "wordCount": 1589,
           "title": "Web Design Done Well: Making Use Of Audio"
         },
         {
