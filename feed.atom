@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T08:00:54.226Z</id>
+    <id>urn:2021-06-15T09:00:54.314Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T08:00:54.226Z</updated>
+    <updated>2021-06-15T09:00:54.314Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Data Extraction with RPA (Robotic Process Automation)]]></title>
+        <id>https://www.designernews.co/stories/116082-data-extraction-with-rpa-robotic-process-automation</id>
+        <link href="https://www.designernews.co/stories/116082-data-extraction-with-rpa-robotic-process-automation"/>
+        <updated>2021-06-15T08:33:43.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/blog/data-extraction-with-rpa]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 39 With Addy Osmani: Image Optimization]]></title>
         <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/</id>
@@ -549,16 +559,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
 The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create your own 3D mobile mockups presentation using Spline Design!]]></title>
-        <id>https://www.designernews.co/stories/115972-create-your-own-3d-mobile-mockups-presentation-using-spline-design</id>
-        <link href="https://www.designernews.co/stories/115972-create-your-own-3d-mobile-mockups-presentation-using-spline-design"/>
-        <updated>2021-06-10T08:03:03.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=3-EmhcuU-eI]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
