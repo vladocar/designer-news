@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T17:23:51.077Z</id>
+    <id>urn:2021-06-15T18:07:02.200Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T17:23:51.077Z</updated>
+    <updated>2021-06-15T18:07:02.200Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 39 With Addy Osmani: Image Optimization]]></title>
+        <id>https://www.smashingmagazine.com/2021/06/smashing-podcast-episode-39/</id>
+        <link href="http://www.webdesignernews.com/external/smashing-podcast-episode-39-with-addy-osmani-image-optimization"/>
+        <updated>2021-06-15T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/smashing-podcast-episode-39/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Only 4.8% of designers are Black. Herman Miller, Adobe, and Gap unveil a plan to change that]]></title>
+        <id>https://www.fastcompany.com/90646834/only-4-8-of-designers-are-black-herman-miller-adobe-and-gap-unveil-a-plan-to-change-that</id>
+        <link href="http://www.webdesignernews.com/external/only-4-8-of-designers-are-black-herman-miller-adobe-and-gap-unveil-a-plan-to-change-that"/>
+        <updated>2021-06-15T17:23:53.000Z</updated>
+        <summary type="html"><![CDATA[https://www.fastcompany.com/90646834/only-4-8-of-designers-are-black-herman-miller-adobe-and-gap-unveil-a-plan-to-change-that]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Media Queries in Times of @container]]></title>
         <id>https://mxb.dev/blog/media-queries-in-times-of-container-queries/</id>
@@ -375,26 +395,6 @@ The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
 The post 15 Free Seamless Geometric Patterns for Illustrator appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress 5.8 Introduces Support for WebP Images]]></title>
-        <id>https://wptavern.com/wordpress-5-8-introduces-support-for-webp-images</id>
-        <link href="http://www.webdesignernews.com/external/wordpress-5-8-introduces-support-for-webp-images"/>
-        <updated>2021-06-13T21:42:00.000Z</updated>
-        <summary type="html"><![CDATA[https://wptavern.com/wordpress-5-8-introduces-support-for-webp-images]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP isset() vs empty() vs is_null()]]></title>
-        <id>https://code.tutsplus.com/tutorials/php-isset-vs-empty-vs-is_null--cms-37162</id>
-        <link href="http://www.webdesignernews.com/external/php-isset-vs-empty-vs-is_null"/>
-        <updated>2021-06-13T20:55:00.000Z</updated>
-        <summary type="html"><![CDATA[https://code.tutsplus.com/tutorials/php-isset-vs-empty-vs-is_null--cms-37162]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
