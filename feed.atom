@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T21:00:35.787Z</id>
+    <id>urn:2021-06-15T22:00:45.957Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T21:00:35.787Z</updated>
+    <updated>2021-06-15T22:00:45.957Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Irish police to be given powers over passwords]]></title>
+        <id>https://www.bbc.com/news/world-europe-57468750</id>
+        <link href="http://www.webdesignernews.com/external/irish-police-to-be-given-powers-over-passwords"/>
+        <updated>2021-06-15T21:53:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.bbc.com/news/world-europe-57468750]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile UX 101: Tips & best practices every designer should know]]></title>
+        <id>https://dribbble.com/stories/2021/06/15/mobile-ux-design-tips</id>
+        <link href="http://www.webdesignernews.com/external/mobile-ux-101-tips-best-practices-every-designer-should-know"/>
+        <updated>2021-06-15T21:47:51.000Z</updated>
+        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/15/mobile-ux-design-tips]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23 Best Beach Fonts for Hot Designs]]></title>
+        <id>https://www.designinspiration.info/?p=3109</id>
+        <link href="https://www.designinspiration.info/beach-fonts/"/>
+        <updated>2021-06-15T21:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Finding the right beach fonts for your projects may not be a simple task. With this collection, we gathered some of the best beach fonts for you to use in your projects. The range in appearance and use are diverse but they are generally well suited for summer themes or
+The post 23 Best Beach Fonts for Hot Designs appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SVG animations made easy]]></title>
         <id>https://getloaf.io/</id>
@@ -328,26 +359,6 @@ The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is a graphic design career for you? (7 questions to ask yourself)]]></title>
-        <id>https://dribbble.com/stories/2021/06/14/is-graphic-design-for-you</id>
-        <link href="http://www.webdesignernews.com/external/is-a-graphic-design-career-for-you-7-questions-to-ask-yourself"/>
-        <updated>2021-06-14T13:08:50.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/14/is-graphic-design-for-you]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When CSS Isn?t Enough: JavaScript Requirements For Accessible Components]]></title>
-        <id>https://www.smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/</id>
-        <link href="http://www.webdesignernews.com/external/when-css-isn-t-enough-javascript-requirements-for-accessible-components"/>
-        <updated>2021-06-14T13:08:38.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating 3D Mockups using Adobe Xd Plugins!]]></title>
         <id>https://www.designernews.co/stories/116064-creating-3d-mockups-using-adobe-xd-plugins</id>
         <link href="https://www.designernews.co/stories/116064-creating-3d-mockups-using-adobe-xd-plugins"/>
@@ -640,17 +651,6 @@ The post 27 Best Nostalgia Retro 80s Fonts appeared first on Design Inspiration.
         <updated>2021-06-07T10:20:32.000Z</updated>
         <summary type="html"><![CDATA[We bring you 8 free one click Illustrator Graphics Styles for applying Neon Retro 80’s text effect. All neon effects can be applied to any text or shape in Illustrator. Installation: From the Graphic Styles window click the Left Bottom Corner Button and select Other Library. Browse to your Retro
 The post 8 Free Illustrator Neon 80s Text Effect appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24 Best Hipster Fonts for Cool Designs]]></title>
-        <id>https://www.designinspiration.info/?p=1732</id>
-        <link href="https://www.designinspiration.info/hipster-fonts/"/>
-        <updated>2021-06-06T00:05:57.000Z</updated>
-        <summary type="html"><![CDATA[Hipster fonts are cool fonts for the cool kids. They’re stylish, they’re trendy, and they’re a lot of fun to use. Best hipster fonts that will let you upgrade your designs to the next level. We have some really great hipster fonts for you. Continuing with the hipster theme, we
-The post 24 Best Hipster Fonts for Cool Designs appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
         </author>
