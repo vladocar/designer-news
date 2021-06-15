@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T14:00:39.840Z</id>
+    <id>urn:2021-06-15T15:00:31.282Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T14:00:39.840Z</updated>
+    <updated>2021-06-15T15:00:31.282Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stripe Identity - The easiest way to verify identities]]></title>
+        <id>https://stripe.com/en-gb/identity</id>
+        <link href="http://www.webdesignernews.com/external/stripe-identity-the-easiest-way-to-verify-identities"/>
+        <updated>2021-06-15T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[https://stripe.com/en-gb/identity]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to increase your paid-for newsletter subscribers with landing pages (Part 1)]]></title>
         <id>https://ghost.org/blog/newsletter-signup-landing-page-tips/</id>
@@ -396,16 +406,6 @@ The post 15 Free Seamless Geometric Patterns for Illustrator appeared first on D
 The post 17 Best Zombie Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Shadows to SVG Icons With CSS and SVG Filters]]></title>
-        <id>https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/</id>
-        <link href="http://www.webdesignernews.com/external/adding-shadows-to-svg-icons-with-css-and-svg-filters"/>
-        <updated>2021-06-13T12:43:58.000Z</updated>
-        <summary type="html"><![CDATA[https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
