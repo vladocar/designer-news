@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T09:00:54.314Z</id>
+    <id>urn:2021-06-15T10:00:41.167Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T09:00:54.314Z</updated>
+    <updated>2021-06-15T10:00:41.167Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Audience log - A notion template to figure out audience building from your end]]></title>
+        <id>https://www.designernews.co/stories/116086-audience-log--a-notion-template-to-figure-out-audience-building-from-your-end</id>
+        <link href="https://www.designernews.co/stories/116086-audience-log--a-notion-template-to-figure-out-audience-building-from-your-end"/>
+        <updated>2021-06-15T09:43:10.000Z</updated>
+        <summary type="html"><![CDATA[https://gumroad.com/anumitha#KNhkp]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Extraction with RPA (Robotic Process Automation)]]></title>
         <id>https://www.designernews.co/stories/116082-data-extraction-with-rpa-robotic-process-automation</id>
@@ -23,6 +33,16 @@
         <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[52 Impressive Examples of Websites with Beige Backgrounds]]></title>
+        <id>https://www.designernews.co/stories/116077-52-impressive-examples-of-websites-with-beige-backgrounds</id>
+        <link href="https://www.designernews.co/stories/116077-52-impressive-examples-of-websites-with-beige-backgrounds"/>
+        <updated>2021-06-14T22:39:33.000Z</updated>
+        <summary type="html"><![CDATA[https://qodeinteractive.com/magazine/examples-of-beige-websites/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -541,16 +561,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[13 Inspiring Graphic Design Trends For 2021]]></title>
-        <id>https://www.designernews.co/stories/115978-13-inspiring-graphic-design-trends-for-2021</id>
-        <link href="https://www.designernews.co/stories/115978-13-inspiring-graphic-design-trends-for-2021"/>
-        <updated>2021-06-10T09:57:21.000Z</updated>
-        <summary type="html"><![CDATA[https://www.vectornator.io/blog/graphic-design-trends]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[42 Best Silhouette Fonts for Crafters]]></title>
         <id>https://www.designinspiration.info/?p=2963</id>
         <link href="https://www.designinspiration.info/best-silhouette-fonts/"/>
@@ -559,16 +569,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
 The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual design principles in UX]]></title>
-        <id>https://www.designernews.co/stories/115969-visual-design-principles-in-ux</id>
-        <link href="https://www.designernews.co/stories/115969-visual-design-principles-in-ux"/>
-        <updated>2021-06-10T07:09:00.000Z</updated>
-        <summary type="html"><![CDATA[https://drawer.design/blog/visual-design-principles-in-ux/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
