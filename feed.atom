@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T07:07:55.808Z</id>
+    <id>urn:2021-06-15T08:00:54.226Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T07:07:55.808Z</updated>
+    <updated>2021-06-15T08:00:54.226Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 39 With Addy Osmani: Image Optimization]]></title>
+        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/</id>
+        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/"/>
+        <updated>2021-06-15T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7.css - A CSS framework for recreating Windows 7 UI]]></title>
         <id>https://khang-nd.github.io/7.css/</id>
