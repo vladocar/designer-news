@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T12:00:43.477Z</id>
+    <id>urn:2021-06-15T13:16:42.626Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T12:00:43.477Z</updated>
+    <updated>2021-06-15T13:16:42.626Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Making Tables With Sticky Header and Footers Got a Bit Easier]]></title>
+        <id>https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/</id>
+        <link href="http://www.webdesignernews.com/external/making-tables-with-sticky-header-and-footers-got-a-bit-easier"/>
+        <updated>2021-06-15T12:49:00.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 10 has only 4 years left to live (officially)]]></title>
         <id>https://thenextweb.com/news/windows-10-support-ending-2025</id>
@@ -394,16 +404,6 @@ The post 17 Best Zombie Fonts appeared first on Design Inspiration.]]></summary>
         <link href="http://www.webdesignernews.com/external/perfection-in-design-why-it-s-a-bad-idea"/>
         <updated>2021-06-13T12:43:58.000Z</updated>
         <summary type="html"><![CDATA[https://www.hongkiat.com/blog/perfection-in-design-why-its-a-bad-idea/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scarlet illustrations - Abstract and surreal illustrations for web]]></title>
-        <id>https://www.getillustrations.com/illustration-pack/scarlet-surrealism-illustrations</id>
-        <link href="http://www.webdesignernews.com/external/scarlet-illustrations-abstract-and-surreal-illustrations-for-web"/>
-        <updated>2021-06-13T12:43:32.000Z</updated>
-        <summary type="html"><![CDATA[https://www.getillustrations.com/illustration-pack/scarlet-surrealism-illustrations]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
