@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T11:00:39.903Z</id>
+    <id>urn:2021-06-15T12:00:43.477Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T11:00:39.903Z</updated>
+    <updated>2021-06-15T12:00:43.477Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 has only 4 years left to live (officially)]]></title>
+        <id>https://thenextweb.com/news/windows-10-support-ending-2025</id>
+        <link href="http://www.webdesignernews.com/external/windows-10-has-only-4-years-left-to-live-officially"/>
+        <updated>2021-06-15T11:08:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/windows-10-support-ending-2025]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20 BEST PHP IDE and Code Editor Software in 2021 [Free/Paid]]]></title>
         <id>https://www.designernews.co/stories/116089-20-best-php-ide-and-code-editor-software-in-2021-freepaid</id>
@@ -394,16 +404,6 @@ The post 17 Best Zombie Fonts appeared first on Design Inspiration.]]></summary>
         <link href="http://www.webdesignernews.com/external/scarlet-illustrations-abstract-and-surreal-illustrations-for-web"/>
         <updated>2021-06-13T12:43:32.000Z</updated>
         <summary type="html"><![CDATA[https://www.getillustrations.com/illustration-pack/scarlet-surrealism-illustrations]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 landing page design tips]]></title>
-        <id>https://www.designyourway.net/blog/misc/11-landing-page-design-tips-you-should-follow-today/</id>
-        <link href="http://www.webdesignernews.com/external/11-landing-page-design-tips"/>
-        <updated>2021-06-13T12:43:17.000Z</updated>
-        <summary type="html"><![CDATA[https://www.designyourway.net/blog/misc/11-landing-page-design-tips-you-should-follow-today/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
