@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T15:00:31.282Z</id>
+    <id>urn:2021-06-15T16:06:52.181Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T15:00:31.282Z</updated>
+    <updated>2021-06-15T16:06:52.182Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Samsung gives the ?obsolete? floppy disc save icon a facelift for the 2020s]]></title>
+        <id>https://www.itsnicethat.com/news/edelman-samsung-memory-graphic-design-150621</id>
+        <link href="http://www.webdesignernews.com/external/samsung-gives-the-obsolete-floppy-disc-save-icon-a-facelift-for-the-2020s"/>
+        <updated>2021-06-15T15:07:07.000Z</updated>
+        <summary type="html"><![CDATA[https://www.itsnicethat.com/news/edelman-samsung-memory-graphic-design-150621]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22 Exciting New Tools For Designers, June 2021]]></title>
+        <id>https://www.webdesignerdepot.com/2021/06/22-exciting-new-tools-for-designers-june-2021/</id>
+        <link href="http://www.webdesignernews.com/external/22-exciting-new-tools-for-designers-june-2021"/>
+        <updated>2021-06-15T15:07:05.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/22-exciting-new-tools-for-designers-june-2021/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typography Trends in 2021: What Should You Know?]]></title>
+        <id>https://www.robertcreative.com/blog/typography-trends-in-2021</id>
+        <link href="http://www.webdesignernews.com/external/typography-trends-in-2021-what-should-you-know"/>
+        <updated>2021-06-15T15:07:03.000Z</updated>
+        <summary type="html"><![CDATA[https://www.robertcreative.com/blog/typography-trends-in-2021]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stripe Identity - The easiest way to verify identities]]></title>
         <id>https://stripe.com/en-gb/identity</id>
@@ -363,36 +393,6 @@ The post 15 Free Seamless Geometric Patterns for Illustrator appeared first on D
         <link href="http://www.webdesignernews.com/external/component-specific-design-tokens"/>
         <updated>2021-06-13T19:22:00.000Z</updated>
         <summary type="html"><![CDATA[https://cloudfour.com/thinks/component-specific-design-tokens/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does the Hamburger Menu Make Mincemeat of UX Design?]]></title>
-        <id>https://www.uxpin.com/studio/blog/hamburger-menu-and-ux-design/</id>
-        <link href="http://www.webdesignernews.com/external/does-the-hamburger-menu-make-mincemeat-of-ux-design"/>
-        <updated>2021-06-13T15:34:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/hamburger-menu-and-ux-design/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bootstrap Builder - Extensive dashboard design system built with Bootstrap 5]]></title>
-        <id>https://dlex.io/nile-dashboard/html/</id>
-        <link href="http://www.webdesignernews.com/external/bootstrap-builder-extensive-dashboard-design-system-built-with-bootstrap-5"/>
-        <updated>2021-06-13T14:39:00.000Z</updated>
-        <summary type="html"><![CDATA[https://dlex.io/nile-dashboard/html/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lambify - Build your AWS Lambda Layer in a few clicks]]></title>
-        <id>https://lambify.app/</id>
-        <link href="http://www.webdesignernews.com/external/lambify-build-your-aws-lambda-layer-in-a-few-clicks"/>
-        <updated>2021-06-13T13:08:00.000Z</updated>
-        <summary type="html"><![CDATA[https://lambify.app/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
