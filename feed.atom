@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T13:16:42.626Z</id>
+    <id>urn:2021-06-15T14:00:39.840Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T13:16:42.626Z</updated>
+    <updated>2021-06-15T14:00:39.840Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to increase your paid-for newsletter subscribers with landing pages (Part 1)]]></title>
+        <id>https://ghost.org/blog/newsletter-signup-landing-page-tips/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-increase-your-paid-for-newsletter-subscribers-with-landing-pages-part-1"/>
+        <updated>2021-06-15T13:19:00.000Z</updated>
+        <summary type="html"><![CDATA[https://ghost.org/blog/newsletter-signup-landing-page-tips/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making Tables With Sticky Header and Footers Got a Bit Easier]]></title>
         <id>https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/</id>
@@ -394,16 +404,6 @@ The post 17 Best Zombie Fonts appeared first on Design Inspiration.]]></summary>
         <link href="http://www.webdesignernews.com/external/adding-shadows-to-svg-icons-with-css-and-svg-filters"/>
         <updated>2021-06-13T12:43:58.000Z</updated>
         <summary type="html"><![CDATA[https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfection in Design: Why It?s a Bad Idea]]></title>
-        <id>https://www.hongkiat.com/blog/perfection-in-design-why-its-a-bad-idea/</id>
-        <link href="http://www.webdesignernews.com/external/perfection-in-design-why-it-s-a-bad-idea"/>
-        <updated>2021-06-13T12:43:58.000Z</updated>
-        <summary type="html"><![CDATA[https://www.hongkiat.com/blog/perfection-in-design-why-its-a-bad-idea/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
