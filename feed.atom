@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T20:00:29.590Z</id>
+    <id>urn:2021-06-15T21:00:35.787Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T20:00:29.590Z</updated>
+    <updated>2021-06-15T21:00:35.787Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SVG animations made easy]]></title>
+        <id>https://getloaf.io/</id>
+        <link href="http://www.webdesignernews.com/external/svg-animations-made-easy"/>
+        <updated>2021-06-15T20:06:00.000Z</updated>
+        <summary type="html"><![CDATA[https://getloaf.io/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Best Pirate Fonts]]></title>
         <id>https://www.designinspiration.info/?p=3091</id>
@@ -333,16 +343,6 @@ The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
         <link href="http://www.webdesignernews.com/external/when-css-isn-t-enough-javascript-requirements-for-accessible-components"/>
         <updated>2021-06-14T13:08:38.000Z</updated>
         <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Health Icons]]></title>
-        <id>https://healthicons.org/</id>
-        <link href="http://www.webdesignernews.com/external/health-icons"/>
-        <updated>2021-06-14T13:08:24.000Z</updated>
-        <summary type="html"><![CDATA[https://healthicons.org/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
