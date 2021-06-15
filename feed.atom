@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T10:00:41.167Z</id>
+    <id>urn:2021-06-15T11:00:39.903Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T10:00:41.167Z</updated>
+    <updated>2021-06-15T11:00:39.903Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[20 BEST PHP IDE and Code Editor Software in 2021 [Free/Paid]]]></title>
+        <id>https://www.designernews.co/stories/116089-20-best-php-ide-and-code-editor-software-in-2021-freepaid</id>
+        <link href="https://www.designernews.co/stories/116089-20-best-php-ide-and-code-editor-software-in-2021-freepaid"/>
+        <updated>2021-06-15T10:23:01.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/20-best-php-ide-and-code-editor.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spinning Up Multiple WordPress Sites Locally With DevKinsta]]></title>
+        <id>https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/</id>
+        <link href="https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/"/>
+        <updated>2021-06-15T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Audience log - A notion template to figure out audience building from your end]]></title>
         <id>https://www.designernews.co/stories/116086-audience-log--a-notion-template-to-figure-out-audience-building-from-your-end</id>
@@ -506,16 +526,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         <link href="https://www.designernews.co/stories/115996-the-business-of-design-balancing-creativity-and-profitability"/>
         <updated>2021-06-10T13:12:13.000Z</updated>
         <summary type="html"><![CDATA[https://bookpedia.co/684378233/the-business-of-design]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI Chunks E01: Buttons. Design system knowledge organized in easy-to-learn chunks.]]></title>
-        <id>https://www.designernews.co/stories/115993-ui-chunks-e01-buttons-design-system-knowledge-organized-in-easytolearn-chunks</id>
-        <link href="https://www.designernews.co/stories/115993-ui-chunks-e01-buttons-design-system-knowledge-organized-in-easytolearn-chunks"/>
-        <updated>2021-06-10T12:22:31.000Z</updated>
-        <summary type="html"><![CDATA[https://gumroad.com/a/43717747/EiVkk]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
