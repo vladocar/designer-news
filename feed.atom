@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T16:06:52.181Z</id>
+    <id>urn:2021-06-15T17:23:51.077Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T16:06:52.182Z</updated>
+    <updated>2021-06-15T17:23:51.077Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Media Queries in Times of @container]]></title>
+        <id>https://mxb.dev/blog/media-queries-in-times-of-container-queries/</id>
+        <link href="http://www.webdesignernews.com/external/media-queries-in-times-of-container"/>
+        <updated>2021-06-15T16:38:29.000Z</updated>
+        <summary type="html"><![CDATA[https://mxb.dev/blog/media-queries-in-times-of-container-queries/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung gives the ?obsolete? floppy disc save icon a facelift for the 2020s]]></title>
         <id>https://www.itsnicethat.com/news/edelman-samsung-memory-graphic-design-150621</id>
@@ -383,16 +393,6 @@ The post 15 Free Seamless Geometric Patterns for Illustrator appeared first on D
         <link href="http://www.webdesignernews.com/external/php-isset-vs-empty-vs-is_null"/>
         <updated>2021-06-13T20:55:00.000Z</updated>
         <summary type="html"><![CDATA[https://code.tutsplus.com/tutorials/php-isset-vs-empty-vs-is_null--cms-37162]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Component-Specific Design Tokens]]></title>
-        <id>https://cloudfour.com/thinks/component-specific-design-tokens/</id>
-        <link href="http://www.webdesignernews.com/external/component-specific-design-tokens"/>
-        <updated>2021-06-13T19:22:00.000Z</updated>
-        <summary type="html"><![CDATA[https://cloudfour.com/thinks/component-specific-design-tokens/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
