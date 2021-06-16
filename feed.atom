@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T22:00:44.354Z</id>
+    <id>urn:2021-06-16T23:00:47.946Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T22:00:44.354Z</updated>
+    <updated>2021-06-16T23:00:47.946Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Designing e-commerce experience for pottery]]></title>
+        <id>https://medium.muz.li/designing-e-commerce-experience-for-pottery-ui-ux-case-study-ab0fda8b644d</id>
+        <link href="http://www.webdesignernews.com/external/designing-e-commerce-experience-for-pottery"/>
+        <updated>2021-06-16T22:50:00.000Z</updated>
+        <summary type="html"><![CDATA[https://medium.muz.li/designing-e-commerce-experience-for-pottery-ui-ux-case-study-ab0fda8b644d]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why are so many products badly designed?]]></title>
         <id>https://www.fastcompany.com/90647471/why-so-many-products-are-badly-designed</id>
@@ -355,16 +365,6 @@ The post 23 Best Beach Fonts for Hot Designs appeared first on Design Inspiratio
         <summary type="html"><![CDATA[https://www.loopple.com/theme/soft-ui-dashboard]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG animations made easy]]></title>
-        <id>https://getloaf.io/</id>
-        <link href="http://www.webdesignernews.com/external/svg-animations-made-easy"/>
-        <updated>2021-06-15T20:06:00.000Z</updated>
-        <summary type="html"><![CDATA[https://getloaf.io/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -844,16 +844,6 @@ The post 27 Best Nostalgia Retro 80s Fonts appeared first on Design Inspiration.
         <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
-        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
-        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
-        <updated>2021-05-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
         </author>
     </entry>
 </feed>
