@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T18:05:00.353Z</id>
+    <id>urn:2021-06-16T19:06:12.886Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T18:05:00.353Z</updated>
+    <updated>2021-06-16T19:06:12.886Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 15 Tools and Resources for Designers and Agencies]]></title>
+        <id>https://designmodo.com/tools-designers-agencies/</id>
+        <link href="http://www.webdesignernews.com/external/top-15-tools-and-resources-for-designers-and-agencies"/>
+        <updated>2021-06-16T18:52:00.000Z</updated>
+        <summary type="html"><![CDATA[https://designmodo.com/tools-designers-agencies/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14 Best Pixel Fonts for Retro Arcade Designs]]></title>
+        <id>https://www.designinspiration.info/?p=3126</id>
+        <link href="https://www.designinspiration.info/pixel-fonts/"/>
+        <updated>2021-06-16T18:27:19.000Z</updated>
+        <summary type="html"><![CDATA[Pixel fonts are perhaps the most prolific and popular retro typefaces out there. They seem to be a dime a dozen at this point; but among the many, there are a few that stick out as superior and near-perfect adaptations of pixelation. In this article, I’ll go through our picks
+The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making Fintech Fun]]></title>
         <id>https://adamfard.com/blog/fintech-gamification</id>
@@ -359,16 +380,6 @@ https://papercoach.net/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Media Queries in Times of @container]]></title>
-        <id>https://mxb.dev/blog/media-queries-in-times-of-container-queries/</id>
-        <link href="http://www.webdesignernews.com/external/media-queries-in-times-of-container"/>
-        <updated>2021-06-15T16:38:29.000Z</updated>
-        <summary type="html"><![CDATA[https://mxb.dev/blog/media-queries-in-times-of-container-queries/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[20 BEST PHP IDE and Code Editor Software in 2021 [Free/Paid]]]></title>
         <id>https://www.designernews.co/stories/116089-20-best-php-ide-and-code-editor-software-in-2021-freepaid</id>
         <link href="https://www.designernews.co/stories/116089-20-best-php-ide-and-code-editor-software-in-2021-freepaid"/>
@@ -653,17 +664,6 @@ The post 27 Best Nostalgia Retro 80s Fonts appeared first on Design Inspiration.
         <summary type="html"><![CDATA[In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Prince Chukwudire)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Free Illustrator Neon 80s Text Effect]]></title>
-        <id>https://www.designinspiration.info/?p=2932</id>
-        <link href="https://www.designinspiration.info/free-illustrator-neon-80s-text-styles/"/>
-        <updated>2021-06-07T10:20:32.000Z</updated>
-        <summary type="html"><![CDATA[We bring you 8 free one click Illustrator Graphics Styles for applying Neon Retro 80’s text effect. All neon effects can be applied to any text or shape in Illustrator. Installation: From the Graphic Styles window click the Left Bottom Corner Button and select Other Library. Browse to your Retro
-The post 8 Free Illustrator Neon 80s Text Effect appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
