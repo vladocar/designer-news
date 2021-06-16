@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T21:00:32.808Z</id>
+    <id>urn:2021-06-16T22:00:44.354Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T21:00:32.808Z</updated>
+    <updated>2021-06-16T22:00:44.354Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why are so many products badly designed?]]></title>
+        <id>https://www.fastcompany.com/90647471/why-so-many-products-are-badly-designed</id>
+        <link href="http://www.webdesignernews.com/external/why-are-so-many-products-badly-designed"/>
+        <updated>2021-06-16T21:44:41.000Z</updated>
+        <summary type="html"><![CDATA[https://www.fastcompany.com/90647471/why-so-many-products-are-badly-designed]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pilot]]></title>
+        <id>https://www.designernews.co/stories/116135-pilot</id>
+        <link href="https://www.designernews.co/stories/116135-pilot"/>
+        <updated>2021-06-16T21:37:57.000Z</updated>
+        <summary type="html"><![CDATA[https://wearepilot.co.nz/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retool, Self-Hosted - A low code platform to build internal tools]]></title>
+        <id>https://retool.com/self-hosted/</id>
+        <link href="http://www.webdesignernews.com/external/retool-self-hosted-a-low-code-platform-to-build-internal-tools"/>
+        <updated>2021-06-16T21:27:00.000Z</updated>
+        <summary type="html"><![CDATA[https://retool.com/self-hosted/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[52 Impressive Examples of Beige Websites]]></title>
         <id>https://qodeinteractive.com/magazine/examples-of-beige-websites/</id>
@@ -349,16 +379,6 @@ The post 10 Best Pirate Fonts appeared first on Design Inspiration.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jacob Wise tells us about his railway-inspired sans serif WT Saltburn]]></title>
-        <id>https://www.itsnicethat.com/articles/jacob-wise-wt-saltburn-graphic-design-140621</id>
-        <link href="http://www.webdesignernews.com/external/jacob-wise-tells-us-about-his-railway-inspired-sans-serif-wt-saltburn"/>
-        <updated>2021-06-15T18:38:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/jacob-wise-wt-saltburn-graphic-design-140621]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Trying to find a reliable writing service?]]></title>
         <id>https://www.designernews.co/stories/116099-trying-to-find-a-reliable-writing-service</id>
         <link href="https://www.designernews.co/stories/116099-trying-to-find-a-reliable-writing-service"/>
@@ -367,16 +387,6 @@ The post 10 Best Pirate Fonts appeared first on Design Inspiration.]]></summary>
 https://papercoach.net/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 39 With Addy Osmani: Image Optimization]]></title>
-        <id>https://www.smashingmagazine.com/2021/06/smashing-podcast-episode-39/</id>
-        <link href="http://www.webdesignernews.com/external/smashing-podcast-episode-39-with-addy-osmani-image-optimization"/>
-        <updated>2021-06-15T17:45:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/smashing-podcast-episode-39/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -496,16 +506,6 @@ The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
         <link href="https://www.designernews.co/stories/116068-5-mistakes-every-designer-makes"/>
         <updated>2021-06-14T14:10:54.000Z</updated>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=CVdOMp_Suwc]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WaveMakers Leadership Program For Young Professionals, Career Changers, Creatives, ...]]></title>
-        <id>https://www.designernews.co/stories/116066-wavemakers-leadership-program-for-young-professionals-career-changers-creatives-</id>
-        <link href="https://www.designernews.co/stories/116066-wavemakers-leadership-program-for-young-professionals-career-changers-creatives-"/>
-        <updated>2021-06-14T13:54:05.000Z</updated>
-        <summary type="html"><![CDATA[https://www.linkedin.com/posts/wavemakers-io_join-us-wavemakers-leadership-program-activity-6810143860681928704-cPYy]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
