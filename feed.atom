@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T04:01:45.187Z</id>
+    <id>urn:2021-06-16T05:07:56.553Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T04:01:45.187Z</updated>
+    <updated>2021-06-16T05:07:56.553Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hire Flutter App Developers - Cross-platform]]></title>
+        <id>https://www.designernews.co/stories/116105-hire-flutter-app-developers--crossplatform-</id>
+        <link href="https://www.designernews.co/stories/116105-hire-flutter-app-developers--crossplatform-"/>
+        <updated>2021-06-16T04:01:32.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/hire-flutter-app-developer/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Star Trek + Design]]></title>
         <id>https://star-trek.design/</id>
@@ -548,16 +558,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         <link href="https://www.designernews.co/stories/115996-the-business-of-design-balancing-creativity-and-profitability"/>
         <updated>2021-06-10T13:12:13.000Z</updated>
         <summary type="html"><![CDATA[https://bookpedia.co/684378233/the-business-of-design]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Free APIs That Nobody Is Talking About]]></title>
-        <id>https://www.designernews.co/stories/115990-7-free-apis-that-nobody-is-talking-about</id>
-        <link href="https://www.designernews.co/stories/115990-7-free-apis-that-nobody-is-talking-about"/>
-        <updated>2021-06-10T12:04:13.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/7-free-apis-that-nobody-is-talking-about.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
