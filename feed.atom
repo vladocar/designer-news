@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T17:23:04.265Z</id>
+    <id>urn:2021-06-16T18:05:00.353Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T17:23:04.265Z</updated>
+    <updated>2021-06-16T18:05:00.353Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Making Fintech Fun]]></title>
+        <id>https://adamfard.com/blog/fintech-gamification</id>
+        <link href="http://www.webdesignernews.com/external/making-fintech-fun"/>
+        <updated>2021-06-16T17:53:00.000Z</updated>
+        <summary type="html"><![CDATA[https://adamfard.com/blog/fintech-gamification]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web?s daddy jumps aboard NFT hype train - but is he already too late?]]></title>
         <id>https://thenextweb.com/news/tim-berners-lee-nft-auction-web-source-code</id>
@@ -354,16 +364,6 @@ https://papercoach.net/]]></summary>
         <link href="http://www.webdesignernews.com/external/media-queries-in-times-of-container"/>
         <updated>2021-06-15T16:38:29.000Z</updated>
         <summary type="html"><![CDATA[https://mxb.dev/blog/media-queries-in-times-of-container-queries/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung gives the ?obsolete? floppy disc save icon a facelift for the 2020s]]></title>
-        <id>https://www.itsnicethat.com/news/edelman-samsung-memory-graphic-design-150621</id>
-        <link href="http://www.webdesignernews.com/external/samsung-gives-the-obsolete-floppy-disc-save-icon-a-facelift-for-the-2020s"/>
-        <updated>2021-06-15T15:07:07.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/news/edelman-samsung-memory-graphic-design-150621]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
