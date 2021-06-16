@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T11:00:37.985Z</id>
+    <id>urn:2021-06-16T12:00:54.744Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T11:00:37.985Z</updated>
+    <updated>2021-06-16T12:00:54.744Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Easy video ads creator for Facebook and Instagram with auto resizing and image reviving tools! Whoosh!]]></title>
+        <id>https://www.designernews.co/stories/116120-easy-video-ads-creator-for-facebook-and-instagram-with-auto-resizing-and-image-reviving-tools-whoosh</id>
+        <link href="https://www.designernews.co/stories/116120-easy-video-ads-creator-for-facebook-and-instagram-with-auto-resizing-and-image-reviving-tools-whoosh"/>
+        <updated>2021-06-16T11:25:17.000Z</updated>
+        <summary type="html"><![CDATA[https://pixiko.com/editors/facebook-video-maker]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Complete Guide To Accessibility Tooling]]></title>
         <id>https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/</id>
@@ -580,16 +590,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         <summary type="html"><![CDATA[We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Business of Design: Balancing Creativity and Profitability]]></title>
-        <id>https://www.designernews.co/stories/115996-the-business-of-design-balancing-creativity-and-profitability</id>
-        <link href="https://www.designernews.co/stories/115996-the-business-of-design-balancing-creativity-and-profitability"/>
-        <updated>2021-06-10T13:12:13.000Z</updated>
-        <summary type="html"><![CDATA[https://bookpedia.co/684378233/the-business-of-design]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
