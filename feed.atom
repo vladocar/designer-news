@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T16:06:50.756Z</id>
+    <id>urn:2021-06-16T17:23:04.265Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T16:06:50.756Z</updated>
+    <updated>2021-06-16T17:23:04.265Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web?s daddy jumps aboard NFT hype train - but is he already too late?]]></title>
+        <id>https://thenextweb.com/news/tim-berners-lee-nft-auction-web-source-code</id>
+        <link href="http://www.webdesignernews.com/external/web-s-daddy-jumps-aboard-nft-hype-train-but-is-he-already-too-late"/>
+        <updated>2021-06-16T17:18:19.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/tim-berners-lee-nft-auction-web-source-code]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New browser signal could make cookie banners obsolete]]></title>
+        <id>https://www.dataprotectioncontrol.org/spec/</id>
+        <link href="http://www.webdesignernews.com/external/new-browser-signal-could-make-cookie-banners-obsolete"/>
+        <updated>2021-06-16T16:28:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.dataprotectioncontrol.org/spec/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create scribble animation effect in Adobe Xd using Auto Animate!]]></title>
+        <id>https://www.designernews.co/stories/116129-create-scribble-animation-effect-in-adobe-xd-using-auto-animate</id>
+        <link href="https://www.designernews.co/stories/116129-create-scribble-animation-effect-in-adobe-xd-using-auto-animate"/>
+        <updated>2021-06-16T15:12:01.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=_tlp4Gm--c4]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google page experience update now slowly rolling out]]></title>
         <id>https://searchengineland.com/google-page-experience-update-now-slowly-rolling-out-349649</id>
@@ -339,26 +369,6 @@ https://papercoach.net/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[22 Exciting New Tools For Designers, June 2021]]></title>
-        <id>https://www.webdesignerdepot.com/2021/06/22-exciting-new-tools-for-designers-june-2021/</id>
-        <link href="http://www.webdesignernews.com/external/22-exciting-new-tools-for-designers-june-2021"/>
-        <updated>2021-06-15T15:07:05.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/22-exciting-new-tools-for-designers-june-2021/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typography Trends in 2021: What Should You Know?]]></title>
-        <id>https://www.robertcreative.com/blog/typography-trends-in-2021</id>
-        <link href="http://www.webdesignernews.com/external/typography-trends-in-2021-what-should-you-know"/>
-        <updated>2021-06-15T15:07:03.000Z</updated>
-        <summary type="html"><![CDATA[https://www.robertcreative.com/blog/typography-trends-in-2021]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[20 BEST PHP IDE and Code Editor Software in 2021 [Free/Paid]]]></title>
         <id>https://www.designernews.co/stories/116089-20-best-php-ide-and-code-editor-software-in-2021-freepaid</id>
         <link href="https://www.designernews.co/stories/116089-20-best-php-ide-and-code-editor-software-in-2021-freepaid"/>
@@ -507,16 +517,6 @@ The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RPA Use Cases in Retail and E-commerce Industry]]></title>
-        <id>https://www.designernews.co/stories/116045-rpa-use-cases-in-retail-and-ecommerce-industry</id>
-        <link href="https://www.designernews.co/stories/116045-rpa-use-cases-in-retail-and-ecommerce-industry"/>
-        <updated>2021-06-14T09:28:40.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/rpa-use-cases-in-retail-and-ecommerce-industry]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -854,16 +854,6 @@ The post 8 Free Illustrator Neon 80s Text Effect appeared first on Design Inspir
         <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
-        <updated>2021-05-18T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>
