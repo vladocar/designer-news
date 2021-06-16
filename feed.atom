@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T14:00:45.420Z</id>
+    <id>urn:2021-06-16T15:00:58.163Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T14:00:45.420Z</updated>
+    <updated>2021-06-16T15:00:58.163Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google page experience update now slowly rolling out]]></title>
+        <id>https://searchengineland.com/google-page-experience-update-now-slowly-rolling-out-349649</id>
+        <link href="http://www.webdesignernews.com/external/google-page-experience-update-now-slowly-rolling-out"/>
+        <updated>2021-06-16T14:46:23.000Z</updated>
+        <summary type="html"><![CDATA[https://searchengineland.com/google-page-experience-update-now-slowly-rolling-out-349649]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A designer?s guide to writing effective copy (& why it matters more than you think)]]></title>
+        <id>https://dribbble.com/stories/2021/06/16/designers-guide-to-copywriting</id>
+        <link href="http://www.webdesignernews.com/external/a-designer-s-guide-to-writing-effective-copy-why-it-matters-more-than-you-think"/>
+        <updated>2021-06-16T14:46:11.000Z</updated>
+        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/16/designers-guide-to-copywriting]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New CSS functional pseudo-class selectors :is() and :where()]]></title>
+        <id>https://web.dev/css-is-and-where/</id>
+        <link href="http://www.webdesignernews.com/external/new-css-functional-pseudo-class-selectors-is-and-where"/>
+        <updated>2021-06-16T14:45:19.000Z</updated>
+        <summary type="html"><![CDATA[https://web.dev/css-is-and-where/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email Marketing for Webflow]]></title>
+        <id>https://www.designernews.co/stories/116127-email-marketing-for-webflow</id>
+        <link href="https://www.designernews.co/stories/116127-email-marketing-for-webflow"/>
+        <updated>2021-06-16T14:30:20.000Z</updated>
+        <summary type="html"><![CDATA[https://audienceful.com]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your daily dose of amazing design bites and resources!]]></title>
+        <id>https://www.designernews.co/stories/116126-your-daily-dose-of-amazing-design-bites-and-resources</id>
+        <link href="https://www.designernews.co/stories/116126-your-daily-dose-of-amazing-design-bites-and-resources"/>
+        <updated>2021-06-16T14:24:26.000Z</updated>
+        <summary type="html"><![CDATA[https://www.instagram.com/designxstream/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js 11]]></title>
+        <id>https://nextjs.org/blog/next-11</id>
+        <link href="http://www.webdesignernews.com/external/next-js-11"/>
+        <updated>2021-06-16T14:17:25.000Z</updated>
+        <summary type="html"><![CDATA[https://nextjs.org/blog/next-11]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why ?never speak for free at events? is bullshit]]></title>
+        <id>https://thenextweb.com/news/speaking-events-for-free-is-fine</id>
+        <link href="http://www.webdesignernews.com/external/why-never-speak-for-free-at-events-is-bullshit"/>
+        <updated>2021-06-16T14:04:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/speaking-events-for-free-is-fine]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guiding Junior Developers Out of the Weeds]]></title>
         <id>https://buttercms.com/blog/guiding-junior-developers-out-of-the-weeds</id>
@@ -289,46 +359,6 @@ https://papercoach.net/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stripe Identity - The easiest way to verify identities]]></title>
-        <id>https://stripe.com/en-gb/identity</id>
-        <link href="http://www.webdesignernews.com/external/stripe-identity-the-easiest-way-to-verify-identities"/>
-        <updated>2021-06-15T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[https://stripe.com/en-gb/identity]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to increase your paid-for newsletter subscribers with landing pages (Part 1)]]></title>
-        <id>https://ghost.org/blog/newsletter-signup-landing-page-tips/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-increase-your-paid-for-newsletter-subscribers-with-landing-pages-part-1"/>
-        <updated>2021-06-15T13:19:00.000Z</updated>
-        <summary type="html"><![CDATA[https://ghost.org/blog/newsletter-signup-landing-page-tips/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Tables With Sticky Header and Footers Got a Bit Easier]]></title>
-        <id>https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/</id>
-        <link href="http://www.webdesignernews.com/external/making-tables-with-sticky-header-and-footers-got-a-bit-easier"/>
-        <updated>2021-06-15T12:49:00.000Z</updated>
-        <summary type="html"><![CDATA[https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 10 has only 4 years left to live (officially)]]></title>
-        <id>https://thenextweb.com/news/windows-10-support-ending-2025</id>
-        <link href="http://www.webdesignernews.com/external/windows-10-has-only-4-years-left-to-live-officially"/>
-        <updated>2021-06-15T11:08:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/windows-10-support-ending-2025]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[20 BEST PHP IDE and Code Editor Software in 2021 [Free/Paid]]]></title>
         <id>https://www.designernews.co/stories/116089-20-best-php-ide-and-code-editor-software-in-2021-freepaid</id>
         <link href="https://www.designernews.co/stories/116089-20-best-php-ide-and-code-editor-software-in-2021-freepaid"/>
@@ -386,16 +416,6 @@ https://papercoach.net/]]></summary>
         <summary type="html"><![CDATA[https://qodeinteractive.com/magazine/examples-of-beige-websites/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7.css - A CSS framework for recreating Windows 7 UI]]></title>
-        <id>https://khang-nd.github.io/7.css/</id>
-        <link href="http://www.webdesignernews.com/external/7-css-a-css-framework-for-recreating-windows-7-ui"/>
-        <updated>2021-06-14T21:07:00.000Z</updated>
-        <summary type="html"><![CDATA[https://khang-nd.github.io/7.css/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -510,16 +530,6 @@ The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free Seamless Geometric Patterns for Illustrator]]></title>
-        <id>https://www.designernews.co/stories/116040-free-seamless-geometric-patterns-for-illustrator</id>
-        <link href="https://www.designernews.co/stories/116040-free-seamless-geometric-patterns-for-illustrator"/>
-        <updated>2021-06-14T08:22:56.000Z</updated>
-        <summary type="html"><![CDATA[https://www.designinspiration.info/free-seamless-geometric-pattern-for-illustrator/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[15 Free Seamless Geometric Patterns for Illustrator]]></title>
         <id>https://www.designinspiration.info/?p=3051</id>
         <link href="https://www.designinspiration.info/free-seamless-geometric-pattern-for-illustrator/"/>
@@ -539,16 +549,6 @@ The post 15 Free Seamless Geometric Patterns for Illustrator appeared first on D
 The post 17 Best Zombie Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 Best Gifts For Developers/ Coders/ Programmers]]></title>
-        <id>https://www.designernews.co/stories/116030-11-best-gifts-for-developers-coders-programmers</id>
-        <link href="https://www.designernews.co/stories/116030-11-best-gifts-for-developers-coders-programmers"/>
-        <updated>2021-06-13T07:03:00.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/11-best-gifts-for-developerscodersprogr.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
