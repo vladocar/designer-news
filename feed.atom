@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T07:08:08.730Z</id>
+    <id>urn:2021-06-16T08:00:58.524Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T07:08:08.730Z</updated>
+    <updated>2021-06-16T08:00:58.524Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TOP 7 Signs of an Inexperienced Programmer]]></title>
+        <id>https://www.designernews.co/stories/116112-top-7-signs-of-an-inexperienced-programmer</id>
+        <link href="https://www.designernews.co/stories/116112-top-7-signs-of-an-inexperienced-programmer"/>
+        <updated>2021-06-16T07:43:04.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/top-7-signs-of-inexperienced-programmer.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven Absolutely Essential Tools for Front End Developers]]></title>
+        <id>https://www.designernews.co/stories/116111-seven-absolutely-essential-tools-for-front-end-developers</id>
+        <link href="https://www.designernews.co/stories/116111-seven-absolutely-essential-tools-for-front-end-developers"/>
+        <updated>2021-06-16T07:41:32.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/seven-absolutely-essential-tools-for.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hire Flutter App Developers - Cross-platform]]></title>
         <id>https://www.designernews.co/stories/116105-hire-flutter-app-developers--crossplatform-</id>
@@ -563,16 +583,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Easily Code For 8+ Hours Without Feeling Tired]]></title>
-        <id>https://www.designernews.co/stories/115989-how-i-easily-code-for-8-hours-without-feeling-tired</id>
-        <link href="https://www.designernews.co/stories/115989-how-i-easily-code-for-8-hours-without-feeling-tired"/>
-        <updated>2021-06-10T12:03:47.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/how-i-easily-code-for-8-hours-without.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Three Front-End Auditing Tools I Discovered Recently]]></title>
         <id>https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/</id>
         <link href="https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/"/>
@@ -580,16 +590,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         <summary type="html"><![CDATA[Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stefan Judis)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything you should know about Bootstrap 5]]></title>
-        <id>https://www.designernews.co/stories/115980-everything-you-should-know-about-bootstrap-5</id>
-        <link href="https://www.designernews.co/stories/115980-everything-you-should-know-about-bootstrap-5"/>
-        <updated>2021-06-10T10:38:41.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/everything-you-should-know-about-bootstrap-5]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
