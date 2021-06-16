@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T13:17:43.047Z</id>
+    <id>urn:2021-06-16T14:00:45.420Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T13:17:43.047Z</updated>
+    <updated>2021-06-16T14:00:45.420Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Guiding Junior Developers Out of the Weeds]]></title>
+        <id>https://buttercms.com/blog/guiding-junior-developers-out-of-the-weeds</id>
+        <link href="http://www.webdesignernews.com/external/guiding-junior-developers-out-of-the-weeds"/>
+        <updated>2021-06-16T13:16:00.000Z</updated>
+        <summary type="html"><![CDATA[https://buttercms.com/blog/guiding-junior-developers-out-of-the-weeds]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free Bootstrap 5 Admin Template - PlainAdmin]]></title>
         <id>https://www.designernews.co/stories/116124-free-bootstrap-5-admin-template--plainadmin</id>
@@ -397,16 +407,6 @@ https://papercoach.net/]]></summary>
 The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predesign - Create hand-drawn designs with printable device mockups]]></title>
-        <id>https://predesign.me/</id>
-        <link href="http://www.webdesignernews.com/external/predesign-create-hand-drawn-designs-with-printable-device-mockups"/>
-        <updated>2021-06-14T19:31:00.000Z</updated>
-        <summary type="html"><![CDATA[https://predesign.me/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
