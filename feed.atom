@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T20:00:42.233Z</id>
+    <id>urn:2021-06-16T21:00:32.808Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T20:00:42.233Z</updated>
+    <updated>2021-06-16T21:00:32.808Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[52 Impressive Examples of Beige Websites]]></title>
+        <id>https://qodeinteractive.com/magazine/examples-of-beige-websites/</id>
+        <link href="http://www.webdesignernews.com/external/52-impressive-examples-of-beige-websites"/>
+        <updated>2021-06-16T20:51:00.000Z</updated>
+        <summary type="html"><![CDATA[https://qodeinteractive.com/magazine/examples-of-beige-websites/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 15 Tools and Resources for Designers and Agencies]]></title>
         <id>https://designmodo.com/tools-designers-agencies/</id>
@@ -365,16 +375,6 @@ https://papercoach.net/]]></summary>
         <link href="http://www.webdesignernews.com/external/smashing-podcast-episode-39-with-addy-osmani-image-optimization"/>
         <updated>2021-06-15T17:45:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/smashing-podcast-episode-39/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Only 4.8% of designers are Black. Herman Miller, Adobe, and Gap unveil a plan to change that]]></title>
-        <id>https://www.fastcompany.com/90646834/only-4-8-of-designers-are-black-herman-miller-adobe-and-gap-unveil-a-plan-to-change-that</id>
-        <link href="http://www.webdesignernews.com/external/only-4-8-of-designers-are-black-herman-miller-adobe-and-gap-unveil-a-plan-to-change-that"/>
-        <updated>2021-06-15T17:23:53.000Z</updated>
-        <summary type="html"><![CDATA[https://www.fastcompany.com/90646834/only-4-8-of-designers-are-black-herman-miller-adobe-and-gap-unveil-a-plan-to-change-that]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
