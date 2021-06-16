@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T08:00:58.524Z</id>
+    <id>urn:2021-06-16T09:00:42.487Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T08:00:58.524Z</updated>
+    <updated>2021-06-16T09:00:42.487Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Shopping Apps for This Holiday Season]]></title>
+        <id>https://www.designernews.co/stories/116116-top-10-shopping-apps-for-this-holiday-season</id>
+        <link href="https://www.designernews.co/stories/116116-top-10-shopping-apps-for-this-holiday-season"/>
+        <updated>2021-06-16T08:52:48.000Z</updated>
+        <summary type="html"><![CDATA[https://zenesyslabs.medium.com/top-10-shopping-apps-for-this-holiday-season-a786addf50db]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TOP 7 Signs of an Inexperienced Programmer]]></title>
         <id>https://www.designernews.co/stories/116112-top-7-signs-of-an-inexperienced-programmer</id>
@@ -548,16 +558,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         <link href="https://www.designernews.co/stories/116016-74-illustrated-a4-pages-about-buttons-free-sample"/>
         <updated>2021-06-11T09:33:17.000Z</updated>
         <summary type="html"><![CDATA[https://www.notion.so/Free-Sample-UI-Chunks-E01-Buttons-4235bcf78f344237a87318b4a97cf207]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hire App Developers - iOS & Android]]></title>
-        <id>https://www.designernews.co/stories/116008-hire-app-developers--ios--android-</id>
-        <link href="https://www.designernews.co/stories/116008-hire-app-developers--ios--android-"/>
-        <updated>2021-06-11T04:33:34.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/hire-dedicated-mobile-app-developers/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
