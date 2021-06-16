@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T23:00:40.032Z</id>
+    <id>urn:2021-06-16T00:10:03.795Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T23:00:40.032Z</updated>
+    <updated>2021-06-16T00:10:03.795Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Star Trek + Design]]></title>
+        <id>https://star-trek.design/</id>
+        <link href="http://www.webdesignernews.com/external/star-trek-design"/>
+        <updated>2021-06-15T23:42:00.000Z</updated>
+        <summary type="html"><![CDATA[https://star-trek.design/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rosetta Type Foundry?s David B?ezina on his interchangeable and variable typeface Handjet]]></title>
         <id>https://www.itsnicethat.com/articles/rosetta-type-foundry-handjet-graphic-design-140621</id>
@@ -294,16 +304,6 @@ The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
         <link href="http://www.webdesignernews.com/external/tom-hingston-creates-an-elastic-typographic-identity-for-the-v-a-s-alice-in-wonderland-show"/>
         <updated>2021-06-14T18:26:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.itsnicethat.com/news/tom-hingston-victoria-and-albert-museum-curiouser-and-curiouser-graphic-design-140621]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scenarios Where WordPress May Not Be the Best Option]]></title>
-        <id>https://speckyboy.com/wordpress-may-not-be-the-best-option/</id>
-        <link href="http://www.webdesignernews.com/external/scenarios-where-wordpress-may-not-be-the-best-option"/>
-        <updated>2021-06-14T17:50:00.000Z</updated>
-        <summary type="html"><![CDATA[https://speckyboy.com/wordpress-may-not-be-the-best-option/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
@@ -853,16 +853,6 @@ The post 8 Free Illustrator Neon 80s Text Effect appeared first on Design Inspir
         <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
-        <updated>2021-05-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
         </author>
     </entry>
 </feed>
