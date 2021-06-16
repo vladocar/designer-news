@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T10:00:35.344Z</id>
+    <id>urn:2021-06-16T11:00:37.985Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T10:00:35.344Z</updated>
+    <updated>2021-06-16T11:00:37.985Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide To Accessibility Tooling]]></title>
+        <id>https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/</id>
+        <link href="https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/"/>
+        <updated>2021-06-16T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nic Chan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Shopping Apps for This Holiday Season]]></title>
         <id>https://www.designernews.co/stories/116116-top-10-shopping-apps-for-this-holiday-season</id>
