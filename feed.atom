@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-17T20:00:54.007Z</id>
+    <id>urn:2021-06-17T21:00:39.450Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T20:00:54.007Z</updated>
+    <updated>2021-06-17T21:00:39.450Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[33 Best School Fonts]]></title>
+        <id>https://www.designinspiration.info/?p=3149</id>
+        <link href="https://www.designinspiration.info/school-fonts/"/>
+        <updated>2021-06-17T20:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Looking for back to school fonts? In this article you will find the best fonts that can be used in a design project related to school. These unique and elegant fonts can help you create school related designs such as school identity, banners, posters and many more. If you search
+The post 33 Best School Fonts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten years of breaches in one image]]></title>
+        <id>https://www.theverge.com/22518557/data-breach-infographic-leaked-passwords-have-i-been-pwned</id>
+        <link href="http://www.webdesignernews.com/external/ten-years-of-breaches-in-one-image"/>
+        <updated>2021-06-17T19:58:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.theverge.com/22518557/data-breach-infographic-leaked-passwords-have-i-been-pwned]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is a Career in UX and Product Design Stable?]]></title>
         <id>https://www.designernews.co/stories/116154-is-a-career-in-ux-and-product-design-stable</id>
@@ -292,16 +313,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         <link href="http://www.webdesignernews.com/external/a-designer-s-guide-to-writing-effective-copy-why-it-matters-more-than-you-think"/>
         <updated>2021-06-16T14:46:11.000Z</updated>
         <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/16/designers-guide-to-copywriting]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New CSS functional pseudo-class selectors :is() and :where()]]></title>
-        <id>https://web.dev/css-is-and-where/</id>
-        <link href="http://www.webdesignernews.com/external/new-css-functional-pseudo-class-selectors-is-and-where"/>
-        <updated>2021-06-16T14:45:19.000Z</updated>
-        <summary type="html"><![CDATA[https://web.dev/css-is-and-where/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
@@ -643,17 +654,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27 Best Nostalgia Retro 80s Fonts]]></title>
-        <id>https://www.designinspiration.info/?p=2946</id>
-        <link href="https://www.designinspiration.info/80s-fonts/"/>
-        <updated>2021-06-08T23:37:27.000Z</updated>
-        <summary type="html"><![CDATA[The 1980s was a decade of bad fashion and good music. New music, new fashion, neon lights and arcade games. The decade of 80s was the decade of no rules and expressions. It was not hard to find your style and be yourself. Many of you still think the 80s
-The post 27 Best Nostalgia Retro 80s Fonts appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
