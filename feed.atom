@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-17T13:17:03.063Z</id>
+    <id>urn:2021-06-17T14:00:50.989Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T13:17:03.063Z</updated>
+    <updated>2021-06-17T14:00:50.989Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bytesafe - A better way to control your software supply chain]]></title>
+        <id>https://bytesafe.dev/</id>
+        <link href="http://www.webdesignernews.com/external/bytesafe-a-better-way-to-control-your-software-supply-chain"/>
+        <updated>2021-06-17T13:40:00.000Z</updated>
+        <summary type="html"><![CDATA[https://bytesafe.dev/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Chrome Extensions For Designers - No BS Guide]]></title>
+        <id>https://www.designernews.co/stories/116151-the-best-chrome-extensions-for-designers--no-bs-guide</id>
+        <link href="https://www.designernews.co/stories/116151-the-best-chrome-extensions-for-designers--no-bs-guide"/>
+        <updated>2021-06-17T13:24:28.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=A_Pyoiv0AJk]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Free Business Softwares for 2021]]></title>
         <id>https://www.designernews.co/stories/116145-top-free-business-softwares-for-2021</id>
@@ -377,16 +397,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Star Trek + Design]]></title>
-        <id>https://star-trek.design/</id>
-        <link href="http://www.webdesignernews.com/external/star-trek-design"/>
-        <updated>2021-06-15T23:42:00.000Z</updated>
-        <summary type="html"><![CDATA[https://star-trek.design/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23 Best Beach Fonts for Hot Designs]]></title>
         <id>https://www.designinspiration.info/?p=3109</id>
         <link href="https://www.designinspiration.info/beach-fonts/"/>
@@ -538,16 +548,6 @@ The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outrun 2.2 Release - Custom prize creation and UI updates!]]></title>
-        <id>https://www.designernews.co/stories/116044-outrun-22-release--custom-prize-creation-and-ui-updates</id>
-        <link href="https://www.designernews.co/stories/116044-outrun-22-release--custom-prize-creation-and-ui-updates"/>
-        <updated>2021-06-14T09:21:21.000Z</updated>
-        <summary type="html"><![CDATA[https://apps.apple.com/gb/app/outrun-win-money-with-steps/id1492764874]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
