@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-17T15:01:00.446Z</id>
+    <id>urn:2021-06-17T16:08:11.440Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T15:01:00.446Z</updated>
+    <updated>2021-06-17T16:08:11.440Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Semantic Tags Cheat Sheet]]></title>
+        <id>https://syntaxxx.com/html-semantic-tags-cheat-sheet/</id>
+        <link href="http://www.webdesignernews.com/external/html-semantic-tags-cheat-sheet"/>
+        <updated>2021-06-17T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[https://syntaxxx.com/html-semantic-tags-cheat-sheet/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips to prevent adoption of your API]]></title>
+        <id>https://chrislukic.com/2021/06/16/techniques-to-prevent-adoption-of-your-api/</id>
+        <link href="http://www.webdesignernews.com/external/tips-to-prevent-adoption-of-your-api"/>
+        <updated>2021-06-17T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[https://chrislukic.com/2021/06/16/techniques-to-prevent-adoption-of-your-api/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bytesafe - A better way to control your software supply chain]]></title>
         <id>https://bytesafe.dev/</id>
@@ -297,16 +317,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guiding Junior Developers Out of the Weeds]]></title>
-        <id>https://buttercms.com/blog/guiding-junior-developers-out-of-the-weeds</id>
-        <link href="http://www.webdesignernews.com/external/guiding-junior-developers-out-of-the-weeds"/>
-        <updated>2021-06-16T13:16:00.000Z</updated>
-        <summary type="html"><![CDATA[https://buttercms.com/blog/guiding-junior-developers-out-of-the-weeds]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Free Bootstrap 5 Admin Template - PlainAdmin]]></title>
         <id>https://www.designernews.co/stories/116124-free-bootstrap-5-admin-template--plainadmin</id>
         <link href="https://www.designernews.co/stories/116124-free-bootstrap-5-admin-template--plainadmin"/>
@@ -324,16 +334,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         <summary type="html"><![CDATA[https://www.themasterpicks.com/3d-isometric/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Lessons from 8 Years of Writing at Medium]]></title>
-        <id>https://herbertlui.net/8-lessons-from-8-years-of-writing-at-medium/</id>
-        <link href="http://www.webdesignernews.com/external/8-lessons-from-8-years-of-writing-at-medium"/>
-        <updated>2021-06-16T12:14:00.000Z</updated>
-        <summary type="html"><![CDATA[https://herbertlui.net/8-lessons-from-8-years-of-writing-at-medium/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
