@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-17T10:00:55.834Z</id>
+    <id>urn:2021-06-17T11:00:38.259Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T10:00:55.834Z</updated>
+    <updated>2021-06-17T11:00:38.259Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top Free Business Softwares for 2021]]></title>
+        <id>https://www.designernews.co/stories/116145-top-free-business-softwares-for-2021</id>
+        <link href="https://www.designernews.co/stories/116145-top-free-business-softwares-for-2021"/>
+        <updated>2021-06-17T10:32:15.000Z</updated>
+        <summary type="html"><![CDATA[https://appsupports.co/best-free-apps/6000/business]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
+        <id>https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/</id>
+        <link href="https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
+        <updated>2021-06-17T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Bailey)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Ways to Design More Inclusively]]></title>
+        <id>https://www.webdesignerdepot.com/2021/06/3-ways-to-design-more-inclusively/</id>
+        <link href="http://www.webdesignernews.com/external/3-ways-to-design-more-inclusively"/>
+        <updated>2021-06-17T10:05:55.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/3-ways-to-design-more-inclusively/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Design System?]]></title>
+        <id>https://www.robertcreative.com/blog/what-is-a-design-system</id>
+        <link href="http://www.webdesignernews.com/external/what-is-a-design-system-2"/>
+        <updated>2021-06-17T10:05:41.000Z</updated>
+        <summary type="html"><![CDATA[https://www.robertcreative.com/blog/what-is-a-design-system]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animal Crossing Font]]></title>
+        <id>https://fontspanda.com/animal-crossing-font-free-download/</id>
+        <link href="http://www.webdesignernews.com/external/animal-crossing-font"/>
+        <updated>2021-06-17T10:05:28.000Z</updated>
+        <summary type="html"><![CDATA[https://fontspanda.com/animal-crossing-font-free-download/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some Fun Typefaces for 2021]]></title>
         <id>https://kottke.org/21/06/some-fun-typefaces-for-2021</id>
@@ -337,36 +387,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rosetta Type Foundry?s David B?ezina on his interchangeable and variable typeface Handjet]]></title>
-        <id>https://www.itsnicethat.com/articles/rosetta-type-foundry-handjet-graphic-design-140621</id>
-        <link href="http://www.webdesignernews.com/external/rosetta-type-foundry-s-david-b-ezina-on-his-interchangeable-and-variable-typeface-handjet"/>
-        <updated>2021-06-15T22:43:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/rosetta-type-foundry-handjet-graphic-design-140621]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter?s testing a ?DON?T @ ME BRO? feature]]></title>
-        <id>https://thenextweb.com/news/twitter-test-unmention-feature-tweets</id>
-        <link href="http://www.webdesignernews.com/external/twitter-s-testing-a-don-t-me-bro-feature"/>
-        <updated>2021-06-15T22:31:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/twitter-test-unmention-feature-tweets]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irish police to be given powers over passwords]]></title>
-        <id>https://www.bbc.com/news/world-europe-57468750</id>
-        <link href="http://www.webdesignernews.com/external/irish-police-to-be-given-powers-over-passwords"/>
-        <updated>2021-06-15T21:53:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.bbc.com/news/world-europe-57468750]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23 Best Beach Fonts for Hot Designs]]></title>
         <id>https://www.designinspiration.info/?p=3109</id>
         <link href="https://www.designinspiration.info/beach-fonts/"/>
@@ -467,16 +487,6 @@ https://papercoach.net/]]></summary>
         <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[52 Impressive Examples of Websites with Beige Backgrounds]]></title>
-        <id>https://www.designernews.co/stories/116077-52-impressive-examples-of-websites-with-beige-backgrounds</id>
-        <link href="https://www.designernews.co/stories/116077-52-impressive-examples-of-websites-with-beige-backgrounds"/>
-        <updated>2021-06-14T22:39:33.000Z</updated>
-        <summary type="html"><![CDATA[https://qodeinteractive.com/magazine/examples-of-beige-websites/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
