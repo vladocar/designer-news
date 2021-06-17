@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-17T22:00:52.800Z</id>
+    <id>urn:2021-06-17T23:00:48.034Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T22:00:52.800Z</updated>
+    <updated>2021-06-17T23:00:48.034Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UltimateGitResource - A concise, punny git cheat-sheet, presentation, & lab]]></title>
+        <id>https://github.com/GoldinGuy/UltimateGitResource</id>
+        <link href="http://www.webdesignernews.com/external/ultimategitresource-a-concise-punny-git-cheat-sheet-presentation-lab"/>
+        <updated>2021-06-17T22:55:00.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/GoldinGuy/UltimateGitResource]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[16 CSS Corners]]></title>
         <id>https://csshint.com/html-css-corner/</id>
@@ -305,16 +315,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=_tlp4Gm--c4]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google page experience update now slowly rolling out]]></title>
-        <id>https://searchengineland.com/google-page-experience-update-now-slowly-rolling-out-349649</id>
-        <link href="http://www.webdesignernews.com/external/google-page-experience-update-now-slowly-rolling-out"/>
-        <updated>2021-06-16T14:46:23.000Z</updated>
-        <summary type="html"><![CDATA[https://searchengineland.com/google-page-experience-update-now-slowly-rolling-out-349649]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
