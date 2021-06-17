@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-17T07:08:33.548Z</id>
+    <id>urn:2021-06-17T08:00:47.533Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T07:08:33.548Z</updated>
+    <updated>2021-06-17T08:00:47.533Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[5 Things You Need to Know About Website Design]]></title>
+        <id>https://www.designernews.co/stories/116138-5-things-you-need-to-know-about-website-design</id>
+        <link href="https://www.designernews.co/stories/116138-5-things-you-need-to-know-about-website-design"/>
+        <updated>2021-06-17T07:48:14.000Z</updated>
+        <summary type="html"><![CDATA[https://wpklik.com/wordpress-tips/things-you-need-to-know-about-website-design/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Designing e-commerce experience for pottery]]></title>
         <id>https://medium.muz.li/designing-e-commerce-experience-for-pottery-ui-ux-case-study-ab0fda8b644d</id>
@@ -458,16 +468,6 @@ https://papercoach.net/]]></summary>
 The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typography Trends in 2021: What Should You Know?]]></title>
-        <id>https://www.designernews.co/stories/116075-typography-trends-in-2021-what-should-you-know</id>
-        <link href="https://www.designernews.co/stories/116075-typography-trends-in-2021-what-should-you-know"/>
-        <updated>2021-06-14T18:47:07.000Z</updated>
-        <summary type="html"><![CDATA[https://www.robertcreative.com/blog/typography-trends-in-2021]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
