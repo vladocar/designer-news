@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-17T18:04:56.997Z</id>
+    <id>urn:2021-06-17T19:05:22.631Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T18:04:56.997Z</updated>
+    <updated>2021-06-17T19:05:22.631Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is a Career in UX and Product Design Stable?]]></title>
+        <id>https://www.designernews.co/stories/116154-is-a-career-in-ux-and-product-design-stable</id>
+        <link href="https://www.designernews.co/stories/116154-is-a-career-in-ux-and-product-design-stable"/>
+        <updated>2021-06-17T18:49:03.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=rhlSI_cK7BQ]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UX is the difference between mediocre and next-level search marketing]]></title>
+        <id>https://searchengineland.com/user-experience-is-the-difference-between-mediocre-and-next-level-search-marketing-349671</id>
+        <link href="http://www.webdesignernews.com/external/ux-is-the-difference-between-mediocre-and-next-level-search-marketing"/>
+        <updated>2021-06-17T18:41:00.000Z</updated>
+        <summary type="html"><![CDATA[https://searchengineland.com/user-experience-is-the-difference-between-mediocre-and-next-level-search-marketing-349671]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I Used the WAAPI to Build an Animation Library]]></title>
         <id>https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/</id>
@@ -307,16 +327,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js 11]]></title>
-        <id>https://nextjs.org/blog/next-11</id>
-        <link href="http://www.webdesignernews.com/external/next-js-11"/>
-        <updated>2021-06-16T14:17:25.000Z</updated>
-        <summary type="html"><![CDATA[https://nextjs.org/blog/next-11]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Free Bootstrap 5 Admin Template - PlainAdmin]]></title>
         <id>https://www.designernews.co/stories/116124-free-bootstrap-5-admin-template--plainadmin</id>
         <link href="https://www.designernews.co/stories/116124-free-bootstrap-5-admin-template--plainadmin"/>
@@ -508,16 +518,6 @@ https://papercoach.net/]]></summary>
 The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Lessons from 8 Years of Writing at Medium]]></title>
-        <id>https://www.designernews.co/stories/116072-8-lessons-from-8-years-of-writing-at-medium</id>
-        <link href="https://www.designernews.co/stories/116072-8-lessons-from-8-years-of-writing-at-medium"/>
-        <updated>2021-06-14T17:00:42.000Z</updated>
-        <summary type="html"><![CDATA[https://herbertlui.net/8-lessons-from-8-years-of-writing-at-medium/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
