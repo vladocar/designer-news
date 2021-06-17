@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-17T08:00:47.533Z</id>
+    <id>urn:2021-06-17T09:00:38.557Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T08:00:47.533Z</updated>
+    <updated>2021-06-17T09:00:38.557Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Robotic Process Automation in Healthcare Industry - [Infographics]]]></title>
+        <id>https://www.designernews.co/stories/116140-robotic-process-automation-in-healthcare-industry--infographics</id>
+        <link href="https://www.designernews.co/stories/116140-robotic-process-automation-in-healthcare-industry--infographics"/>
+        <updated>2021-06-17T08:06:38.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/infographics/robotic-process-automation-rpa-in-healthcare-industry]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Things You Need to Know About Website Design]]></title>
         <id>https://www.designernews.co/stories/116138-5-things-you-need-to-know-about-website-design</id>
@@ -506,16 +516,6 @@ The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
         <link href="https://www.designernews.co/stories/116068-5-mistakes-every-designer-makes"/>
         <updated>2021-06-14T14:10:54.000Z</updated>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=CVdOMp_Suwc]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating 3D Mockups using Adobe Xd Plugins!]]></title>
-        <id>https://www.designernews.co/stories/116064-creating-3d-mockups-using-adobe-xd-plugins</id>
-        <link href="https://www.designernews.co/stories/116064-creating-3d-mockups-using-adobe-xd-plugins"/>
-        <updated>2021-06-14T12:15:22.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=UtpFdbDS1xE]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
