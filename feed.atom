@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-17T17:22:37.860Z</id>
+    <id>urn:2021-06-17T18:04:56.997Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T17:22:37.860Z</updated>
+    <updated>2021-06-17T18:04:56.997Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How I Used the WAAPI to Build an Animation Library]]></title>
+        <id>https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/</id>
+        <link href="http://www.webdesignernews.com/external/how-i-used-the-waapi-to-build-an-animation-library"/>
+        <updated>2021-06-17T17:22:00.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Semantic Tags Cheat Sheet]]></title>
         <id>https://syntaxxx.com/html-semantic-tags-cheat-sheet/</id>
@@ -302,16 +312,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         <link href="http://www.webdesignernews.com/external/next-js-11"/>
         <updated>2021-06-16T14:17:25.000Z</updated>
         <summary type="html"><![CDATA[https://nextjs.org/blog/next-11]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why ?never speak for free at events? is bullshit]]></title>
-        <id>https://thenextweb.com/news/speaking-events-for-free-is-fine</id>
-        <link href="http://www.webdesignernews.com/external/why-never-speak-for-free-at-events-is-bullshit"/>
-        <updated>2021-06-16T14:04:00.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/speaking-events-for-free-is-fine]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
