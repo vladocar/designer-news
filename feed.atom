@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-17T21:00:39.450Z</id>
+    <id>urn:2021-06-17T22:00:52.800Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T21:00:39.450Z</updated>
+    <updated>2021-06-17T22:00:52.800Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[16 CSS Corners]]></title>
+        <id>https://csshint.com/html-css-corner/</id>
+        <link href="http://www.webdesignernews.com/external/16-css-corners"/>
+        <updated>2021-06-17T21:19:00.000Z</updated>
+        <summary type="html"><![CDATA[https://csshint.com/html-css-corner/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[33 Best School Fonts]]></title>
         <id>https://www.designinspiration.info/?p=3149</id>
@@ -303,16 +313,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         <link href="http://www.webdesignernews.com/external/google-page-experience-update-now-slowly-rolling-out"/>
         <updated>2021-06-16T14:46:23.000Z</updated>
         <summary type="html"><![CDATA[https://searchengineland.com/google-page-experience-update-now-slowly-rolling-out-349649]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A designer?s guide to writing effective copy (& why it matters more than you think)]]></title>
-        <id>https://dribbble.com/stories/2021/06/16/designers-guide-to-copywriting</id>
-        <link href="http://www.webdesignernews.com/external/a-designer-s-guide-to-writing-effective-copy-why-it-matters-more-than-you-think"/>
-        <updated>2021-06-16T14:46:11.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/16/designers-guide-to-copywriting]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
