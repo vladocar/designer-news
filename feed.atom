@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-18T09:00:32.852Z</id>
+    <id>urn:2021-06-18T10:00:38.190Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T09:00:32.852Z</updated>
+    <updated>2021-06-18T10:00:38.190Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The problem with UX/UI portfolios]]></title>
+        <id>https://markboulton.co.uk/journal/the-problem-with-ux-ui-portfolios/</id>
+        <link href="http://www.webdesignernews.com/external/the-problem-with-ux-ui-portfolios"/>
+        <updated>2021-06-18T09:48:46.000Z</updated>
+        <summary type="html"><![CDATA[https://markboulton.co.uk/journal/the-problem-with-ux-ui-portfolios/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Specificity Calculator]]></title>
+        <id>http://polypane.app/css-specificity-calculator/</id>
+        <link href="http://www.webdesignernews.com/external/css-specificity-calculator"/>
+        <updated>2021-06-18T09:48:31.000Z</updated>
+        <summary type="html"><![CDATA[http://polypane.app/css-specificity-calculator/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
+        <id>https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/</id>
+        <link href="http://www.webdesignernews.com/external/your-image-is-probably-not-decorative"/>
+        <updated>2021-06-18T09:48:16.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 40+ Javascript Memes We Love]]></title>
+        <id>https://flatlogic.com/blog/top-40-javascript-meme-for-developers/</id>
+        <link href="http://www.webdesignernews.com/external/top-40-javascript-memes-we-love"/>
+        <updated>2021-06-18T09:47:54.000Z</updated>
+        <summary type="html"><![CDATA[https://flatlogic.com/blog/top-40-javascript-meme-for-developers/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15 Modern ES6 Snippets For JavaScript To Make Your Code More Attractive]]></title>
         <id>https://www.designernews.co/stories/116163-15-modern-es6-snippets-for-javascript-to-make-your-code-more-attractive</id>
@@ -287,16 +327,6 @@ The post 33 Best School Fonts appeared first on Design Inspiration.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 15 Tools and Resources for Designers and Agencies]]></title>
-        <id>https://designmodo.com/tools-designers-agencies/</id>
-        <link href="http://www.webdesignernews.com/external/top-15-tools-and-resources-for-designers-and-agencies"/>
-        <updated>2021-06-16T18:52:00.000Z</updated>
-        <summary type="html"><![CDATA[https://designmodo.com/tools-designers-agencies/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[14 Best Pixel Fonts for Retro Arcade Designs]]></title>
         <id>https://www.designinspiration.info/?p=3126</id>
         <link href="https://www.designinspiration.info/pixel-fonts/"/>
@@ -305,36 +335,6 @@ The post 33 Best School Fonts appeared first on Design Inspiration.]]></summary>
 The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Fintech Fun]]></title>
-        <id>https://adamfard.com/blog/fintech-gamification</id>
-        <link href="http://www.webdesignernews.com/external/making-fintech-fun"/>
-        <updated>2021-06-16T17:53:00.000Z</updated>
-        <summary type="html"><![CDATA[https://adamfard.com/blog/fintech-gamification]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web?s daddy jumps aboard NFT hype train - but is he already too late?]]></title>
-        <id>https://thenextweb.com/news/tim-berners-lee-nft-auction-web-source-code</id>
-        <link href="http://www.webdesignernews.com/external/web-s-daddy-jumps-aboard-nft-hype-train-but-is-he-already-too-late"/>
-        <updated>2021-06-16T17:18:19.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/tim-berners-lee-nft-auction-web-source-code]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New browser signal could make cookie banners obsolete]]></title>
-        <id>https://www.dataprotectioncontrol.org/spec/</id>
-        <link href="http://www.webdesignernews.com/external/new-browser-signal-could-make-cookie-banners-obsolete"/>
-        <updated>2021-06-16T16:28:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.dataprotectioncontrol.org/spec/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
