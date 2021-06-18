@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-18T22:00:34.479Z</id>
+    <id>urn:2021-06-18T23:00:53.826Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T22:00:34.479Z</updated>
+    <updated>2021-06-18T23:00:53.826Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Perfect Tooltips With CSS Clipping and Masking]]></title>
+        <id>https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/</id>
+        <link href="http://www.webdesignernews.com/external/perfect-tooltips-with-css-clipping-and-masking"/>
+        <updated>2021-06-18T21:56:00.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optical size, the hidden superpower of variable fonts]]></title>
         <id>https://pixelambacht.nl/2021/optical-size-hidden-superpower/</id>
@@ -312,16 +322,6 @@ The post 34 Best School Fonts appeared first on Design Inspiration.]]></summary>
         <link href="http://www.webdesignernews.com/external/what-is-a-design-system-2"/>
         <updated>2021-06-17T10:05:41.000Z</updated>
         <summary type="html"><![CDATA[https://www.robertcreative.com/blog/what-is-a-design-system]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animal Crossing Font]]></title>
-        <id>https://fontspanda.com/animal-crossing-font-free-download/</id>
-        <link href="http://www.webdesignernews.com/external/animal-crossing-font"/>
-        <updated>2021-06-17T10:05:28.000Z</updated>
-        <summary type="html"><![CDATA[https://fontspanda.com/animal-crossing-font-free-download/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
@@ -853,16 +853,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <summary type="html"><![CDATA[Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Implement Authentication In Next.js With Auth0]]></title>
-        <id>https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/</id>
-        <link href="https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/"/>
-        <updated>2021-05-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
         </author>
     </entry>
 </feed>
