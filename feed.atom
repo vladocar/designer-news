@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-18T16:06:38.810Z</id>
+    <id>urn:2021-06-18T17:21:03.133Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T16:06:38.810Z</updated>
+    <updated>2021-06-18T17:21:03.133Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How and why to become a PostgreSQL contributor]]></title>
+        <id>https://blog.timescale.com/blog/how-and-why-to-become-a-postgresql-contributor/</id>
+        <link href="http://www.webdesignernews.com/external/how-and-why-to-become-a-postgresql-contributor"/>
+        <updated>2021-06-18T16:38:00.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.timescale.com/blog/how-and-why-to-become-a-postgresql-contributor/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Alternative Voice UI To Voice Assistants]]></title>
         <id>https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/</id>
@@ -354,16 +364,6 @@ The post 34 Best School Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[https://wearepilot.co.nz/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retool, Self-Hosted - A low code platform to build internal tools]]></title>
-        <id>https://retool.com/self-hosted/</id>
-        <link href="http://www.webdesignernews.com/external/retool-self-hosted-a-low-code-platform-to-build-internal-tools"/>
-        <updated>2021-06-16T21:27:00.000Z</updated>
-        <summary type="html"><![CDATA[https://retool.com/self-hosted/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
