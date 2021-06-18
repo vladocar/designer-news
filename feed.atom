@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-18T20:00:51.842Z</id>
+    <id>urn:2021-06-18T21:00:52.690Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T20:00:51.842Z</updated>
+    <updated>2021-06-18T21:00:52.690Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optical size, the hidden superpower of variable fonts]]></title>
+        <id>https://pixelambacht.nl/2021/optical-size-hidden-superpower/</id>
+        <link href="http://www.webdesignernews.com/external/optical-size-the-hidden-superpower-of-variable-fonts"/>
+        <updated>2021-06-18T19:54:00.000Z</updated>
+        <summary type="html"><![CDATA[https://pixelambacht.nl/2021/optical-size-hidden-superpower/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mega Creator - Make pro-looking graphics in minutes]]></title>
         <id>https://icons8.com/mega-creator</id>
@@ -312,16 +322,6 @@ The post 34 Best School Fonts appeared first on Design Inspiration.]]></summary>
         <link href="http://www.webdesignernews.com/external/animal-crossing-font"/>
         <updated>2021-06-17T10:05:28.000Z</updated>
         <summary type="html"><![CDATA[https://fontspanda.com/animal-crossing-font-free-download/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Fun Typefaces for 2021]]></title>
-        <id>https://kottke.org/21/06/some-fun-typefaces-for-2021</id>
-        <link href="http://www.webdesignernews.com/external/some-fun-typefaces-for-2021"/>
-        <updated>2021-06-17T09:54:02.000Z</updated>
-        <summary type="html"><![CDATA[https://kottke.org/21/06/some-fun-typefaces-for-2021]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
