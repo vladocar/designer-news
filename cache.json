@@ -103,6 +103,15 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/116169-how-to-prepare-a-pitch-deck",
+          "author": null,
+          "description": "https://blog.urlaunched.com/pitch-perfect-pitch-deck-that-rises-funds/",
+          "link": "https://www.designernews.co/stories/116169-how-to-prepare-a-pitch-deck",
+          "publishedOn": "2021-06-18T07:03:59.000Z",
+          "wordCount": 169,
+          "title": "How to prepare a Pitch Deck?"
+        },
+        {
           "id": "https://www.designernews.co/stories/116163-15-modern-es6-snippets-for-javascript-to-make-your-code-more-attractive",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/06/15-modern-es6-snippets-for-javascript.html",
@@ -301,15 +310,6 @@
           "title": "Loopple for Soft UI Dashboard - Drag and Drop Dashboard builder for Bootstrap 5"
         },
         {
-          "id": "https://www.designernews.co/stories/116099-trying-to-find-a-reliable-writing-service",
-          "author": null,
-          "description": "Trying to find a reliable writing service? Think that it is really hard to do it because of the numerous scam services? Your search is over because Papercoach.net is here. This writing service has a perfect online reputation and is popular among students. They tell so many warm words about this service that there is no doubt that it is really worth trying. It provides high-quality assignments, offers loyal prices and provides free revisions to satisfy even the most demanding clients. Yes, this service does everything to help you get the highest grade without any struggling, wasted time and destroyed nerve cells. Just get in touch with our specialists, and they will help you place an order and will ask for paper details. You will never miss deadlines and won’t go red because of an uncompleted task. You will save your academic reputation and will be able to do things you really like if you are with us. Our service Papercoach.net offers all kinds of academic assistance, so if you were looking for Affordable Paper Writing Service, just get in touch with our managers. No matter if it is a day or night. Feel free to ask for academic assistance when you require it. Professional writers will create error-free original papers for your academic success, and you will have time to enjoy things you really like. There is no need to sacrifice your precious time and to struggle when you have to write a paper. Just let Papercoach.net complete your papers for you! \r\nhttps://papercoach.net/",
-          "link": "https://www.designernews.co/stories/116099-trying-to-find-a-reliable-writing-service",
-          "publishedOn": "2021-06-15T18:00:04.000Z",
-          "wordCount": 420,
-          "title": "Trying to find a reliable writing service?"
-        },
-        {
           "id": "https://www.designernews.co/stories/116089-20-best-php-ide-and-code-editor-software-in-2021-freepaid",
           "author": null,
           "description": "https://cmsinstallation.blogspot.com/2021/04/20-best-php-ide-and-code-editor.html",
@@ -340,7 +340,7 @@
           "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
           "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
           "publishedOn": "2021-06-17T10:30:00.000Z",
-          "wordCount": 1638,
+          "wordCount": 1637,
           "title": "Your Image Is Probably Not Decorative",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
@@ -354,7 +354,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4102,
+          "wordCount": 4101,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -396,7 +396,7 @@
           "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
           "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
           "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3669,
+          "wordCount": 3672,
           "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
@@ -438,7 +438,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 867,
+          "wordCount": 864,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -480,7 +480,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2391,
+          "wordCount": 2444,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -494,7 +494,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4418,
+          "wordCount": 4371,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -508,7 +508,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3721,
+          "wordCount": 3728,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -522,7 +522,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4587,
+          "wordCount": 4584,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -536,7 +536,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5650,
+          "wordCount": 5651,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -578,7 +578,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2761,
+          "wordCount": 2726,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -592,7 +592,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10596,
+          "wordCount": 10557,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -606,7 +606,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 4049,
+          "wordCount": 4061,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -662,7 +662,7 @@
           "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
           "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
           "publishedOn": "2021-05-25T09:30:00.000Z",
-          "wordCount": 2254,
+          "wordCount": 2255,
           "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f0c69413-365e-4c39-9ee8-ad1d2b44e56b/reduce-font-loading-impact-css-descriptors.jpg",
@@ -676,7 +676,7 @@
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2934,
+          "wordCount": 2933,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d6d809b-0c1a-4074-9eeb-8509dc4d383f/css-container-queries-use-cases-migration-strategies.jpg",
@@ -690,7 +690,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9790,
+          "wordCount": 9750,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -718,7 +718,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 2199,
+          "wordCount": 2144,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -757,7 +757,7 @@
           "description": "https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
           "link": "http://www.webdesignernews.com/external/your-image-is-probably-not-decorative",
           "publishedOn": "2021-06-18T09:48:16.000Z",
-          "wordCount": 1638,
+          "wordCount": 1637,
           "title": "Your Image Is Probably Not Decorative"
         },
         {
@@ -775,7 +775,7 @@
           "description": "https://github.com/GoldinGuy/UltimateGitResource",
           "link": "http://www.webdesignernews.com/external/ultimategitresource-a-concise-punny-git-cheat-sheet-presentation-lab",
           "publishedOn": "2021-06-17T22:55:00.000Z",
-          "wordCount": 1866,
+          "wordCount": 1837,
           "title": "UltimateGitResource - A concise, punny git cheat-sheet, presentation, & lab"
         },
         {
@@ -820,7 +820,7 @@
           "description": "https://syntaxxx.com/html-semantic-tags-cheat-sheet/",
           "link": "http://www.webdesignernews.com/external/html-semantic-tags-cheat-sheet",
           "publishedOn": "2021-06-17T16:00:00.000Z",
-          "wordCount": 1856,
+          "wordCount": 1843,
           "title": "HTML Semantic Tags Cheat Sheet"
         },
         {
@@ -847,7 +847,7 @@
           "description": "https://www.webdesignerdepot.com/2021/06/3-ways-to-design-more-inclusively/",
           "link": "http://www.webdesignernews.com/external/3-ways-to-design-more-inclusively",
           "publishedOn": "2021-06-17T10:05:55.000Z",
-          "wordCount": 1436,
+          "wordCount": 1415,
           "title": "3 Ways to Design More Inclusively"
         },
         {
