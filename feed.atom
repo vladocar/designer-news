@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-18T13:17:05.543Z</id>
+    <id>urn:2021-06-18T14:00:37.358Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T13:17:05.543Z</updated>
+    <updated>2021-06-18T14:00:37.358Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create Video Podcasts Online]]></title>
+        <id>https://www.designernews.co/stories/116180-create-video-podcasts-online</id>
+        <link href="https://www.designernews.co/stories/116180-create-video-podcasts-online"/>
+        <updated>2021-06-18T13:54:22.000Z</updated>
+        <summary type="html"><![CDATA[https://www.getwelder.com/video-podcast-software]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Client-Side Routing In Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/06/client-side-routing-next-js/</id>
+        <link href="https://smashingmagazine.com/2021/06/client-side-routing-next-js/"/>
+        <updated>2021-06-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adebiyi Adedotun)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The problem with UX/UI portfolios]]></title>
         <id>https://markboulton.co.uk/journal/the-problem-with-ux-ui-portfolios/</id>
@@ -517,16 +537,6 @@ The post 10 Best Pirate Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Extraction with RPA (Robotic Process Automation)]]></title>
-        <id>https://www.designernews.co/stories/116082-data-extraction-with-rpa-robotic-process-automation</id>
-        <link href="https://www.designernews.co/stories/116082-data-extraction-with-rpa-robotic-process-automation"/>
-        <updated>2021-06-15T08:33:43.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/blog/data-extraction-with-rpa]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
