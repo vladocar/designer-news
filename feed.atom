@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-17T23:00:48.034Z</id>
+    <id>urn:2021-06-18T00:09:42.149Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T23:00:48.034Z</updated>
+    <updated>2021-06-18T00:09:42.149Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hourly rates are the worst.]]></title>
+        <id>https://www.designernews.co/stories/116160-hourly-rates-are-the-worst</id>
+        <link href="https://www.designernews.co/stories/116160-hourly-rates-are-the-worst"/>
+        <updated>2021-06-17T23:56:59.000Z</updated>
+        <summary type="html"><![CDATA[https://buds.haus/hourly-rates-are-bad-for-everyone-involved/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UltimateGitResource - A concise, punny git cheat-sheet, presentation, & lab]]></title>
         <id>https://github.com/GoldinGuy/UltimateGitResource</id>
@@ -532,16 +542,6 @@ The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[23 Responsive And Lightweight CSS Frameworks]]></title>
-        <id>https://www.designernews.co/stories/116070-23-responsive-and-lightweight-css-frameworks</id>
-        <link href="https://www.designernews.co/stories/116070-23-responsive-and-lightweight-css-frameworks"/>
-        <updated>2021-06-14T14:39:43.000Z</updated>
-        <summary type="html"><![CDATA[https://www.lambdatest.com/blog/responsive-lightweight-css-frameworks/?utm_source=designernews&utm_medium=blog&utm_campaign=PM-14June21&utm_term=organicPosting]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[5 Mistakes Every Designer Makes]]></title>
         <id>https://www.designernews.co/stories/116068-5-mistakes-every-designer-makes</id>
         <link href="https://www.designernews.co/stories/116068-5-mistakes-every-designer-makes"/>
@@ -844,16 +844,6 @@ The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspirat
         <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
-        <updated>2021-05-19T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
