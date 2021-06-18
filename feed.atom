@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-18T18:02:30.565Z</id>
+    <id>urn:2021-06-18T19:03:14.187Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T18:02:30.565Z</updated>
+    <updated>2021-06-18T19:03:14.187Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mega Creator - Make pro-looking graphics in minutes]]></title>
+        <id>https://icons8.com/mega-creator</id>
+        <link href="http://www.webdesignernews.com/external/mega-creator-make-pro-looking-graphics-in-minutes"/>
+        <updated>2021-06-18T18:24:00.000Z</updated>
+        <summary type="html"><![CDATA[https://icons8.com/mega-creator]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is a UI Kit And Why Do You Need It?]]></title>
         <id>https://gapsystudio.com/blog/what-is-a-ui-kit/</id>
@@ -344,16 +354,6 @@ The post 34 Best School Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[https://wpklik.com/wordpress-tips/things-you-need-to-know-about-website-design/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing e-commerce experience for pottery]]></title>
-        <id>https://medium.muz.li/designing-e-commerce-experience-for-pottery-ui-ux-case-study-ab0fda8b644d</id>
-        <link href="http://www.webdesignernews.com/external/designing-e-commerce-experience-for-pottery"/>
-        <updated>2021-06-16T22:50:00.000Z</updated>
-        <summary type="html"><![CDATA[https://medium.muz.li/designing-e-commerce-experience-for-pottery-ui-ux-case-study-ab0fda8b644d]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
