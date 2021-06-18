@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-18T15:00:51.896Z</id>
+    <id>urn:2021-06-18T16:06:38.810Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T15:00:51.896Z</updated>
+    <updated>2021-06-18T16:06:38.810Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An Alternative Voice UI To Voice Assistants]]></title>
+        <id>https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/</id>
+        <link href="https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/"/>
+        <updated>2021-06-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ottomatias Peura)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Protect Your eCommerce Store from Fake Adsense Clicks (In 3 Steps)]]></title>
         <id>https://torquemag.io/2021/06/google-adsense-protect-fake-slicks/</id>
