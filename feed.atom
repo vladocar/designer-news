@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-19T09:00:29.546Z</id>
+    <id>urn:2021-06-19T10:00:45.995Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T09:00:29.546Z</updated>
+    <updated>2021-06-19T10:00:45.995Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10 GitHub Repositories every Developer should know]]></title>
+        <id>https://www.designernews.co/stories/116191--10-github-repositories-every-developer-should-know-</id>
+        <link href="https://www.designernews.co/stories/116191--10-github-repositories-every-developer-should-know-"/>
+        <updated>2021-06-19T09:52:56.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/10-github-repositories-every-developer.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[16 Best Flower Fonts for your Floral Designs]]></title>
         <id>https://www.designinspiration.info/?p=2466</id>
@@ -538,16 +548,6 @@ The post 23 Best Beach Fonts for Hot Designs appeared first on Design Inspiratio
 The post 10 Best Pirate Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 BEST PHP IDE and Code Editor Software in 2021 [Free/Paid]]]></title>
-        <id>https://www.designernews.co/stories/116089-20-best-php-ide-and-code-editor-software-in-2021-freepaid</id>
-        <link href="https://www.designernews.co/stories/116089-20-best-php-ide-and-code-editor-software-in-2021-freepaid"/>
-        <updated>2021-06-15T10:23:01.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/20-best-php-ide-and-code-editor.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
