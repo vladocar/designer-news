@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-19T14:00:41.137Z</id>
+    <id>urn:2021-06-19T15:00:36.732Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T14:00:41.137Z</updated>
+    <updated>2021-06-19T15:00:36.732Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building Faith in Yourself to Improve Your Creativity]]></title>
+        <id>https://design.org/building-faith-in-yourself-to-improve-your-creativity/</id>
+        <link href="http://www.webdesignernews.com/external/building-faith-in-yourself-to-improve-your-creativity"/>
+        <updated>2021-06-19T14:49:00.000Z</updated>
+        <summary type="html"><![CDATA[https://design.org/building-faith-in-yourself-to-improve-your-creativity/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating rhythm with typography]]></title>
         <id>https://uxdesign.cc/rhythm-in-typography-b6b182864a08</id>
@@ -305,16 +315,6 @@ The post 34 Best School Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=rhlSI_cK7BQ]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UX is the difference between mediocre and next-level search marketing]]></title>
-        <id>https://searchengineland.com/user-experience-is-the-difference-between-mediocre-and-next-level-search-marketing-349671</id>
-        <link href="http://www.webdesignernews.com/external/ux-is-the-difference-between-mediocre-and-next-level-search-marketing"/>
-        <updated>2021-06-17T18:41:00.000Z</updated>
-        <summary type="html"><![CDATA[https://searchengineland.com/user-experience-is-the-difference-between-mediocre-and-next-level-search-marketing-349671]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
