@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-18T23:00:53.826Z</id>
+    <id>urn:2021-06-19T00:10:42.611Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T23:00:53.826Z</updated>
+    <updated>2021-06-19T00:10:42.611Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[16 Best Flower Fonts for your Floral Designs]]></title>
+        <id>https://www.designinspiration.info/?p=2466</id>
+        <link href="https://www.designinspiration.info/flower-fonts/"/>
+        <updated>2021-06-18T23:18:20.000Z</updated>
+        <summary type="html"><![CDATA[Looking for some beautiful flower fonts to use in your next design project? This list has 16+ of the most flowery fonts to use for your next flower-themed design. Flower typography is a beautiful and natural work of art. Flowers can be used in various shapes, sizes, and colors. We’ve
+The post 16 Best Flower Fonts for your Floral Designs appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Perfect Tooltips With CSS Clipping and Masking]]></title>
         <id>https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/</id>
@@ -652,17 +663,6 @@ The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summar
         <summary type="html"><![CDATA[Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stefan Judis)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[42 Best Silhouette Fonts for Crafters]]></title>
-        <id>https://www.designinspiration.info/?p=2963</id>
-        <link href="https://www.designinspiration.info/best-silhouette-fonts/"/>
-        <updated>2021-06-10T09:48:37.000Z</updated>
-        <summary type="html"><![CDATA[What are best fonts for Silhouette cutting machine? We’re presenting some of the best Silhouette fonts you can download for your craft projects and designs. A Silhouette machine is a cutting tool that can make beautifully detailed cuts, but the fonts can also be used for any design like wedding
-The post 42 Best Silhouette Fonts for Crafters appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
