@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-19T13:14:57.301Z</id>
+    <id>urn:2021-06-19T14:00:41.137Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T13:14:57.301Z</updated>
+    <updated>2021-06-19T14:00:41.137Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Creating rhythm with typography]]></title>
+        <id>https://uxdesign.cc/rhythm-in-typography-b6b182864a08</id>
+        <link href="http://www.webdesignernews.com/external/creating-rhythm-with-typography"/>
+        <updated>2021-06-19T13:27:00.000Z</updated>
+        <summary type="html"><![CDATA[https://uxdesign.cc/rhythm-in-typography-b6b182864a08]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is the difference between the internet, browsers, search engines and websites?]]></title>
         <id>https://blog.mozilla.org/en/internet-culture/mozilla-explains/internet-search-engine-browser/</id>
@@ -303,16 +313,6 @@ The post 34 Best School Fonts appeared first on Design Inspiration.]]></summary>
         <link href="http://www.webdesignernews.com/external/ux-is-the-difference-between-mediocre-and-next-level-search-marketing"/>
         <updated>2021-06-17T18:41:00.000Z</updated>
         <summary type="html"><![CDATA[https://searchengineland.com/user-experience-is-the-difference-between-mediocre-and-next-level-search-marketing-349671]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Used the WAAPI to Build an Animation Library]]></title>
-        <id>https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/</id>
-        <link href="http://www.webdesignernews.com/external/how-i-used-the-waapi-to-build-an-animation-library"/>
-        <updated>2021-06-17T17:22:00.000Z</updated>
-        <summary type="html"><![CDATA[https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
