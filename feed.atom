@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-19T11:00:49.177Z</id>
+    <id>urn:2021-06-19T12:00:50.038Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T11:00:49.177Z</updated>
+    <updated>2021-06-19T12:00:50.038Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Poll: Is AMP Dead, and Do We Care?]]></title>
+        <id>https://www.webdesignerdepot.com/2021/06/poll-is-amp-dead-and-do-we-care/</id>
+        <link href="http://www.webdesignernews.com/external/poll-is-amp-dead-and-do-we-care"/>
+        <updated>2021-06-19T11:14:53.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/poll-is-amp-dead-and-do-we-care/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bad vs Good Accessible Designs]]></title>
+        <id>https://usabilitygeek.com/bad-vs-good-accessible-designs/</id>
+        <link href="http://www.webdesignernews.com/external/bad-vs-good-accessible-designs"/>
+        <updated>2021-06-19T11:14:39.000Z</updated>
+        <summary type="html"><![CDATA[https://usabilitygeek.com/bad-vs-good-accessible-designs/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Client-Side Routing In Next.js]]></title>
+        <id>https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/</id>
+        <link href="http://www.webdesignernews.com/external/client-side-routing-in-next-js"/>
+        <updated>2021-06-19T11:14:26.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Markdown Editor - A simple React markdown editor with preview]]></title>
+        <id>https://github.com/uiwjs/react-md-editor</id>
+        <link href="http://www.webdesignernews.com/external/react-markdown-editor-a-simple-react-markdown-editor-with-preview"/>
+        <updated>2021-06-19T11:11:28.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/uiwjs/react-md-editor]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 GitHub Repositories every Developer should know]]></title>
         <id>https://www.designernews.co/stories/116191--10-github-repositories-every-developer-should-know-</id>
@@ -278,26 +318,6 @@ The post 34 Best School Fonts appeared first on Design Inspiration.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tips to prevent adoption of your API]]></title>
-        <id>https://chrislukic.com/2021/06/16/techniques-to-prevent-adoption-of-your-api/</id>
-        <link href="http://www.webdesignernews.com/external/tips-to-prevent-adoption-of-your-api"/>
-        <updated>2021-06-17T15:25:00.000Z</updated>
-        <summary type="html"><![CDATA[https://chrislukic.com/2021/06/16/techniques-to-prevent-adoption-of-your-api/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bytesafe - A better way to control your software supply chain]]></title>
-        <id>https://bytesafe.dev/</id>
-        <link href="http://www.webdesignernews.com/external/bytesafe-a-better-way-to-control-your-software-supply-chain"/>
-        <updated>2021-06-17T13:40:00.000Z</updated>
-        <summary type="html"><![CDATA[https://bytesafe.dev/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Best Chrome Extensions For Designers - No BS Guide]]></title>
         <id>https://www.designernews.co/stories/116151-the-best-chrome-extensions-for-designers--no-bs-guide</id>
         <link href="https://www.designernews.co/stories/116151-the-best-chrome-extensions-for-designers--no-bs-guide"/>
@@ -325,26 +345,6 @@ The post 34 Best School Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Ways to Design More Inclusively]]></title>
-        <id>https://www.webdesignerdepot.com/2021/06/3-ways-to-design-more-inclusively/</id>
-        <link href="http://www.webdesignernews.com/external/3-ways-to-design-more-inclusively"/>
-        <updated>2021-06-17T10:05:55.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/3-ways-to-design-more-inclusively/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Design System?]]></title>
-        <id>https://www.robertcreative.com/blog/what-is-a-design-system</id>
-        <link href="http://www.webdesignernews.com/external/what-is-a-design-system-2"/>
-        <updated>2021-06-17T10:05:41.000Z</updated>
-        <summary type="html"><![CDATA[https://www.robertcreative.com/blog/what-is-a-design-system]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
