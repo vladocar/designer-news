@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-19T15:00:36.732Z</id>
+    <id>urn:2021-06-19T16:05:01.670Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T15:00:36.732Z</updated>
+    <updated>2021-06-19T16:05:01.670Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PC users are furious about the new Windows 11 design]]></title>
+        <id>https://www.creativebloq.com/news/windows-11-users-unhappy</id>
+        <link href="http://www.webdesignernews.com/external/pc-users-are-furious-about-the-new-windows-11-design"/>
+        <updated>2021-06-19T15:36:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.creativebloq.com/news/windows-11-users-unhappy]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Faith in Yourself to Improve Your Creativity]]></title>
         <id>https://design.org/building-faith-in-yourself-to-improve-your-creativity/</id>
@@ -295,16 +305,6 @@ The post 16 Best Flower Fonts for your Floral Designs appeared first on Design I
 The post 34 Best School Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten years of breaches in one image]]></title>
-        <id>https://www.theverge.com/22518557/data-breach-infographic-leaked-passwords-have-i-been-pwned</id>
-        <link href="http://www.webdesignernews.com/external/ten-years-of-breaches-in-one-image"/>
-        <updated>2021-06-17T19:58:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.theverge.com/22518557/data-breach-infographic-leaked-passwords-have-i-been-pwned]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
