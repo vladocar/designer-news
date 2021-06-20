@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-20T16:04:40.330Z</id>
+    <id>urn:2021-06-20T17:17:48.145Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T16:04:40.330Z</updated>
+    <updated>2021-06-20T17:17:48.145Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Super Portfolio - Create a super powered portfolio page for yourself]]></title>
+        <id>https://superportfolio.co/</id>
+        <link href="http://www.webdesignernews.com/external/super-portfolio-create-a-super-powered-portfolio-page-for-yourself"/>
+        <updated>2021-06-20T16:20:00.000Z</updated>
+        <summary type="html"><![CDATA[https://superportfolio.co/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podpage 2.0 - Build a beautiful podcast website in 5 minutes]]></title>
         <id>https://www.podpage.com/</id>
@@ -222,16 +232,6 @@ The post 16 Best Flower Fonts for your Floral Designs appeared first on Design I
         <link href="http://www.webdesignernews.com/external/what-is-a-ui-kit-and-why-do-you-need-it"/>
         <updated>2021-06-18T17:44:00.000Z</updated>
         <summary type="html"><![CDATA[https://gapsystudio.com/blog/what-is-a-ui-kit/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How and why to become a PostgreSQL contributor]]></title>
-        <id>https://blog.timescale.com/blog/how-and-why-to-become-a-postgresql-contributor/</id>
-        <link href="http://www.webdesignernews.com/external/how-and-why-to-become-a-postgresql-contributor"/>
-        <updated>2021-06-18T16:38:00.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.timescale.com/blog/how-and-why-to-become-a-postgresql-contributor/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
