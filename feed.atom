@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-20T13:15:51.836Z</id>
+    <id>urn:2021-06-20T14:00:38.670Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T13:15:51.836Z</updated>
+    <updated>2021-06-20T14:00:38.670Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An Alternative Voice UI To Voice Assistants]]></title>
+        <id>https://www.smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/</id>
+        <link href="http://www.webdesignernews.com/external/an-alternative-voice-ui-to-voice-assistants"/>
+        <updated>2021-06-20T13:43:12.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simply Markdown - Easy create markdown with template and live preview]]></title>
+        <id>https://simplymarkdown.co/</id>
+        <link href="http://www.webdesignernews.com/external/simply-markdown-easy-create-markdown-with-template-and-live-preview"/>
+        <updated>2021-06-20T13:43:02.000Z</updated>
+        <summary type="html"><![CDATA[https://simplymarkdown.co/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Avoid SEO Disaster During a Website Redesign]]></title>
+        <id>https://www.searchenginejournal.com/avoid-seo-disaster-website-redesign/232093/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-avoid-seo-disaster-during-a-website-redesign"/>
+        <updated>2021-06-20T13:42:43.000Z</updated>
+        <summary type="html"><![CDATA[https://www.searchenginejournal.com/avoid-seo-disaster-website-redesign/232093/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Types of Web Design to Consider for Your Website]]></title>
+        <id>https://www.webfx.com/blog/web-design/types-of-web-design/</id>
+        <link href="http://www.webdesignernews.com/external/6-types-of-web-design-to-consider-for-your-website"/>
+        <updated>2021-06-20T13:42:21.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webfx.com/blog/web-design/types-of-web-design/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Drawing Graphics with the CSS Paint API]]></title>
         <id>https://tympanus.net/codrops/2021/06/18/drawing-graphics-with-the-css-paint-api/</id>
@@ -217,36 +257,6 @@ The post 16 Best Flower Fonts for your Floral Designs appeared first on Design I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Specificity Calculator]]></title>
-        <id>http://polypane.app/css-specificity-calculator/</id>
-        <link href="http://www.webdesignernews.com/external/css-specificity-calculator"/>
-        <updated>2021-06-18T09:48:31.000Z</updated>
-        <summary type="html"><![CDATA[http://polypane.app/css-specificity-calculator/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
-        <id>https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/</id>
-        <link href="http://www.webdesignernews.com/external/your-image-is-probably-not-decorative"/>
-        <updated>2021-06-18T09:48:16.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 40+ Javascript Memes We Love]]></title>
-        <id>https://flatlogic.com/blog/top-40-javascript-meme-for-developers/</id>
-        <link href="http://www.webdesignernews.com/external/top-40-javascript-memes-we-love"/>
-        <updated>2021-06-18T09:47:54.000Z</updated>
-        <summary type="html"><![CDATA[https://flatlogic.com/blog/top-40-javascript-meme-for-developers/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to prepare a Pitch Deck?]]></title>
         <id>https://www.designernews.co/stories/116169-how-to-prepare-a-pitch-deck</id>
         <link href="https://www.designernews.co/stories/116169-how-to-prepare-a-pitch-deck"/>
@@ -284,16 +294,6 @@ The post 16 Best Flower Fonts for your Floral Designs appeared first on Design I
         <summary type="html"><![CDATA[https://buds.haus/hourly-rates-are-bad-for-everyone-involved/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UltimateGitResource - A concise, punny git cheat-sheet, presentation, & lab]]></title>
-        <id>https://github.com/GoldinGuy/UltimateGitResource</id>
-        <link href="http://www.webdesignernews.com/external/ultimategitresource-a-concise-punny-git-cheat-sheet-presentation-lab"/>
-        <updated>2021-06-17T22:55:00.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/GoldinGuy/UltimateGitResource]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
