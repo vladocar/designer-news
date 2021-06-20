@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-20T15:00:53.079Z</id>
+    <id>urn:2021-06-20T16:04:40.330Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T15:00:53.079Z</updated>
+    <updated>2021-06-20T16:04:40.330Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Podpage 2.0 - Build a beautiful podcast website in 5 minutes]]></title>
+        <id>https://www.podpage.com/</id>
+        <link href="http://www.webdesignernews.com/external/podpage-2-0-build-a-beautiful-podcast-website-in-5-minutes"/>
+        <updated>2021-06-20T15:28:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.podpage.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Gain a Positively Unfair Advantage in Getting more Instagram Followers]]></title>
         <id>https://www.designernews.co/stories/116193-how-to-gain-a-positively-unfair-advantage-in-getting-more-instagram-followers</id>
@@ -234,16 +244,6 @@ The post 16 Best Flower Fonts for your Floral Designs appeared first on Design I
         <summary type="html"><![CDATA[Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ottomatias Peura)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Protect Your eCommerce Store from Fake Adsense Clicks (In 3 Steps)]]></title>
-        <id>https://torquemag.io/2021/06/google-adsense-protect-fake-slicks/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-protect-your-ecommerce-store-from-fake-adsense-clicks-in-3-steps"/>
-        <updated>2021-06-18T14:08:00.000Z</updated>
-        <summary type="html"><![CDATA[https://torquemag.io/2021/06/google-adsense-protect-fake-slicks/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
