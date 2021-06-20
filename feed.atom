@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-20T20:00:52.318Z</id>
+    <id>urn:2021-06-20T21:00:40.552Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T20:00:52.318Z</updated>
+    <updated>2021-06-20T21:00:40.552Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 20 JavaScript tips and tricks to increase your Speed and Efficiency]]></title>
+        <id>https://dev.to/techygeeky/top-20-javascript-tips-and-tricks-to-increase-your-speed-and-efficiency-283g</id>
+        <link href="http://www.webdesignernews.com/external/top-20-javascript-tips-and-tricks-to-increase-your-speed-and-efficiency"/>
+        <updated>2021-06-20T20:32:00.000Z</updated>
+        <summary type="html"><![CDATA[https://dev.to/techygeeky/top-20-javascript-tips-and-tricks-to-increase-your-speed-and-efficiency-283g]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Python is not the programming language of the future]]></title>
         <id>https://thenextweb.com/news/why-python-not-programming-language-future-syndication</id>
@@ -222,16 +232,6 @@ The post 16 Best Flower Fonts for your Floral Designs appeared first on Design I
         <link href="http://www.webdesignernews.com/external/optical-size-the-hidden-superpower-of-variable-fonts"/>
         <updated>2021-06-18T19:54:00.000Z</updated>
         <summary type="html"><![CDATA[https://pixelambacht.nl/2021/optical-size-hidden-superpower/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mega Creator - Make pro-looking graphics in minutes]]></title>
-        <id>https://icons8.com/mega-creator</id>
-        <link href="http://www.webdesignernews.com/external/mega-creator-make-pro-looking-graphics-in-minutes"/>
-        <updated>2021-06-18T18:24:00.000Z</updated>
-        <summary type="html"><![CDATA[https://icons8.com/mega-creator]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
