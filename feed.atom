@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-20T18:00:43.306Z</id>
+    <id>urn:2021-06-20T19:01:03.169Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T18:00:43.306Z</updated>
+    <updated>2021-06-20T19:01:03.169Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Python is not the programming language of the future]]></title>
+        <id>https://thenextweb.com/news/why-python-not-programming-language-future-syndication</id>
+        <link href="http://www.webdesignernews.com/external/why-python-is-not-the-programming-language-of-the-future"/>
+        <updated>2021-06-20T18:32:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/why-python-not-programming-language-future-syndication]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Super Portfolio - Create a super powered portfolio page for yourself]]></title>
         <id>https://superportfolio.co/</id>
@@ -222,16 +232,6 @@ The post 16 Best Flower Fonts for your Floral Designs appeared first on Design I
         <link href="http://www.webdesignernews.com/external/mega-creator-make-pro-looking-graphics-in-minutes"/>
         <updated>2021-06-18T18:24:00.000Z</updated>
         <summary type="html"><![CDATA[https://icons8.com/mega-creator]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is a UI Kit And Why Do You Need It?]]></title>
-        <id>https://gapsystudio.com/blog/what-is-a-ui-kit/</id>
-        <link href="http://www.webdesignernews.com/external/what-is-a-ui-kit-and-why-do-you-need-it"/>
-        <updated>2021-06-18T17:44:00.000Z</updated>
-        <summary type="html"><![CDATA[https://gapsystudio.com/blog/what-is-a-ui-kit/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
