@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-21T16:06:05.900Z</id>
+    <id>urn:2021-06-21T17:19:18.469Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T16:06:05.900Z</updated>
+    <updated>2021-06-21T17:19:18.469Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Elementz - A beautiful React UI library for easy modern development]]></title>
+        <id>https://github.com/elementz-ui/elementz</id>
+        <link href="http://www.webdesignernews.com/external/elementz-a-beautiful-react-ui-library-for-easy-modern-development"/>
+        <updated>2021-06-21T16:41:00.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/elementz-ui/elementz]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Archetype Reading Reveals Your Personality Quirks, Innate Talents, And Hidden Weaknesses]]></title>
+        <id>https://www.designernews.co/stories/116258-free-archetype-reading-reveals-your-personality-quirks-innate-talents-and-hidden-weaknesses</id>
+        <link href="https://www.designernews.co/stories/116258-free-archetype-reading-reveals-your-personality-quirks-innate-talents-and-hidden-weaknesses"/>
+        <updated>2021-06-21T16:21:27.000Z</updated>
+        <summary type="html"><![CDATA[http://www.digistore24.com/redir/300003/jaydhobi14/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 ways to cut out busy work with freelance clients]]></title>
         <id>https://dribbble.com/stories/2021/06/21/work-smarter-tips-freelance-designers</id>
@@ -297,16 +317,6 @@ The post 10 Best Google Fonts for Headings 2021 Collection appeared first on Des
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PC users are furious about the new Windows 11 design]]></title>
-        <id>https://www.creativebloq.com/news/windows-11-users-unhappy</id>
-        <link href="http://www.webdesignernews.com/external/pc-users-are-furious-about-the-new-windows-11-design"/>
-        <updated>2021-06-19T15:36:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.creativebloq.com/news/windows-11-users-unhappy]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10 GitHub Repositories every Developer should know]]></title>
         <id>https://www.designernews.co/stories/116191--10-github-repositories-every-developer-should-know-</id>
         <link href="https://www.designernews.co/stories/116191--10-github-repositories-every-developer-should-know-"/>
@@ -497,16 +507,6 @@ The post 34 Best School Fonts appeared first on Design Inspiration.]]></summary>
 The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create scribble animation effect in Adobe Xd using Auto Animate!]]></title>
-        <id>https://www.designernews.co/stories/116129-create-scribble-animation-effect-in-adobe-xd-using-auto-animate</id>
-        <link href="https://www.designernews.co/stories/116129-create-scribble-animation-effect-in-adobe-xd-using-auto-animate"/>
-        <updated>2021-06-16T15:12:01.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=_tlp4Gm--c4]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
