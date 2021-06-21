@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-21T09:00:40.478Z</id>
+    <id>urn:2021-06-21T10:00:47.388Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T09:00:40.478Z</updated>
+    <updated>2021-06-21T10:00:47.388Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Best Google Fonts for Headings]]></title>
+        <id>https://www.designernews.co/stories/116242-best-google-fonts-for-headings</id>
+        <link href="https://www.designernews.co/stories/116242-best-google-fonts-for-headings"/>
+        <updated>2021-06-21T09:02:29.000Z</updated>
+        <summary type="html"><![CDATA[https://www.designinspiration.info/best-google-fonts-for-headings/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Best Google Fonts for Headings 2021 Collection]]></title>
         <id>https://www.designinspiration.info/?p=3197</id>
@@ -465,16 +475,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         <link href="https://www.designernews.co/stories/116126-your-daily-dose-of-amazing-design-bites-and-resources"/>
         <updated>2021-06-16T14:24:26.000Z</updated>
         <summary type="html"><![CDATA[https://www.instagram.com/designxstream/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Bootstrap 5 Admin Template - PlainAdmin]]></title>
-        <id>https://www.designernews.co/stories/116124-free-bootstrap-5-admin-template--plainadmin</id>
-        <link href="https://www.designernews.co/stories/116124-free-bootstrap-5-admin-template--plainadmin"/>
-        <updated>2021-06-16T13:13:27.000Z</updated>
-        <summary type="html"><![CDATA[https://plainadmin.com/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
