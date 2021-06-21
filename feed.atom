@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-21T17:19:18.469Z</id>
+    <id>urn:2021-06-21T18:00:29.426Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T17:19:18.469Z</updated>
+    <updated>2021-06-21T18:00:29.426Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10 Error 404 Page Examples for UX Design]]></title>
+        <id>https://www.uxpin.com/studio/blog/404-page-examples/</id>
+        <link href="http://www.webdesignernews.com/external/10-error-404-page-examples-for-ux-design"/>
+        <updated>2021-06-21T17:36:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/404-page-examples/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elementz - A beautiful React UI library for easy modern development]]></title>
         <id>https://github.com/elementz-ui/elementz</id>
@@ -302,16 +312,6 @@ The post 10 Best Google Fonts for Headings 2021 Collection appeared first on Des
         <link href="http://www.webdesignernews.com/external/6-types-of-web-design-to-consider-for-your-website"/>
         <updated>2021-06-20T13:42:21.000Z</updated>
         <summary type="html"><![CDATA[https://www.webfx.com/blog/web-design/types-of-web-design/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drawing Graphics with the CSS Paint API]]></title>
-        <id>https://tympanus.net/codrops/2021/06/18/drawing-graphics-with-the-css-paint-api/</id>
-        <link href="http://www.webdesignernews.com/external/drawing-graphics-with-the-css-paint-api"/>
-        <updated>2021-06-19T16:06:00.000Z</updated>
-        <summary type="html"><![CDATA[https://tympanus.net/codrops/2021/06/18/drawing-graphics-with-the-css-paint-api/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
