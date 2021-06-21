@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-20T23:00:33.059Z</id>
+    <id>urn:2021-06-21T00:10:55.700Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T23:00:33.059Z</updated>
+    <updated>2021-06-21T00:10:55.700Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bootstrap 5 Portfolio Template]]></title>
+        <id>https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template</id>
+        <link href="http://www.webdesignernews.com/external/bootstrap-5-portfolio-template"/>
+        <updated>2021-06-20T23:47:00.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mood light - Screensaver for chillaxing, meditation, sleeping]]></title>
         <id>https://defonic.com/moodlight.html</id>
@@ -201,16 +211,6 @@
         <link href="http://www.webdesignernews.com/external/client-side-routing-in-next-js"/>
         <updated>2021-06-19T11:14:26.000Z</updated>
         <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Markdown Editor - A simple React markdown editor with preview]]></title>
-        <id>https://github.com/uiwjs/react-md-editor</id>
-        <link href="http://www.webdesignernews.com/external/react-markdown-editor-a-simple-react-markdown-editor-with-preview"/>
-        <updated>2021-06-19T11:11:28.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/uiwjs/react-md-editor]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
