@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-21T12:00:44.182Z</id>
+    <id>urn:2021-06-21T13:16:42.368Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T12:00:44.182Z</updated>
+    <updated>2021-06-21T13:16:42.368Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[12 CSS Parallax Effects]]></title>
+        <id>https://csshint.com/css-parallax-effects/</id>
+        <link href="http://www.webdesignernews.com/external/12-css-parallax-effects"/>
+        <updated>2021-06-21T13:06:00.000Z</updated>
+        <summary type="html"><![CDATA[https://csshint.com/css-parallax-effects/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Stuff for Developer]]></title>
+        <id>https://freestuff.dev/</id>
+        <link href="http://www.webdesignernews.com/external/free-stuff-for-developer"/>
+        <updated>2021-06-21T12:59:20.000Z</updated>
+        <summary type="html"><![CDATA[https://freestuff.dev/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Best Free Icon Libraries to use in your Mobile & Web UI Projects!]]></title>
         <id>https://www.designernews.co/stories/116249-the-best-free-icon-libraries-to-use-in-your-mobile--web-ui-projects-</id>
@@ -252,26 +272,6 @@ The post 10 Best Google Fonts for Headings 2021 Collection appeared first on Des
         <link href="http://www.webdesignernews.com/external/poll-is-amp-dead-and-do-we-care"/>
         <updated>2021-06-19T11:14:53.000Z</updated>
         <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/poll-is-amp-dead-and-do-we-care/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bad vs Good Accessible Designs]]></title>
-        <id>https://usabilitygeek.com/bad-vs-good-accessible-designs/</id>
-        <link href="http://www.webdesignernews.com/external/bad-vs-good-accessible-designs"/>
-        <updated>2021-06-19T11:14:39.000Z</updated>
-        <summary type="html"><![CDATA[https://usabilitygeek.com/bad-vs-good-accessible-designs/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Client-Side Routing In Next.js]]></title>
-        <id>https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/</id>
-        <link href="http://www.webdesignernews.com/external/client-side-routing-in-next-js"/>
-        <updated>2021-06-19T11:14:26.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
