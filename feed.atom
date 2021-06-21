@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-21T11:00:43.275Z</id>
+    <id>urn:2021-06-21T12:00:44.182Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T11:00:43.275Z</updated>
+    <updated>2021-06-21T12:00:44.182Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Best Free Icon Libraries to use in your Mobile & Web UI Projects!]]></title>
+        <id>https://www.designernews.co/stories/116249-the-best-free-icon-libraries-to-use-in-your-mobile--web-ui-projects-</id>
+        <link href="https://www.designernews.co/stories/116249-the-best-free-icon-libraries-to-use-in-your-mobile--web-ui-projects-"/>
+        <updated>2021-06-21T11:55:28.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=9yJGLVi9_Fg]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blinkist has new illustrated covers for their blinks / books. Here is a quick sneak peek.]]></title>
         <id>https://www.designernews.co/stories/116245-blinkist-has-new-illustrated-covers-for-their-blinks--books-here-is-a-quick-sneak-peek</id>
@@ -525,16 +535,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         <link href="https://www.designernews.co/stories/116116-top-10-shopping-apps-for-this-holiday-season"/>
         <updated>2021-06-16T08:52:48.000Z</updated>
         <summary type="html"><![CDATA[https://zenesyslabs.medium.com/top-10-shopping-apps-for-this-holiday-season-a786addf50db]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOP 7 Signs of an Inexperienced Programmer]]></title>
-        <id>https://www.designernews.co/stories/116112-top-7-signs-of-an-inexperienced-programmer</id>
-        <link href="https://www.designernews.co/stories/116112-top-7-signs-of-an-inexperienced-programmer"/>
-        <updated>2021-06-16T07:43:04.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/top-7-signs-of-inexperienced-programmer.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
