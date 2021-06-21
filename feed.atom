@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-21T18:00:29.426Z</id>
+    <id>urn:2021-06-21T19:02:32.531Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T18:00:29.426Z</updated>
+    <updated>2021-06-21T19:02:32.531Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Top 5 Online Communities for SaaS Founders in 2021]]></title>
+        <id>https://www.gosquared.com/blog/communities-for-saas-founders-in-2021</id>
+        <link href="http://www.webdesignernews.com/external/the-top-5-online-communities-for-saas-founders-in-2021"/>
+        <updated>2021-06-21T18:19:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.gosquared.com/blog/communities-for-saas-founders-in-2021]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Error 404 Page Examples for UX Design]]></title>
         <id>https://www.uxpin.com/studio/blog/404-page-examples/</id>
@@ -302,16 +312,6 @@ The post 10 Best Google Fonts for Headings 2021 Collection appeared first on Des
         <link href="http://www.webdesignernews.com/external/how-to-avoid-seo-disaster-during-a-website-redesign"/>
         <updated>2021-06-20T13:42:43.000Z</updated>
         <summary type="html"><![CDATA[https://www.searchenginejournal.com/avoid-seo-disaster-website-redesign/232093/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Types of Web Design to Consider for Your Website]]></title>
-        <id>https://www.webfx.com/blog/web-design/types-of-web-design/</id>
-        <link href="http://www.webdesignernews.com/external/6-types-of-web-design-to-consider-for-your-website"/>
-        <updated>2021-06-20T13:42:21.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webfx.com/blog/web-design/types-of-web-design/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
