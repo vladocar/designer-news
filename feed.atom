@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-21T10:00:47.388Z</id>
+    <id>urn:2021-06-21T11:00:43.275Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T10:00:47.388Z</updated>
+    <updated>2021-06-21T11:00:43.275Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blinkist has new illustrated covers for their blinks / books. Here is a quick sneak peek.]]></title>
+        <id>https://www.designernews.co/stories/116245-blinkist-has-new-illustrated-covers-for-their-blinks--books-here-is-a-quick-sneak-peek</id>
+        <link href="https://www.designernews.co/stories/116245-blinkist-has-new-illustrated-covers-for-their-blinks--books-here-is-a-quick-sneak-peek"/>
+        <updated>2021-06-21T10:14:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.owlillustration.com/2021/06/07/blinkist-book-covers/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Google Fonts for Headings]]></title>
         <id>https://www.designernews.co/stories/116242-best-google-fonts-for-headings</id>
@@ -525,16 +535,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         <link href="https://www.designernews.co/stories/116112-top-7-signs-of-an-inexperienced-programmer"/>
         <updated>2021-06-16T07:43:04.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/top-7-signs-of-inexperienced-programmer.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven Absolutely Essential Tools for Front End Developers]]></title>
-        <id>https://www.designernews.co/stories/116111-seven-absolutely-essential-tools-for-front-end-developers</id>
-        <link href="https://www.designernews.co/stories/116111-seven-absolutely-essential-tools-for-front-end-developers"/>
-        <updated>2021-06-16T07:41:32.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/seven-absolutely-essential-tools-for.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
