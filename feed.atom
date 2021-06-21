@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-21T08:12:38.109Z</id>
+    <id>urn:2021-06-21T09:00:40.478Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T08:12:38.109Z</updated>
+    <updated>2021-06-21T09:00:40.478Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10 Best Google Fonts for Headings 2021 Collection]]></title>
+        <id>https://www.designinspiration.info/?p=3197</id>
+        <link href="https://www.designinspiration.info/best-google-fonts-for-headings/"/>
+        <updated>2021-06-21T08:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Google Fonts is a library of 1000+ free licensed font families and APIs for conveniently using the fonts via CSS and Android. In this article, you will find a curated list of the best Google fonts that can be used for headings. All the fonts and icons in our catalog
+The post 10 Best Google Fonts for Headings 2021 Collection appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UI/UX Trends 2021 | UX UI Design Trends | Web Design Trends | UX UI Design Services | Zenesys]]></title>
+        <id>https://www.designernews.co/stories/116240-uiux-trends-2021--ux-ui-design-trends--web-design-trends--ux-ui-design-services--zenesys</id>
+        <link href="https://www.designernews.co/stories/116240-uiux-trends-2021--ux-ui-design-trends--web-design-trends--ux-ui-design-services--zenesys"/>
+        <updated>2021-06-21T08:45:03.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=LzeRvEaNOdM]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fun facts about programming – Enjoy Programing]]></title>
+        <id>https://www.designernews.co/stories/116239-fun-facts-about-programming--enjoy-programing</id>
+        <link href="https://www.designernews.co/stories/116239-fun-facts-about-programming--enjoy-programing"/>
+        <updated>2021-06-21T08:36:22.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/fun-facts-about-programming-happy.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bootstrap 5 Portfolio Template]]></title>
         <id>https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template</id>
@@ -509,16 +540,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hire Flutter App Developers - Cross-platform]]></title>
-        <id>https://www.designernews.co/stories/116105-hire-flutter-app-developers--crossplatform-</id>
-        <link href="https://www.designernews.co/stories/116105-hire-flutter-app-developers--crossplatform-"/>
-        <updated>2021-06-16T04:01:32.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/hire-flutter-app-developer/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23 Best Beach Fonts for Hot Designs]]></title>
         <id>https://www.designinspiration.info/?p=3109</id>
         <link href="https://www.designinspiration.info/beach-fonts/"/>
@@ -527,16 +548,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
 The post 23 Best Beach Fonts for Hot Designs appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loopple for Soft UI Dashboard - Drag and Drop Dashboard builder for Bootstrap 5]]></title>
-        <id>https://www.designernews.co/stories/116101-loopple-for-soft-ui-dashboard--drag-and-drop-dashboard-builder-for-bootstrap-5</id>
-        <link href="https://www.designernews.co/stories/116101-loopple-for-soft-ui-dashboard--drag-and-drop-dashboard-builder-for-bootstrap-5"/>
-        <updated>2021-06-15T20:10:32.000Z</updated>
-        <summary type="html"><![CDATA[https://www.loopple.com/theme/soft-ui-dashboard]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -620,17 +631,6 @@ The post 17 Best Zombie Fonts appeared first on Design Inspiration.]]></summary>
         <updated>2021-06-12T23:13:37.000Z</updated>
         <summary type="html"><![CDATA[This is a list of the best amazing fancy fonts that can be used in any graphic design. We’ve collected some fancy handwritten fonts that are elegant and perfect for wedding invitations, invitations, logos, and so on. Big collection of fancy fonts. As for me, the best font is the
 The post 43 Best Fancy Fonts for Your Gorgeous Designs appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Fonts with Hearts]]></title>
-        <id>https://www.designinspiration.info/?p=1722</id>
-        <link href="https://www.designinspiration.info/best-fonts-with-hearts/"/>
-        <updated>2021-06-11T15:30:47.000Z</updated>
-        <summary type="html"><![CDATA[A list with the best fonts with hearts for graphic designers who want to make heart designs. Hearts are used in many occasions like for Valentines day design, in fashion design anywhere hearts fit the design. Hearts can be also used in typographic or creative designs and invitations etc. I’ve
-The post Best Fonts with Hearts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
         </author>
