@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-21T20:00:39.782Z</id>
+    <id>urn:2021-06-21T21:00:45.526Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T20:00:39.782Z</updated>
+    <updated>2021-06-21T21:00:45.526Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Every Designer Needs A Youtube Channel]]></title>
+        <id>https://www.designernews.co/stories/116262-why-every-designer-needs-a-youtube-channel</id>
+        <link href="https://www.designernews.co/stories/116262-why-every-designer-needs-a-youtube-channel"/>
+        <updated>2021-06-21T20:57:20.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=jjUK-4SMdAs]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Best Google Fonts for Headings 2021 Collection]]></title>
+        <id>https://www.designinspiration.info/best-google-fonts-for-headings/</id>
+        <link href="http://www.webdesignernews.com/external/10-best-google-fonts-for-headings-2021-collection"/>
+        <updated>2021-06-21T20:19:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.designinspiration.info/best-google-fonts-for-headings/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding the codes that form our visual culture]]></title>
         <id>https://www.itsnicethat.com/articles/raphael-de-la-morinerie-gaya-graphic-design-210621</id>
@@ -307,16 +327,6 @@ The post 10 Best Google Fonts for Headings 2021 Collection appeared first on Des
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Simply Markdown - Easy create markdown with template and live preview]]></title>
-        <id>https://simplymarkdown.co/</id>
-        <link href="http://www.webdesignernews.com/external/simply-markdown-easy-create-markdown-with-template-and-live-preview"/>
-        <updated>2021-06-20T13:43:02.000Z</updated>
-        <summary type="html"><![CDATA[https://simplymarkdown.co/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10 GitHub Repositories every Developer should know]]></title>
         <id>https://www.designernews.co/stories/116191--10-github-repositories-every-developer-should-know-</id>
         <link href="https://www.designernews.co/stories/116191--10-github-repositories-every-developer-should-know-"/>
@@ -525,16 +535,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         <link href="https://www.designernews.co/stories/116126-your-daily-dose-of-amazing-design-bites-and-resources"/>
         <updated>2021-06-16T14:24:26.000Z</updated>
         <summary type="html"><![CDATA[https://www.instagram.com/designxstream/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy video ads creator for Facebook and Instagram with auto resizing and image reviving tools! Whoosh!]]></title>
-        <id>https://www.designernews.co/stories/116120-easy-video-ads-creator-for-facebook-and-instagram-with-auto-resizing-and-image-reviving-tools-whoosh</id>
-        <link href="https://www.designernews.co/stories/116120-easy-video-ads-creator-for-facebook-and-instagram-with-auto-resizing-and-image-reviving-tools-whoosh"/>
-        <updated>2021-06-16T11:25:17.000Z</updated>
-        <summary type="html"><![CDATA[https://pixiko.com/editors/facebook-video-maker]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
