@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-21T15:00:34.688Z</id>
+    <id>urn:2021-06-21T16:06:05.900Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T15:00:34.688Z</updated>
+    <updated>2021-06-21T16:06:05.900Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[5 ways to cut out busy work with freelance clients]]></title>
+        <id>https://dribbble.com/stories/2021/06/21/work-smarter-tips-freelance-designers</id>
+        <link href="http://www.webdesignernews.com/external/5-ways-to-cut-out-busy-work-with-freelance-clients"/>
+        <updated>2021-06-21T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/21/work-smarter-tips-freelance-designers]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cleaner One Pro: Keep Your Mac or PC Running Smoothly]]></title>
         <id>https://joetechreviews.com/cleaner-one-pro-keep-your-mac-or-pc-running-smoothly/</id>
@@ -81,6 +91,16 @@
         <link href="https://www.designernews.co/stories/116249-the-best-free-icon-libraries-to-use-in-your-mobile--web-ui-projects-"/>
         <updated>2021-06-21T11:55:28.000Z</updated>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=9yJGLVi9_Fg]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typography Trends in 2021: What Should You Know?]]></title>
+        <id>https://www.designernews.co/stories/116247-typography-trends-in-2021-what-should-you-know</id>
+        <link href="https://www.designernews.co/stories/116247-typography-trends-in-2021-what-should-you-know"/>
+        <updated>2021-06-21T11:03:47.000Z</updated>
+        <summary type="html"><![CDATA[https://www.robertcreative.com/blog/typography-trends-in-2021]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -282,16 +302,6 @@ The post 10 Best Google Fonts for Headings 2021 Collection appeared first on Des
         <link href="http://www.webdesignernews.com/external/pc-users-are-furious-about-the-new-windows-11-design"/>
         <updated>2021-06-19T15:36:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.creativebloq.com/news/windows-11-users-unhappy]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Faith in Yourself to Improve Your Creativity]]></title>
-        <id>https://design.org/building-faith-in-yourself-to-improve-your-creativity/</id>
-        <link href="http://www.webdesignernews.com/external/building-faith-in-yourself-to-improve-your-creativity"/>
-        <updated>2021-06-19T14:49:00.000Z</updated>
-        <summary type="html"><![CDATA[https://design.org/building-faith-in-yourself-to-improve-your-creativity/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
@@ -515,16 +525,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         <link href="https://www.designernews.co/stories/116126-your-daily-dose-of-amazing-design-bites-and-resources"/>
         <updated>2021-06-16T14:24:26.000Z</updated>
         <summary type="html"><![CDATA[https://www.instagram.com/designxstream/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Isometric Elements For Figma]]></title>
-        <id>https://www.designernews.co/stories/116123-3d-isometric-elements-for-figma</id>
-        <link href="https://www.designernews.co/stories/116123-3d-isometric-elements-for-figma"/>
-        <updated>2021-06-16T12:38:37.000Z</updated>
-        <summary type="html"><![CDATA[https://www.themasterpicks.com/3d-isometric/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
