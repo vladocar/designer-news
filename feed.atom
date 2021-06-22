@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-22T21:00:48.932Z</id>
+    <id>urn:2021-06-22T22:00:52.164Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T21:00:48.932Z</updated>
+    <updated>2021-06-22T22:00:52.164Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Serving sharp images to high density screens]]></title>
+        <id>https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/</id>
+        <link href="http://www.webdesignernews.com/external/serving-sharp-images-to-high-density-screens"/>
+        <updated>2021-06-22T21:40:00.000Z</updated>
+        <summary type="html"><![CDATA[https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How teams can work remotely and stay productive]]></title>
         <id>https://blog.plantapp.io/post/how-teams-can-work-remotely-and-stay-productive</id>
@@ -302,16 +312,6 @@ The post 17 Best Hawaiian Tiki Fonts for Summer Designs appeared first on Design
         <link href="http://www.webdesignernews.com/external/5-ways-to-cut-out-busy-work-with-freelance-clients"/>
         <updated>2021-06-21T15:10:00.000Z</updated>
         <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/21/work-smarter-tips-freelance-designers]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cleaner One Pro: Keep Your Mac or PC Running Smoothly]]></title>
-        <id>https://joetechreviews.com/cleaner-one-pro-keep-your-mac-or-pc-running-smoothly/</id>
-        <link href="http://www.webdesignernews.com/external/cleaner-one-pro-keep-your-mac-or-pc-running-smoothly"/>
-        <updated>2021-06-21T14:33:00.000Z</updated>
-        <summary type="html"><![CDATA[https://joetechreviews.com/cleaner-one-pro-keep-your-mac-or-pc-running-smoothly/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
