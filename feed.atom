@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-22T16:06:20.105Z</id>
+    <id>urn:2021-06-22T17:19:10.626Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T16:06:20.105Z</updated>
+    <updated>2021-06-22T17:19:10.626Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Lush is applying its longstanding ethics to digital practices]]></title>
+        <id>https://www.itsnicethat.com/articles/lush-digital-ethicals-redesign-digital-sponsored-content-220621</id>
+        <link href="http://www.webdesignernews.com/external/how-lush-is-applying-its-longstanding-ethics-to-digital-practices"/>
+        <updated>2021-06-22T16:55:10.000Z</updated>
+        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/lush-digital-ethicals-redesign-digital-sponsored-content-220621]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Facebook welcomes Team Trump back with open arms and wallets]]></title>
         <id>https://thenextweb.com/news/facebook-welcomes-team-trump-back-new-ads</id>
@@ -322,16 +332,6 @@ The post 17 Best Hawaiian Tiki Fonts for Summer Designs appeared first on Design
         <link href="http://www.webdesignernews.com/external/12-css-parallax-effects"/>
         <updated>2021-06-21T13:06:00.000Z</updated>
         <summary type="html"><![CDATA[https://csshint.com/css-parallax-effects/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Stuff for Developer]]></title>
-        <id>https://freestuff.dev/</id>
-        <link href="http://www.webdesignernews.com/external/free-stuff-for-developer"/>
-        <updated>2021-06-21T12:59:20.000Z</updated>
-        <summary type="html"><![CDATA[https://freestuff.dev/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
