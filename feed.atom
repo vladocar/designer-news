@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-22T14:00:38.067Z</id>
+    <id>urn:2021-06-22T15:00:52.632Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T14:00:38.067Z</updated>
+    <updated>2021-06-22T15:00:52.632Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wordmark 3.0 - Helps you choose fonts]]></title>
+        <id>https://wordmark.it/</id>
+        <link href="http://www.webdesignernews.com/external/wordmark-3-0-helps-you-choose-fonts"/>
+        <updated>2021-06-22T14:39:00.000Z</updated>
+        <summary type="html"><![CDATA[https://wordmark.it/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Getting to Know Yourself to Find Your Creative Voice]]></title>
         <id>https://design.org/getting-to-know-yourself-to-find-your-creative-voice/</id>
@@ -393,16 +403,6 @@ The post 10 Best Google Fonts for Headings 2021 Collection appeared first on Des
         <link href="http://www.webdesignernews.com/external/bootstrap-5-portfolio-template"/>
         <updated>2021-06-20T23:47:00.000Z</updated>
         <summary type="html"><![CDATA[https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mood light - Screensaver for chillaxing, meditation, sleeping]]></title>
-        <id>https://defonic.com/moodlight.html</id>
-        <link href="http://www.webdesignernews.com/external/mood-light-screensaver-for-chillaxing-meditation-sleeping"/>
-        <updated>2021-06-20T22:33:00.000Z</updated>
-        <summary type="html"><![CDATA[https://defonic.com/moodlight.html]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
