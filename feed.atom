@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-22T04:00:36.032Z</id>
+    <id>urn:2021-06-22T05:06:46.102Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T04:00:36.032Z</updated>
+    <updated>2021-06-22T05:06:46.102Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Launching an App to Generate Gif Quizzes With a $0 Budget]]></title>
+        <id>https://www.designernews.co/stories/116265-launching-an-app-to-generate-gif-quizzes-with-a-0-budget</id>
+        <link href="https://www.designernews.co/stories/116265-launching-an-app-to-generate-gif-quizzes-with-a-0-budget"/>
+        <updated>2021-06-22T04:39:16.000Z</updated>
+        <summary type="html"><![CDATA[https://mahdif.com/blog/designing-and-launching-an-app-to-generate-gif-quizzes/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[17 Best Hawaiian Tiki Fonts for Summer Designs]]></title>
         <id>https://www.designinspiration.info/?p=3221</id>
@@ -536,16 +546,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         <link href="https://www.designernews.co/stories/116127-email-newsletters-for-webflow"/>
         <updated>2021-06-16T14:30:20.000Z</updated>
         <summary type="html"><![CDATA[https://audienceful.com]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your daily dose of amazing design bites and resources!]]></title>
-        <id>https://www.designernews.co/stories/116126-your-daily-dose-of-amazing-design-bites-and-resources</id>
-        <link href="https://www.designernews.co/stories/116126-your-daily-dose-of-amazing-design-bites-and-resources"/>
-        <updated>2021-06-16T14:24:26.000Z</updated>
-        <summary type="html"><![CDATA[https://www.instagram.com/designxstream/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
