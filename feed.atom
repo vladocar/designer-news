@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-22T19:02:02.001Z</id>
+    <id>urn:2021-06-22T20:00:27.652Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T19:02:02.001Z</updated>
+    <updated>2021-06-22T20:00:27.652Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[WebP Images: A Primer]]></title>
+        <id>https://speckyboy.com/webp-images/</id>
+        <link href="http://www.webdesignernews.com/external/webp-images-a-primer"/>
+        <updated>2021-06-22T19:43:00.000Z</updated>
+        <summary type="html"><![CDATA[https://speckyboy.com/webp-images/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fontstorage ? A Collection of Free Webfonts For Any Web Project]]></title>
         <id>https://www.hongkiat.com/blog/fontstorage-online-tools/</id>
@@ -322,16 +332,6 @@ The post 17 Best Hawaiian Tiki Fonts for Summer Designs appeared first on Design
         <link href="http://www.webdesignernews.com/external/what-s-coming-in-wordpress-5-8-features-and-screenshots"/>
         <updated>2021-06-21T13:13:10.000Z</updated>
         <summary type="html"><![CDATA[https://www.wpbeginner.com/news/whats-coming-in-wordpress-5-8-features-and-screenshots/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Dynamic Imports in JavaScript]]></title>
-        <id>https://blog.alexdevero.com/dynamic-imports-javascript/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-use-dynamic-imports-in-javascript"/>
-        <updated>2021-06-21T13:12:56.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.alexdevero.com/dynamic-imports-javascript/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
