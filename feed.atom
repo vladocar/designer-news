@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-22T08:00:42.394Z</id>
+    <id>urn:2021-06-22T09:00:40.108Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T08:00:42.394Z</updated>
+    <updated>2021-06-22T09:00:40.108Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Stop Using Loops?]]></title>
+        <id>https://www.designernews.co/stories/116273-why-you-should-stop-using-loops</id>
+        <link href="https://www.designernews.co/stories/116273-why-you-should-stop-using-loops"/>
+        <updated>2021-06-22T08:38:12.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/why-you-should-stop-using-loops.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Habits you should change if you wants to develop your skill as a developer]]></title>
+        <id>https://www.designernews.co/stories/116272-habits-you-should-change-if-you-wants-to-develop-your-skill-as-a-developer</id>
+        <link href="https://www.designernews.co/stories/116272-habits-you-should-change-if-you-wants-to-develop-your-skill-as-a-developer"/>
+        <updated>2021-06-22T08:35:19.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/habit-which-you-can-change-if-you-want.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Looking for Microsoft Power Automate Services? Get the Best Power Automate Services in USA]]></title>
         <id>https://www.designernews.co/stories/116271-looking-for-microsoft-power-automate-services-get-the-best-power-automate-services-in-usa</id>
@@ -515,26 +535,6 @@ The post 34 Best School Fonts appeared first on Design Inspiration.]]></summary>
         <link href="https://www.designernews.co/stories/116143-participatory-design--bringing-users-to-design"/>
         <updated>2021-06-17T09:38:13.000Z</updated>
         <summary type="html"><![CDATA[https://www.imaginarycloud.com/blog/participatory-design/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robotic Process Automation in Healthcare Industry - [Infographics]]]></title>
-        <id>https://www.designernews.co/stories/116140-robotic-process-automation-in-healthcare-industry--infographics</id>
-        <link href="https://www.designernews.co/stories/116140-robotic-process-automation-in-healthcare-industry--infographics"/>
-        <updated>2021-06-17T08:06:38.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/infographics/robotic-process-automation-rpa-in-healthcare-industry]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Things You Need to Know About Website Design]]></title>
-        <id>https://www.designernews.co/stories/116138-5-things-you-need-to-know-about-website-design</id>
-        <link href="https://www.designernews.co/stories/116138-5-things-you-need-to-know-about-website-design"/>
-        <updated>2021-06-17T07:48:14.000Z</updated>
-        <summary type="html"><![CDATA[https://wpklik.com/wordpress-tips/things-you-need-to-know-about-website-design/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
