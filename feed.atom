@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-22T17:19:10.626Z</id>
+    <id>urn:2021-06-22T18:00:38.845Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T17:19:10.626Z</updated>
+    <updated>2021-06-22T18:00:38.845Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fontstorage ? A Collection of Free Webfonts For Any Web Project]]></title>
+        <id>https://www.hongkiat.com/blog/fontstorage-online-tools/</id>
+        <link href="http://www.webdesignernews.com/external/fontstorage-a-collection-of-free-webfonts-for-any-web-project"/>
+        <updated>2021-06-22T17:54:39.000Z</updated>
+        <summary type="html"><![CDATA[https://www.hongkiat.com/blog/fontstorage-online-tools/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Lush is applying its longstanding ethics to digital practices]]></title>
         <id>https://www.itsnicethat.com/articles/lush-digital-ethicals-redesign-digital-sponsored-content-220621</id>
@@ -322,16 +332,6 @@ The post 17 Best Hawaiian Tiki Fonts for Summer Designs appeared first on Design
         <link href="http://www.webdesignernews.com/external/how-to-use-dynamic-imports-in-javascript"/>
         <updated>2021-06-21T13:12:56.000Z</updated>
         <summary type="html"><![CDATA[https://blog.alexdevero.com/dynamic-imports-javascript/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 CSS Parallax Effects]]></title>
-        <id>https://csshint.com/css-parallax-effects/</id>
-        <link href="http://www.webdesignernews.com/external/12-css-parallax-effects"/>
-        <updated>2021-06-21T13:06:00.000Z</updated>
-        <summary type="html"><![CDATA[https://csshint.com/css-parallax-effects/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
