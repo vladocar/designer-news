@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-22T09:00:40.108Z</id>
+    <id>urn:2021-06-22T10:00:34.744Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T09:00:40.108Z</updated>
+    <updated>2021-06-22T10:00:34.744Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Designing With Code: A Modern Approach To Design (Development Challenges)]]></title>
+        <id>https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/</id>
+        <link href="https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/"/>
+        <updated>2021-06-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why You Should Stop Using Loops?]]></title>
         <id>https://www.designernews.co/stories/116273-why-you-should-stop-using-loops</id>
