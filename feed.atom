@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-22T10:00:34.744Z</id>
+    <id>urn:2021-06-22T11:00:32.942Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T10:00:34.744Z</updated>
+    <updated>2021-06-22T11:00:32.942Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An apple a day keeps the doctor away -  designing a comprehensive digital system from the ground up for a nationwide pharmacy chain]]></title>
+        <id>https://www.designernews.co/stories/116279-an-apple-a-day-keeps-the-doctor-away---designing-a-comprehensive-digital-system-from-the-ground-up-for-a-nationwide-pharmacy-chain</id>
+        <link href="https://www.designernews.co/stories/116279-an-apple-a-day-keeps-the-doctor-away---designing-a-comprehensive-digital-system-from-the-ground-up-for-a-nationwide-pharmacy-chain"/>
+        <updated>2021-06-22T10:12:27.000Z</updated>
+        <summary type="html"><![CDATA[https://www.behance.net/gallery/116572501/Alma-Pharmacies]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvelous Color Picker]]></title>
+        <id>https://www.designernews.co/stories/116276-marvelous-color-picker</id>
+        <link href="https://www.designernews.co/stories/116276-marvelous-color-picker"/>
+        <updated>2021-06-22T10:01:12.000Z</updated>
+        <summary type="html"><![CDATA[https://www.producthunt.com/posts/marvelous-color-picker]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Designing With Code: A Modern Approach To Design (Development Challenges)]]></title>
         <id>https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/</id>
@@ -479,16 +499,6 @@ The post 16 Best Flower Fonts for your Floral Designs appeared first on Design I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hourly rates are the worst.]]></title>
-        <id>https://www.designernews.co/stories/116160-hourly-rates-are-the-worst</id>
-        <link href="https://www.designernews.co/stories/116160-hourly-rates-are-the-worst"/>
-        <updated>2021-06-17T23:56:59.000Z</updated>
-        <summary type="html"><![CDATA[https://buds.haus/hourly-rates-are-bad-for-everyone-involved/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[34 Best School Fonts]]></title>
         <id>https://www.designinspiration.info/?p=3149</id>
         <link href="https://www.designinspiration.info/school-fonts/"/>
@@ -537,16 +547,6 @@ The post 34 Best School Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Participatory Design - Bringing users to design]]></title>
-        <id>https://www.designernews.co/stories/116143-participatory-design--bringing-users-to-design</id>
-        <link href="https://www.designernews.co/stories/116143-participatory-design--bringing-users-to-design"/>
-        <updated>2021-06-17T09:38:13.000Z</updated>
-        <summary type="html"><![CDATA[https://www.imaginarycloud.com/blog/participatory-design/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
