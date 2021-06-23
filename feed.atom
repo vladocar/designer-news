@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T15:00:46.608Z</id>
+    <id>urn:2021-06-23T16:01:04.449Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T15:00:46.608Z</updated>
+    <updated>2021-06-23T16:01:04.449Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Exploding online video looper with ton of time effects: reverse, speed up, slowmo, trim, split. Boomeranging you videos via 1 click on Pixiko!]]></title>
+        <id>https://www.designernews.co/stories/116312-exploding-online-video-looper-with-ton-of-time-effects-reverse-speed-up-slowmo-trim-split-boomeranging-you-videos-via-1-click-on-pixiko</id>
+        <link href="https://www.designernews.co/stories/116312-exploding-online-video-looper-with-ton-of-time-effects-reverse-speed-up-slowmo-trim-split-boomeranging-you-videos-via-1-click-on-pixiko"/>
+        <updated>2021-06-23T15:40:24.000Z</updated>
+        <summary type="html"><![CDATA[https://pixiko.com/tools/loop-video]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Be Original in Your Creative Work]]></title>
+        <id>https://design.org/how-to-be-original-in-your-creative-work/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-be-original-in-your-creative-work"/>
+        <updated>2021-06-23T15:16:01.000Z</updated>
+        <summary type="html"><![CDATA[https://design.org/how-to-be-original-in-your-creative-work/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brave Search Now in Public Beta]]></title>
+        <id>https://brave.com/brave-search-beta/</id>
+        <link href="http://www.webdesignernews.com/external/brave-search-now-in-public-beta"/>
+        <updated>2021-06-23T15:15:48.000Z</updated>
+        <summary type="html"><![CDATA[https://brave.com/brave-search-beta/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Your Website Performance Affects Your SEO Rankings]]></title>
+        <id>https://bootstrapbay.com/blog/how-your-website-performance-affects-your-seo-rankings/</id>
+        <link href="http://www.webdesignernews.com/external/how-your-website-performance-affects-your-seo-rankings"/>
+        <updated>2021-06-23T15:15:33.000Z</updated>
+        <summary type="html"><![CDATA[https://bootstrapbay.com/blog/how-your-website-performance-affects-your-seo-rankings/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soft UI: Making Sense of the Latest Design Trend]]></title>
+        <id>https://www.webdesignerdepot.com/2021/06/soft-ui-making-sense-of-the-latest-design-trend/</id>
+        <link href="http://www.webdesignernews.com/external/soft-ui-making-sense-of-the-latest-design-trend"/>
+        <updated>2021-06-23T15:15:31.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/soft-ui-making-sense-of-the-latest-design-trend/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new responsive: Web design in a component-driven world]]></title>
+        <id>https://web.dev/new-responsive/</id>
+        <link href="http://www.webdesignernews.com/external/the-new-responsive-web-design-in-a-component-driven-world"/>
+        <updated>2021-06-23T15:14:34.000Z</updated>
+        <summary type="html"><![CDATA[https://web.dev/new-responsive/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splash Page Vs. Landing Page: What's The Difference]]></title>
+        <id>https://www.designernews.co/stories/116311-splash-page-vs-landing-page-whats-the-difference</id>
+        <link href="https://www.designernews.co/stories/116311-splash-page-vs-landing-page-whats-the-difference"/>
+        <updated>2021-06-23T14:16:31.000Z</updated>
+        <summary type="html"><![CDATA[https://marketsplash.com/splash-page-vs-landing-page/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smashing Online Workshops (July-October 2021)]]></title>
         <id>https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/</id>
@@ -13,6 +83,26 @@
         <summary type="html"><![CDATA[Frontend and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run [online workshops](https://smashingconf.com/online-workshops/) for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Tips for Creative Leadership from the 2016 Chicago Cubs]]></title>
+        <id>https://mediatemple.net/blog/work-life/creative-leadership-lessons-2016-chicago-cubs/</id>
+        <link href="http://www.webdesignernews.com/external/7-tips-for-creative-leadership-from-the-2016-chicago-cubs"/>
+        <updated>2021-06-23T12:16:00.000Z</updated>
+        <summary type="html"><![CDATA[https://mediatemple.net/blog/work-life/creative-leadership-lessons-2016-chicago-cubs/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coded Illustrations]]></title>
+        <id>https://medium.com/mit-media-lab/coded-illustrations-bebdf385cd98</id>
+        <link href="http://www.webdesignernews.com/external/coded-illustrations"/>
+        <updated>2021-06-23T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[https://medium.com/mit-media-lab/coded-illustrations-bebdf385cd98]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -186,36 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[State of the Windows: How many layers of UI inconsistencies are in Windows 10?]]></title>
-        <id>https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/</id>
-        <link href="http://www.webdesignernews.com/external/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10"/>
-        <updated>2021-06-22T13:52:30.000Z</updated>
-        <summary type="html"><![CDATA[https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 Best New Fonts, June 2021]]></title>
-        <id>https://www.webdesignerdepot.com/2021/06/20-best-new-fonts-june-2021/</id>
-        <link href="http://www.webdesignernews.com/external/20-best-new-fonts-june-2021"/>
-        <updated>2021-06-22T13:52:16.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/20-best-new-fonts-june-2021/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google?s Messaging Mess: A Timeline]]></title>
-        <id>https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline</id>
-        <link href="http://www.webdesignernews.com/external/google-s-messaging-mess-a-timeline"/>
-        <updated>2021-06-22T12:11:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An apple a day keeps the doctor away -  designing a comprehensive digital system from the ground up for a nationwide pharmacy chain]]></title>
         <id>https://www.designernews.co/stories/116279-an-apple-a-day-keeps-the-doctor-away---designing-a-comprehensive-digital-system-from-the-ground-up-for-a-nationwide-pharmacy-chain</id>
         <link href="https://www.designernews.co/stories/116279-an-apple-a-day-keeps-the-doctor-away---designing-a-comprehensive-digital-system-from-the-ground-up-for-a-nationwide-pharmacy-chain"/>
@@ -314,46 +374,6 @@ The post 17 Best Hawaiian Tiki Fonts for Summer Designs appeared first on Design
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=jjUK-4SMdAs]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best Google Fonts for Headings 2021 Collection]]></title>
-        <id>https://www.designinspiration.info/best-google-fonts-for-headings/</id>
-        <link href="http://www.webdesignernews.com/external/10-best-google-fonts-for-headings-2021-collection"/>
-        <updated>2021-06-21T20:19:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.designinspiration.info/best-google-fonts-for-headings/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the codes that form our visual culture]]></title>
-        <id>https://www.itsnicethat.com/articles/raphael-de-la-morinerie-gaya-graphic-design-210621</id>
-        <link href="http://www.webdesignernews.com/external/understanding-the-codes-that-form-our-visual-culture"/>
-        <updated>2021-06-21T19:44:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/raphael-de-la-morinerie-gaya-graphic-design-210621]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Top 5 Online Communities for SaaS Founders in 2021]]></title>
-        <id>https://www.gosquared.com/blog/communities-for-saas-founders-in-2021</id>
-        <link href="http://www.webdesignernews.com/external/the-top-5-online-communities-for-saas-founders-in-2021"/>
-        <updated>2021-06-21T18:19:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.gosquared.com/blog/communities-for-saas-founders-in-2021]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Error 404 Page Examples for UX Design]]></title>
-        <id>https://www.uxpin.com/studio/blog/404-page-examples/</id>
-        <link href="http://www.webdesignernews.com/external/10-error-404-page-examples-for-ux-design"/>
-        <updated>2021-06-21T17:36:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.uxpin.com/studio/blog/404-page-examples/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -519,31 +539,11 @@ The post 16 Best Flower Fonts for your Floral Designs appeared first on Design I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to prepare a Pitch Deck?]]></title>
-        <id>https://www.designernews.co/stories/116169-how-to-prepare-a-pitch-deck</id>
-        <link href="https://www.designernews.co/stories/116169-how-to-prepare-a-pitch-deck"/>
-        <updated>2021-06-18T07:03:59.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.urlaunched.com/pitch-perfect-pitch-deck-that-rises-funds/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[15 Modern ES6 Snippets For JavaScript To Make Your Code More Attractive]]></title>
         <id>https://www.designernews.co/stories/116163-15-modern-es6-snippets-for-javascript-to-make-your-code-more-attractive</id>
         <link href="https://www.designernews.co/stories/116163-15-modern-es6-snippets-for-javascript-to-make-your-code-more-attractive"/>
         <updated>2021-06-18T04:39:08.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/15-modern-es6-snippets-for-javascript.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Much Does It Cost To Develop A Chat App?]]></title>
-        <id>https://www.designernews.co/stories/116161-how-much-does-it-cost-to-develop-a-chat-app</id>
-        <link href="https://www.designernews.co/stories/116161-how-much-does-it-cost-to-develop-a-chat-app"/>
-        <updated>2021-06-18T03:47:05.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/cost-to-develop-a-chat-app/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
