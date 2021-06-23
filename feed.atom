@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T16:01:04.449Z</id>
+    <id>urn:2021-06-23T17:09:56.109Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T16:01:04.449Z</updated>
+    <updated>2021-06-23T17:09:56.109Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sell gated access to Notion content with Paytable & Super.so... for free]]></title>
+        <id>https://www.designernews.co/stories/116315-sell-gated-access-to-notion-content-with-paytable--superso-for-free</id>
+        <link href="https://www.designernews.co/stories/116315-sell-gated-access-to-notion-content-with-paytable--superso-for-free"/>
+        <updated>2021-06-23T16:21:45.000Z</updated>
+        <summary type="html"><![CDATA[https://www.notion.so/paytable/How-To-Embed-Any-Notion-Content-To-Your-Paytable-io-Members-Area-14610a4c07634ea190552b4b71f003ae]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A fascinating design history of the filing cabinet]]></title>
+        <id>https://www.fastcompany.com/90647369/verticality-is-power-the-rise-of-the-filing-cabinet-in-the-age-of-the-skyscraper</id>
+        <link href="http://www.webdesignernews.com/external/a-fascinating-design-history-of-the-filing-cabinet"/>
+        <updated>2021-06-23T16:14:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.fastcompany.com/90647369/verticality-is-power-the-rise-of-the-filing-cabinet-in-the-age-of-the-skyscraper]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploding online video looper with ton of time effects: reverse, speed up, slowmo, trim, split. Boomeranging you videos via 1 click on Pixiko!]]></title>
         <id>https://www.designernews.co/stories/116312-exploding-online-video-looper-with-ton-of-time-effects-reverse-speed-up-slowmo-trim-split-boomeranging-you-videos-via-1-click-on-pixiko</id>
@@ -261,16 +281,6 @@
         <link href="http://www.webdesignernews.com/external/google-top-stories-carousel-now-showing-non-amp-listings"/>
         <updated>2021-06-22T13:52:46.000Z</updated>
         <summary type="html"><![CDATA[https://searchengineland.com/google-top-stories-carousel-now-showing-non-amp-listings-349826]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 After Effects Plugins for UI Designers]]></title>
-        <id>https://www.awwwards.com/10-after-effects-plugins-for-ui-designers.html</id>
-        <link href="http://www.webdesignernews.com/external/10-after-effects-plugins-for-ui-designers"/>
-        <updated>2021-06-22T13:52:42.000Z</updated>
-        <summary type="html"><![CDATA[https://www.awwwards.com/10-after-effects-plugins-for-ui-designers.html]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
@@ -536,16 +546,6 @@ The post 16 Best Flower Fonts for your Floral Designs appeared first on Design I
         <summary type="html"><![CDATA[Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adebiyi Adedotun)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 Modern ES6 Snippets For JavaScript To Make Your Code More Attractive]]></title>
-        <id>https://www.designernews.co/stories/116163-15-modern-es6-snippets-for-javascript-to-make-your-code-more-attractive</id>
-        <link href="https://www.designernews.co/stories/116163-15-modern-es6-snippets-for-javascript-to-make-your-code-more-attractive"/>
-        <updated>2021-06-18T04:39:08.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/15-modern-es6-snippets-for-javascript.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
