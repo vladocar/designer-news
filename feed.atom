@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T05:00:42.023Z</id>
+    <id>urn:2021-06-23T06:00:55.738Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T05:00:42.023Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-23T06:00:55.738Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Finally, Shopify site owners can edit their robots.txt files]]></title>
@@ -63,6 +63,16 @@
         <summary type="html"><![CDATA[https://www.hongkiat.com/blog/fontstorage-online-tools/]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Curated Design Resource Library]]></title>
+        <id>https://www.designernews.co/stories/116292-a-curated-design-resource-library</id>
+        <link href="https://www.designernews.co/stories/116292-a-curated-design-resource-library"/>
+        <updated>2021-06-22T17:32:01.000Z</updated>
+        <summary type="html"><![CDATA[https://www.producthunt.com/posts/design-xstream]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -515,16 +525,6 @@ The post 34 Best School Fonts appeared first on Design Inspiration.]]></summary>
         <link href="https://www.designernews.co/stories/116154-is-a-career-in-ux-and-product-design-stable"/>
         <updated>2021-06-17T18:49:03.000Z</updated>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=rhlSI_cK7BQ]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Chrome Extensions For Designers - No BS Guide]]></title>
-        <id>https://www.designernews.co/stories/116151-the-best-chrome-extensions-for-designers--no-bs-guide</id>
-        <link href="https://www.designernews.co/stories/116151-the-best-chrome-extensions-for-designers--no-bs-guide"/>
-        <updated>2021-06-17T13:24:28.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=A_Pyoiv0AJk]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
