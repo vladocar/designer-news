@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T10:00:43.493Z</id>
+    <id>urn:2021-06-23T11:00:50.453Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T10:00:43.493Z</updated>
+    <updated>2021-06-23T11:00:50.453Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[https://www.zenesys.com/infographics/kentico-vs-sitecore]]></summary>
         <author>
             <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating Screen Reader Testing On macOS Using Auto VO]]></title>
+        <id>https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/</id>
+        <link href="https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/"/>
+        <updated>2021-06-23T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cameron Cundiff)</name>
         </author>
     </entry>
     <entry>
