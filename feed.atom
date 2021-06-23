@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T06:00:55.738Z</id>
+    <id>urn:2021-06-23T07:00:53.069Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T06:00:55.738Z</updated>
+    <updated>2021-06-23T07:00:53.069Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New Features In PHP 8 2021]]></title>
+        <id>https://www.designernews.co/stories/116296-new-features-in-php-8-2021</id>
+        <link href="https://www.designernews.co/stories/116296-new-features-in-php-8-2021"/>
+        <updated>2021-06-23T06:55:51.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/new-features-in-php-8-2021.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Finally, Shopify site owners can edit their robots.txt files]]></title>
         <id>https://searchengineland.com/finally-shopify-site-owners-can-edit-their-robots-txt-files-349794</id>
@@ -517,16 +527,6 @@ The post 16 Best Flower Fonts for your Floral Designs appeared first on Design I
 The post 34 Best School Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is a Career in UX and Product Design Stable?]]></title>
-        <id>https://www.designernews.co/stories/116154-is-a-career-in-ux-and-product-design-stable</id>
-        <link href="https://www.designernews.co/stories/116154-is-a-career-in-ux-and-product-design-stable"/>
-        <updated>2021-06-17T18:49:03.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=rhlSI_cK7BQ]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
