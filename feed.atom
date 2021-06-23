@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T20:00:49.267Z</id>
+    <id>urn:2021-06-23T21:00:49.679Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T20:00:49.267Z</updated>
+    <updated>2021-06-23T21:00:49.679Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Accessible design: How much motion is too much motion?]]></title>
+        <id>https://uxdesign.cc/accessible-interaction-design-38db3b72c3ae</id>
+        <link href="http://www.webdesignernews.com/external/accessible-design-how-much-motion-is-too-much-motion"/>
+        <updated>2021-06-23T20:01:00.000Z</updated>
+        <summary type="html"><![CDATA[https://uxdesign.cc/accessible-interaction-design-38db3b72c3ae]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Treat Clients who treat you poorly ? The Web Designer]]></title>
         <id>https://the-webdesigner.co/how-to-treat-clients-who-treat-you-poorly/</id>
@@ -271,16 +281,6 @@
         <link href="http://www.webdesignernews.com/external/facebook-welcomes-team-trump-back-with-open-arms-and-wallets"/>
         <updated>2021-06-22T15:23:00.000Z</updated>
         <summary type="html"><![CDATA[https://thenextweb.com/news/facebook-welcomes-team-trump-back-new-ads]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordmark 3.0 - Helps you choose fonts]]></title>
-        <id>https://wordmark.it/</id>
-        <link href="http://www.webdesignernews.com/external/wordmark-3-0-helps-you-choose-fonts"/>
-        <updated>2021-06-22T14:39:00.000Z</updated>
-        <summary type="html"><![CDATA[https://wordmark.it/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
