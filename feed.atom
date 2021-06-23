@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T18:01:25.466Z</id>
+    <id>urn:2021-06-23T19:00:42.154Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T18:01:25.466Z</updated>
+    <updated>2021-06-23T19:00:42.154Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Ingredients of a Great WordPress Plugin]]></title>
+        <id>https://speckyboy.com/ingredients-great-wordpress-plugin/</id>
+        <link href="http://www.webdesignernews.com/external/the-ingredients-of-a-great-wordpress-plugin"/>
+        <updated>2021-06-23T18:34:00.000Z</updated>
+        <summary type="html"><![CDATA[https://speckyboy.com/ingredients-great-wordpress-plugin/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge is borrowing one of Chrome's best features]]></title>
         <id>https://www.androidpolice.com/2021/06/23/microsoft-edges-newest-feature-gives-android-users-a-reason-to-get-the-app/</id>
@@ -271,16 +281,6 @@
         <link href="http://www.webdesignernews.com/external/getting-to-know-yourself-to-find-your-creative-voice"/>
         <updated>2021-06-22T13:53:14.000Z</updated>
         <summary type="html"><![CDATA[https://design.org/getting-to-know-yourself-to-find-your-creative-voice/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 6 Levels of UX Maturity]]></title>
-        <id>https://www.nngroup.com/articles/ux-maturity-model/</id>
-        <link href="http://www.webdesignernews.com/external/the-6-levels-of-ux-maturity"/>
-        <updated>2021-06-22T13:52:57.000Z</updated>
-        <summary type="html"><![CDATA[https://www.nngroup.com/articles/ux-maturity-model/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
