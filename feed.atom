@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T19:00:42.154Z</id>
+    <id>urn:2021-06-23T20:00:49.267Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T19:00:42.154Z</updated>
+    <updated>2021-06-23T20:00:49.267Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Treat Clients who treat you poorly ? The Web Designer]]></title>
+        <id>https://the-webdesigner.co/how-to-treat-clients-who-treat-you-poorly/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-treat-clients-who-treat-you-poorly-the-web-designer"/>
+        <updated>2021-06-23T19:09:00.000Z</updated>
+        <summary type="html"><![CDATA[https://the-webdesigner.co/how-to-treat-clients-who-treat-you-poorly/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Ingredients of a Great WordPress Plugin]]></title>
         <id>https://speckyboy.com/ingredients-great-wordpress-plugin/</id>
@@ -271,16 +281,6 @@
         <link href="http://www.webdesignernews.com/external/wordmark-3-0-helps-you-choose-fonts"/>
         <updated>2021-06-22T14:39:00.000Z</updated>
         <summary type="html"><![CDATA[https://wordmark.it/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting to Know Yourself to Find Your Creative Voice]]></title>
-        <id>https://design.org/getting-to-know-yourself-to-find-your-creative-voice/</id>
-        <link href="http://www.webdesignernews.com/external/getting-to-know-yourself-to-find-your-creative-voice"/>
-        <updated>2021-06-22T13:53:14.000Z</updated>
-        <summary type="html"><![CDATA[https://design.org/getting-to-know-yourself-to-find-your-creative-voice/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
