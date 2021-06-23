@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-22T23:00:48.561Z</id>
+    <id>urn:2021-06-23T00:10:12.039Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T23:00:48.561Z</updated>
+    <updated>2021-06-23T00:10:12.039Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Slugify - Stress-free slug generation for SEO, URLs, and content]]></title>
+        <id>https://www.slugenerator.com/</id>
+        <link href="http://www.webdesignernews.com/external/slugify-stress-free-slug-generation-for-seo-urls-and-content"/>
+        <updated>2021-06-22T23:49:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.slugenerator.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Serving sharp images to high density screens]]></title>
         <id>https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/</id>
@@ -304,16 +314,6 @@ The post 17 Best Hawaiian Tiki Fonts for Summer Designs appeared first on Design
         <summary type="html"><![CDATA[http://www.digistore24.com/redir/300003/jaydhobi14/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 ways to cut out busy work with freelance clients]]></title>
-        <id>https://dribbble.com/stories/2021/06/21/work-smarter-tips-freelance-designers</id>
-        <link href="http://www.webdesignernews.com/external/5-ways-to-cut-out-busy-work-with-freelance-clients"/>
-        <updated>2021-06-21T15:10:00.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/21/work-smarter-tips-freelance-designers]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -843,16 +843,6 @@ The post 17 Best Zombie Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
-        <id>https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</id>
-        <link href="https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/"/>
-        <updated>2021-05-24T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
