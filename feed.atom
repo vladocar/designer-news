@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-24T07:00:31.742Z</id>
+    <id>urn:2021-06-24T08:00:56.187Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T07:00:31.742Z</updated>
+    <updated>2021-06-24T08:00:56.187Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10 ways to build a successful recruitment strategy at a startup]]></title>
+        <id>https://www.designernews.co/stories/116323-10-ways-to-build-a-successful-recruitment-strategy-at-a-startup</id>
+        <link href="https://www.designernews.co/stories/116323-10-ways-to-build-a-successful-recruitment-strategy-at-a-startup"/>
+        <updated>2021-06-24T07:22:15.000Z</updated>
+        <summary type="html"><![CDATA[https://startuptrends.co/10-ways-to-build-a-successful-recruitment-strategy-at-a-startup-15083.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Complete guide on how to create an app like Bet365]]></title>
         <id>https://www.designernews.co/stories/116317-complete-guide-on-how-to-create-an-app-like-bet365</id>
@@ -503,16 +513,6 @@ The post 10 Best Google Fonts for Headings 2021 Collection appeared first on Des
         <link href="https://www.designernews.co/stories/116193-how-to-gain-a-positively-unfair-advantage-in-getting-more-instagram-followers"/>
         <updated>2021-06-20T14:27:52.000Z</updated>
         <summary type="html"><![CDATA[http://www.digistore24.com/redir/363843/jaydhobi14/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 GitHub Repositories every Developer should know]]></title>
-        <id>https://www.designernews.co/stories/116191--10-github-repositories-every-developer-should-know-</id>
-        <link href="https://www.designernews.co/stories/116191--10-github-repositories-every-developer-should-know-"/>
-        <updated>2021-06-19T09:52:56.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/10-github-repositories-every-developer.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
