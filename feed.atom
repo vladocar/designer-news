@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-24T15:00:42.057Z</id>
+    <id>urn:2021-06-24T16:00:50.619Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T15:00:42.057Z</updated>
+    <updated>2021-06-24T16:00:50.619Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chrome Extension Kit 2.0 - Launch your next Chrome Extension project faster than ever]]></title>
+        <id>https://chromeextensionkit.com/</id>
+        <link href="http://www.webdesignernews.com/external/chrome-extension-kit-2-0-launch-your-next-chrome-extension-project-faster-than-ever"/>
+        <updated>2021-06-24T15:33:00.000Z</updated>
+        <summary type="html"><![CDATA[https://chromeextensionkit.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updates & new features for Paytable that lets you sell Airtable access securely - Check the post here]]></title>
+        <id>https://www.designernews.co/stories/116340-updates--new-features-for-paytable-that-lets-you-sell-airtable-access-securely--check-the-post-here</id>
+        <link href="https://www.designernews.co/stories/116340-updates--new-features-for-paytable-that-lets-you-sell-airtable-access-securely--check-the-post-here"/>
+        <updated>2021-06-24T15:02:11.000Z</updated>
+        <summary type="html"><![CDATA[https://paytable.io/post/paytable-product-updates-jun]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Specifically Cater to the Needs of Your Clients]]></title>
         <id>https://speckyboy.com/cater-clients-needs/</id>
@@ -337,16 +357,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coded Illustrations]]></title>
-        <id>https://medium.com/mit-media-lab/coded-illustrations-bebdf385cd98</id>
-        <link href="http://www.webdesignernews.com/external/coded-illustrations"/>
-        <updated>2021-06-23T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[https://medium.com/mit-media-lab/coded-illustrations-bebdf385cd98]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kentico vs Sitecore - {Infographics}]]></title>
         <id>https://www.designernews.co/stories/116304-kentico-vs-sitecore--infographics</id>
         <link href="https://www.designernews.co/stories/116304-kentico-vs-sitecore--infographics"/>
@@ -483,16 +493,6 @@ The post 17 Best Hawaiian Tiki Fonts for Summer Designs appeared first on Design
         <link href="https://www.designernews.co/stories/116262-why-every-designer-needs-a-youtube-channel"/>
         <updated>2021-06-21T20:57:20.000Z</updated>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=jjUK-4SMdAs]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Archetype Reading Reveals Your Personality Quirks, Innate Talents, And Hidden Weaknesses]]></title>
-        <id>https://www.designernews.co/stories/116258-free-archetype-reading-reveals-your-personality-quirks-innate-talents-and-hidden-weaknesses</id>
-        <link href="https://www.designernews.co/stories/116258-free-archetype-reading-reveals-your-personality-quirks-innate-talents-and-hidden-weaknesses"/>
-        <updated>2021-06-21T16:21:27.000Z</updated>
-        <summary type="html"><![CDATA[http://www.digistore24.com/redir/300003/jaydhobi14/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
