@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-24T18:00:53.051Z</id>
+    <id>urn:2021-06-24T19:00:48.842Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T18:00:53.051Z</updated>
+    <updated>2021-06-24T19:00:48.842Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[iPod Classic JS - Enjoy Spotify and Apple Music With iPod Classic Spin Wheel]]></title>
+        <id>https://www.designernews.co/stories/116347-ipod-classic-js--enjoy-spotify-and-apple-music-with-ipod-classic-spin-wheel</id>
+        <link href="https://www.designernews.co/stories/116347-ipod-classic-js--enjoy-spotify-and-apple-music-with-ipod-classic-spin-wheel"/>
+        <updated>2021-06-24T18:29:06.000Z</updated>
+        <summary type="html"><![CDATA[https://www.minicreo.com/apps/ipod-classic-js.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scaffoldly - The SaaS Builder for Startups]]></title>
         <id>https://scaffold.ly/</id>
@@ -515,16 +525,6 @@ The post 17 Best Hawaiian Tiki Fonts for Summer Designs appeared first on Design
         <summary type="html"><![CDATA[Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ayobami Ogundiran)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All You Need to Know About Microsoft Blazor - Infographics]]></title>
-        <id>https://www.designernews.co/stories/116254-all-you-need-to-know-about-microsoft-blazor--infographics</id>
-        <link href="https://www.designernews.co/stories/116254-all-you-need-to-know-about-microsoft-blazor--infographics"/>
-        <updated>2021-06-21T13:33:31.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/infographics/all-you-need-to-know-about-microsoft-blazor]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
