@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-24T14:01:23.182Z</id>
+    <id>urn:2021-06-24T15:00:42.057Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T14:01:23.182Z</updated>
+    <updated>2021-06-24T15:00:42.057Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Specifically Cater to the Needs of Your Clients]]></title>
+        <id>https://speckyboy.com/cater-clients-needs/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-specifically-cater-to-the-needs-of-your-clients"/>
+        <updated>2021-06-24T14:53:00.000Z</updated>
+        <summary type="html"><![CDATA[https://speckyboy.com/cater-clients-needs/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[37 Best Brush Fonts 2021]]></title>
+        <id>https://www.designinspiration.info/?p=3249</id>
+        <link href="https://www.designinspiration.info/brush-fonts/"/>
+        <updated>2021-06-24T14:41:57.000Z</updated>
+        <summary type="html"><![CDATA[This year we’ve selected some of the best brush typefaces from our huge collection and are presenting them right here, right now. Brush scripts are indeed trending these days for creating beautiful handcrafted typography. Trying to catch up with current trends, we decided to compile an awesome list of top
+The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create amazing vector or 300 dpi Gantt Charts]]></title>
+        <id>https://www.designernews.co/stories/116339-create-amazing-vector-or-300-dpi-gantt-charts</id>
+        <link href="https://www.designernews.co/stories/116339-create-amazing-vector-or-300-dpi-gantt-charts"/>
+        <updated>2021-06-24T14:29:02.000Z</updated>
+        <summary type="html"><![CDATA[https://www.gantt.io/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise Of Design Thinking As A Problem Solving Strategy]]></title>
+        <id>https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/</id>
+        <link href="https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/"/>
+        <updated>2021-06-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Josh Singer)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing DesignbyWomen - founded by graphic designer Mary Hemingway to showcase, empower and celebrate women and under-represented creatives]]></title>
         <id>https://www.designernews.co/stories/116338-introducing-designbywomen--founded-by-graphic-designer-mary-hemingway-to-showcase-empower-and-celebrate-women-and-underrepresented-creatives</id>
@@ -336,16 +377,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Finally, Shopify site owners can edit their robots.txt files]]></title>
-        <id>https://searchengineland.com/finally-shopify-site-owners-can-edit-their-robots-txt-files-349794</id>
-        <link href="http://www.webdesignernews.com/external/finally-shopify-site-owners-can-edit-their-robots-txt-files"/>
-        <updated>2021-06-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[https://searchengineland.com/finally-shopify-site-owners-can-edit-their-robots-txt-files-349794]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Curated Design Resource Library]]></title>
         <id>https://www.designernews.co/stories/116292-a-curated-design-resource-library</id>
         <link href="https://www.designernews.co/stories/116292-a-curated-design-resource-library"/>
@@ -508,16 +539,6 @@ The post 10 Best Google Fonts for Headings 2021 Collection appeared first on Des
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UI/UX Trends 2021 | UX UI Design Trends | Web Design Trends | UX UI Design Services | Zenesys]]></title>
-        <id>https://www.designernews.co/stories/116240-uiux-trends-2021--ux-ui-design-trends--web-design-trends--ux-ui-design-services--zenesys</id>
-        <link href="https://www.designernews.co/stories/116240-uiux-trends-2021--ux-ui-design-trends--web-design-trends--ux-ui-design-services--zenesys"/>
-        <updated>2021-06-21T08:45:03.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=LzeRvEaNOdM]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[16 Best Flower Fonts for your Floral Designs]]></title>
         <id>https://www.designinspiration.info/?p=2466</id>
         <link href="https://www.designinspiration.info/flower-fonts/"/>
@@ -660,17 +681,6 @@ The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
         <updated>2021-06-14T08:16:45.000Z</updated>
         <summary type="html"><![CDATA[We bring you 15 Free Illustrator Seamless Geometric Pattern Backgrounds. All patterns can be applied directly from Swatches panel or simply copy pasted in Illustrator.
 The post 15 Free Seamless Geometric Patterns for Illustrator appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17 Best Zombie Fonts]]></title>
-        <id>https://www.designinspiration.info/?p=3022</id>
-        <link href="https://www.designinspiration.info/zombie-fonts/"/>
-        <updated>2021-06-13T12:46:48.000Z</updated>
-        <summary type="html"><![CDATA[If you are looking for zombie fonts for your Halloween designs, this article is for you. We have some scary zombie fonts for you! You probably saw lots of designs related to the walking dead. In this post you will find the coolest typefaces of this popular thematic style. Zombie
-The post 17 Best Zombie Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
         </author>
