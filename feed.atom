@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-24T04:01:03.982Z</id>
+    <id>urn:2021-06-24T05:00:30.816Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T04:01:03.982Z</updated>
+    <updated>2021-06-24T05:00:30.816Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Complete guide on how to create an app like Bet365]]></title>
+        <id>https://www.designernews.co/stories/116317-complete-guide-on-how-to-create-an-app-like-bet365</id>
+        <link href="https://www.designernews.co/stories/116317-complete-guide-on-how-to-create-an-app-like-bet365"/>
+        <updated>2021-06-24T04:32:50.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Follow the Post-Purchase Path For Long Term Growth]]></title>
         <id>https://www.shopify.com/blog/shop-marketing-automation</id>
@@ -526,16 +536,6 @@ The post 16 Best Flower Fonts for your Floral Designs appeared first on Design I
         <summary type="html"><![CDATA[Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ottomatias Peura)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Video Podcasts Online]]></title>
-        <id>https://www.designernews.co/stories/116180-create-video-podcasts-online</id>
-        <link href="https://www.designernews.co/stories/116180-create-video-podcasts-online"/>
-        <updated>2021-06-18T13:54:22.000Z</updated>
-        <summary type="html"><![CDATA[https://www.getwelder.com/video-podcast-software]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
