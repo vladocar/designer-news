@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-24T17:11:01.502Z</id>
+    <id>urn:2021-06-24T18:00:53.051Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T17:11:01.502Z</updated>
+    <updated>2021-06-24T18:00:53.051Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Scaffoldly - The SaaS Builder for Startups]]></title>
+        <id>https://scaffold.ly/</id>
+        <link href="http://www.webdesignernews.com/external/scaffoldly-the-saas-builder-for-startups"/>
+        <updated>2021-06-24T17:43:00.000Z</updated>
+        <summary type="html"><![CDATA[https://scaffold.ly/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 Best Graphic Design Software Tools And Apps (Free & Paid)]]></title>
+        <id>https://www.designernews.co/stories/116344-20-best-graphic-design-software-tools-and-apps-free--paid</id>
+        <link href="https://www.designernews.co/stories/116344-20-best-graphic-design-software-tools-and-apps-free--paid"/>
+        <updated>2021-06-24T17:36:26.000Z</updated>
+        <summary type="html"><![CDATA[https://marketsplash.com/graphic-design-software/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chrome Extension Kit 2.0 - Launch your next Chrome Extension project faster than ever]]></title>
         <id>https://chromeextensionkit.com/</id>
@@ -347,16 +367,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 Tips for Creative Leadership from the 2016 Chicago Cubs]]></title>
-        <id>https://mediatemple.net/blog/work-life/creative-leadership-lessons-2016-chicago-cubs/</id>
-        <link href="http://www.webdesignernews.com/external/7-tips-for-creative-leadership-from-the-2016-chicago-cubs"/>
-        <updated>2021-06-23T12:16:00.000Z</updated>
-        <summary type="html"><![CDATA[https://mediatemple.net/blog/work-life/creative-leadership-lessons-2016-chicago-cubs/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kentico vs Sitecore - {Infographics}]]></title>
         <id>https://www.designernews.co/stories/116304-kentico-vs-sitecore--infographics</id>
         <link href="https://www.designernews.co/stories/116304-kentico-vs-sitecore--infographics"/>
@@ -513,16 +523,6 @@ The post 17 Best Hawaiian Tiki Fonts for Summer Designs appeared first on Design
         <link href="https://www.designernews.co/stories/116254-all-you-need-to-know-about-microsoft-blazor--infographics"/>
         <updated>2021-06-21T13:33:31.000Z</updated>
         <summary type="html"><![CDATA[https://www.zenesys.com/infographics/all-you-need-to-know-about-microsoft-blazor]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Free Icon Libraries to use in your Mobile & Web UI Projects!]]></title>
-        <id>https://www.designernews.co/stories/116249-the-best-free-icon-libraries-to-use-in-your-mobile--web-ui-projects-</id>
-        <link href="https://www.designernews.co/stories/116249-the-best-free-icon-libraries-to-use-in-your-mobile--web-ui-projects-"/>
-        <updated>2021-06-21T11:55:28.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=9yJGLVi9_Fg]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
