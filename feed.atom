@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-24T01:39:30.453Z</id>
+    <id>urn:2021-06-24T02:12:49.219Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T01:39:30.453Z</updated>
+    <updated>2021-06-24T02:12:49.219Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -843,16 +843,6 @@ The post 17 Best Zombie Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carie Fisher)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/"/>
-        <updated>2021-05-25T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
         </author>
     </entry>
 </feed>
