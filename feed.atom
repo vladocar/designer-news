@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-24T09:00:59.140Z</id>
+    <id>urn:2021-06-24T10:00:51.706Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T09:00:59.140Z</updated>
+    <updated>2021-06-24T10:00:51.706Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Frontend Toolbox - A list of handpicked resources for frontend developers]]></title>
+        <id>https://www.akshay.rocks/resources</id>
+        <link href="http://www.webdesignernews.com/external/frontend-toolbox-a-list-of-handpicked-resources-for-frontend-developers"/>
+        <updated>2021-06-24T09:54:35.000Z</updated>
+        <summary type="html"><![CDATA[https://www.akshay.rocks/resources]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splash Page Vs Landing Page: What's The Difference]]></title>
+        <id>https://marketsplash.com/splash-page-vs-landing-page/</id>
+        <link href="http://www.webdesignernews.com/external/splash-page-vs-landing-page-what-s-the-difference"/>
+        <updated>2021-06-24T09:54:14.000Z</updated>
+        <summary type="html"><![CDATA[https://marketsplash.com/splash-page-vs-landing-page/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Get Static WordPress Hosting On CloudFlare For Free]]></title>
+        <id>https://blogabout.dev/how-to-get-static-wordpress-hosting-on-cloudflare-for-free/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-get-static-wordpress-hosting-on-cloudflare-for-free"/>
+        <updated>2021-06-24T09:40:29.000Z</updated>
+        <summary type="html"><![CDATA[https://blogabout.dev/how-to-get-static-wordpress-hosting-on-cloudflare-for-free/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 JavaScript Keyboards]]></title>
+        <id>https://csshint.com/javascript-keyboards/</id>
+        <link href="http://www.webdesignernews.com/external/10-javascript-keyboards"/>
+        <updated>2021-06-24T09:34:45.000Z</updated>
+        <summary type="html"><![CDATA[https://csshint.com/javascript-keyboards/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything you need to know about Kentico Xperience 13 – Infographics]]></title>
+        <id>https://www.designernews.co/stories/116328-everything-you-need-to-know-about-kentico-xperience-13--infographics</id>
+        <link href="https://www.designernews.co/stories/116328-everything-you-need-to-know-about-kentico-xperience-13--infographics"/>
+        <updated>2021-06-24T09:21:58.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/infographics/kentico-xperience-13]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Productivity Desk Accessories Under $10 (Giveaway too!)]]></title>
+        <id>https://www.designernews.co/stories/116327-productivity-desk-accessories-under-10-giveaway-too</id>
+        <link href="https://www.designernews.co/stories/116327-productivity-desk-accessories-under-10-giveaway-too"/>
+        <updated>2021-06-24T09:04:06.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=f5vp3BS0bag]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change your old methods for writing a JavaScript Code - Shorthand's for JavaScript Code]]></title>
+        <id>https://www.designernews.co/stories/116326-change-your-old-methods-for-writing-a-javascript-code--shorthands-for-javascript-code</id>
+        <link href="https://www.designernews.co/stories/116326-change-your-old-methods-for-writing-a-javascript-code--shorthands-for-javascript-code"/>
+        <updated>2021-06-24T09:03:18.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/change-your-old-methods-for-writing.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 ways to build a successful recruitment strategy at a startup]]></title>
         <id>https://www.designernews.co/stories/116323-10-ways-to-build-a-successful-recruitment-strategy-at-a-startup</id>
@@ -56,7 +126,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Treat Clients who treat you poorly ? The Web Designer]]></title>
+        <title type="html"><![CDATA[How to Treat Clients who treat you poorly]]></title>
         <id>https://the-webdesigner.co/how-to-treat-clients-who-treat-you-poorly/</id>
         <link href="http://www.webdesignernews.com/external/how-to-treat-clients-who-treat-you-poorly-the-web-designer"/>
         <updated>2021-06-23T19:09:00.000Z</updated>
@@ -256,46 +326,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Serving sharp images to high density screens]]></title>
-        <id>https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/</id>
-        <link href="http://www.webdesignernews.com/external/serving-sharp-images-to-high-density-screens"/>
-        <updated>2021-06-22T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How teams can work remotely and stay productive]]></title>
-        <id>https://blog.plantapp.io/post/how-teams-can-work-remotely-and-stay-productive</id>
-        <link href="http://www.webdesignernews.com/external/how-teams-can-work-remotely-and-stay-productive"/>
-        <updated>2021-06-22T20:37:00.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.plantapp.io/post/how-teams-can-work-remotely-and-stay-productive]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebP Images: A Primer]]></title>
-        <id>https://speckyboy.com/webp-images/</id>
-        <link href="http://www.webdesignernews.com/external/webp-images-a-primer"/>
-        <updated>2021-06-22T19:43:00.000Z</updated>
-        <summary type="html"><![CDATA[https://speckyboy.com/webp-images/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fontstorage ? A Collection of Free Webfonts For Any Web Project]]></title>
-        <id>https://www.hongkiat.com/blog/fontstorage-online-tools/</id>
-        <link href="http://www.webdesignernews.com/external/fontstorage-a-collection-of-free-webfonts-for-any-web-project"/>
-        <updated>2021-06-22T17:54:39.000Z</updated>
-        <summary type="html"><![CDATA[https://www.hongkiat.com/blog/fontstorage-online-tools/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Curated Design Resource Library]]></title>
         <id>https://www.designernews.co/stories/116292-a-curated-design-resource-library</id>
         <link href="https://www.designernews.co/stories/116292-a-curated-design-resource-library"/>
@@ -457,26 +487,6 @@ The post 17 Best Hawaiian Tiki Fonts for Summer Designs appeared first on Design
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blinkist has new illustrated covers for their blinks / books. Here is a quick sneak peek.]]></title>
-        <id>https://www.designernews.co/stories/116245-blinkist-has-new-illustrated-covers-for-their-blinks--books-here-is-a-quick-sneak-peek</id>
-        <link href="https://www.designernews.co/stories/116245-blinkist-has-new-illustrated-covers-for-their-blinks--books-here-is-a-quick-sneak-peek"/>
-        <updated>2021-06-21T10:14:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.owlillustration.com/2021/06/07/blinkist-book-covers/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Google Fonts for Headings]]></title>
-        <id>https://www.designernews.co/stories/116242-best-google-fonts-for-headings</id>
-        <link href="https://www.designernews.co/stories/116242-best-google-fonts-for-headings"/>
-        <updated>2021-06-21T09:02:29.000Z</updated>
-        <summary type="html"><![CDATA[https://www.designinspiration.info/best-google-fonts-for-headings/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10 Best Google Fonts for Headings 2021 Collection]]></title>
         <id>https://www.designinspiration.info/?p=3197</id>
         <link href="https://www.designinspiration.info/best-google-fonts-for-headings/"/>
@@ -503,16 +513,6 @@ The post 10 Best Google Fonts for Headings 2021 Collection appeared first on Des
         <link href="https://www.designernews.co/stories/116239-fun-facts-about-programming--enjoy-programing"/>
         <updated>2021-06-21T08:36:22.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/fun-facts-about-programming-happy.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Gain a Positively Unfair Advantage in Getting more Instagram Followers]]></title>
-        <id>https://www.designernews.co/stories/116193-how-to-gain-a-positively-unfair-advantage-in-getting-more-instagram-followers</id>
-        <link href="https://www.designernews.co/stories/116193-how-to-gain-a-positively-unfair-advantage-in-getting-more-instagram-followers"/>
-        <updated>2021-06-20T14:27:52.000Z</updated>
-        <summary type="html"><![CDATA[http://www.digistore24.com/redir/363843/jaydhobi14/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>

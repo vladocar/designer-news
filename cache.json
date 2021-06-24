@@ -103,12 +103,39 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/116328-everything-you-need-to-know-about-kentico-xperience-13--infographics",
+          "author": null,
+          "description": "https://www.zenesys.com/infographics/kentico-xperience-13",
+          "link": "https://www.designernews.co/stories/116328-everything-you-need-to-know-about-kentico-xperience-13--infographics",
+          "publishedOn": "2021-06-24T09:21:58.000Z",
+          "wordCount": 180,
+          "title": "Everything you need to know about Kentico Xperience 13 – Infographics"
+        },
+        {
+          "id": "https://www.designernews.co/stories/116327-productivity-desk-accessories-under-10-giveaway-too",
+          "author": null,
+          "description": "https://www.youtube.com/watch?v=f5vp3BS0bag",
+          "link": "https://www.designernews.co/stories/116327-productivity-desk-accessories-under-10-giveaway-too",
+          "publishedOn": "2021-06-24T09:04:06.000Z",
+          "wordCount": 167,
+          "title": "Productivity Desk Accessories Under $10 (Giveaway too!)"
+        },
+        {
+          "id": "https://www.designernews.co/stories/116326-change-your-old-methods-for-writing-a-javascript-code--shorthands-for-javascript-code",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/06/change-your-old-methods-for-writing.html",
+          "link": "https://www.designernews.co/stories/116326-change-your-old-methods-for-writing-a-javascript-code--shorthands-for-javascript-code",
+          "publishedOn": "2021-06-24T09:03:18.000Z",
+          "wordCount": 183,
+          "title": "Change your old methods for writing a JavaScript Code - Shorthand's for JavaScript Code"
+        },
+        {
           "id": "https://www.designernews.co/stories/116323-10-ways-to-build-a-successful-recruitment-strategy-at-a-startup",
           "author": null,
           "description": "https://startuptrends.co/10-ways-to-build-a-successful-recruitment-strategy-at-a-startup-15083.html",
           "link": "https://www.designernews.co/stories/116323-10-ways-to-build-a-successful-recruitment-strategy-at-a-startup",
           "publishedOn": "2021-06-24T07:22:15.000Z",
-          "wordCount": 213,
+          "wordCount": 215,
           "title": "10 ways to build a successful recruitment strategy at a startup"
         },
         {
@@ -117,7 +144,7 @@
           "description": "https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/",
           "link": "https://www.designernews.co/stories/116317-complete-guide-on-how-to-create-an-app-like-bet365",
           "publishedOn": "2021-06-24T04:32:50.000Z",
-          "wordCount": 173,
+          "wordCount": 175,
           "title": "Complete guide on how to create an app like Bet365"
         },
         {
@@ -126,7 +153,7 @@
           "description": "https://www.notion.so/paytable/How-To-Embed-Any-Notion-Content-To-Your-Paytable-io-Members-Area-14610a4c07634ea190552b4b71f003ae",
           "link": "https://www.designernews.co/stories/116315-sell-gated-access-to-notion-content-with-paytable--superso-for-free",
           "publishedOn": "2021-06-23T16:21:45.000Z",
-          "wordCount": 179,
+          "wordCount": 181,
           "title": "Sell gated access to Notion content with Paytable & Super.so... for free"
         },
         {
@@ -135,7 +162,7 @@
           "description": "https://pixiko.com/tools/loop-video",
           "link": "https://www.designernews.co/stories/116312-exploding-online-video-looper-with-ton-of-time-effects-reverse-speed-up-slowmo-trim-split-boomeranging-you-videos-via-1-click-on-pixiko",
           "publishedOn": "2021-06-23T15:40:24.000Z",
-          "wordCount": 200,
+          "wordCount": 202,
           "title": "Exploding online video looper with ton of time effects: reverse, speed up, slowmo, trim, split. Boomeranging you videos via 1 click on Pixiko!"
         },
         {
@@ -144,7 +171,7 @@
           "description": "https://marketsplash.com/splash-page-vs-landing-page/",
           "link": "https://www.designernews.co/stories/116311-splash-page-vs-landing-page-whats-the-difference",
           "publishedOn": "2021-06-23T14:16:31.000Z",
-          "wordCount": 170,
+          "wordCount": 172,
           "title": "Splash Page Vs. Landing Page: What's The Difference"
         },
         {
@@ -153,7 +180,7 @@
           "description": "https://www.zenesys.com/infographics/kentico-vs-sitecore",
           "link": "https://www.designernews.co/stories/116304-kentico-vs-sitecore--infographics",
           "publishedOn": "2021-06-23T09:44:25.000Z",
-          "wordCount": 164,
+          "wordCount": 166,
           "title": "Kentico vs Sitecore - {Infographics}"
         },
         {
@@ -162,7 +189,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/06/new-features-in-php-8-2021.html",
           "link": "https://www.designernews.co/stories/116296-new-features-in-php-8-2021",
           "publishedOn": "2021-06-23T06:55:51.000Z",
-          "wordCount": 165,
+          "wordCount": 167,
           "title": "New Features In PHP 8 2021"
         },
         {
@@ -171,7 +198,7 @@
           "description": "https://www.producthunt.com/posts/design-xstream",
           "link": "https://www.designernews.co/stories/116292-a-curated-design-resource-library",
           "publishedOn": "2021-06-22T17:32:01.000Z",
-          "wordCount": 163,
+          "wordCount": 165,
           "title": "A Curated Design Resource Library"
         },
         {
@@ -180,7 +207,7 @@
           "description": "https://www.behance.net/gallery/116572501/Alma-Pharmacies",
           "link": "https://www.designernews.co/stories/116279-an-apple-a-day-keeps-the-doctor-away---designing-a-comprehensive-digital-system-from-the-ground-up-for-a-nationwide-pharmacy-chain",
           "publishedOn": "2021-06-22T10:12:27.000Z",
-          "wordCount": 202,
+          "wordCount": 204,
           "title": "An apple a day keeps the doctor away -  designing a comprehensive digital system from the ground up for a nationwide pharmacy chain"
         },
         {
@@ -189,7 +216,7 @@
           "description": "https://www.producthunt.com/posts/marvelous-color-picker",
           "link": "https://www.designernews.co/stories/116276-marvelous-color-picker",
           "publishedOn": "2021-06-22T10:01:12.000Z",
-          "wordCount": 232,
+          "wordCount": 234,
           "title": "Marvelous Color Picker"
         },
         {
@@ -198,7 +225,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/04/why-you-should-stop-using-loops.html",
           "link": "https://www.designernews.co/stories/116273-why-you-should-stop-using-loops",
           "publishedOn": "2021-06-22T08:38:12.000Z",
-          "wordCount": 165,
+          "wordCount": 167,
           "title": "Why You Should Stop Using Loops?"
         },
         {
@@ -207,7 +234,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/04/habit-which-you-can-change-if-you-want.html",
           "link": "https://www.designernews.co/stories/116272-habits-you-should-change-if-you-wants-to-develop-your-skill-as-a-developer",
           "publishedOn": "2021-06-22T08:35:19.000Z",
-          "wordCount": 181,
+          "wordCount": 183,
           "title": "Habits you should change if you wants to develop your skill as a developer"
         },
         {
@@ -216,7 +243,7 @@
           "description": "https://www.zenesys.com/rpa-services/microsoft-power-automate",
           "link": "https://www.designernews.co/stories/116271-looking-for-microsoft-power-automate-services-get-the-best-power-automate-services-in-usa",
           "publishedOn": "2021-06-22T07:54:35.000Z",
-          "wordCount": 182,
+          "wordCount": 184,
           "title": "Looking for Microsoft Power Automate Services? Get the Best Power Automate Services in USA"
         },
         {
@@ -225,7 +252,7 @@
           "description": "https://blog.plantapp.io/post/how-teams-can-work-remotely-and-stay-productive",
           "link": "https://www.designernews.co/stories/116270-how-teams-can-work-remotely-and-stay-productive",
           "publishedOn": "2021-06-22T07:14:46.000Z",
-          "wordCount": 169,
+          "wordCount": 171,
           "title": "How teams can work remotely and stay productive"
         },
         {
@@ -234,7 +261,7 @@
           "description": "https://mahdif.com/blog/designing-and-launching-an-app-to-generate-gif-quizzes/",
           "link": "https://www.designernews.co/stories/116265-launching-an-app-to-generate-gif-quizzes-with-a-0-budget",
           "publishedOn": "2021-06-22T04:39:16.000Z",
-          "wordCount": 173,
+          "wordCount": 175,
           "title": "Launching an App to Generate Gif Quizzes With a $0 Budget"
         },
         {
@@ -243,7 +270,7 @@
           "description": "https://www.youtube.com/watch?v=jjUK-4SMdAs",
           "link": "https://www.designernews.co/stories/116262-why-every-designer-needs-a-youtube-channel",
           "publishedOn": "2021-06-21T20:57:20.000Z",
-          "wordCount": 165,
+          "wordCount": 167,
           "title": "Why Every Designer Needs A Youtube Channel"
         },
         {
@@ -252,7 +279,7 @@
           "description": "http://www.digistore24.com/redir/300003/jaydhobi14/",
           "link": "https://www.designernews.co/stories/116258-free-archetype-reading-reveals-your-personality-quirks-innate-talents-and-hidden-weaknesses",
           "publishedOn": "2021-06-21T16:21:27.000Z",
-          "wordCount": 176,
+          "wordCount": 178,
           "title": "Free Archetype Reading Reveals Your Personality Quirks, Innate Talents, And Hidden Weaknesses"
         },
         {
@@ -261,7 +288,7 @@
           "description": "https://www.zenesys.com/infographics/all-you-need-to-know-about-microsoft-blazor",
           "link": "https://www.designernews.co/stories/116254-all-you-need-to-know-about-microsoft-blazor--infographics",
           "publishedOn": "2021-06-21T13:33:31.000Z",
-          "wordCount": 193,
+          "wordCount": 195,
           "title": "All You Need to Know About Microsoft Blazor - Infographics"
         },
         {
@@ -270,7 +297,7 @@
           "description": "https://www.youtube.com/watch?v=9yJGLVi9_Fg",
           "link": "https://www.designernews.co/stories/116249-the-best-free-icon-libraries-to-use-in-your-mobile--web-ui-projects-",
           "publishedOn": "2021-06-21T11:55:28.000Z",
-          "wordCount": 181,
+          "wordCount": 183,
           "title": "The Best Free Icon Libraries to use in your Mobile & Web UI Projects!"
         },
         {
@@ -279,26 +306,8 @@
           "description": "https://www.robertcreative.com/blog/typography-trends-in-2021",
           "link": "https://www.designernews.co/stories/116247-typography-trends-in-2021-what-should-you-know",
           "publishedOn": "2021-06-21T11:03:47.000Z",
-          "wordCount": 172,
+          "wordCount": 174,
           "title": "Typography Trends in 2021: What Should You Know?"
-        },
-        {
-          "id": "https://www.designernews.co/stories/116245-blinkist-has-new-illustrated-covers-for-their-blinks--books-here-is-a-quick-sneak-peek",
-          "author": null,
-          "description": "https://www.owlillustration.com/2021/06/07/blinkist-book-covers/",
-          "link": "https://www.designernews.co/stories/116245-blinkist-has-new-illustrated-covers-for-their-blinks--books-here-is-a-quick-sneak-peek",
-          "publishedOn": "2021-06-21T10:14:00.000Z",
-          "wordCount": 186,
-          "title": "Blinkist has new illustrated covers for their blinks / books. Here is a quick sneak peek."
-        },
-        {
-          "id": "https://www.designernews.co/stories/116242-best-google-fonts-for-headings",
-          "author": null,
-          "description": "https://www.designinspiration.info/best-google-fonts-for-headings/",
-          "link": "https://www.designernews.co/stories/116242-best-google-fonts-for-headings",
-          "publishedOn": "2021-06-21T09:02:29.000Z",
-          "wordCount": 163,
-          "title": "Best Google Fonts for Headings"
         },
         {
           "id": "https://www.designernews.co/stories/116240-uiux-trends-2021--ux-ui-design-trends--web-design-trends--ux-ui-design-services--zenesys",
@@ -306,7 +315,7 @@
           "description": "https://www.youtube.com/watch?v=LzeRvEaNOdM",
           "link": "https://www.designernews.co/stories/116240-uiux-trends-2021--ux-ui-design-trends--web-design-trends--ux-ui-design-services--zenesys",
           "publishedOn": "2021-06-21T08:45:03.000Z",
-          "wordCount": 192,
+          "wordCount": 194,
           "title": "UI/UX Trends 2021 | UX UI Design Trends | Web Design Trends | UX UI Design Services | Zenesys"
         },
         {
@@ -315,17 +324,8 @@
           "description": "https://cmsinstallation.blogspot.com/2021/04/fun-facts-about-programming-happy.html",
           "link": "https://www.designernews.co/stories/116239-fun-facts-about-programming--enjoy-programing",
           "publishedOn": "2021-06-21T08:36:22.000Z",
-          "wordCount": 167,
+          "wordCount": 169,
           "title": "Fun facts about programming – Enjoy Programing"
-        },
-        {
-          "id": "https://www.designernews.co/stories/116193-how-to-gain-a-positively-unfair-advantage-in-getting-more-instagram-followers",
-          "author": null,
-          "description": "http://www.digistore24.com/redir/363843/jaydhobi14/",
-          "link": "https://www.designernews.co/stories/116193-how-to-gain-a-positively-unfair-advantage-in-getting-more-instagram-followers",
-          "publishedOn": "2021-06-20T14:27:52.000Z",
-          "wordCount": 176,
-          "title": "How to Gain a Positively Unfair Advantage in Getting more Instagram Followers"
         }
       ]
     },
@@ -354,7 +354,7 @@
           "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
           "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
           "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1396,
+          "wordCount": 1350,
           "title": "Automating Screen Reader Testing On macOS Using Auto VO",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
@@ -382,7 +382,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5365,
+          "wordCount": 5350,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -396,7 +396,7 @@
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3372,
+          "wordCount": 3413,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -410,7 +410,7 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3958,
+          "wordCount": 3955,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
@@ -424,7 +424,7 @@
           "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
           "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
           "publishedOn": "2021-06-17T10:30:00.000Z",
-          "wordCount": 1638,
+          "wordCount": 1637,
           "title": "Your Image Is Probably Not Decorative",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
@@ -438,7 +438,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4105,
+          "wordCount": 4104,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -494,7 +494,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1753,
+          "wordCount": 1743,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -508,7 +508,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5156,
+          "wordCount": 5159,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -522,7 +522,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 864,
+          "wordCount": 878,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -536,7 +536,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2781,
+          "wordCount": 2779,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -564,7 +564,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2434,
+          "wordCount": 2432,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -578,7 +578,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4422,
+          "wordCount": 4410,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -592,7 +592,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3728,
+          "wordCount": 3717,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -606,7 +606,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4584,
+          "wordCount": 4586,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -620,7 +620,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5656,
+          "wordCount": 5613,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -662,7 +662,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2769,
+          "wordCount": 2761,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -676,7 +676,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10601,
+          "wordCount": 10609,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -690,7 +690,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 4062,
+          "wordCount": 4061,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -734,12 +734,48 @@
       "siteUrl": "http://www.webdesignernews.com",
       "articles": [
         {
+          "id": "https://www.akshay.rocks/resources",
+          "author": null,
+          "description": "https://www.akshay.rocks/resources",
+          "link": "http://www.webdesignernews.com/external/frontend-toolbox-a-list-of-handpicked-resources-for-frontend-developers",
+          "publishedOn": "2021-06-24T09:54:35.000Z",
+          "wordCount": 66,
+          "title": "Frontend Toolbox - A list of handpicked resources for frontend developers"
+        },
+        {
+          "id": "https://marketsplash.com/splash-page-vs-landing-page/",
+          "author": null,
+          "description": "https://marketsplash.com/splash-page-vs-landing-page/",
+          "link": "http://www.webdesignernews.com/external/splash-page-vs-landing-page-what-s-the-difference",
+          "publishedOn": "2021-06-24T09:54:14.000Z",
+          "wordCount": 2158,
+          "title": "Splash Page Vs Landing Page: What's The Difference"
+        },
+        {
+          "id": "https://blogabout.dev/how-to-get-static-wordpress-hosting-on-cloudflare-for-free/",
+          "author": null,
+          "description": "https://blogabout.dev/how-to-get-static-wordpress-hosting-on-cloudflare-for-free/",
+          "link": "http://www.webdesignernews.com/external/how-to-get-static-wordpress-hosting-on-cloudflare-for-free",
+          "publishedOn": "2021-06-24T09:40:29.000Z",
+          "wordCount": 1014,
+          "title": "How To Get Static WordPress Hosting On CloudFlare For Free"
+        },
+        {
+          "id": "https://csshint.com/javascript-keyboards/",
+          "author": null,
+          "description": "https://csshint.com/javascript-keyboards/",
+          "link": "http://www.webdesignernews.com/external/10-javascript-keyboards",
+          "publishedOn": "2021-06-24T09:34:45.000Z",
+          "wordCount": 422,
+          "title": "10 JavaScript Keyboards"
+        },
+        {
           "id": "https://www.shopify.com/blog/shop-marketing-automation",
           "author": null,
           "description": "https://www.shopify.com/blog/shop-marketing-automation",
           "link": "http://www.webdesignernews.com/external/follow-the-post-purchase-path-for-long-term-growth",
           "publishedOn": "2021-06-23T23:34:00.000Z",
-          "wordCount": 1907,
+          "wordCount": 1896,
           "title": "Follow the Post-Purchase Path For Long Term Growth"
         },
         {
@@ -767,7 +803,7 @@
           "link": "http://www.webdesignernews.com/external/how-to-treat-clients-who-treat-you-poorly-the-web-designer",
           "publishedOn": "2021-06-23T19:09:00.000Z",
           "wordCount": 1369,
-          "title": "How to Treat Clients who treat you poorly ? The Web Designer"
+          "title": "How to Treat Clients who treat you poorly"
         },
         {
           "id": "https://speckyboy.com/ingredients-great-wordpress-plugin/",
@@ -820,7 +856,7 @@
           "description": "https://bootstrapbay.com/blog/how-your-website-performance-affects-your-seo-rankings/",
           "link": "http://www.webdesignernews.com/external/how-your-website-performance-affects-your-seo-rankings",
           "publishedOn": "2021-06-23T15:15:33.000Z",
-          "wordCount": 1143,
+          "wordCount": 1147,
           "title": "How Your Website Performance Affects Your SEO Rankings"
         },
         {
@@ -829,7 +865,7 @@
           "description": "https://www.webdesignerdepot.com/2021/06/soft-ui-making-sense-of-the-latest-design-trend/",
           "link": "http://www.webdesignernews.com/external/soft-ui-making-sense-of-the-latest-design-trend",
           "publishedOn": "2021-06-23T15:15:31.000Z",
-          "wordCount": 1811,
+          "wordCount": 1798,
           "title": "Soft UI: Making Sense of the Latest Design Trend"
         },
         {
@@ -876,42 +912,6 @@
           "publishedOn": "2021-06-22T23:49:00.000Z",
           "wordCount": 8,
           "title": "Slugify - Stress-free slug generation for SEO, URLs, and content"
-        },
-        {
-          "id": "https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/",
-          "author": null,
-          "description": "https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/",
-          "link": "http://www.webdesignernews.com/external/serving-sharp-images-to-high-density-screens",
-          "publishedOn": "2021-06-22T21:40:00.000Z",
-          "wordCount": 2031,
-          "title": "Serving sharp images to high density screens"
-        },
-        {
-          "id": "https://blog.plantapp.io/post/how-teams-can-work-remotely-and-stay-productive",
-          "author": null,
-          "description": "https://blog.plantapp.io/post/how-teams-can-work-remotely-and-stay-productive",
-          "link": "http://www.webdesignernews.com/external/how-teams-can-work-remotely-and-stay-productive",
-          "publishedOn": "2021-06-22T20:37:00.000Z",
-          "wordCount": 1152,
-          "title": "How teams can work remotely and stay productive"
-        },
-        {
-          "id": "https://speckyboy.com/webp-images/",
-          "author": null,
-          "description": "https://speckyboy.com/webp-images/",
-          "link": "http://www.webdesignernews.com/external/webp-images-a-primer",
-          "publishedOn": "2021-06-22T19:43:00.000Z",
-          "wordCount": 1491,
-          "title": "WebP Images: A Primer"
-        },
-        {
-          "id": "https://www.hongkiat.com/blog/fontstorage-online-tools/",
-          "author": null,
-          "description": "https://www.hongkiat.com/blog/fontstorage-online-tools/",
-          "link": "http://www.webdesignernews.com/external/fontstorage-a-collection-of-free-webfonts-for-any-web-project",
-          "publishedOn": "2021-06-22T17:54:39.000Z",
-          "wordCount": 553,
-          "title": "Fontstorage ? A Collection of Free Webfonts For Any Web Project"
         }
       ]
     }
