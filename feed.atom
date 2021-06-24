@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-24T10:00:51.706Z</id>
+    <id>urn:2021-06-24T11:00:43.968Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T10:00:51.706Z</updated>
+    <updated>2021-06-24T11:00:43.968Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -81,6 +81,16 @@
         <link href="https://www.designernews.co/stories/116323-10-ways-to-build-a-successful-recruitment-strategy-at-a-startup"/>
         <updated>2021-06-24T07:22:15.000Z</updated>
         <summary type="html"><![CDATA[https://startuptrends.co/10-ways-to-build-a-successful-recruitment-strategy-at-a-startup-15083.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video! BOOKKEEPER – React Accounting Template (React, Node.js and PostgreSQL)]]></title>
+        <id>https://www.designernews.co/stories/116319-video-bookkeeper--react-accounting-template-react-nodejs-and-postgresql</id>
+        <link href="https://www.designernews.co/stories/116319-video-bookkeeper--react-accounting-template-react-nodejs-and-postgresql"/>
+        <updated>2021-06-24T06:08:05.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=1pM3pLS_XcA]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -472,16 +482,6 @@ The post 17 Best Hawaiian Tiki Fonts for Summer Designs appeared first on Design
         <link href="https://www.designernews.co/stories/116249-the-best-free-icon-libraries-to-use-in-your-mobile--web-ui-projects-"/>
         <updated>2021-06-21T11:55:28.000Z</updated>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=9yJGLVi9_Fg]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typography Trends in 2021: What Should You Know?]]></title>
-        <id>https://www.designernews.co/stories/116247-typography-trends-in-2021-what-should-you-know</id>
-        <link href="https://www.designernews.co/stories/116247-typography-trends-in-2021-what-should-you-know"/>
-        <updated>2021-06-21T11:03:47.000Z</updated>
-        <summary type="html"><![CDATA[https://www.robertcreative.com/blog/typography-trends-in-2021]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
