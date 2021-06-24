@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-24T20:01:01.830Z</id>
+    <id>urn:2021-06-24T21:00:45.495Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T20:01:01.831Z</updated>
+    <updated>2021-06-24T21:00:45.495Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Django for Startup Founders: A better software architecture for SaaS startups]]></title>
+        <id>https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html</id>
+        <link href="http://www.webdesignernews.com/external/django-for-startup-founders-a-better-software-architecture-for-saas-startups"/>
+        <updated>2021-06-24T20:31:00.000Z</updated>
+        <summary type="html"><![CDATA[https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Custom Endpoint for the REST API (In 4 Steps)]]></title>
+        <id>https://torquemag.io/2021/06/custom-endpoint-rest-api/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-create-a-custom-endpoint-for-the-rest-api-in-4-steps"/>
+        <updated>2021-06-24T20:26:00.000Z</updated>
+        <summary type="html"><![CDATA[https://torquemag.io/2021/06/custom-endpoint-rest-api/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPod Classic JS - Enjoy Spotify and Apple Music With iPod Classic Spin Wheel]]></title>
         <id>https://www.designernews.co/stories/116347-ipod-classic-js--enjoy-spotify-and-apple-music-with-ipod-classic-spin-wheel</id>
@@ -332,26 +352,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <link href="http://www.webdesignernews.com/external/how-your-website-performance-affects-your-seo-rankings"/>
         <updated>2021-06-23T15:15:33.000Z</updated>
         <summary type="html"><![CDATA[https://bootstrapbay.com/blog/how-your-website-performance-affects-your-seo-rankings/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soft UI: Making Sense of the Latest Design Trend]]></title>
-        <id>https://www.webdesignerdepot.com/2021/06/soft-ui-making-sense-of-the-latest-design-trend/</id>
-        <link href="http://www.webdesignernews.com/external/soft-ui-making-sense-of-the-latest-design-trend"/>
-        <updated>2021-06-23T15:15:31.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/soft-ui-making-sense-of-the-latest-design-trend/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new responsive: Web design in a component-driven world]]></title>
-        <id>https://web.dev/new-responsive/</id>
-        <link href="http://www.webdesignernews.com/external/the-new-responsive-web-design-in-a-component-driven-world"/>
-        <updated>2021-06-23T15:14:34.000Z</updated>
-        <summary type="html"><![CDATA[https://web.dev/new-responsive/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
