@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-24T13:10:50.671Z</id>
+    <id>urn:2021-06-24T14:01:23.182Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T13:10:50.671Z</updated>
+    <updated>2021-06-24T14:01:23.182Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing DesignbyWomen - founded by graphic designer Mary Hemingway to showcase, empower and celebrate women and under-represented creatives]]></title>
+        <id>https://www.designernews.co/stories/116338-introducing-designbywomen--founded-by-graphic-designer-mary-hemingway-to-showcase-empower-and-celebrate-women-and-underrepresented-creatives</id>
+        <link href="https://www.designernews.co/stories/116338-introducing-designbywomen--founded-by-graphic-designer-mary-hemingway-to-showcase-empower-and-celebrate-women-and-underrepresented-creatives"/>
+        <updated>2021-06-24T13:33:02.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.briefbox.me/introducing-designbywomen/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Designing a tipping experience for Swiggy delivery]]></title>
         <id>https://medium.com/swiggydesign/designing-a-tipping-experience-for-swiggy-delivery-271ba79d08a</id>
@@ -503,16 +513,6 @@ The post 10 Best Google Fonts for Headings 2021 Collection appeared first on Des
         <link href="https://www.designernews.co/stories/116240-uiux-trends-2021--ux-ui-design-trends--web-design-trends--ux-ui-design-services--zenesys"/>
         <updated>2021-06-21T08:45:03.000Z</updated>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=LzeRvEaNOdM]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fun facts about programming – Enjoy Programing]]></title>
-        <id>https://www.designernews.co/stories/116239-fun-facts-about-programming--enjoy-programing</id>
-        <link href="https://www.designernews.co/stories/116239-fun-facts-about-programming--enjoy-programing"/>
-        <updated>2021-06-21T08:36:22.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/fun-facts-about-programming-happy.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
