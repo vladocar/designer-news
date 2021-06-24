@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-24T12:01:01.920Z</id>
+    <id>urn:2021-06-24T13:10:50.671Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T12:01:01.920Z</updated>
+    <updated>2021-06-24T13:10:50.671Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Designing a tipping experience for Swiggy delivery]]></title>
+        <id>https://medium.com/swiggydesign/designing-a-tipping-experience-for-swiggy-delivery-271ba79d08a</id>
+        <link href="http://www.webdesignernews.com/external/designing-a-tipping-experience-for-swiggy-delivery"/>
+        <updated>2021-06-24T12:24:00.000Z</updated>
+        <summary type="html"><![CDATA[https://medium.com/swiggydesign/designing-a-tipping-experience-for-swiggy-delivery-271ba79d08a]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Frontend Toolbox - A list of handpicked resources for frontend developers]]></title>
         <id>https://www.akshay.rocks/resources</id>
@@ -321,16 +331,6 @@
         <link href="http://www.webdesignernews.com/external/finally-shopify-site-owners-can-edit-their-robots-txt-files"/>
         <updated>2021-06-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[https://searchengineland.com/finally-shopify-site-owners-can-edit-their-robots-txt-files-349794]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slugify - Stress-free slug generation for SEO, URLs, and content]]></title>
-        <id>https://www.slugenerator.com/</id>
-        <link href="http://www.webdesignernews.com/external/slugify-stress-free-slug-generation-for-seo-urls-and-content"/>
-        <updated>2021-06-22T23:49:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.slugenerator.com/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
