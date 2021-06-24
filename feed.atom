@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T23:01:02.500Z</id>
+    <id>urn:2021-06-24T00:09:28.614Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T23:01:02.500Z</updated>
+    <updated>2021-06-24T00:09:28.614Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Follow the Post-Purchase Path For Long Term Growth]]></title>
+        <id>https://www.shopify.com/blog/shop-marketing-automation</id>
+        <link href="http://www.webdesignernews.com/external/follow-the-post-purchase-path-for-long-term-growth"/>
+        <updated>2021-06-23T23:34:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.shopify.com/blog/shop-marketing-automation]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seams for a Better Web]]></title>
         <id>https://sparkbox.com/foundry/speed_up_software_timeline_with_decomping__static_data_development_sandbox</id>
@@ -273,16 +283,6 @@
         <summary type="html"><![CDATA[https://www.producthunt.com/posts/design-xstream]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Lush is applying its longstanding ethics to digital practices]]></title>
-        <id>https://www.itsnicethat.com/articles/lush-digital-ethicals-redesign-digital-sponsored-content-220621</id>
-        <link href="http://www.webdesignernews.com/external/how-lush-is-applying-its-longstanding-ethics-to-digital-practices"/>
-        <updated>2021-06-22T16:55:10.000Z</updated>
-        <summary type="html"><![CDATA[https://www.itsnicethat.com/articles/lush-digital-ethicals-redesign-digital-sponsored-content-220621]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
