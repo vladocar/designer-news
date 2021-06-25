@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-25T10:00:43.041Z</id>
+    <id>urn:2021-06-25T11:00:27.137Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T10:00:43.041Z</updated>
+    <updated>2021-06-25T11:00:27.137Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Rise Of Design Thinking As A Problem Solving Strategy]]></title>
+        <id>https://www.smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/</id>
+        <link href="http://www.webdesignernews.com/external/the-rise-of-design-thinking-as-a-problem-solving-strategy"/>
+        <updated>2021-06-25T10:07:15.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just how bad is it to have fake startup employees?]]></title>
+        <id>https://thenextweb.com/news/is-having-fake-employees-bad</id>
+        <link href="http://www.webdesignernews.com/external/just-how-bad-is-it-to-have-fake-startup-employees"/>
+        <updated>2021-06-25T10:05:01.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/is-having-fake-employees-bad]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Run A UX Audit For A Major Edtech Platform (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/"/>
+        <updated>2021-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mark Lankmilier)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Windows 11]]></title>
         <id>https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/</id>
@@ -337,16 +367,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A fascinating design history of the filing cabinet]]></title>
-        <id>https://www.fastcompany.com/90647369/verticality-is-power-the-rise-of-the-filing-cabinet-in-the-age-of-the-skyscraper</id>
-        <link href="http://www.webdesignernews.com/external/a-fascinating-design-history-of-the-filing-cabinet"/>
-        <updated>2021-06-23T16:14:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.fastcompany.com/90647369/verticality-is-power-the-rise-of-the-filing-cabinet-in-the-age-of-the-skyscraper]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Exploding online video looper with ton of time effects: reverse, speed up, slowmo, trim, split. Boomeranging you videos via 1 click on Pixiko!]]></title>
         <id>https://www.designernews.co/stories/116312-exploding-online-video-looper-with-ton-of-time-effects-reverse-speed-up-slowmo-trim-split-boomeranging-you-videos-via-1-click-on-pixiko</id>
         <link href="https://www.designernews.co/stories/116312-exploding-online-video-looper-with-ton-of-time-effects-reverse-speed-up-slowmo-trim-split-boomeranging-you-videos-via-1-click-on-pixiko"/>
@@ -354,16 +374,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <summary type="html"><![CDATA[https://pixiko.com/tools/loop-video]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Be Original in Your Creative Work]]></title>
-        <id>https://design.org/how-to-be-original-in-your-creative-work/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-be-original-in-your-creative-work"/>
-        <updated>2021-06-23T15:16:01.000Z</updated>
-        <summary type="html"><![CDATA[https://design.org/how-to-be-original-in-your-creative-work/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
