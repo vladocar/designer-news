@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-25T12:00:34.752Z</id>
+    <id>urn:2021-06-25T13:11:19.880Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T12:00:34.753Z</updated>
+    <updated>2021-06-25T13:11:19.880Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Simply Static - The static site generator for WordPress]]></title>
+        <id>https://patrickposner.dev/plugins/simply-static/</id>
+        <link href="http://www.webdesignernews.com/external/simply-static-the-static-site-generator-for-wordpress"/>
+        <updated>2021-06-25T12:54:00.000Z</updated>
+        <summary type="html"><![CDATA[https://patrickposner.dev/plugins/simply-static/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating A Multi-Author Blog With Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/"/>
+        <updated>2021-06-25T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Dom Habersack)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Rise Of Design Thinking As A Problem Solving Strategy]]></title>
         <id>https://www.smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/</id>
@@ -352,16 +372,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <link href="http://www.webdesignernews.com/external/the-ingredients-of-a-great-wordpress-plugin"/>
         <updated>2021-06-23T18:34:00.000Z</updated>
         <summary type="html"><![CDATA[https://speckyboy.com/ingredients-great-wordpress-plugin/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge is borrowing one of Chrome's best features]]></title>
-        <id>https://www.androidpolice.com/2021/06/23/microsoft-edges-newest-feature-gives-android-users-a-reason-to-get-the-app/</id>
-        <link href="http://www.webdesignernews.com/external/microsoft-edge-is-borrowing-one-of-chrome-s-best-features"/>
-        <updated>2021-06-23T17:47:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.androidpolice.com/2021/06/23/microsoft-edges-newest-feature-gives-android-users-a-reason-to-get-the-app/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
