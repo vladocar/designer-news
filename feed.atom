@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-25T11:00:27.137Z</id>
+    <id>urn:2021-06-25T12:00:34.752Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T11:00:27.137Z</updated>
+    <updated>2021-06-25T12:00:34.753Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,7 +26,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Run A UX Audit For A Major Edtech Platform (Case Study)]]></title>
+        <title type="html"><![CDATA[How To Run A UX Audit For A Major EdTech Platform (Case Study)]]></title>
         <id>https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/</id>
         <link href="https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/"/>
         <updated>2021-06-25T10:00:00.000Z</updated>
@@ -91,6 +91,16 @@
         <link href="https://www.designernews.co/stories/116347-ipod-classic-js--enjoy-spotify-and-apple-music-with-ipod-classic-spin-wheel"/>
         <updated>2021-06-24T18:29:06.000Z</updated>
         <summary type="html"><![CDATA[https://www.minicreo.com/apps/ipod-classic-js.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switching to UX and Design can be tough. How do you jump over invisible barriers and progress in your careers?]]></title>
+        <id>https://www.designernews.co/stories/116346-switching-to-ux-and-design-can-be-tough-how-do-you-jump-over-invisible-barriers-and-progress-in-your-careers</id>
+        <link href="https://www.designernews.co/stories/116346-switching-to-ux-and-design-can-be-tough-how-do-you-jump-over-invisible-barriers-and-progress-in-your-careers"/>
+        <updated>2021-06-24T18:10:53.000Z</updated>
+        <summary type="html"><![CDATA[https://www.linkedin.com/posts/vaidapakulyte_ux-design-mentoring-activity-6813839532539084800-DJYj]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -482,16 +492,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <link href="https://www.designernews.co/stories/116272-habits-you-should-change-if-you-wants-to-develop-your-skill-as-a-developer"/>
         <updated>2021-06-22T08:35:19.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/habit-which-you-can-change-if-you-want.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking for Microsoft Power Automate Services? Get the Best Power Automate Services in USA]]></title>
-        <id>https://www.designernews.co/stories/116271-looking-for-microsoft-power-automate-services-get-the-best-power-automate-services-in-usa</id>
-        <link href="https://www.designernews.co/stories/116271-looking-for-microsoft-power-automate-services-get-the-best-power-automate-services-in-usa"/>
-        <updated>2021-06-22T07:54:35.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/rpa-services/microsoft-power-automate]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
