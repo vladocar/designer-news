@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-25T15:01:00.648Z</id>
+    <id>urn:2021-06-25T16:00:45.326Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T15:01:00.648Z</updated>
+    <updated>2021-06-25T16:00:45.326Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building Generative Grid Layouts With Quadtrees]]></title>
+        <id>https://georgefrancis.dev/writing/generative-grid-layouts-with-quadtrees/</id>
+        <link href="http://www.webdesignernews.com/external/building-generative-grid-layouts-with-quadtrees"/>
+        <updated>2021-06-25T15:31:00.000Z</updated>
+        <summary type="html"><![CDATA[https://georgefrancis.dev/writing/generative-grid-layouts-with-quadtrees/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: Are You Excited by Windows 11?]]></title>
         <id>https://www.webdesignerdepot.com/2021/06/poll-are-you-excited-by-windows-11/</id>
@@ -362,16 +372,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <link href="http://www.webdesignernews.com/external/follow-the-post-purchase-path-for-long-term-growth"/>
         <updated>2021-06-23T23:34:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.shopify.com/blog/shop-marketing-automation]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seams for a Better Web]]></title>
-        <id>https://sparkbox.com/foundry/speed_up_software_timeline_with_decomping__static_data_development_sandbox</id>
-        <link href="http://www.webdesignernews.com/external/seams-for-a-better-web"/>
-        <updated>2021-06-23T21:02:40.000Z</updated>
-        <summary type="html"><![CDATA[https://sparkbox.com/foundry/speed_up_software_timeline_with_decomping__static_data_development_sandbox]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
