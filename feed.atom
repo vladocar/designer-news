@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-25T16:00:45.326Z</id>
+    <id>urn:2021-06-25T17:12:43.802Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T16:00:45.326Z</updated>
+    <updated>2021-06-25T17:12:43.802Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Spore - A free, all-in-one website builder for creators]]></title>
+        <id>https://spore.build/</id>
+        <link href="http://www.webdesignernews.com/external/spore-a-free-all-in-one-website-builder-for-creators"/>
+        <updated>2021-06-25T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[https://spore.build/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fonts for Instagram]]></title>
+        <id>https://www.designernews.co/stories/116365-fonts-for-instagram</id>
+        <link href="https://www.designernews.co/stories/116365-fonts-for-instagram"/>
+        <updated>2021-06-25T16:25:11.000Z</updated>
+        <summary type="html"><![CDATA[https://fancytextdecorator.com/instagram-fonts]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Generative Grid Layouts With Quadtrees]]></title>
         <id>https://georgefrancis.dev/writing/generative-grid-layouts-with-quadtrees/</id>
@@ -367,16 +387,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Follow the Post-Purchase Path For Long Term Growth]]></title>
-        <id>https://www.shopify.com/blog/shop-marketing-automation</id>
-        <link href="http://www.webdesignernews.com/external/follow-the-post-purchase-path-for-long-term-growth"/>
-        <updated>2021-06-23T23:34:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.shopify.com/blog/shop-marketing-automation]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sell gated access to Notion content with Paytable & Super.so... for free]]></title>
         <id>https://www.designernews.co/stories/116315-sell-gated-access-to-notion-content-with-paytable--superso-for-free</id>
         <link href="https://www.designernews.co/stories/116315-sell-gated-access-to-notion-content-with-paytable--superso-for-free"/>
@@ -452,16 +462,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <link href="https://www.designernews.co/stories/116292-a-curated-design-resource-library"/>
         <updated>2021-06-22T17:32:01.000Z</updated>
         <summary type="html"><![CDATA[https://www.producthunt.com/posts/design-xstream]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An apple a day keeps the doctor away -  designing a comprehensive digital system from the ground up for a nationwide pharmacy chain]]></title>
-        <id>https://www.designernews.co/stories/116279-an-apple-a-day-keeps-the-doctor-away---designing-a-comprehensive-digital-system-from-the-ground-up-for-a-nationwide-pharmacy-chain</id>
-        <link href="https://www.designernews.co/stories/116279-an-apple-a-day-keeps-the-doctor-away---designing-a-comprehensive-digital-system-from-the-ground-up-for-a-nationwide-pharmacy-chain"/>
-        <updated>2021-06-22T10:12:27.000Z</updated>
-        <summary type="html"><![CDATA[https://www.behance.net/gallery/116572501/Alma-Pharmacies]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
