@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-25T09:01:03.774Z</id>
+    <id>urn:2021-06-25T10:00:43.041Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T09:01:03.774Z</updated>
+    <updated>2021-06-25T10:00:43.041Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Windows 11]]></title>
+        <id>https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/</id>
+        <link href="http://www.webdesignernews.com/external/introducing-windows-11"/>
+        <updated>2021-06-25T09:42:10.000Z</updated>
+        <summary type="html"><![CDATA[https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create A Graphic Design Portfolio + 16 Best Examples]]></title>
+        <id>https://www.vectornator.io/blog/graphic-design-portfolio</id>
+        <link href="http://www.webdesignernews.com/external/how-to-create-a-graphic-design-portfolio-16-best-examples"/>
+        <updated>2021-06-25T09:19:23.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vectornator.io/blog/graphic-design-portfolio]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Much Does It Cost To Develop A Chat App?]]></title>
         <id>https://www.designernews.co/stories/116350-how-much-does-it-cost-to-develop-a-chat-app</id>
@@ -342,26 +362,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <link href="http://www.webdesignernews.com/external/how-to-be-original-in-your-creative-work"/>
         <updated>2021-06-23T15:16:01.000Z</updated>
         <summary type="html"><![CDATA[https://design.org/how-to-be-original-in-your-creative-work/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brave Search Now in Public Beta]]></title>
-        <id>https://brave.com/brave-search-beta/</id>
-        <link href="http://www.webdesignernews.com/external/brave-search-now-in-public-beta"/>
-        <updated>2021-06-23T15:15:48.000Z</updated>
-        <summary type="html"><![CDATA[https://brave.com/brave-search-beta/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Your Website Performance Affects Your SEO Rankings]]></title>
-        <id>https://bootstrapbay.com/blog/how-your-website-performance-affects-your-seo-rankings/</id>
-        <link href="http://www.webdesignernews.com/external/how-your-website-performance-affects-your-seo-rankings"/>
-        <updated>2021-06-23T15:15:33.000Z</updated>
-        <summary type="html"><![CDATA[https://bootstrapbay.com/blog/how-your-website-performance-affects-your-seo-rankings/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
