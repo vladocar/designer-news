@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-26T17:09:52.595Z</id>
+    <id>urn:2021-06-26T18:00:33.484Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T17:09:52.595Z</updated>
+    <updated>2021-06-26T18:00:33.484Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Elegant Dashboard Kit - Design Dashboards even faster]]></title>
+        <id>https://dashboard.elegant-goodies.com/</id>
+        <link href="http://www.webdesignernews.com/external/elegant-dashboard-kit-design-dashboards-even-faster"/>
+        <updated>2021-06-26T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[https://dashboard.elegant-goodies.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Framer Motion to Create Smooth Lazy Load Image Effects]]></title>
         <id>https://prototypr.io/post/using-framer-motion-to-create-smooth-lazy-load-image-effects/</id>
@@ -273,16 +283,6 @@
         <summary type="html"><![CDATA[https://www.linkedin.com/posts/vaidapakulyte_ux-design-mentoring-activity-6813839532539084800-DJYj]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaffoldly - The SaaS Builder for Startups]]></title>
-        <id>https://scaffold.ly/</id>
-        <link href="http://www.webdesignernews.com/external/scaffoldly-the-saas-builder-for-startups"/>
-        <updated>2021-06-24T17:43:00.000Z</updated>
-        <summary type="html"><![CDATA[https://scaffold.ly/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
