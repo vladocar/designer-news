@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-26T14:00:31.226Z</id>
+    <id>urn:2021-06-26T15:00:53.254Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T14:00:31.227Z</updated>
+    <updated>2021-06-26T15:00:53.254Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Beats logo has a secret meaning (and won't believe you missed it)]]></title>
+        <id>https://www.creativebloq.com/news/beats-logo-secret</id>
+        <link href="http://www.webdesignernews.com/external/the-beats-logo-has-a-secret-meaning-and-won-t-believe-you-missed-it"/>
+        <updated>2021-06-26T14:25:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.creativebloq.com/news/beats-logo-secret]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Make an App Wireframe, Flowchart, Logo, and Prototype with Mockitt]]></title>
         <id>https://webdesign.tutsplus.com/tutorials/app-wireframe-flowchart-logo-and-prototype-with-mockitt--cms-37281</id>
@@ -293,16 +303,6 @@
         <summary type="html"><![CDATA[https://paytable.io/post/paytable-product-updates-jun]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Specifically Cater to the Needs of Your Clients]]></title>
-        <id>https://speckyboy.com/cater-clients-needs/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-specifically-cater-to-the-needs-of-your-clients"/>
-        <updated>2021-06-24T14:53:00.000Z</updated>
-        <summary type="html"><![CDATA[https://speckyboy.com/cater-clients-needs/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
