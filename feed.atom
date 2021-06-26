@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-26T18:00:33.484Z</id>
+    <id>urn:2021-06-26T19:00:36.613Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T18:00:33.484Z</updated>
+    <updated>2021-06-26T19:00:36.613Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Get your website back into shape with SEO fitness]]></title>
+        <id>https://yoast.com/seo-fitness/</id>
+        <link href="http://www.webdesignernews.com/external/get-your-website-back-into-shape-with-seo-fitness"/>
+        <updated>2021-06-26T18:31:00.000Z</updated>
+        <summary type="html"><![CDATA[https://yoast.com/seo-fitness/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elegant Dashboard Kit - Design Dashboards even faster]]></title>
         <id>https://dashboard.elegant-goodies.com/</id>
@@ -251,16 +261,6 @@
         <link href="http://www.webdesignernews.com/external/django-for-startup-founders-a-better-software-architecture-for-saas-startups"/>
         <updated>2021-06-24T20:31:00.000Z</updated>
         <summary type="html"><![CDATA[https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Custom Endpoint for the REST API (In 4 Steps)]]></title>
-        <id>https://torquemag.io/2021/06/custom-endpoint-rest-api/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-create-a-custom-endpoint-for-the-rest-api-in-4-steps"/>
-        <updated>2021-06-24T20:26:00.000Z</updated>
-        <summary type="html"><![CDATA[https://torquemag.io/2021/06/custom-endpoint-rest-api/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
