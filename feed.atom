@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-26T06:00:43.376Z</id>
+    <id>urn:2021-06-26T07:00:41.599Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T06:00:43.376Z</updated>
+    <updated>2021-06-26T07:00:41.599Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Best VS Code Shortcuts To Make Your Coding Faster]]></title>
+        <id>https://www.designernews.co/stories/116377-best-vs-code-shortcuts-to-make-your-coding-faster</id>
+        <link href="https://www.designernews.co/stories/116377-best-vs-code-shortcuts-to-make-your-coding-faster"/>
+        <updated>2021-06-26T06:42:09.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/best-vs-code-shortcuts-to-make-your.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lesser-known CSS property]]></title>
+        <id>https://www.designernews.co/stories/116376-lesserknown-css-property</id>
+        <link href="https://www.designernews.co/stories/116376-lesserknown-css-property"/>
+        <updated>2021-06-26T06:36:28.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/lesser-known-css-property.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spore - A free, all-in-one website builder for creators]]></title>
         <id>https://spore.build/</id>
@@ -484,26 +504,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <summary type="html"><![CDATA[After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Stop Using Loops?]]></title>
-        <id>https://www.designernews.co/stories/116273-why-you-should-stop-using-loops</id>
-        <link href="https://www.designernews.co/stories/116273-why-you-should-stop-using-loops"/>
-        <updated>2021-06-22T08:38:12.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/why-you-should-stop-using-loops.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Habits you should change if you wants to develop your skill as a developer]]></title>
-        <id>https://www.designernews.co/stories/116272-habits-you-should-change-if-you-wants-to-develop-your-skill-as-a-developer</id>
-        <link href="https://www.designernews.co/stories/116272-habits-you-should-change-if-you-wants-to-develop-your-skill-as-a-developer"/>
-        <updated>2021-06-22T08:35:19.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/habit-which-you-can-change-if-you-want.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
