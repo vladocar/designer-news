@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-26T13:09:13.653Z</id>
+    <id>urn:2021-06-26T14:00:31.226Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T13:09:13.653Z</updated>
+    <updated>2021-06-26T14:00:31.227Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Make an App Wireframe, Flowchart, Logo, and Prototype with Mockitt]]></title>
+        <id>https://webdesign.tutsplus.com/tutorials/app-wireframe-flowchart-logo-and-prototype-with-mockitt--cms-37281</id>
+        <link href="http://www.webdesignernews.com/external/how-to-make-an-app-wireframe-flowchart-logo-and-prototype-with-mockitt"/>
+        <updated>2021-06-26T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[https://webdesign.tutsplus.com/tutorials/app-wireframe-flowchart-logo-and-prototype-with-mockitt--cms-37281]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kobra - Visual programming (like Scratch) for machine learning]]></title>
         <id>https://kobra.dev/</id>
@@ -334,16 +344,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <summary type="html"><![CDATA[https://blog.briefbox.me/introducing-designbywomen/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing a tipping experience for Swiggy delivery]]></title>
-        <id>https://medium.com/swiggydesign/designing-a-tipping-experience-for-swiggy-delivery-271ba79d08a</id>
-        <link href="http://www.webdesignernews.com/external/designing-a-tipping-experience-for-swiggy-delivery"/>
-        <updated>2021-06-24T12:24:00.000Z</updated>
-        <summary type="html"><![CDATA[https://medium.com/swiggydesign/designing-a-tipping-experience-for-swiggy-delivery-271ba79d08a]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
