@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-26T12:00:42.275Z</id>
+    <id>urn:2021-06-26T13:09:13.653Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T12:00:42.275Z</updated>
+    <updated>2021-06-26T13:09:13.653Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kobra - Visual programming (like Scratch) for machine learning]]></title>
+        <id>https://kobra.dev/</id>
+        <link href="http://www.webdesignernews.com/external/kobra-visual-programming-like-scratch-for-machine-learning"/>
+        <updated>2021-06-26T12:47:31.000Z</updated>
+        <summary type="html"><![CDATA[https://kobra.dev/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Alt Text and Why Should You Use It?]]></title>
+        <id>https://www.webfx.com/blog/web-design/what-is-alt-text/</id>
+        <link href="http://www.webdesignernews.com/external/what-is-alt-text-and-why-should-you-use-it"/>
+        <updated>2021-06-26T12:46:51.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webfx.com/blog/web-design/what-is-alt-text/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Becoming Unstoppable: 10 Common Mistakes to Avoid When Starting a Business]]></title>
+        <id>https://www.shopify.com/blog/business-mistakes</id>
+        <link href="http://www.webdesignernews.com/external/becoming-unstoppable-10-common-mistakes-to-avoid-when-starting-a-business"/>
+        <updated>2021-06-26T12:32:17.000Z</updated>
+        <summary type="html"><![CDATA[https://www.shopify.com/blog/business-mistakes]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Most Secure Browsers to Stay Safe and Protect Your Privacy in 2021]]></title>
+        <id>https://kinsta.com/blog/most-secure-browser/</id>
+        <link href="http://www.webdesignernews.com/external/6-most-secure-browsers-to-stay-safe-and-protect-your-privacy-in-2021"/>
+        <updated>2021-06-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[https://kinsta.com/blog/most-secure-browser/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best VS Code Shortcuts To Make Your Coding Faster]]></title>
         <id>https://www.designernews.co/stories/116377-best-vs-code-shortcuts-to-make-your-coding-faster</id>
@@ -302,46 +342,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <link href="http://www.webdesignernews.com/external/designing-a-tipping-experience-for-swiggy-delivery"/>
         <updated>2021-06-24T12:24:00.000Z</updated>
         <summary type="html"><![CDATA[https://medium.com/swiggydesign/designing-a-tipping-experience-for-swiggy-delivery-271ba79d08a]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frontend Toolbox - A list of handpicked resources for frontend developers]]></title>
-        <id>https://www.akshay.rocks/resources</id>
-        <link href="http://www.webdesignernews.com/external/frontend-toolbox-a-list-of-handpicked-resources-for-frontend-developers"/>
-        <updated>2021-06-24T09:54:35.000Z</updated>
-        <summary type="html"><![CDATA[https://www.akshay.rocks/resources]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Splash Page Vs Landing Page: What's The Difference]]></title>
-        <id>https://marketsplash.com/splash-page-vs-landing-page/</id>
-        <link href="http://www.webdesignernews.com/external/splash-page-vs-landing-page-what-s-the-difference"/>
-        <updated>2021-06-24T09:54:14.000Z</updated>
-        <summary type="html"><![CDATA[https://marketsplash.com/splash-page-vs-landing-page/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Get Static WordPress Hosting On CloudFlare For Free]]></title>
-        <id>https://blogabout.dev/how-to-get-static-wordpress-hosting-on-cloudflare-for-free/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-get-static-wordpress-hosting-on-cloudflare-for-free"/>
-        <updated>2021-06-24T09:40:29.000Z</updated>
-        <summary type="html"><![CDATA[https://blogabout.dev/how-to-get-static-wordpress-hosting-on-cloudflare-for-free/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 JavaScript Keyboards]]></title>
-        <id>https://csshint.com/javascript-keyboards/</id>
-        <link href="http://www.webdesignernews.com/external/10-javascript-keyboards"/>
-        <updated>2021-06-24T09:34:45.000Z</updated>
-        <summary type="html"><![CDATA[https://csshint.com/javascript-keyboards/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
