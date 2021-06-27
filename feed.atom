@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-27T16:00:41.639Z</id>
+    <id>urn:2021-06-27T17:09:42.748Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T16:00:41.639Z</updated>
+    <updated>2021-06-27T17:09:42.748Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pandoc Markdown CSS Theme]]></title>
+        <id>https://jez.io/pandoc-markdown-css-theme/</id>
+        <link href="http://www.webdesignernews.com/external/pandoc-markdown-css-theme"/>
+        <updated>2021-06-27T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[https://jez.io/pandoc-markdown-css-theme/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Introduction to Custom Cursors in Web Design: Tips, Ideas + Tutorials]]></title>
         <id>https://designshack.net/articles/graphics/custom-cursors-web-design-tips-ideas-tutorials/</id>
@@ -243,16 +253,6 @@
         <summary type="html"><![CDATA[This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Dom Habersack)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise Of Design Thinking As A Problem Solving Strategy]]></title>
-        <id>https://www.smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/</id>
-        <link href="http://www.webdesignernews.com/external/the-rise-of-design-thinking-as-a-problem-solving-strategy"/>
-        <updated>2021-06-25T10:07:15.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
