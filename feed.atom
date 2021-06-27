@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-27T21:00:58.055Z</id>
+    <id>urn:2021-06-27T22:00:30.360Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T21:00:58.055Z</updated>
+    <updated>2021-06-27T22:00:30.360Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UX Strategy: Giving your product an edge]]></title>
+        <id>https://uxdesign.cc/ux-strategy-giving-your-product-an-edge-f33d2ab9cf25</id>
+        <link href="http://www.webdesignernews.com/external/ux-strategy-giving-your-product-an-edge"/>
+        <updated>2021-06-27T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[https://uxdesign.cc/ux-strategy-giving-your-product-an-edge-f33d2ab9cf25]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTube Shorts vs TikTok]]></title>
         <id>https://builtformars.com/case-studies/youtube-shorts</id>
@@ -233,16 +243,6 @@
         <summary type="html"><![CDATA[https://www.invisionapp.com/inside-design/collaborative-flowcharting/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Landing Page Kit from Framer - A drag & drop website kit]]></title>
-        <id>https://www.framer.com/landing-page-kit/</id>
-        <link href="http://www.webdesignernews.com/external/landing-page-kit-from-framer-a-drag-drop-website-kit"/>
-        <updated>2021-06-25T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.framer.com/landing-page-kit/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
