@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-27T20:00:45.410Z</id>
+    <id>urn:2021-06-27T21:00:58.055Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T20:00:45.410Z</updated>
+    <updated>2021-06-27T21:00:58.055Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[YouTube Shorts vs TikTok]]></title>
+        <id>https://builtformars.com/case-studies/youtube-shorts</id>
+        <link href="http://www.webdesignernews.com/external/youtube-shorts-vs-tiktok"/>
+        <updated>2021-06-27T20:33:00.000Z</updated>
+        <summary type="html"><![CDATA[https://builtformars.com/case-studies/youtube-shorts]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Copy Paste CSS - Find inspiration with a curated list of simple buttons]]></title>
         <id>https://copy-paste-css.com/</id>
@@ -231,16 +241,6 @@
         <link href="http://www.webdesignernews.com/external/landing-page-kit-from-framer-a-drag-drop-website-kit"/>
         <updated>2021-06-25T14:35:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.framer.com/landing-page-kit/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concentric Circle Spinner]]></title>
-        <id>https://frontend.horse/articles/concentric-circle-spinner/</id>
-        <link href="http://www.webdesignernews.com/external/concentric-circle-spinner"/>
-        <updated>2021-06-25T13:56:00.000Z</updated>
-        <summary type="html"><![CDATA[https://frontend.horse/articles/concentric-circle-spinner/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
