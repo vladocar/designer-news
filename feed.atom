@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-27T14:00:49.605Z</id>
+    <id>urn:2021-06-27T15:01:05.194Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T14:00:49.605Z</updated>
+    <updated>2021-06-27T15:01:05.194Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to Custom Cursors in Web Design: Tips, Ideas + Tutorials]]></title>
+        <id>https://designshack.net/articles/graphics/custom-cursors-web-design-tips-ideas-tutorials/</id>
+        <link href="http://www.webdesignernews.com/external/an-introduction-to-custom-cursors-in-web-design-tips-ideas-tutorials"/>
+        <updated>2021-06-27T14:37:16.000Z</updated>
+        <summary type="html"><![CDATA[https://designshack.net/articles/graphics/custom-cursors-web-design-tips-ideas-tutorials/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bauhaus Movement: Design Principles, Ideas, and Inspiration]]></title>
+        <id>https://www.vectornator.io/blog/bauhaus-movement</id>
+        <link href="http://www.webdesignernews.com/external/bauhaus-movement-design-principles-ideas-and-inspiration"/>
+        <updated>2021-06-27T14:36:36.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vectornator.io/blog/bauhaus-movement]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Run A UX Audit For A Major Edtech Platform (Case Study)]]></title>
+        <id>https://www.smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-run-a-ux-audit-for-a-major-edtech-platform-case-study"/>
+        <updated>2021-06-27T14:36:34.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Visualization with CSS: Graphs, Charts and More]]></title>
+        <id>https://www.hongkiat.com/blog/data-visualization-with-css-graphs-charts-and-more/</id>
+        <link href="http://www.webdesignernews.com/external/data-visualization-with-css-graphs-charts-and-more"/>
+        <updated>2021-06-27T14:20:40.000Z</updated>
+        <summary type="html"><![CDATA[https://www.hongkiat.com/blog/data-visualization-with-css-graphs-charts-and-more/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get your website back into shape with SEO fitness]]></title>
         <id>https://yoast.com/seo-fitness/</id>
@@ -216,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Just how bad is it to have fake startup employees?]]></title>
-        <id>https://thenextweb.com/news/is-having-fake-employees-bad</id>
-        <link href="http://www.webdesignernews.com/external/just-how-bad-is-it-to-have-fake-startup-employees"/>
-        <updated>2021-06-25T10:05:01.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/is-having-fake-employees-bad]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Run A UX Audit For A Major EdTech Platform (Case Study)]]></title>
         <id>https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/</id>
         <link href="https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/"/>
@@ -236,26 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing Windows 11]]></title>
-        <id>https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/</id>
-        <link href="http://www.webdesignernews.com/external/introducing-windows-11"/>
-        <updated>2021-06-25T09:42:10.000Z</updated>
-        <summary type="html"><![CDATA[https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Create A Graphic Design Portfolio + 16 Best Examples]]></title>
-        <id>https://www.vectornator.io/blog/graphic-design-portfolio</id>
-        <link href="http://www.webdesignernews.com/external/how-to-create-a-graphic-design-portfolio-16-best-examples"/>
-        <updated>2021-06-25T09:19:23.000Z</updated>
-        <summary type="html"><![CDATA[https://www.vectornator.io/blog/graphic-design-portfolio]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Much Does It Cost To Develop A Chat App?]]></title>
         <id>https://www.designernews.co/stories/116350-how-much-does-it-cost-to-develop-a-chat-app</id>
         <link href="https://www.designernews.co/stories/116350-how-much-does-it-cost-to-develop-a-chat-app"/>
@@ -263,16 +273,6 @@
         <summary type="html"><![CDATA[https://www.webcluesinfotech.com/cost-to-develop-a-chat-app/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Django for Startup Founders: A better software architecture for SaaS startups]]></title>
-        <id>https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html</id>
-        <link href="http://www.webdesignernews.com/external/django-for-startup-founders-a-better-software-architecture-for-saas-startups"/>
-        <updated>2021-06-24T20:31:00.000Z</updated>
-        <summary type="html"><![CDATA[https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
