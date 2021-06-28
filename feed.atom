@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-28T19:04:16.459Z</id>
+    <id>urn:2021-06-28T20:00:34.449Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T19:04:16.459Z</updated>
+    <updated>2021-06-28T20:00:34.449Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building NPM package in 2021]]></title>
+        <id>https://www.julian.io/articles/es2020-npm-package.html</id>
+        <link href="http://www.webdesignernews.com/external/building-npm-package-in-2021"/>
+        <updated>2021-06-28T19:35:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.julian.io/articles/es2020-npm-package.html]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Check Your WordPress Version]]></title>
         <id>https://webdesign.tutsplus.com/tutorials/how-to-check-your-wordpress-version--cms-37329</id>
@@ -176,6 +186,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Webinar - Why Your Channel Fails to Amplify Digital Marketing Efforts? Register Now]]></title>
+        <id>https://www.designernews.co/stories/116396-webinar--why-your-channel-fails-to-amplify-digital-marketing-efforts-register-now</id>
+        <link href="https://www.designernews.co/stories/116396-webinar--why-your-channel-fails-to-amplify-digital-marketing-efforts-register-now"/>
+        <updated>2021-06-28T05:12:48.000Z</updated>
+        <summary type="html"><![CDATA[https://zoom.us/webinar/register/2016237577848/WN_vQQV60SQTZS_UwxrD1hWxg]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UX Strategy: Giving your product an edge]]></title>
         <id>https://uxdesign.cc/ux-strategy-giving-your-product-an-edge-f33d2ab9cf25</id>
         <link href="http://www.webdesignernews.com/external/ux-strategy-giving-your-product-an-edge"/>
@@ -271,16 +291,6 @@
         <link href="http://www.webdesignernews.com/external/elegant-dashboard-kit-design-dashboards-even-faster"/>
         <updated>2021-06-26T17:30:00.000Z</updated>
         <summary type="html"><![CDATA[https://dashboard.elegant-goodies.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Framer Motion to Create Smooth Lazy Load Image Effects]]></title>
-        <id>https://prototypr.io/post/using-framer-motion-to-create-smooth-lazy-load-image-effects/</id>
-        <link href="http://www.webdesignernews.com/external/using-framer-motion-to-create-smooth-lazy-load-image-effects"/>
-        <updated>2021-06-26T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[https://prototypr.io/post/using-framer-motion-to-create-smooth-lazy-load-image-effects/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
@@ -492,16 +502,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <link href="https://www.designernews.co/stories/116317-complete-guide-on-how-to-create-an-app-like-bet365"/>
         <updated>2021-06-24T04:32:50.000Z</updated>
         <summary type="html"><![CDATA[https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploding online video looper with ton of time effects: reverse, speed up, slowmo, trim, split. Boomeranging you videos via 1 click on Pixiko!]]></title>
-        <id>https://www.designernews.co/stories/116312-exploding-online-video-looper-with-ton-of-time-effects-reverse-speed-up-slowmo-trim-split-boomeranging-you-videos-via-1-click-on-pixiko</id>
-        <link href="https://www.designernews.co/stories/116312-exploding-online-video-looper-with-ton-of-time-effects-reverse-speed-up-slowmo-trim-split-boomeranging-you-videos-via-1-click-on-pixiko"/>
-        <updated>2021-06-23T15:40:24.000Z</updated>
-        <summary type="html"><![CDATA[https://pixiko.com/tools/loop-video]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
