@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-28T16:00:55.686Z</id>
+    <id>urn:2021-06-28T17:34:48.287Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T16:00:55.686Z</updated>
+    <updated>2021-06-28T17:34:48.287Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Make A Kickass Portfolio On Webflow (Template Included)]]></title>
+        <id>https://www.designernews.co/stories/116424-make-a-kickass-portfolio-on-webflow-template-included</id>
+        <link href="https://www.designernews.co/stories/116424-make-a-kickass-portfolio-on-webflow-template-included"/>
+        <updated>2021-06-28T17:20:17.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=DQf0azkzm2Y]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claritee - Your interactive, smart wireframing platform]]></title>
         <id>https://claritee.io/</id>
@@ -504,16 +514,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <summary type="html"><![CDATA[Frontend and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run [online workshops](https://smashingconf.com/online-workshops/) for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kentico vs Sitecore - {Infographics}]]></title>
-        <id>https://www.designernews.co/stories/116304-kentico-vs-sitecore--infographics</id>
-        <link href="https://www.designernews.co/stories/116304-kentico-vs-sitecore--infographics"/>
-        <updated>2021-06-23T09:44:25.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/infographics/kentico-vs-sitecore]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
