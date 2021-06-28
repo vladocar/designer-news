@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-28T07:00:34.265Z</id>
+    <id>urn:2021-06-28T08:00:37.040Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T07:00:34.265Z</updated>
+    <updated>2021-06-28T08:00:37.040Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Hide/Show Header on Scroll in Figma]]></title>
+        <id>https://www.designernews.co/stories/116403-how-to-hideshow-header-on-scroll-in-figma</id>
+        <link href="https://www.designernews.co/stories/116403-how-to-hideshow-header-on-scroll-in-figma"/>
+        <updated>2021-06-28T07:56:02.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=oTIbjLX3fu4]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflective lets you build automated business workflows.]]></title>
+        <id>https://www.designernews.co/stories/116401-reflective-lets-you-build-automated-business-workflows</id>
+        <link href="https://www.designernews.co/stories/116401-reflective-lets-you-build-automated-business-workflows"/>
+        <updated>2021-06-28T07:29:23.000Z</updated>
+        <summary type="html"><![CDATA[http://reflective.co]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UX Strategy: Giving your product an edge]]></title>
         <id>https://uxdesign.cc/ux-strategy-giving-your-product-an-edge-f33d2ab9cf25</id>
@@ -497,16 +517,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marvelous Color Picker]]></title>
-        <id>https://www.designernews.co/stories/116276-marvelous-color-picker</id>
-        <link href="https://www.designernews.co/stories/116276-marvelous-color-picker"/>
-        <updated>2021-06-22T10:01:12.000Z</updated>
-        <summary type="html"><![CDATA[https://www.producthunt.com/posts/marvelous-color-picker]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing With Code: A Modern Approach To Design (Development Challenges)]]></title>
         <id>https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/</id>
         <link href="https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/"/>
@@ -514,16 +524,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <summary type="html"><![CDATA[After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How teams can work remotely and stay productive]]></title>
-        <id>https://www.designernews.co/stories/116270-how-teams-can-work-remotely-and-stay-productive</id>
-        <link href="https://www.designernews.co/stories/116270-how-teams-can-work-remotely-and-stay-productive"/>
-        <updated>2021-06-22T07:14:46.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.plantapp.io/post/how-teams-can-work-remotely-and-stay-productive]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
