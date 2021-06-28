@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-28T13:11:35.097Z</id>
+    <id>urn:2021-06-28T14:00:44.386Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T13:11:35.097Z</updated>
+    <updated>2021-06-28T14:00:44.386Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3 steps to reverse engineering your dream graphic design job]]></title>
+        <id>https://dribbble.com/stories/2021/06/28/get-a-graphic-design-job</id>
+        <link href="http://www.webdesignernews.com/external/3-steps-to-reverse-engineering-your-dream-graphic-design-job"/>
+        <updated>2021-06-28T13:53:00.000Z</updated>
+        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/28/get-a-graphic-design-job]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11 Tips for Better Signup?/?Login UX]]></title>
         <id>https://learnui.design/blog/tips-signup-login-ux.html</id>
@@ -261,16 +271,6 @@
         <link href="http://www.webdesignernews.com/external/kobra-visual-programming-like-scratch-for-machine-learning"/>
         <updated>2021-06-26T12:47:31.000Z</updated>
         <summary type="html"><![CDATA[https://kobra.dev/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Alt Text and Why Should You Use It?]]></title>
-        <id>https://www.webfx.com/blog/web-design/what-is-alt-text/</id>
-        <link href="http://www.webdesignernews.com/external/what-is-alt-text-and-why-should-you-use-it"/>
-        <updated>2021-06-26T12:46:51.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webfx.com/blog/web-design/what-is-alt-text/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
