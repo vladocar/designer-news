@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-28T17:34:48.287Z</id>
+    <id>urn:2021-06-28T18:14:52.505Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T17:34:48.287Z</updated>
+    <updated>2021-06-28T18:14:52.505Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Check Your WordPress Version]]></title>
+        <id>https://webdesign.tutsplus.com/tutorials/how-to-check-your-wordpress-version--cms-37329</id>
+        <link href="http://www.webdesignernews.com/external/how-to-check-your-wordpress-version"/>
+        <updated>2021-06-28T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[https://webdesign.tutsplus.com/tutorials/how-to-check-your-wordpress-version--cms-37329]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to avoid losing data on your website]]></title>
+        <id>https://getpublii.com/blog/how-to-avoid-losing-data-on-your-website.html</id>
+        <link href="http://www.webdesignernews.com/external/how-to-avoid-losing-data-on-your-website"/>
+        <updated>2021-06-28T17:57:00.000Z</updated>
+        <summary type="html"><![CDATA[https://getpublii.com/blog/how-to-avoid-losing-data-on-your-website.html]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Make A Kickass Portfolio On Webflow (Template Included)]]></title>
         <id>https://www.designernews.co/stories/116424-make-a-kickass-portfolio-on-webflow-template-included</id>
@@ -261,26 +281,6 @@
         <link href="http://www.webdesignernews.com/external/using-framer-motion-to-create-smooth-lazy-load-image-effects"/>
         <updated>2021-06-26T16:10:00.000Z</updated>
         <summary type="html"><![CDATA[https://prototypr.io/post/using-framer-motion-to-create-smooth-lazy-load-image-effects/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Beats logo has a secret meaning (and won't believe you missed it)]]></title>
-        <id>https://www.creativebloq.com/news/beats-logo-secret</id>
-        <link href="http://www.webdesignernews.com/external/the-beats-logo-has-a-secret-meaning-and-won-t-believe-you-missed-it"/>
-        <updated>2021-06-26T14:25:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.creativebloq.com/news/beats-logo-secret]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make an App Wireframe, Flowchart, Logo, and Prototype with Mockitt]]></title>
-        <id>https://webdesign.tutsplus.com/tutorials/app-wireframe-flowchart-logo-and-prototype-with-mockitt--cms-37281</id>
-        <link href="http://www.webdesignernews.com/external/how-to-make-an-app-wireframe-flowchart-logo-and-prototype-with-mockitt"/>
-        <updated>2021-06-26T13:35:00.000Z</updated>
-        <summary type="html"><![CDATA[https://webdesign.tutsplus.com/tutorials/app-wireframe-flowchart-logo-and-prototype-with-mockitt--cms-37281]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
