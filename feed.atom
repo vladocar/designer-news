@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-28T11:00:45.570Z</id>
+    <id>urn:2021-06-28T12:01:08.525Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T11:00:45.570Z</updated>
+    <updated>2021-06-28T12:01:08.525Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UX and UI redesign for a vaccination centre]]></title>
+        <id>https://www.designernews.co/stories/116415-ux-and-ui-redesign-for-a-vaccination-centre</id>
+        <link href="https://www.designernews.co/stories/116415-ux-and-ui-redesign-for-a-vaccination-centre"/>
+        <updated>2021-06-28T11:36:01.000Z</updated>
+        <summary type="html"><![CDATA[https://www.behance.net/gallery/119195217/Nemzeti-oltokoezpont-UXUI-design]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating Custom Emmet Snippets In VS Code]]></title>
         <id>https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/</id>
@@ -472,16 +482,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <link href="https://www.designernews.co/stories/116317-complete-guide-on-how-to-create-an-app-like-bet365"/>
         <updated>2021-06-24T04:32:50.000Z</updated>
         <summary type="html"><![CDATA[https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sell gated access to Notion content with Paytable & Super.so... for free]]></title>
-        <id>https://www.designernews.co/stories/116315-sell-gated-access-to-notion-content-with-paytable--superso-for-free</id>
-        <link href="https://www.designernews.co/stories/116315-sell-gated-access-to-notion-content-with-paytable--superso-for-free"/>
-        <updated>2021-06-23T16:21:45.000Z</updated>
-        <summary type="html"><![CDATA[https://www.notion.so/paytable/How-To-Embed-Any-Notion-Content-To-Your-Paytable-io-Members-Area-14610a4c07634ea190552b4b71f003ae]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
