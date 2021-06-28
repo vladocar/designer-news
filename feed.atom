@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-28T15:00:53.627Z</id>
+    <id>urn:2021-06-28T16:00:55.686Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T15:00:53.627Z</updated>
+    <updated>2021-06-28T16:00:55.686Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Claritee - Your interactive, smart wireframing platform]]></title>
+        <id>https://claritee.io/</id>
+        <link href="http://www.webdesignernews.com/external/claritee-your-interactive-smart-wireframing-platform"/>
+        <updated>2021-06-28T15:16:00.000Z</updated>
+        <summary type="html"><![CDATA[https://claritee.io/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 steps to reverse engineering your dream graphic design job]]></title>
         <id>https://dribbble.com/stories/2021/06/28/get-a-graphic-design-job</id>
@@ -261,16 +271,6 @@
         <link href="http://www.webdesignernews.com/external/how-to-make-an-app-wireframe-flowchart-logo-and-prototype-with-mockitt"/>
         <updated>2021-06-26T13:35:00.000Z</updated>
         <summary type="html"><![CDATA[https://webdesign.tutsplus.com/tutorials/app-wireframe-flowchart-logo-and-prototype-with-mockitt--cms-37281]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kobra - Visual programming (like Scratch) for machine learning]]></title>
-        <id>https://kobra.dev/</id>
-        <link href="http://www.webdesignernews.com/external/kobra-visual-programming-like-scratch-for-machine-learning"/>
-        <updated>2021-06-26T12:47:31.000Z</updated>
-        <summary type="html"><![CDATA[https://kobra.dev/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
