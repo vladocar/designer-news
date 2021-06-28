@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-28T12:01:08.525Z</id>
+    <id>urn:2021-06-28T13:11:35.097Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T12:01:08.525Z</updated>
+    <updated>2021-06-28T13:11:35.097Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[11 Tips for Better Signup?/?Login UX]]></title>
+        <id>https://learnui.design/blog/tips-signup-login-ux.html</id>
+        <link href="http://www.webdesignernews.com/external/11-tips-for-better-signup-login-ux"/>
+        <updated>2021-06-28T12:49:00.000Z</updated>
+        <summary type="html"><![CDATA[https://learnui.design/blog/tips-signup-login-ux.html]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Change WordPress Theme (Safely & Easily)]]></title>
+        <id>https://templatemela.com/blog/change-wordpress-theme</id>
+        <link href="http://www.webdesignernews.com/external/how-to-change-wordpress-theme-safely-easily"/>
+        <updated>2021-06-28T12:30:14.000Z</updated>
+        <summary type="html"><![CDATA[https://templatemela.com/blog/change-wordpress-theme]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mondrian Art Generator - Create your own art with amazing speed and flexibility]]></title>
+        <id>https://tool.graphics/mondrian</id>
+        <link href="http://www.webdesignernews.com/external/mondrian-art-generator-create-your-own-art-with-amazing-speed-and-flexibility"/>
+        <updated>2021-06-28T12:29:58.000Z</updated>
+        <summary type="html"><![CDATA[https://tool.graphics/mondrian]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Is Weird]]></title>
+        <id>https://jsisweird.com/</id>
+        <link href="http://www.webdesignernews.com/external/javascript-is-weird"/>
+        <updated>2021-06-28T12:28:54.000Z</updated>
+        <summary type="html"><![CDATA[https://jsisweird.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UX and UI redesign for a vaccination centre]]></title>
         <id>https://www.designernews.co/stories/116415-ux-and-ui-redesign-for-a-vaccination-centre</id>
@@ -236,26 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Becoming Unstoppable: 10 Common Mistakes to Avoid When Starting a Business]]></title>
-        <id>https://www.shopify.com/blog/business-mistakes</id>
-        <link href="http://www.webdesignernews.com/external/becoming-unstoppable-10-common-mistakes-to-avoid-when-starting-a-business"/>
-        <updated>2021-06-26T12:32:17.000Z</updated>
-        <summary type="html"><![CDATA[https://www.shopify.com/blog/business-mistakes]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Most Secure Browsers to Stay Safe and Protect Your Privacy in 2021]]></title>
-        <id>https://kinsta.com/blog/most-secure-browser/</id>
-        <link href="http://www.webdesignernews.com/external/6-most-secure-browsers-to-stay-safe-and-protect-your-privacy-in-2021"/>
-        <updated>2021-06-26T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[https://kinsta.com/blog/most-secure-browser/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best VS Code Shortcuts To Make Your Coding Faster]]></title>
         <id>https://www.designernews.co/stories/116377-best-vs-code-shortcuts-to-make-your-coding-faster</id>
         <link href="https://www.designernews.co/stories/116377-best-vs-code-shortcuts-to-make-your-coding-faster"/>
@@ -276,16 +296,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spore - A free, all-in-one website builder for creators]]></title>
-        <id>https://spore.build/</id>
-        <link href="http://www.webdesignernews.com/external/spore-a-free-all-in-one-website-builder-for-creators"/>
-        <updated>2021-06-25T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[https://spore.build/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fonts for Instagram]]></title>
         <id>https://www.designernews.co/stories/116365-fonts-for-instagram</id>
         <link href="https://www.designernews.co/stories/116365-fonts-for-instagram"/>
@@ -293,16 +303,6 @@
         <summary type="html"><![CDATA[https://fancytextdecorator.com/instagram-fonts]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Generative Grid Layouts With Quadtrees]]></title>
-        <id>https://georgefrancis.dev/writing/generative-grid-layouts-with-quadtrees/</id>
-        <link href="http://www.webdesignernews.com/external/building-generative-grid-layouts-with-quadtrees"/>
-        <updated>2021-06-25T15:31:00.000Z</updated>
-        <summary type="html"><![CDATA[https://georgefrancis.dev/writing/generative-grid-layouts-with-quadtrees/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
