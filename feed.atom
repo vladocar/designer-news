@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-28T08:00:37.040Z</id>
+    <id>urn:2021-06-28T09:00:54.054Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T08:00:37.040Z</updated>
+    <updated>2021-06-28T09:00:54.054Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Design & Play complex online meetings with Sessions. The one-window solution to solve online meeting fatigue.]]></title>
+        <id>https://www.designernews.co/stories/116404-design--play-complex-online-meetings-with-sessions-the-onewindow-solution-to-solve-online-meeting-fatigue</id>
+        <link href="https://www.designernews.co/stories/116404-design--play-complex-online-meetings-with-sessions-the-onewindow-solution-to-solve-online-meeting-fatigue"/>
+        <updated>2021-06-28T08:28:45.000Z</updated>
+        <summary type="html"><![CDATA[https://sessions.flowos.com/?utm_source=designerNews]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Hide/Show Header on Scroll in Figma]]></title>
         <id>https://www.designernews.co/stories/116403-how-to-hideshow-header-on-scroll-in-figma</id>
@@ -502,16 +512,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <link href="https://www.designernews.co/stories/116296-new-features-in-php-8-2021"/>
         <updated>2021-06-23T06:55:51.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/new-features-in-php-8-2021.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Curated Design Resource Library]]></title>
-        <id>https://www.designernews.co/stories/116292-a-curated-design-resource-library</id>
-        <link href="https://www.designernews.co/stories/116292-a-curated-design-resource-library"/>
-        <updated>2021-06-22T17:32:01.000Z</updated>
-        <summary type="html"><![CDATA[https://www.producthunt.com/posts/design-xstream]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
