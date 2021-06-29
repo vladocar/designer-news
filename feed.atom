@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-29T13:11:03.199Z</id>
+    <id>urn:2021-06-29T14:00:57.514Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T13:11:03.199Z</updated>
+    <updated>2021-06-29T14:00:57.514Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is your IQ score high enough to be considered a genius?]]></title>
+        <id>https://www.designernews.co/stories/116460-is-your-iq-score-high-enough-to-be-considered-a-genius</id>
+        <link href="https://www.designernews.co/stories/116460-is-your-iq-score-high-enough-to-be-considered-a-genius"/>
+        <updated>2021-06-29T13:19:14.000Z</updated>
+        <summary type="html"><![CDATA[https://iqlevels.co/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Glassmorphism CSS Generator]]></title>
         <id>https://www.designernews.co/stories/116457-glassmorphism-css-generator</id>
@@ -60,7 +70,7 @@
         <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/</id>
         <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/"/>
         <updated>2021-06-29T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavalier to find out.]]></summary>
+        <summary type="html"><![CDATA[In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
@@ -494,16 +504,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <summary type="html"><![CDATA[In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Josh Singer)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything you need to know about Kentico Xperience 13 – Infographics]]></title>
-        <id>https://www.designernews.co/stories/116328-everything-you-need-to-know-about-kentico-xperience-13--infographics</id>
-        <link href="https://www.designernews.co/stories/116328-everything-you-need-to-know-about-kentico-xperience-13--infographics"/>
-        <updated>2021-06-24T09:21:58.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/infographics/kentico-xperience-13]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
