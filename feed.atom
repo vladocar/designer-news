@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-29T08:00:34.224Z</id>
+    <id>urn:2021-06-29T09:00:51.906Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T08:00:34.224Z</updated>
+    <updated>2021-06-29T09:00:51.906Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Using Framer Motion to Create Smooth Lazy Load Image Effects]]></title>
+        <id>https://www.designernews.co/stories/116441-using-framer-motion-to-create-smooth-lazy-load-image-effects</id>
+        <link href="https://www.designernews.co/stories/116441-using-framer-motion-to-create-smooth-lazy-load-image-effects"/>
+        <updated>2021-06-29T08:17:42.000Z</updated>
+        <summary type="html"><![CDATA[https://prototypr.io/post/using-framer-motion-to-create-smooth-lazy-load-image-effects/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 40 Mike Cavaliere: What Is Chakra UI For React?]]></title>
         <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/</id>
@@ -444,16 +454,6 @@
 The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create amazing vector or 300 dpi Gantt Charts]]></title>
-        <id>https://www.designernews.co/stories/116339-create-amazing-vector-or-300-dpi-gantt-charts</id>
-        <link href="https://www.designernews.co/stories/116339-create-amazing-vector-or-300-dpi-gantt-charts"/>
-        <updated>2021-06-24T14:29:02.000Z</updated>
-        <summary type="html"><![CDATA[https://www.gantt.io/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
