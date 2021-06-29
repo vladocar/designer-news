@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-29T10:00:46.306Z</id>
+    <id>urn:2021-06-29T11:00:48.641Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T10:00:46.306Z</updated>
+    <updated>2021-06-29T11:00:48.641Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TOP 10 Best LED TV Under 30000 In India 2021]]></title>
+        <id>https://www.designernews.co/stories/116450-top-10-best-led-tv-under-30000-in-india-2021</id>
+        <link href="https://www.designernews.co/stories/116450-top-10-best-led-tv-under-30000-in-india-2021"/>
+        <updated>2021-06-29T10:34:49.000Z</updated>
+        <summary type="html"><![CDATA[https://suggestedstuff.com/top-10-best-smart-led-tv-under-30000/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Best Washing Machine Under 15000 In India]]></title>
+        <id>https://www.designernews.co/stories/116449-top-10-best-washing-machine-under-15000-in-india</id>
+        <link href="https://www.designernews.co/stories/116449-top-10-best-washing-machine-under-15000-in-india"/>
+        <updated>2021-06-29T10:33:31.000Z</updated>
+        <summary type="html"><![CDATA[https://suggestedstuff.com/top-10-best-washing-machines-under-15000-in-india/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xamarin - The Best Cross-Platform App Development]]></title>
+        <id>https://www.designernews.co/stories/116448-xamarin--the-best-crossplatform-app-development</id>
+        <link href="https://www.designernews.co/stories/116448-xamarin--the-best-crossplatform-app-development"/>
+        <updated>2021-06-29T10:19:55.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/infographics/xamarin-the-best-cross-platform-app-development]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Framer Motion to Create Smooth Lazy Load Image Effects]]></title>
         <id>https://www.designernews.co/stories/116441-using-framer-motion-to-create-smooth-lazy-load-image-effects</id>
@@ -426,16 +456,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20 Best Graphic Design Software Tools And Apps (Free & Paid)]]></title>
-        <id>https://www.designernews.co/stories/116344-20-best-graphic-design-software-tools-and-apps-free--paid</id>
-        <link href="https://www.designernews.co/stories/116344-20-best-graphic-design-software-tools-and-apps-free--paid"/>
-        <updated>2021-06-24T17:36:26.000Z</updated>
-        <summary type="html"><![CDATA[https://marketsplash.com/graphic-design-software/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Updates & new features for Paytable that lets you sell Airtable access securely - Check the post here]]></title>
         <id>https://www.designernews.co/stories/116340-updates--new-features-for-paytable-that-lets-you-sell-airtable-access-securely--check-the-post-here</id>
         <link href="https://www.designernews.co/stories/116340-updates--new-features-for-paytable-that-lets-you-sell-airtable-access-securely--check-the-post-here"/>
@@ -467,16 +487,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing DesignbyWomen - founded by graphic designer Mary Hemingway to showcase, empower and celebrate women and under-represented creatives]]></title>
-        <id>https://www.designernews.co/stories/116338-introducing-designbywomen--founded-by-graphic-designer-mary-hemingway-to-showcase-empower-and-celebrate-women-and-underrepresented-creatives</id>
-        <link href="https://www.designernews.co/stories/116338-introducing-designbywomen--founded-by-graphic-designer-mary-hemingway-to-showcase-empower-and-celebrate-women-and-underrepresented-creatives"/>
-        <updated>2021-06-24T13:33:02.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.briefbox.me/introducing-designbywomen/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Everything you need to know about Kentico Xperience 13 – Infographics]]></title>
         <id>https://www.designernews.co/stories/116328-everything-you-need-to-know-about-kentico-xperience-13--infographics</id>
         <link href="https://www.designernews.co/stories/116328-everything-you-need-to-know-about-kentico-xperience-13--infographics"/>
@@ -492,16 +502,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <link href="https://www.designernews.co/stories/116327-productivity-desk-accessories-under-10-giveaway-too"/>
         <updated>2021-06-24T09:04:06.000Z</updated>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=f5vp3BS0bag]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Change your old methods for writing a JavaScript Code - Shorthand's for JavaScript Code]]></title>
-        <id>https://www.designernews.co/stories/116326-change-your-old-methods-for-writing-a-javascript-code--shorthands-for-javascript-code</id>
-        <link href="https://www.designernews.co/stories/116326-change-your-old-methods-for-writing-a-javascript-code--shorthands-for-javascript-code"/>
-        <updated>2021-06-24T09:03:18.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/change-your-old-methods-for-writing.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
