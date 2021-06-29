@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-29T17:12:15.247Z</id>
+    <id>urn:2021-06-29T18:00:36.502Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T17:12:15.247Z</updated>
+    <updated>2021-06-29T18:00:36.502Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Sarah?s Scribbles Went From Viral Comic to Creative Franchise]]></title>
+        <id>https://www.shopify.com/blog/sarahs-scribbles-merch</id>
+        <link href="http://www.webdesignernews.com/external/how-sarah-s-scribbles-went-from-viral-comic-to-creative-franchise"/>
+        <updated>2021-06-29T17:52:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.shopify.com/blog/sarahs-scribbles-merch]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Then — Activity & Mood Diary. Understand how you spend time and what influences your mood.]]></title>
         <id>https://www.designernews.co/stories/116465-then--activity--mood-diary-understand-how-you-spend-time-and-what-influences-your-mood-</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[https://zoom.us/webinar/register/2016237577848/WN_vQQV60SQTZS_UwxrD1hWxg]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UX Strategy: Giving your product an edge]]></title>
-        <id>https://uxdesign.cc/ux-strategy-giving-your-product-an-edge-f33d2ab9cf25</id>
-        <link href="http://www.webdesignernews.com/external/ux-strategy-giving-your-product-an-edge"/>
-        <updated>2021-06-27T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[https://uxdesign.cc/ux-strategy-giving-your-product-an-edge-f33d2ab9cf25]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
