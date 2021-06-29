@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-29T12:01:00.017Z</id>
+    <id>urn:2021-06-29T13:11:03.199Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T12:01:00.017Z</updated>
+    <updated>2021-06-29T13:11:03.199Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Glassmorphism CSS Generator]]></title>
+        <id>https://www.designernews.co/stories/116457-glassmorphism-css-generator</id>
+        <link href="https://www.designernews.co/stories/116457-glassmorphism-css-generator"/>
+        <updated>2021-06-29T12:53:55.000Z</updated>
+        <summary type="html"><![CDATA[https://generator.ui.glass/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Website Homepage and What Elements Make it Great?]]></title>
+        <id>https://www.designernews.co/stories/116456-what-is-a-website-homepage-and-what-elements-make-it-great</id>
+        <link href="https://www.designernews.co/stories/116456-what-is-a-website-homepage-and-what-elements-make-it-great"/>
+        <updated>2021-06-29T12:25:00.000Z</updated>
+        <summary type="html"><![CDATA[https://wpklik.com/wordpress-tips/website-homepage/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Breaking Down Bulky Builds With Netlify And Next.js]]></title>
         <id>https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</id>
@@ -477,16 +497,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing DesignbyWomen - founded by graphic designer Mary Hemingway to showcase, empower and celebrate women and under-represented creatives]]></title>
-        <id>https://www.designernews.co/stories/116338-introducing-designbywomen--founded-by-graphic-designer-mary-hemingway-to-showcase-empower-and-celebrate-women-and-underrepresented-creatives</id>
-        <link href="https://www.designernews.co/stories/116338-introducing-designbywomen--founded-by-graphic-designer-mary-hemingway-to-showcase-empower-and-celebrate-women-and-underrepresented-creatives"/>
-        <updated>2021-06-24T13:33:02.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.briefbox.me/introducing-designbywomen/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Everything you need to know about Kentico Xperience 13 – Infographics]]></title>
         <id>https://www.designernews.co/stories/116328-everything-you-need-to-know-about-kentico-xperience-13--infographics</id>
         <link href="https://www.designernews.co/stories/116328-everything-you-need-to-know-about-kentico-xperience-13--infographics"/>
@@ -502,16 +512,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <link href="https://www.designernews.co/stories/116327-productivity-desk-accessories-under-10-giveaway-too"/>
         <updated>2021-06-24T09:04:06.000Z</updated>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=f5vp3BS0bag]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Change your old methods for writing a JavaScript Code - Shorthand's for JavaScript Code]]></title>
-        <id>https://www.designernews.co/stories/116326-change-your-old-methods-for-writing-a-javascript-code--shorthands-for-javascript-code</id>
-        <link href="https://www.designernews.co/stories/116326-change-your-old-methods-for-writing-a-javascript-code--shorthands-for-javascript-code"/>
-        <updated>2021-06-24T09:03:18.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/change-your-old-methods-for-writing.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
