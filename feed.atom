@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-29T14:00:57.514Z</id>
+    <id>urn:2021-06-29T15:01:05.102Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T14:00:57.514Z</updated>
+    <updated>2021-06-29T15:01:05.102Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to deal with criticism when people hate your designs]]></title>
+        <id>https://www.fastcompany.com/90650702/how-to-deal-with-criticism-when-people-hate-your-designs</id>
+        <link href="http://www.webdesignernews.com/external/how-to-deal-with-criticism-when-people-hate-your-designs"/>
+        <updated>2021-06-29T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.fastcompany.com/90650702/how-to-deal-with-criticism-when-people-hate-your-designs]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 Best New Sites, June 2021]]></title>
+        <id>https://www.webdesignerdepot.com/2021/06/20-best-new-sites-june-2021/</id>
+        <link href="http://www.webdesignernews.com/external/20-best-new-sites-june-2021"/>
+        <updated>2021-06-29T14:15:44.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/20-best-new-sites-june-2021/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The history of the pride flag & tips for inclusive design]]></title>
+        <id>https://webflow.com/blog/pride-design</id>
+        <link href="http://www.webdesignernews.com/external/the-history-of-the-pride-flag-tips-for-inclusive-design"/>
+        <updated>2021-06-29T14:15:15.000Z</updated>
+        <summary type="html"><![CDATA[https://webflow.com/blog/pride-design]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can now download Windows 11 for testing - here?s what?s new]]></title>
+        <id>https://thenextweb.com/news/windows-11-preview-download</id>
+        <link href="http://www.webdesignernews.com/external/you-can-now-download-windows-11-for-testing-here-s-what-s-new"/>
+        <updated>2021-06-29T14:15:12.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/windows-11-preview-download]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing an omni-search]]></title>
+        <id>https://uxdesign.cc/designing-an-omni-search-29c6cb6ec3f7</id>
+        <link href="http://www.webdesignernews.com/external/designing-an-omni-search"/>
+        <updated>2021-06-29T14:14:57.000Z</updated>
+        <summary type="html"><![CDATA[https://uxdesign.cc/designing-an-omni-search-29c6cb6ec3f7]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make More, Work Less: Artificial Intelligence Tools for Every Type of Creative]]></title>
+        <id>https://dribbble.com/stories/2021/06/29/artificial-intelligence-tools</id>
+        <link href="http://www.webdesignernews.com/external/make-more-work-less-artificial-intelligence-tools-for-every-type-of-creative"/>
+        <updated>2021-06-29T13:27:00.000Z</updated>
+        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/29/artificial-intelligence-tools]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is your IQ score high enough to be considered a genius?]]></title>
         <id>https://www.designernews.co/stories/116460-is-your-iq-score-high-enough-to-be-considered-a-genius</id>
@@ -33,6 +93,26 @@
         <summary type="html"><![CDATA[https://wpklik.com/wordpress-tips/website-homepage/]]></summary>
         <author>
             <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Help Your Clients Overcome Fear of Commitment]]></title>
+        <id>https://speckyboy.com/clients-fear-of-commitment/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-help-your-clients-overcome-fear-of-commitment"/>
+        <updated>2021-06-29T12:05:00.000Z</updated>
+        <summary type="html"><![CDATA[https://speckyboy.com/clients-fear-of-commitment/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Best Freelance Websites To Find Work As a Web Designer]]></title>
+        <id>https://the-webdesigner.co/7-best-freelance-websites-to-find-work-as-a-web-designer/</id>
+        <link href="http://www.webdesignernews.com/external/7-best-freelance-websites-to-find-work-as-a-web-designer"/>
+        <updated>2021-06-29T11:06:00.000Z</updated>
+        <summary type="html"><![CDATA[https://the-webdesigner.co/7-best-freelance-websites-to-find-work-as-a-web-designer/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -301,86 +381,6 @@
         <link href="http://www.webdesignernews.com/external/ux-strategy-giving-your-product-an-edge"/>
         <updated>2021-06-27T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[https://uxdesign.cc/ux-strategy-giving-your-product-an-edge-f33d2ab9cf25]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube Shorts vs TikTok]]></title>
-        <id>https://builtformars.com/case-studies/youtube-shorts</id>
-        <link href="http://www.webdesignernews.com/external/youtube-shorts-vs-tiktok"/>
-        <updated>2021-06-27T20:33:00.000Z</updated>
-        <summary type="html"><![CDATA[https://builtformars.com/case-studies/youtube-shorts]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copy Paste CSS - Find inspiration with a curated list of simple buttons]]></title>
-        <id>https://copy-paste-css.com/</id>
-        <link href="http://www.webdesignernews.com/external/copy-paste-css-find-inspiration-with-a-curated-list-of-simple-buttons"/>
-        <updated>2021-06-27T18:28:00.000Z</updated>
-        <summary type="html"><![CDATA[https://copy-paste-css.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandoc Markdown CSS Theme]]></title>
-        <id>https://jez.io/pandoc-markdown-css-theme/</id>
-        <link href="http://www.webdesignernews.com/external/pandoc-markdown-css-theme"/>
-        <updated>2021-06-27T17:05:00.000Z</updated>
-        <summary type="html"><![CDATA[https://jez.io/pandoc-markdown-css-theme/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction to Custom Cursors in Web Design: Tips, Ideas + Tutorials]]></title>
-        <id>https://designshack.net/articles/graphics/custom-cursors-web-design-tips-ideas-tutorials/</id>
-        <link href="http://www.webdesignernews.com/external/an-introduction-to-custom-cursors-in-web-design-tips-ideas-tutorials"/>
-        <updated>2021-06-27T14:37:16.000Z</updated>
-        <summary type="html"><![CDATA[https://designshack.net/articles/graphics/custom-cursors-web-design-tips-ideas-tutorials/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bauhaus Movement: Design Principles, Ideas, and Inspiration]]></title>
-        <id>https://www.vectornator.io/blog/bauhaus-movement</id>
-        <link href="http://www.webdesignernews.com/external/bauhaus-movement-design-principles-ideas-and-inspiration"/>
-        <updated>2021-06-27T14:36:36.000Z</updated>
-        <summary type="html"><![CDATA[https://www.vectornator.io/blog/bauhaus-movement]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Run A UX Audit For A Major Edtech Platform (Case Study)]]></title>
-        <id>https://www.smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-run-a-ux-audit-for-a-major-edtech-platform-case-study"/>
-        <updated>2021-06-27T14:36:34.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Visualization with CSS: Graphs, Charts and More]]></title>
-        <id>https://www.hongkiat.com/blog/data-visualization-with-css-graphs-charts-and-more/</id>
-        <link href="http://www.webdesignernews.com/external/data-visualization-with-css-graphs-charts-and-more"/>
-        <updated>2021-06-27T14:20:40.000Z</updated>
-        <summary type="html"><![CDATA[https://www.hongkiat.com/blog/data-visualization-with-css-graphs-charts-and-more/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get your website back into shape with SEO fitness]]></title>
-        <id>https://yoast.com/seo-fitness/</id>
-        <link href="http://www.webdesignernews.com/external/get-your-website-back-into-shape-with-seo-fitness"/>
-        <updated>2021-06-26T18:31:00.000Z</updated>
-        <summary type="html"><![CDATA[https://yoast.com/seo-fitness/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
