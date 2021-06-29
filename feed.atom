@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-29T18:00:36.502Z</id>
+    <id>urn:2021-06-29T19:00:42.209Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T18:00:36.502Z</updated>
+    <updated>2021-06-29T19:00:42.209Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[System *Things]]></title>
+        <id>https://css-tricks.com/system-things/</id>
+        <link href="http://www.webdesignernews.com/external/system-things"/>
+        <updated>2021-06-29T18:29:00.000Z</updated>
+        <summary type="html"><![CDATA[https://css-tricks.com/system-things/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Sarah?s Scribbles Went From Viral Comic to Creative Franchise]]></title>
         <id>https://www.shopify.com/blog/sarahs-scribbles-merch</id>
@@ -323,16 +333,6 @@
         <summary type="html"><![CDATA[In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate WordPress Security Guide For 2021]]></title>
-        <id>https://secureblitz.com/ultimate-wordpress-security-guide/</id>
-        <link href="http://www.webdesignernews.com/external/the-ultimate-wordpress-security-guide-for-2021"/>
-        <updated>2021-06-28T09:44:44.000Z</updated>
-        <summary type="html"><![CDATA[https://secureblitz.com/ultimate-wordpress-security-guide/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
