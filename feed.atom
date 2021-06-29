@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-29T20:00:39.349Z</id>
+    <id>urn:2021-06-29T21:00:54.427Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T20:00:39.349Z</updated>
+    <updated>2021-06-29T21:00:54.427Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Half the world owns a smartphone now]]></title>
+        <id>https://www.androidpolice.com/2021/06/28/half-the-world-owns-a-smartphone-now/</id>
+        <link href="http://www.webdesignernews.com/external/half-the-world-owns-a-smartphone-now"/>
+        <updated>2021-06-29T20:55:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.androidpolice.com/2021/06/28/half-the-world-owns-a-smartphone-now/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faasly.io - Find and fix the root cause of serverless production issues]]></title>
+        <id>https://faasly.io/</id>
+        <link href="http://www.webdesignernews.com/external/faasly-io-find-and-fix-the-root-cause-of-serverless-production-issues"/>
+        <updated>2021-06-29T20:26:38.000Z</updated>
+        <summary type="html"><![CDATA[https://faasly.io/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embarrassing Coca-Cola design fail bemuses the internet]]></title>
+        <id>https://www.creativebloq.com/news/coca-cola-pride-fail</id>
+        <link href="http://www.webdesignernews.com/external/embarrassing-coca-cola-design-fail-bemuses-the-internet"/>
+        <updated>2021-06-29T20:14:25.000Z</updated>
+        <summary type="html"><![CDATA[https://www.creativebloq.com/news/coca-cola-pride-fail]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Working around the viewport-based fluid typography bug in Safari]]></title>
         <id>https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/</id>
@@ -281,36 +311,6 @@
         <link href="http://www.webdesignernews.com/external/3-steps-to-reverse-engineering-your-dream-graphic-design-job"/>
         <updated>2021-06-28T13:53:00.000Z</updated>
         <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/28/get-a-graphic-design-job]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 Tips for Better Signup?/?Login UX]]></title>
-        <id>https://learnui.design/blog/tips-signup-login-ux.html</id>
-        <link href="http://www.webdesignernews.com/external/11-tips-for-better-signup-login-ux"/>
-        <updated>2021-06-28T12:49:00.000Z</updated>
-        <summary type="html"><![CDATA[https://learnui.design/blog/tips-signup-login-ux.html]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Change WordPress Theme (Safely & Easily)]]></title>
-        <id>https://templatemela.com/blog/change-wordpress-theme</id>
-        <link href="http://www.webdesignernews.com/external/how-to-change-wordpress-theme-safely-easily"/>
-        <updated>2021-06-28T12:30:14.000Z</updated>
-        <summary type="html"><![CDATA[https://templatemela.com/blog/change-wordpress-theme]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mondrian Art Generator - Create your own art with amazing speed and flexibility]]></title>
-        <id>https://tool.graphics/mondrian</id>
-        <link href="http://www.webdesignernews.com/external/mondrian-art-generator-create-your-own-art-with-amazing-speed-and-flexibility"/>
-        <updated>2021-06-28T12:29:58.000Z</updated>
-        <summary type="html"><![CDATA[https://tool.graphics/mondrian]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
