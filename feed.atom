@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-29T22:00:52.257Z</id>
+    <id>urn:2021-06-29T23:01:07.443Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T22:00:52.257Z</updated>
+    <updated>2021-06-29T23:01:07.443Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BidHeap - Send web design proposals in minutes]]></title>
+        <id>https://app.bidheap.com/</id>
+        <link href="http://www.webdesignernews.com/external/bidheap-send-web-design-proposals-in-minutes"/>
+        <updated>2021-06-29T22:25:00.000Z</updated>
+        <summary type="html"><![CDATA[https://app.bidheap.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Half the world owns a smartphone now]]></title>
         <id>https://www.androidpolice.com/2021/06/28/half-the-world-owns-a-smartphone-now/</id>
@@ -190,7 +200,7 @@
         <id>https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</id>
         <link href="https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/"/>
         <updated>2021-06-29T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Static Generation is great for performance, but not until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that. Additionally, we pair it up with Next.js’ Incremental Static Regeneration for the best user and developer experience. And, of course, benchmark those results!]]></summary>
+        <summary type="html"><![CDATA[Static Generation is great for performance, but not until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
         </author>
@@ -301,16 +311,6 @@
         <link href="http://www.webdesignernews.com/external/claritee-your-interactive-smart-wireframing-platform"/>
         <updated>2021-06-28T15:16:00.000Z</updated>
         <summary type="html"><![CDATA[https://claritee.io/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 steps to reverse engineering your dream graphic design job]]></title>
-        <id>https://dribbble.com/stories/2021/06/28/get-a-graphic-design-job</id>
-        <link href="http://www.webdesignernews.com/external/3-steps-to-reverse-engineering-your-dream-graphic-design-job"/>
-        <updated>2021-06-28T13:53:00.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/28/get-a-graphic-design-job]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
