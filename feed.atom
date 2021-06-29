@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-29T11:00:48.641Z</id>
+    <id>urn:2021-06-29T12:01:00.017Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T11:00:48.641Z</updated>
+    <updated>2021-06-29T12:01:00.017Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[TOP 10 Best LED TV Under 30000 In India 2021]]></title>
-        <id>https://www.designernews.co/stories/116450-top-10-best-led-tv-under-30000-in-india-2021</id>
-        <link href="https://www.designernews.co/stories/116450-top-10-best-led-tv-under-30000-in-india-2021"/>
-        <updated>2021-06-29T10:34:49.000Z</updated>
-        <summary type="html"><![CDATA[https://suggestedstuff.com/top-10-best-smart-led-tv-under-30000/]]></summary>
+        <title type="html"><![CDATA[Breaking Down Bulky Builds With Netlify And Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/"/>
+        <updated>2021-06-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Static Generation is great for performance, but not until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that. Additionally, we pair it up with Next.js’ Incremental Static Regeneration for the best user and developer experience. And, of course, benchmark those results!]]></summary>
         <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Best Washing Machine Under 15000 In India]]></title>
-        <id>https://www.designernews.co/stories/116449-top-10-best-washing-machine-under-15000-in-india</id>
-        <link href="https://www.designernews.co/stories/116449-top-10-best-washing-machine-under-15000-in-india"/>
-        <updated>2021-06-29T10:33:31.000Z</updated>
-        <summary type="html"><![CDATA[https://suggestedstuff.com/top-10-best-washing-machines-under-15000-in-india/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
         </author>
     </entry>
     <entry>
@@ -487,6 +477,16 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Introducing DesignbyWomen - founded by graphic designer Mary Hemingway to showcase, empower and celebrate women and under-represented creatives]]></title>
+        <id>https://www.designernews.co/stories/116338-introducing-designbywomen--founded-by-graphic-designer-mary-hemingway-to-showcase-empower-and-celebrate-women-and-underrepresented-creatives</id>
+        <link href="https://www.designernews.co/stories/116338-introducing-designbywomen--founded-by-graphic-designer-mary-hemingway-to-showcase-empower-and-celebrate-women-and-underrepresented-creatives"/>
+        <updated>2021-06-24T13:33:02.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.briefbox.me/introducing-designbywomen/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Everything you need to know about Kentico Xperience 13 – Infographics]]></title>
         <id>https://www.designernews.co/stories/116328-everything-you-need-to-know-about-kentico-xperience-13--infographics</id>
         <link href="https://www.designernews.co/stories/116328-everything-you-need-to-know-about-kentico-xperience-13--infographics"/>
@@ -502,6 +502,16 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <link href="https://www.designernews.co/stories/116327-productivity-desk-accessories-under-10-giveaway-too"/>
         <updated>2021-06-24T09:04:06.000Z</updated>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=f5vp3BS0bag]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change your old methods for writing a JavaScript Code - Shorthand's for JavaScript Code]]></title>
+        <id>https://www.designernews.co/stories/116326-change-your-old-methods-for-writing-a-javascript-code--shorthands-for-javascript-code</id>
+        <link href="https://www.designernews.co/stories/116326-change-your-old-methods-for-writing-a-javascript-code--shorthands-for-javascript-code"/>
+        <updated>2021-06-24T09:03:18.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/change-your-old-methods-for-writing.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
