@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-29T05:00:45.434Z</id>
+    <id>urn:2021-06-29T06:00:51.784Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T05:00:45.434Z</updated>
+    <updated>2021-06-29T06:00:51.784Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[7 Best Mouse For Developer / Gaming / Coding]]></title>
+        <id>https://www.designernews.co/stories/116431-7-best-mouse-for-developer--gaming--coding</id>
+        <link href="https://www.designernews.co/stories/116431-7-best-mouse-for-developer--gaming--coding"/>
+        <updated>2021-06-29T05:19:41.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/7-best-mouse-for-developer-gaming-coding.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP 7 Monitors For Programmers / Coders]]></title>
+        <id>https://www.designernews.co/stories/116430-top-7-monitors-for-programmers--coders</id>
+        <link href="https://www.designernews.co/stories/116430-top-7-monitors-for-programmers--coders"/>
+        <updated>2021-06-29T05:11:16.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/top-7-monitors-for-gammers-programmers.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Upload a File via SSH and Command Line]]></title>
         <id>https://davidwalsh.name/upload-ssh</id>
@@ -482,26 +502,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <link href="https://www.designernews.co/stories/116323-10-ways-to-build-a-successful-recruitment-strategy-at-a-startup"/>
         <updated>2021-06-24T07:22:15.000Z</updated>
         <summary type="html"><![CDATA[https://startuptrends.co/10-ways-to-build-a-successful-recruitment-strategy-at-a-startup-15083.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video! BOOKKEEPER – React Accounting Template (React, Node.js and PostgreSQL)]]></title>
-        <id>https://www.designernews.co/stories/116319-video-bookkeeper--react-accounting-template-react-nodejs-and-postgresql</id>
-        <link href="https://www.designernews.co/stories/116319-video-bookkeeper--react-accounting-template-react-nodejs-and-postgresql"/>
-        <updated>2021-06-24T06:08:05.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=1pM3pLS_XcA]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete guide on how to create an app like Bet365]]></title>
-        <id>https://www.designernews.co/stories/116317-complete-guide-on-how-to-create-an-app-like-bet365</id>
-        <link href="https://www.designernews.co/stories/116317-complete-guide-on-how-to-create-an-app-like-bet365"/>
-        <updated>2021-06-24T04:32:50.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/cost-to-develop-sports-betting-app-like-bet365/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
