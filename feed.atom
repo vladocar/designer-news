@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-30T05:00:40.612Z</id>
+    <id>urn:2021-06-30T06:00:37.420Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T05:00:40.612Z</updated>
+    <updated>2021-06-30T06:00:37.420Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[13 Time-Saving Tools for Web Developers and Designers]]></title>
+        <id>https://www.designernews.co/stories/116473-13-timesaving-tools-for-web-developers-and-designers</id>
+        <link href="https://www.designernews.co/stories/116473-13-timesaving-tools-for-web-developers-and-designers"/>
+        <updated>2021-06-30T05:51:53.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/13-time-saving-tools-for-web-designers.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Common Challenges Faced by Web Developers]]></title>
+        <id>https://www.designernews.co/stories/116472-5-common-challenges-faced-by-web-developers</id>
+        <link href="https://www.designernews.co/stories/116472-5-common-challenges-faced-by-web-developers"/>
+        <updated>2021-06-30T05:51:04.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/5-common-challenges-faced-by-web.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I Run 9 Different Profitable YouTube Channels and Make 6 Figures From Them]]></title>
         <id>https://www.designernews.co/stories/116471-how-i-run-9-different-profitable-youtube-channels-and-make-6-figures-from-them</id>
@@ -486,16 +506,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPod Classic JS - Enjoy Spotify and Apple Music With iPod Classic Spin Wheel]]></title>
-        <id>https://www.designernews.co/stories/116347-ipod-classic-js--enjoy-spotify-and-apple-music-with-ipod-classic-spin-wheel</id>
-        <link href="https://www.designernews.co/stories/116347-ipod-classic-js--enjoy-spotify-and-apple-music-with-ipod-classic-spin-wheel"/>
-        <updated>2021-06-24T18:29:06.000Z</updated>
-        <summary type="html"><![CDATA[https://www.minicreo.com/apps/ipod-classic-js.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[37 Best Brush Fonts 2021]]></title>
         <id>https://www.designinspiration.info/?p=3249</id>
         <link href="https://www.designinspiration.info/brush-fonts/"/>
@@ -514,16 +524,6 @@ The post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.]]></summ
         <summary type="html"><![CDATA[In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Josh Singer)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 ways to build a successful recruitment strategy at a startup]]></title>
-        <id>https://www.designernews.co/stories/116323-10-ways-to-build-a-successful-recruitment-strategy-at-a-startup</id>
-        <link href="https://www.designernews.co/stories/116323-10-ways-to-build-a-successful-recruitment-strategy-at-a-startup"/>
-        <updated>2021-06-24T07:22:15.000Z</updated>
-        <summary type="html"><![CDATA[https://startuptrends.co/10-ways-to-build-a-successful-recruitment-strategy-at-a-startup-15083.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
