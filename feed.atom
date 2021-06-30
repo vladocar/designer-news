@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-30T12:00:47.132Z</id>
+    <id>urn:2021-06-30T13:11:25.173Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T12:00:47.132Z</updated>
+    <updated>2021-06-30T13:11:25.173Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
+        <id>https://smashingmagazine.com/2021/06/web-workers-2021/</id>
+        <link href="https://smashingmagazine.com/2021/06/web-workers-2021/"/>
+        <updated>2021-06-30T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Surma)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Humans are wonderful – Various illustrations]]></title>
         <id>https://www.designernews.co/stories/116484-humans-are-wonderful--various-illustrations</id>
         <link href="https://www.designernews.co/stories/116484-humans-are-wonderful--various-illustrations"/>
         <updated>2021-06-30T10:24:45.000Z</updated>
         <summary type="html"><![CDATA[https://www.behance.net/gallery/114727457/Humans-Various-illustrations]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flyer & Poster Designing Company]]></title>
+        <id>https://www.designernews.co/stories/116483-flyer--poster-designing-company</id>
+        <link href="https://www.designernews.co/stories/116483-flyer--poster-designing-company"/>
+        <updated>2021-06-30T10:10:06.000Z</updated>
+        <summary type="html"><![CDATA[http://www.dlktech.co.in/flyers-posters-designing.php]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -486,16 +506,6 @@ Do you guys know any alternative?]]></summary>
         <link href="https://www.designernews.co/stories/116405-rpa-trends-for-2021--infographics"/>
         <updated>2021-06-28T09:18:33.000Z</updated>
         <summary type="html"><![CDATA[https://www.zenesys.com/infographics/rpa-trends-for-2021]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design & Play complex online meetings with Sessions. The one-window solution to solve online meeting fatigue.]]></title>
-        <id>https://www.designernews.co/stories/116404-design--play-complex-online-meetings-with-sessions-the-onewindow-solution-to-solve-online-meeting-fatigue</id>
-        <link href="https://www.designernews.co/stories/116404-design--play-complex-online-meetings-with-sessions-the-onewindow-solution-to-solve-online-meeting-fatigue"/>
-        <updated>2021-06-28T08:28:45.000Z</updated>
-        <summary type="html"><![CDATA[https://sessions.flowos.com/?utm_source=designerNews]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
