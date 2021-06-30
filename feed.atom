@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-30T18:00:47.680Z</id>
+    <id>urn:2021-06-30T19:00:33.933Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T18:00:47.680Z</updated>
+    <updated>2021-06-30T19:00:33.933Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lessons from Building a Static Site Generator]]></title>
+        <id>https://nicholasreese.com/lessons-from-building-a-static-site-generator/</id>
+        <link href="http://www.webdesignernews.com/external/lessons-from-building-a-static-site-generator"/>
+        <updated>2021-06-30T18:22:00.000Z</updated>
+        <summary type="html"><![CDATA[https://nicholasreese.com/lessons-from-building-a-static-site-generator/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Not another design tool!]]></title>
         <id>https://medium.com/nextux/not-another-design-tool-ff8e7242365e</id>
@@ -336,16 +346,6 @@ Do you guys know any alternative?]]></summary>
         <link href="http://www.webdesignernews.com/external/the-history-of-the-pride-flag-tips-for-inclusive-design"/>
         <updated>2021-06-29T14:15:15.000Z</updated>
         <summary type="html"><![CDATA[https://webflow.com/blog/pride-design]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can now download Windows 11 for testing - here?s what?s new]]></title>
-        <id>https://thenextweb.com/news/windows-11-preview-download</id>
-        <link href="http://www.webdesignernews.com/external/you-can-now-download-windows-11-for-testing-here-s-what-s-new"/>
-        <updated>2021-06-29T14:15:12.000Z</updated>
-        <summary type="html"><![CDATA[https://thenextweb.com/news/windows-11-preview-download]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
