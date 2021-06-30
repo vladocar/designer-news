@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-30T16:01:10.971Z</id>
+    <id>urn:2021-06-30T17:16:27.015Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T16:01:10.971Z</updated>
+    <updated>2021-06-30T17:16:27.015Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Not another design tool!]]></title>
+        <id>https://medium.com/nextux/not-another-design-tool-ff8e7242365e</id>
+        <link href="http://www.webdesignernews.com/external/not-another-design-tool"/>
+        <updated>2021-06-30T16:22:00.000Z</updated>
+        <summary type="html"><![CDATA[https://medium.com/nextux/not-another-design-tool-ff8e7242365e]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Popular Sites You (Probably) Didn?t Know Were Built With WordPress]]></title>
+        <id>https://1stwebdesigner.com/popular-sites-you-probably-didnt-know-were-built-with-wordpress/</id>
+        <link href="http://www.webdesignernews.com/external/popular-sites-you-probably-didn-t-know-were-built-with-wordpress"/>
+        <updated>2021-06-30T16:06:59.000Z</updated>
+        <summary type="html"><![CDATA[https://1stwebdesigner.com/popular-sites-you-probably-didnt-know-were-built-with-wordpress/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 creative photo editing tips every graphic designer should know]]></title>
+        <id>https://dribbble.com/stories/2021/06/30/photo-editing-tips-for-graphic-design</id>
+        <link href="http://www.webdesignernews.com/external/5-creative-photo-editing-tips-every-graphic-designer-should-know"/>
+        <updated>2021-06-30T16:06:57.000Z</updated>
+        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/30/photo-editing-tips-for-graphic-design]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Internet Is Rotting]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/</id>
+        <link href="http://www.webdesignernews.com/external/the-internet-is-rotting"/>
+        <updated>2021-06-30T16:06:55.000Z</updated>
+        <summary type="html"><![CDATA[https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflections on my 10th year as a designer]]></title>
+        <id>https://medium.com/8px-magazine/reflections-on-my-10th-year-as-a-designer-42b182d3042a</id>
+        <link href="http://www.webdesignernews.com/external/reflections-on-my-10th-year-as-a-designer"/>
+        <updated>2021-06-30T16:06:53.000Z</updated>
+        <summary type="html"><![CDATA[https://medium.com/8px-magazine/reflections-on-my-10th-year-as-a-designer-42b182d3042a]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Love Typography Launches Font Store]]></title>
+        <id>https://www.webdesignerdepot.com/2021/06/i-love-typography-launches-font-store/</id>
+        <link href="http://www.webdesignernews.com/external/i-love-typography-launches-font-store"/>
+        <updated>2021-06-30T16:06:38.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/06/i-love-typography-launches-font-store/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
+        <id>https://www.smashingmagazine.com/2021/06/web-workers-2021/</id>
+        <link href="http://www.webdesignernews.com/external/the-state-of-web-workers-in-2021"/>
+        <updated>2021-06-30T14:08:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/web-workers-2021/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone working in digital should learn how to use a screen reader]]></title>
+        <id>https://uxdesign.cc/everyone-working-in-digital-should-learn-how-to-use-a-screen-reader-fb3dc5447ff1</id>
+        <link href="http://www.webdesignernews.com/external/everyone-working-in-digital-should-learn-how-to-use-a-screen-reader"/>
+        <updated>2021-06-30T13:09:00.000Z</updated>
+        <summary type="html"><![CDATA[https://uxdesign.cc/everyone-working-in-digital-should-learn-how-to-use-a-screen-reader-fb3dc5447ff1]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
         <id>https://smashingmagazine.com/2021/06/web-workers-2021/</id>
@@ -13,6 +93,16 @@
         <summary type="html"><![CDATA[The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Surma)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Googlers hope you?ll pay $4.95/month for their search engine]]></title>
+        <id>https://thenextweb.com/news/neeva-search-engine-paid-privacy</id>
+        <link href="http://www.webdesignernews.com/external/ex-googlers-hope-you-ll-pay-4-95-month-for-their-search-engine"/>
+        <updated>2021-06-30T11:16:00.000Z</updated>
+        <summary type="html"><![CDATA[https://thenextweb.com/news/neeva-search-engine-paid-privacy]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -261,26 +351,6 @@ Do you guys know any alternative?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing an omni-search]]></title>
-        <id>https://uxdesign.cc/designing-an-omni-search-29c6cb6ec3f7</id>
-        <link href="http://www.webdesignernews.com/external/designing-an-omni-search"/>
-        <updated>2021-06-29T14:14:57.000Z</updated>
-        <summary type="html"><![CDATA[https://uxdesign.cc/designing-an-omni-search-29c6cb6ec3f7]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make More, Work Less: Artificial Intelligence Tools for Every Type of Creative]]></title>
-        <id>https://dribbble.com/stories/2021/06/29/artificial-intelligence-tools</id>
-        <link href="http://www.webdesignernews.com/external/make-more-work-less-artificial-intelligence-tools-for-every-type-of-creative"/>
-        <updated>2021-06-29T13:27:00.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/29/artificial-intelligence-tools]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is your IQ score high enough to be considered a genius?]]></title>
         <id>https://www.designernews.co/stories/116460-is-your-iq-score-high-enough-to-be-considered-a-genius</id>
         <link href="https://www.designernews.co/stories/116460-is-your-iq-score-high-enough-to-be-considered-a-genius"/>
@@ -321,16 +391,6 @@ Do you guys know any alternative?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Help Your Clients Overcome Fear of Commitment]]></title>
-        <id>https://speckyboy.com/clients-fear-of-commitment/</id>
-        <link href="http://www.webdesignernews.com/external/how-to-help-your-clients-overcome-fear-of-commitment"/>
-        <updated>2021-06-29T12:05:00.000Z</updated>
-        <summary type="html"><![CDATA[https://speckyboy.com/clients-fear-of-commitment/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7 Reasons- Why is your business in need of a chatbot?]]></title>
         <id>https://www.designernews.co/stories/116453-7-reasons-why-is-your-business-in-need-of-a-chatbot</id>
         <link href="https://www.designernews.co/stories/116453-7-reasons-why-is-your-business-in-need-of-a-chatbot"/>
@@ -338,16 +398,6 @@ Do you guys know any alternative?]]></summary>
         <summary type="html"><![CDATA[https://botpenguin.com/7-reasons-why-is-your-business-in-need-of-a-chatbot/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Best Freelance Websites To Find Work As a Web Designer]]></title>
-        <id>https://the-webdesigner.co/7-best-freelance-websites-to-find-work-as-a-web-designer/</id>
-        <link href="http://www.webdesignernews.com/external/7-best-freelance-websites-to-find-work-as-a-web-designer"/>
-        <updated>2021-06-29T11:06:00.000Z</updated>
-        <summary type="html"><![CDATA[https://the-webdesigner.co/7-best-freelance-websites-to-find-work-as-a-web-designer/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -411,46 +461,6 @@ Do you guys know any alternative?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Upload a File via SSH and Command Line]]></title>
-        <id>https://davidwalsh.name/upload-ssh</id>
-        <link href="http://www.webdesignernews.com/external/how-to-upload-a-file-via-ssh-and-command-line"/>
-        <updated>2021-06-28T21:34:00.000Z</updated>
-        <summary type="html"><![CDATA[https://davidwalsh.name/upload-ssh]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building NPM package in 2021]]></title>
-        <id>https://www.julian.io/articles/es2020-npm-package.html</id>
-        <link href="http://www.webdesignernews.com/external/building-npm-package-in-2021"/>
-        <updated>2021-06-28T19:35:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.julian.io/articles/es2020-npm-package.html]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Check Your WordPress Version]]></title>
-        <id>https://webdesign.tutsplus.com/tutorials/how-to-check-your-wordpress-version--cms-37329</id>
-        <link href="http://www.webdesignernews.com/external/how-to-check-your-wordpress-version"/>
-        <updated>2021-06-28T18:05:00.000Z</updated>
-        <summary type="html"><![CDATA[https://webdesign.tutsplus.com/tutorials/how-to-check-your-wordpress-version--cms-37329]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to avoid losing data on your website]]></title>
-        <id>https://getpublii.com/blog/how-to-avoid-losing-data-on-your-website.html</id>
-        <link href="http://www.webdesignernews.com/external/how-to-avoid-losing-data-on-your-website"/>
-        <updated>2021-06-28T17:57:00.000Z</updated>
-        <summary type="html"><![CDATA[https://getpublii.com/blog/how-to-avoid-losing-data-on-your-website.html]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Make A Kickass Portfolio On Webflow (Template Included)]]></title>
         <id>https://www.designernews.co/stories/116424-make-a-kickass-portfolio-on-webflow-template-included</id>
         <link href="https://www.designernews.co/stories/116424-make-a-kickass-portfolio-on-webflow-template-included"/>
@@ -458,16 +468,6 @@ Do you guys know any alternative?]]></summary>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=DQf0azkzm2Y]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claritee - Your interactive, smart wireframing platform]]></title>
-        <id>https://claritee.io/</id>
-        <link href="http://www.webdesignernews.com/external/claritee-your-interactive-smart-wireframing-platform"/>
-        <updated>2021-06-28T15:16:00.000Z</updated>
-        <summary type="html"><![CDATA[https://claritee.io/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
