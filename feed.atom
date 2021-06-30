@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-30T22:00:51.465Z</id>
+    <id>urn:2021-06-30T23:01:05.444Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T22:00:51.465Z</updated>
+    <updated>2021-06-30T23:01:05.444Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UI & UX Micro-Tips: Volume Six]]></title>
+        <id>https://marcandrew.me/ui-ux-micro-tips-volume-six/</id>
+        <link href="http://www.webdesignernews.com/external/ui-ux-micro-tips-volume-six"/>
+        <updated>2021-06-30T22:54:00.000Z</updated>
+        <summary type="html"><![CDATA[https://marcandrew.me/ui-ux-micro-tips-volume-six/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It can take hours to weeks for new content to be indexed, says Google]]></title>
+        <id>https://searchengineland.com/google-on-how-long-it-takes-for-seos-to-be-indexed-and-ranked-349998</id>
+        <link href="http://www.webdesignernews.com/external/it-can-take-hours-to-weeks-for-new-content-to-be-indexed-says-google"/>
+        <updated>2021-06-30T22:35:46.000Z</updated>
+        <summary type="html"><![CDATA[https://searchengineland.com/google-on-how-long-it-takes-for-seos-to-be-indexed-and-ranked-349998]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Conversing with Users: 3 Types of User Interviews]]></title>
         <id>https://sparkbox.com/foundry/interviewing_users_with_structured_interview_unstructured_interview_contextual_inquiry</id>
@@ -331,16 +351,6 @@ Do you guys know any alternative?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Sarah?s Scribbles Went From Viral Comic to Creative Franchise]]></title>
-        <id>https://www.shopify.com/blog/sarahs-scribbles-merch</id>
-        <link href="http://www.webdesignernews.com/external/how-sarah-s-scribbles-went-from-viral-comic-to-creative-franchise"/>
-        <updated>2021-06-29T17:52:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.shopify.com/blog/sarahs-scribbles-merch]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Then — Activity & Mood Diary. Understand how you spend time and what influences your mood.]]></title>
         <id>https://www.designernews.co/stories/116465-then--activity--mood-diary-understand-how-you-spend-time-and-what-influences-your-mood-</id>
         <link href="https://www.designernews.co/stories/116465-then--activity--mood-diary-understand-how-you-spend-time-and-what-influences-your-mood-"/>
@@ -358,16 +368,6 @@ Do you guys know any alternative?]]></summary>
         <summary type="html"><![CDATA[https://bookmarkos.com/bookmark-manager-finder]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to deal with criticism when people hate your designs]]></title>
-        <id>https://www.fastcompany.com/90650702/how-to-deal-with-criticism-when-people-hate-your-designs</id>
-        <link href="http://www.webdesignernews.com/external/how-to-deal-with-criticism-when-people-hate-your-designs"/>
-        <updated>2021-06-29T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.fastcompany.com/90650702/how-to-deal-with-criticism-when-people-hate-your-designs]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
