@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-30T19:00:33.933Z</id>
+    <id>urn:2021-06-30T20:01:03.601Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T19:00:33.933Z</updated>
+    <updated>2021-06-30T20:01:03.601Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Spline 3D Design Challenge - Futuristic Devices (Win an iMac M1)]]></title>
+        <id>https://www.designernews.co/stories/116493-spline-3d-design-challenge--futuristic-devices-win-an-imac-m1</id>
+        <link href="https://www.designernews.co/stories/116493-spline-3d-design-challenge--futuristic-devices-win-an-imac-m1"/>
+        <updated>2021-06-30T19:15:54.000Z</updated>
+        <summary type="html"><![CDATA[https://twitter.com/splinetool/status/1410254621323534340]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lessons from Building a Static Site Generator]]></title>
         <id>https://nicholasreese.com/lessons-from-building-a-static-site-generator/</id>
@@ -83,6 +93,16 @@
         <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/web-workers-2021/]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did you know you can build a PWA with a Notion page?]]></title>
+        <id>https://www.designernews.co/stories/116487-did-you-know-you-can-build-a-pwa-with-a-notion-page</id>
+        <link href="https://www.designernews.co/stories/116487-did-you-know-you-can-build-a-pwa-with-a-notion-page"/>
+        <updated>2021-06-30T13:26:53.000Z</updated>
+        <summary type="html"><![CDATA[https://javascript.plainenglish.io/did-you-know-you-can-build-a-pwa-with-a-notion-page-13cf4762caf8]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -405,7 +425,7 @@ Do you guys know any alternative?]]></summary>
         <id>https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</id>
         <link href="https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/"/>
         <updated>2021-06-29T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Static Generation is great for performance, but not until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.]]></summary>
+        <summary type="html"><![CDATA[Static Generation is great for performance — until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
         </author>
@@ -488,26 +508,6 @@ Do you guys know any alternative?]]></summary>
         <summary type="html"><![CDATA[In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperautomation - The Next Big Thing in Tech | Robotic Process Automation]]></title>
-        <id>https://www.designernews.co/stories/116407-hyperautomation--the-next-big-thing-in-tech--robotic-process-automation</id>
-        <link href="https://www.designernews.co/stories/116407-hyperautomation--the-next-big-thing-in-tech--robotic-process-automation"/>
-        <updated>2021-06-28T09:20:25.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=vLeLP6_i4cY]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RPA Trends for 2021 - Infographics]]></title>
-        <id>https://www.designernews.co/stories/116405-rpa-trends-for-2021--infographics</id>
-        <link href="https://www.designernews.co/stories/116405-rpa-trends-for-2021--infographics"/>
-        <updated>2021-06-28T09:18:33.000Z</updated>
-        <summary type="html"><![CDATA[https://www.zenesys.com/infographics/rpa-trends-for-2021]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
