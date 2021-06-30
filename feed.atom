@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-30T10:00:49.002Z</id>
+    <id>urn:2021-06-30T11:01:06.885Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T10:00:49.002Z</updated>
+    <updated>2021-06-30T11:01:06.885Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Humans are wonderful – Various illustrations]]></title>
+        <id>https://www.designernews.co/stories/116484-humans-are-wonderful--various-illustrations</id>
+        <link href="https://www.designernews.co/stories/116484-humans-are-wonderful--various-illustrations"/>
+        <updated>2021-06-30T10:24:45.000Z</updated>
+        <summary type="html"><![CDATA[https://www.behance.net/gallery/114727457/Humans-Various-illustrations]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to do A/B Testing in Kentico Xperience]]></title>
+        <id>https://www.designernews.co/stories/116481-how-to-do-ab-testing-in-kentico-xperience</id>
+        <link href="https://www.designernews.co/stories/116481-how-to-do-ab-testing-in-kentico-xperience"/>
+        <updated>2021-06-30T10:07:07.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/blog/how-to-do-a/b-testing-in-kentico-xperience]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26 Best Minimalist Fonts]]></title>
+        <id>https://www.designinspiration.info/?p=1038</id>
+        <link href="https://www.designinspiration.info/minimalist-fonts/"/>
+        <updated>2021-06-30T10:06:48.000Z</updated>
+        <summary type="html"><![CDATA[A minimalist design is characterized by an emphasis on simplicity. This often includes the use of basic geometric shapes, such as rectangles, squares, triangles, and lines. Here are 26+ types of minimalistic fonts to increase the simplicity and efficiency of your graphic pieces. Minimalist fonts that will make your designs
+The post 26 Best Minimalist Fonts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Many Shades Of July (2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/</id>
+        <link href="https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/"/>
+        <updated>2021-06-30T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RummyUI - the new UI KIT with React/Angular]]></title>
+        <id>https://www.designernews.co/stories/116475-rummyui--the-new-ui-kit-with-reactangular-</id>
+        <link href="https://www.designernews.co/stories/116475-rummyui--the-new-ui-kit-with-reactangular-"/>
+        <updated>2021-06-30T06:30:44.000Z</updated>
+        <summary type="html"><![CDATA[https://rummy-ui.com/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[13 Time-Saving Tools for Web Developers and Designers]]></title>
         <id>https://www.designernews.co/stories/116473-13-timesaving-tools-for-web-developers-and-designers</id>
@@ -224,7 +275,7 @@ Do you guys know any alternative?]]></summary>
         <id>https://www.designernews.co/stories/116457-glassmorphism-css-generator</id>
         <link href="https://www.designernews.co/stories/116457-glassmorphism-css-generator"/>
         <updated>2021-06-29T12:53:55.000Z</updated>
-        <summary type="html"><![CDATA[https://generator.ui.glass/]]></summary>
+        <summary type="html"><![CDATA[https://ui.glass/generator]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -455,36 +506,6 @@ Do you guys know any alternative?]]></summary>
         <link href="https://www.designernews.co/stories/116403-how-to-hideshow-header-on-scroll-in-figma"/>
         <updated>2021-06-28T07:56:02.000Z</updated>
         <summary type="html"><![CDATA[https://www.youtube.com/watch?v=oTIbjLX3fu4]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reflective lets you build automated business workflows.]]></title>
-        <id>https://www.designernews.co/stories/116401-reflective-lets-you-build-automated-business-workflows</id>
-        <link href="https://www.designernews.co/stories/116401-reflective-lets-you-build-automated-business-workflows"/>
-        <updated>2021-06-28T07:29:23.000Z</updated>
-        <summary type="html"><![CDATA[http://reflective.co]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar - Why Your Channel Fails to Amplify Digital Marketing Efforts? Register Now]]></title>
-        <id>https://www.designernews.co/stories/116396-webinar--why-your-channel-fails-to-amplify-digital-marketing-efforts-register-now</id>
-        <link href="https://www.designernews.co/stories/116396-webinar--why-your-channel-fails-to-amplify-digital-marketing-efforts-register-now"/>
-        <updated>2021-06-28T05:12:48.000Z</updated>
-        <summary type="html"><![CDATA[https://zoom.us/webinar/register/2016237577848/WN_vQQV60SQTZS_UwxrD1hWxg]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lesser-known CSS property]]></title>
-        <id>https://www.designernews.co/stories/116376-lesserknown-css-property</id>
-        <link href="https://www.designernews.co/stories/116376-lesserknown-css-property"/>
-        <updated>2021-06-26T06:36:28.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/lesser-known-css-property.html]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -726,17 +747,6 @@ The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 Free Seamless Geometric Patterns for Illustrator]]></title>
-        <id>https://www.designinspiration.info/?p=3051</id>
-        <link href="https://www.designinspiration.info/free-seamless-geometric-pattern-for-illustrator/"/>
-        <updated>2021-06-14T08:16:45.000Z</updated>
-        <summary type="html"><![CDATA[We bring you 15 Free Illustrator Seamless Geometric Pattern Backgrounds. All patterns can be applied directly from Swatches panel or simply copy pasted in Illustrator.
-The post 15 Free Seamless Geometric Patterns for Illustrator appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>

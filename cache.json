@@ -6,6 +6,15 @@
       "siteUrl": "https://www.designinspiration.info",
       "articles": [
         {
+          "id": "https://www.designinspiration.info/?p=1038",
+          "author": "Editorial Staff",
+          "description": "A minimalist design is characterized by an emphasis on simplicity. This often includes the use of basic geometric shapes, such as rectangles, squares, triangles, and lines. Here are 26+ types of minimalistic fonts to increase the simplicity and efficiency of your graphic pieces. Minimalist fonts that will make your designs\nThe post 26 Best Minimalist Fonts appeared first on Design Inspiration.",
+          "link": "https://www.designinspiration.info/minimalist-fonts/",
+          "publishedOn": "2021-06-30T10:06:48.000Z",
+          "wordCount": 2056,
+          "title": "26 Best Minimalist Fonts"
+        },
+        {
           "id": "https://www.designinspiration.info/?p=3249",
           "author": "Editorial Staff",
           "description": "This year we’ve selected some of the best brush typefaces from our huge collection and are presenting them right here, right now. Brush scripts are indeed trending these days for creating beautiful handcrafted typography. Trying to catch up with current trends, we decided to compile an awesome list of top\nThe post 37 Best Brush Fonts 2021 appeared first on Design Inspiration.",
@@ -85,15 +94,6 @@
           "publishedOn": "2021-06-14T21:04:32.000Z",
           "wordCount": 1850,
           "title": "20 Best Circus Fonts"
-        },
-        {
-          "id": "https://www.designinspiration.info/?p=3051",
-          "author": "Editorial Staff",
-          "description": "We bring you 15 Free Illustrator Seamless Geometric Pattern Backgrounds. All patterns can be applied directly from Swatches panel or simply copy pasted in Illustrator.\nThe post 15 Free Seamless Geometric Patterns for Illustrator appeared first on Design Inspiration.",
-          "link": "https://www.designinspiration.info/free-seamless-geometric-pattern-for-illustrator/",
-          "publishedOn": "2021-06-14T08:16:45.000Z",
-          "wordCount": 273,
-          "title": "15 Free Seamless Geometric Patterns for Illustrator"
         }
       ]
     },
@@ -102,6 +102,33 @@
       "feedUrl": "http://www.designernews.co/?format=rss",
       "siteUrl": "/",
       "articles": [
+        {
+          "id": "https://www.designernews.co/stories/116484-humans-are-wonderful--various-illustrations",
+          "author": null,
+          "description": "https://www.behance.net/gallery/114727457/Humans-Various-illustrations",
+          "link": "https://www.designernews.co/stories/116484-humans-are-wonderful--various-illustrations",
+          "publishedOn": "2021-06-30T10:24:45.000Z",
+          "wordCount": 163,
+          "title": "Humans are wonderful – Various illustrations"
+        },
+        {
+          "id": "https://www.designernews.co/stories/116481-how-to-do-ab-testing-in-kentico-xperience",
+          "author": null,
+          "description": "https://www.zenesys.com/blog/how-to-do-a/b-testing-in-kentico-xperience",
+          "link": "https://www.designernews.co/stories/116481-how-to-do-ab-testing-in-kentico-xperience",
+          "publishedOn": "2021-06-30T10:07:07.000Z",
+          "wordCount": 168,
+          "title": "How to do A/B Testing in Kentico Xperience"
+        },
+        {
+          "id": "https://www.designernews.co/stories/116475-rummyui--the-new-ui-kit-with-reactangular-",
+          "author": null,
+          "description": "https://rummy-ui.com/",
+          "link": "https://www.designernews.co/stories/116475-rummyui--the-new-ui-kit-with-reactangular-",
+          "publishedOn": "2021-06-30T06:30:44.000Z",
+          "wordCount": 168,
+          "title": "RummyUI - the new UI KIT with React/Angular"
+        },
         {
           "id": "https://www.designernews.co/stories/116473-13-timesaving-tools-for-web-developers-and-designers",
           "author": null,
@@ -177,7 +204,7 @@
         {
           "id": "https://www.designernews.co/stories/116457-glassmorphism-css-generator",
           "author": null,
-          "description": "https://generator.ui.glass/",
+          "description": "https://ui.glass/generator",
           "link": "https://www.designernews.co/stories/116457-glassmorphism-css-generator",
           "publishedOn": "2021-06-29T12:53:55.000Z",
           "wordCount": 273,
@@ -299,33 +326,6 @@
           "publishedOn": "2021-06-28T07:56:02.000Z",
           "wordCount": 167,
           "title": "How to Hide/Show Header on Scroll in Figma"
-        },
-        {
-          "id": "https://www.designernews.co/stories/116401-reflective-lets-you-build-automated-business-workflows",
-          "author": null,
-          "description": "http://reflective.co",
-          "link": "https://www.designernews.co/stories/116401-reflective-lets-you-build-automated-business-workflows",
-          "publishedOn": "2021-06-28T07:29:23.000Z",
-          "wordCount": 163,
-          "title": "Reflective lets you build automated business workflows."
-        },
-        {
-          "id": "https://www.designernews.co/stories/116396-webinar--why-your-channel-fails-to-amplify-digital-marketing-efforts-register-now",
-          "author": null,
-          "description": "https://zoom.us/webinar/register/2016237577848/WN_vQQV60SQTZS_UwxrD1hWxg",
-          "link": "https://www.designernews.co/stories/116396-webinar--why-your-channel-fails-to-amplify-digital-marketing-efforts-register-now",
-          "publishedOn": "2021-06-28T05:12:48.000Z",
-          "wordCount": 226,
-          "title": "Webinar - Why Your Channel Fails to Amplify Digital Marketing Efforts? Register Now"
-        },
-        {
-          "id": "https://www.designernews.co/stories/116376-lesserknown-css-property",
-          "author": null,
-          "description": "https://cmsinstallation.blogspot.com/2021/06/lesser-known-css-property.html",
-          "link": "https://www.designernews.co/stories/116376-lesserknown-css-property",
-          "publishedOn": "2021-06-26T06:36:28.000Z",
-          "wordCount": 157,
-          "title": "Lesser-known CSS property"
         }
       ]
     },
@@ -334,6 +334,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
+          "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
+          "publishedOn": "2021-06-30T09:30:00.000Z",
+          "wordCount": 3557,
+          "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
           "author": "hello@smashingmagazine.com (Átila Fassina)",
@@ -368,7 +382,7 @@
           "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
           "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2527,
+          "wordCount": 2514,
           "title": "Creating Custom Emmet Snippets In VS Code",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
@@ -382,7 +396,7 @@
           "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
           "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5453,
+          "wordCount": 5452,
           "title": "Creating A Multi-Author Blog With Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
@@ -396,7 +410,7 @@
           "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
           "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
           "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3528,
+          "wordCount": 3523,
           "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
@@ -466,7 +480,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5352,
+          "wordCount": 5365,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -480,7 +494,7 @@
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3414,
+          "wordCount": 3412,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -494,7 +508,7 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3962,
+          "wordCount": 3917,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
@@ -578,7 +592,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1753,
+          "wordCount": 1746,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -592,7 +606,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5153,
+          "wordCount": 5148,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -606,7 +620,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 864,
+          "wordCount": 878,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -620,7 +634,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2782,
+          "wordCount": 2781,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -648,7 +662,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2433,
+          "wordCount": 2393,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -662,7 +676,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4371,
+          "wordCount": 4423,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -676,7 +690,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3677,
+          "wordCount": 3717,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -690,7 +704,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4585,
+          "wordCount": 4584,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -704,7 +718,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5649,
+          "wordCount": 5659,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -762,7 +776,7 @@
           "description": "https://www.androidpolice.com/2021/06/28/half-the-world-owns-a-smartphone-now/",
           "link": "http://www.webdesignernews.com/external/half-the-world-owns-a-smartphone-now",
           "publishedOn": "2021-06-29T20:55:00.000Z",
-          "wordCount": 1775,
+          "wordCount": 1768,
           "title": "Half the world owns a smartphone now"
         },
         {
@@ -807,7 +821,7 @@
           "description": "https://www.shopify.com/blog/sarahs-scribbles-merch",
           "link": "http://www.webdesignernews.com/external/how-sarah-s-scribbles-went-from-viral-comic-to-creative-franchise",
           "publishedOn": "2021-06-29T17:52:00.000Z",
-          "wordCount": 4363,
+          "wordCount": 4352,
           "title": "How Sarah?s Scribbles Went From Viral Comic to Creative Franchise"
         },
         {
@@ -825,7 +839,7 @@
           "description": "https://www.webdesignerdepot.com/2021/06/20-best-new-sites-june-2021/",
           "link": "http://www.webdesignernews.com/external/20-best-new-sites-june-2021",
           "publishedOn": "2021-06-29T14:15:44.000Z",
-          "wordCount": 1135,
+          "wordCount": 1154,
           "title": "20 Best New Sites, June 2021"
         },
         {
@@ -843,7 +857,7 @@
           "description": "https://thenextweb.com/news/windows-11-preview-download",
           "link": "http://www.webdesignernews.com/external/you-can-now-download-windows-11-for-testing-here-s-what-s-new",
           "publishedOn": "2021-06-29T14:15:12.000Z",
-          "wordCount": 837,
+          "wordCount": 836,
           "title": "You can now download Windows 11 for testing - here?s what?s new"
         },
         {
@@ -852,7 +866,7 @@
           "description": "https://uxdesign.cc/designing-an-omni-search-29c6cb6ec3f7",
           "link": "http://www.webdesignernews.com/external/designing-an-omni-search",
           "publishedOn": "2021-06-29T14:14:57.000Z",
-          "wordCount": 2048,
+          "wordCount": 2046,
           "title": "Designing an omni-search"
         },
         {
@@ -888,7 +902,7 @@
           "description": "https://davidwalsh.name/upload-ssh",
           "link": "http://www.webdesignernews.com/external/how-to-upload-a-file-via-ssh-and-command-line",
           "publishedOn": "2021-06-28T21:34:00.000Z",
-          "wordCount": 573,
+          "wordCount": 566,
           "title": "How to Upload a File via SSH and Command Line"
         },
         {
