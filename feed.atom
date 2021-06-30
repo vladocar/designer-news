@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-30T06:00:37.420Z</id>
+    <id>urn:2021-06-30T07:01:08.813Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T06:00:37.420Z</updated>
+    <updated>2021-06-30T07:01:08.813Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -53,6 +53,20 @@
         <summary type="html"><![CDATA[https://app.bidheap.com/]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DESIGNERNEWS ALTERNATIVES?]]></title>
+        <id>https://www.designernews.co/stories/116469-designernews-alternatives</id>
+        <link href="https://www.designernews.co/stories/116469-designernews-alternatives"/>
+        <updated>2021-06-29T21:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Is someone still there? 
+
+Miss designernews before it became only spam. Do we already have an alternative? Heard that the subreddit is dead too...
+
+Do you guys know any alternative?]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -121,6 +135,16 @@
         <link href="https://www.designernews.co/stories/116465-then--activity--mood-diary-understand-how-you-spend-time-and-what-influences-your-mood-"/>
         <updated>2021-06-29T16:40:05.000Z</updated>
         <summary type="html"><![CDATA[https://apps.apple.com/us/app/then-activity-mood-diary/id1563184080#?platform=iphone]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bookmark manager finder - filter every bookmark manager ever made by features]]></title>
+        <id>https://www.designernews.co/stories/116463-bookmark-manager-finder--filter-every-bookmark-manager-ever-made-by-features</id>
+        <link href="https://www.designernews.co/stories/116463-bookmark-manager-finder--filter-every-bookmark-manager-ever-made-by-features"/>
+        <updated>2021-06-29T16:22:38.000Z</updated>
+        <summary type="html"><![CDATA[https://bookmarkos.com/bookmark-manager-finder]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -216,6 +240,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Design Startup in 15 months - 12k+ resources]]></title>
+        <id>https://www.designernews.co/stories/116455-design-startup-in-15-months--12k-resources</id>
+        <link href="https://www.designernews.co/stories/116455-design-startup-in-15-months--12k-resources"/>
+        <updated>2021-06-29T12:17:26.000Z</updated>
+        <summary type="html"><![CDATA[https://www.uihut.com/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Help Your Clients Overcome Fear of Commitment]]></title>
         <id>https://speckyboy.com/clients-fear-of-commitment/</id>
         <link href="http://www.webdesignernews.com/external/how-to-help-your-clients-overcome-fear-of-commitment"/>
@@ -223,6 +257,16 @@
         <summary type="html"><![CDATA[https://speckyboy.com/clients-fear-of-commitment/]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Reasons- Why is your business in need of a chatbot?]]></title>
+        <id>https://www.designernews.co/stories/116453-7-reasons-why-is-your-business-in-need-of-a-chatbot</id>
+        <link href="https://www.designernews.co/stories/116453-7-reasons-why-is-your-business-in-need-of-a-chatbot"/>
+        <updated>2021-06-29T11:14:58.000Z</updated>
+        <summary type="html"><![CDATA[https://botpenguin.com/7-reasons-why-is-your-business-in-need-of-a-chatbot/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -436,41 +480,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best VS Code Shortcuts To Make Your Coding Faster]]></title>
-        <id>https://www.designernews.co/stories/116377-best-vs-code-shortcuts-to-make-your-coding-faster</id>
-        <link href="https://www.designernews.co/stories/116377-best-vs-code-shortcuts-to-make-your-coding-faster"/>
-        <updated>2021-06-26T06:42:09.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/best-vs-code-shortcuts-to-make-your.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lesser-known CSS property]]></title>
         <id>https://www.designernews.co/stories/116376-lesserknown-css-property</id>
         <link href="https://www.designernews.co/stories/116376-lesserknown-css-property"/>
         <updated>2021-06-26T06:36:28.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/06/lesser-known-css-property.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fonts for Instagram]]></title>
-        <id>https://www.designernews.co/stories/116365-fonts-for-instagram</id>
-        <link href="https://www.designernews.co/stories/116365-fonts-for-instagram"/>
-        <updated>2021-06-25T16:25:11.000Z</updated>
-        <summary type="html"><![CDATA[https://fancytextdecorator.com/instagram-fonts]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collaborative flowcharting: What it is (and why you need to try it)]]></title>
-        <id>https://www.designernews.co/stories/116363-collaborative-flowcharting-what-it-is-and-why-you-need-to-try-it</id>
-        <link href="https://www.designernews.co/stories/116363-collaborative-flowcharting-what-it-is-and-why-you-need-to-try-it"/>
-        <updated>2021-06-25T14:49:11.000Z</updated>
-        <summary type="html"><![CDATA[https://www.invisionapp.com/inside-design/collaborative-flowcharting/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -493,16 +507,6 @@
         <summary type="html"><![CDATA[This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mark Lankmilier)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Much Does It Cost To Develop A Chat App?]]></title>
-        <id>https://www.designernews.co/stories/116350-how-much-does-it-cost-to-develop-a-chat-app</id>
-        <link href="https://www.designernews.co/stories/116350-how-much-does-it-cost-to-develop-a-chat-app"/>
-        <updated>2021-06-25T04:47:16.000Z</updated>
-        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/cost-to-develop-a-chat-app/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
