@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-01T19:00:38.028Z</id>
+    <id>urn:2021-07-01T20:01:07.712Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T19:00:38.028Z</updated>
+    <updated>2021-07-01T20:01:07.712Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[15 CSS Paper Effects]]></title>
+        <id>https://csshint.com/css-paper-effects/</id>
+        <link href="http://www.webdesignernews.com/external/15-css-paper-effects-csshint-a-designer-hub"/>
+        <updated>2021-07-01T19:53:00.000Z</updated>
+        <summary type="html"><![CDATA[https://csshint.com/css-paper-effects/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Captain Stack - An open source alternative to GitHub Copilot]]></title>
         <id>https://github.com/hieunc229/copilot-clone</id>
@@ -312,16 +322,6 @@ The post 18 Best KDP for low content book templates appeared first on Design Ins
         <link href="http://www.webdesignernews.com/external/the-internet-is-rotting"/>
         <updated>2021-06-30T16:06:55.000Z</updated>
         <summary type="html"><![CDATA[https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reflections on my 10th year as a designer]]></title>
-        <id>https://medium.com/8px-magazine/reflections-on-my-10th-year-as-a-designer-42b182d3042a</id>
-        <link href="http://www.webdesignernews.com/external/reflections-on-my-10th-year-as-a-designer"/>
-        <updated>2021-06-30T16:06:53.000Z</updated>
-        <summary type="html"><![CDATA[https://medium.com/8px-magazine/reflections-on-my-10th-year-as-a-designer-42b182d3042a]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
