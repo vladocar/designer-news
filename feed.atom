@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-01T13:10:14.847Z</id>
+    <id>urn:2021-07-01T14:00:36.367Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T13:10:14.847Z</updated>
+    <updated>2021-07-01T14:00:36.367Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[18 Best KDP for low content book templates]]></title>
+        <id>https://www.designinspiration.info/?p=3281</id>
+        <link href="https://www.designinspiration.info/kdp-for-low-content-templates/"/>
+        <updated>2021-07-01T13:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Looking for KDP (Kindle Direct Publishing) low content book templates? We’ve taken a look at the best Kindle book templates on the market right now. We’ve done our best to link directly to individual Kindle book templates, so if you click on the heading you should be taken to the
+The post 18 Best KDP for low content book templates appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seven Women that Changed the UX Industry]]></title>
         <id>https://www.designernews.co/stories/116509-seven-women-that-changed-the-ux-industry</id>
@@ -23,6 +34,16 @@
         <summary type="html"><![CDATA[https://www.hongkiat.com/blog/fontisto-css-iconfonts/]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them]]></title>
+        <id>https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/</id>
+        <link href="https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/"/>
+        <updated>2021-07-01T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. In sum, they can lead to lousy maintainability, slow execution time, and — in the worst case — tests you cannot trust. But it doesn’t have to be that way. In this article, I will talk about common mistakes developers make, at least in my experience, and, of course, how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
         </author>
     </entry>
     <entry>
@@ -91,6 +112,26 @@
         <link href="https://www.designernews.co/stories/116503-rpa-use-cases-for-payroll-management"/>
         <updated>2021-07-01T08:51:10.000Z</updated>
         <summary type="html"><![CDATA[https://www.zenesys.com/blog/rpa-use-cases-in-payroll-management]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phd Projects in Chennai]]></title>
+        <id>https://www.designernews.co/stories/116501-phd-projects-in-chennai</id>
+        <link href="https://www.designernews.co/stories/116501-phd-projects-in-chennai"/>
+        <updated>2021-07-01T08:04:25.000Z</updated>
+        <summary type="html"><![CDATA[http://ieeeprojectcentre.in/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IEEE 2021 ECE Projects]]></title>
+        <id>https://www.designernews.co/stories/116500-ieee-2021-ece-projects</id>
+        <link href="https://www.designernews.co/stories/116500-ieee-2021-ece-projects"/>
+        <updated>2021-07-01T08:03:40.000Z</updated>
+        <summary type="html"><![CDATA[http://1croreprojects.com/embedded-system-ieee-projects-2019-2020-in-chennai.php]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -411,16 +452,6 @@ Do you guys know any alternative?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Then — Activity & Mood Diary. Understand how you spend time and what influences your mood.]]></title>
-        <id>https://www.designernews.co/stories/116465-then--activity--mood-diary-understand-how-you-spend-time-and-what-influences-your-mood-</id>
-        <link href="https://www.designernews.co/stories/116465-then--activity--mood-diary-understand-how-you-spend-time-and-what-influences-your-mood-"/>
-        <updated>2021-06-29T16:40:05.000Z</updated>
-        <summary type="html"><![CDATA[https://apps.apple.com/us/app/then-activity-mood-diary/id1563184080#?platform=iphone]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bookmark manager finder - filter every bookmark manager ever made by features]]></title>
         <id>https://www.designernews.co/stories/116463-bookmark-manager-finder--filter-every-bookmark-manager-ever-made-by-features</id>
         <link href="https://www.designernews.co/stories/116463-bookmark-manager-finder--filter-every-bookmark-manager-ever-made-by-features"/>
@@ -456,16 +487,6 @@ Do you guys know any alternative?]]></summary>
         <link href="https://www.designernews.co/stories/116455-design-startup-in-15-months--12k-resources"/>
         <updated>2021-06-29T12:17:26.000Z</updated>
         <summary type="html"><![CDATA[https://www.uihut.com/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Reasons- Why is your business in need of a chatbot?]]></title>
-        <id>https://www.designernews.co/stories/116453-7-reasons-why-is-your-business-in-need-of-a-chatbot</id>
-        <link href="https://www.designernews.co/stories/116453-7-reasons-why-is-your-business-in-need-of-a-chatbot"/>
-        <updated>2021-06-29T11:14:58.000Z</updated>
-        <summary type="html"><![CDATA[https://botpenguin.com/7-reasons-why-is-your-business-in-need-of-a-chatbot/]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
@@ -736,17 +757,6 @@ The post 10 Best Pirate Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 Best Circus Fonts]]></title>
-        <id>https://www.designinspiration.info/?p=3061</id>
-        <link href="https://www.designinspiration.info/circus-fonts/"/>
-        <updated>2021-06-14T21:04:32.000Z</updated>
-        <summary type="html"><![CDATA[What to create circus themed designs? We have created a large list of the top Circus Fonts. Dances, stories, posters, boards or just a spectacle of lines. You can use them to create circus posters, magazine covers or invitations. We’ve prepared an interesting list of the best circus fonts to
-The post 20 Best Circus Fonts appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
