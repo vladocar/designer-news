@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-01T12:00:48.213Z</id>
+    <id>urn:2021-07-01T13:10:14.847Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T12:00:48.213Z</updated>
+    <updated>2021-07-01T13:10:14.847Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Seven Women that Changed the UX Industry]]></title>
+        <id>https://www.designernews.co/stories/116509-seven-women-that-changed-the-ux-industry</id>
+        <link href="https://www.designernews.co/stories/116509-seven-women-that-changed-the-ux-industry"/>
+        <updated>2021-07-01T13:02:28.000Z</updated>
+        <summary type="html"><![CDATA[https://bookpedia.co/914430841/seven-women-that-changed-the-ux-industry]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fontisto ? Free Iconfont Pack and CSS Toolkit]]></title>
+        <id>https://www.hongkiat.com/blog/fontisto-css-iconfonts/</id>
+        <link href="http://www.webdesignernews.com/external/fontisto-free-iconfont-pack-and-css-toolkit"/>
+        <updated>2021-07-01T12:50:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.hongkiat.com/blog/fontisto-css-iconfonts/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Unique Color Palette]]></title>
         <id>https://www.vectornator.io/blog/color-palette</id>
@@ -377,16 +397,6 @@ The post 26 Best Minimalist Fonts appeared first on Design Inspiration.]]></summ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BidHeap - Send web design proposals in minutes]]></title>
-        <id>https://app.bidheap.com/</id>
-        <link href="http://www.webdesignernews.com/external/bidheap-send-web-design-proposals-in-minutes"/>
-        <updated>2021-06-29T22:25:00.000Z</updated>
-        <summary type="html"><![CDATA[https://app.bidheap.com/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DESIGNERNEWS ALTERNATIVES?]]></title>
         <id>https://www.designernews.co/stories/116469-designernews-alternatives</id>
         <link href="https://www.designernews.co/stories/116469-designernews-alternatives"/>
@@ -488,16 +498,6 @@ Do you guys know any alternative?]]></summary>
         <summary type="html"><![CDATA[In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Best Mouse For Developer / Gaming / Coding]]></title>
-        <id>https://www.designernews.co/stories/116431-7-best-mouse-for-developer--gaming--coding</id>
-        <link href="https://www.designernews.co/stories/116431-7-best-mouse-for-developer--gaming--coding"/>
-        <updated>2021-06-29T05:19:41.000Z</updated>
-        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/7-best-mouse-for-developer-gaming-coding.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
