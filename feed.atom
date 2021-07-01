@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-01T04:00:40.510Z</id>
+    <id>urn:2021-07-01T05:00:40.568Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T04:00:40.510Z</updated>
+    <updated>2021-07-01T05:00:40.568Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How much Does it Cost to Build an App Like Instacart?]]></title>
+        <id>https://www.designernews.co/stories/116496-how-much-does-it-cost-to-build-an-app-like-instacart-</id>
+        <link href="https://www.designernews.co/stories/116496-how-much-does-it-cost-to-build-an-app-like-instacart-"/>
+        <updated>2021-07-01T04:42:26.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webcluesinfotech.com/cost-to-make-on-demand-grocery-delivery-app-like-instacart/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 10 Best Design Podcasts]]></title>
         <id>https://www.vectornator.io/blog/design-podcasts</id>
@@ -267,26 +277,6 @@ The post 26 Best Minimalist Fonts appeared first on Design Inspiration.]]></summ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Run 9 Different Profitable YouTube Channels and Make 6 Figures From Them]]></title>
-        <id>https://www.designernews.co/stories/116471-how-i-run-9-different-profitable-youtube-channels-and-make-6-figures-from-them</id>
-        <link href="https://www.designernews.co/stories/116471-how-i-run-9-different-profitable-youtube-channels-and-make-6-figures-from-them"/>
-        <updated>2021-06-30T04:21:53.000Z</updated>
-        <summary type="html"><![CDATA[http://www.digistore24.com/redir/299134/jaydhobi14/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Gain a Positively Unfair Advantage in Getting more Instagram Followers]]></title>
-        <id>https://www.designernews.co/stories/116470-how-to-gain-a-positively-unfair-advantage-in-getting-more-instagram-followers</id>
-        <link href="https://www.designernews.co/stories/116470-how-to-gain-a-positively-unfair-advantage-in-getting-more-instagram-followers"/>
-        <updated>2021-06-30T04:19:38.000Z</updated>
-        <summary type="html"><![CDATA[http://www.digistore24.com/redir/363843/jaydhobi14/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BidHeap - Send web design proposals in minutes]]></title>
         <id>https://app.bidheap.com/</id>
         <link href="http://www.webdesignernews.com/external/bidheap-send-web-design-proposals-in-minutes"/>
@@ -508,6 +498,16 @@ Do you guys know any alternative?]]></summary>
         <summary type="html"><![CDATA[In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RPA Trends for 2021 - Infographics]]></title>
+        <id>https://www.designernews.co/stories/116405-rpa-trends-for-2021--infographics</id>
+        <link href="https://www.designernews.co/stories/116405-rpa-trends-for-2021--infographics"/>
+        <updated>2021-06-28T09:18:33.000Z</updated>
+        <summary type="html"><![CDATA[https://www.zenesys.com/infographics/rpa-trends-for-2021]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
