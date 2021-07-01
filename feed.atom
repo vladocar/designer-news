@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-01T21:00:58.571Z</id>
+    <id>urn:2021-07-01T22:00:38.411Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T21:00:58.571Z</updated>
+    <updated>2021-07-01T22:00:38.411Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[24 Best Art Nouveau Fonts]]></title>
+        <id>https://www.designinspiration.info/?p=3287</id>
+        <link href="https://www.designinspiration.info/art-nouveau-fonts/"/>
+        <updated>2021-07-01T21:54:05.000Z</updated>
+        <summary type="html"><![CDATA[What is art nouveau? Once upon a time, there was a Paris based art and design school called Beaux-arts. It was founded in the middle of the 19th century by French architect Alphonse Mucha. It was a few years before Post-Impressionism, a time when people were rediscovering their cultural roots.
+The post 24 Best Art Nouveau Fonts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glass UI - Glassmorphism CSS Generator]]></title>
+        <id>https://ui.glass/generator</id>
+        <link href="http://www.webdesignernews.com/external/glass-ui-glassmorphism-css-generator"/>
+        <updated>2021-07-01T21:33:00.000Z</updated>
+        <summary type="html"><![CDATA[https://ui.glass/generator]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Radix Colors - A gorgeous, accessible, open-source color system]]></title>
         <id>https://www.radix-ui.com/colors</id>
@@ -312,16 +333,6 @@ The post 18 Best KDP for low content book templates appeared first on Design Ins
         <link href="http://www.webdesignernews.com/external/popular-sites-you-probably-didn-t-know-were-built-with-wordpress"/>
         <updated>2021-06-30T16:06:59.000Z</updated>
         <summary type="html"><![CDATA[https://1stwebdesigner.com/popular-sites-you-probably-didnt-know-were-built-with-wordpress/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 creative photo editing tips every graphic designer should know]]></title>
-        <id>https://dribbble.com/stories/2021/06/30/photo-editing-tips-for-graphic-design</id>
-        <link href="http://www.webdesignernews.com/external/5-creative-photo-editing-tips-every-graphic-designer-should-know"/>
-        <updated>2021-06-30T16:06:57.000Z</updated>
-        <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/30/photo-editing-tips-for-graphic-design]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
@@ -724,17 +735,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         <updated>2021-06-15T21:33:54.000Z</updated>
         <summary type="html"><![CDATA[Finding the right beach fonts for your projects may not be a simple task. With this collection, we gathered some of the best beach fonts for you to use in your projects. The range in appearance and use are diverse but they are generally well suited for summer themes or
 The post 23 Best Beach Fonts for Hot Designs appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best Pirate Fonts]]></title>
-        <id>https://www.designinspiration.info/?p=3091</id>
-        <link href="https://www.designinspiration.info/pirate-fonts/"/>
-        <updated>2021-06-15T19:35:04.000Z</updated>
-        <summary type="html"><![CDATA[Designing any type of print based around pirates or sea themes? Then you’ll probably need a ship wheel, an anchor and some pirate fonts. Here are 10 pirate fonts that are sure to be fantastic for use in your next nautical or pirate design. Pirates are well-known characters that have
-The post 10 Best Pirate Fonts appeared first on Design Inspiration.]]></summary>
         <author>
             <name>Editorial Staff</name>
         </author>
