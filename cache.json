@@ -103,12 +103,30 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://www.designernews.co/stories/116505-sublime-text-3-plugins-that-every-developer-must-use",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/04/sublime-text-3-plugins-that-every.html",
+          "link": "https://www.designernews.co/stories/116505-sublime-text-3-plugins-that-every-developer-must-use",
+          "publishedOn": "2021-07-01T09:34:22.000Z",
+          "wordCount": 179,
+          "title": "Sublime Text 3 Plugins That Every Developer Must Use"
+        },
+        {
+          "id": "https://www.designernews.co/stories/116504-3-ways-to-write-elegant-javascript-code",
+          "author": null,
+          "description": "https://cmsinstallation.blogspot.com/2021/05/3-ways-to-write-elegant-javascript-code.html",
+          "link": "https://www.designernews.co/stories/116504-3-ways-to-write-elegant-javascript-code",
+          "publishedOn": "2021-07-01T09:33:24.000Z",
+          "wordCount": 175,
+          "title": "3 Ways to Write Elegant JavaScript Code"
+        },
+        {
           "id": "https://www.designernews.co/stories/116503-rpa-use-cases-for-payroll-management",
           "author": null,
           "description": "https://www.zenesys.com/blog/rpa-use-cases-in-payroll-management",
           "link": "https://www.designernews.co/stories/116503-rpa-use-cases-for-payroll-management",
           "publishedOn": "2021-07-01T08:51:10.000Z",
-          "wordCount": 178,
+          "wordCount": 188,
           "title": "RPA Use Cases for Payroll Management"
         },
         {
@@ -117,7 +135,7 @@
           "description": "https://www.webcluesinfotech.com/cost-to-make-on-demand-grocery-delivery-app-like-instacart/",
           "link": "https://www.designernews.co/stories/116496-how-much-does-it-cost-to-build-an-app-like-instacart-",
           "publishedOn": "2021-07-01T04:42:26.000Z",
-          "wordCount": 185,
+          "wordCount": 183,
           "title": "How much Does it Cost to Build an App Like Instacart?"
         },
         {
@@ -126,7 +144,7 @@
           "description": "https://twitter.com/splinetool/status/1410254621323534340",
           "link": "https://www.designernews.co/stories/116493-spline-3d-design-challenge--futuristic-devices-win-an-imac-m1",
           "publishedOn": "2021-06-30T19:15:54.000Z",
-          "wordCount": 184,
+          "wordCount": 182,
           "title": "Spline 3D Design Challenge - Futuristic Devices (Win an iMac M1)"
         },
         {
@@ -135,7 +153,7 @@
           "description": "https://javascript.plainenglish.io/did-you-know-you-can-build-a-pwa-with-a-notion-page-13cf4762caf8",
           "link": "https://www.designernews.co/stories/116487-did-you-know-you-can-build-a-pwa-with-a-notion-page",
           "publishedOn": "2021-06-30T13:26:53.000Z",
-          "wordCount": 188,
+          "wordCount": 186,
           "title": "Did you know you can build a PWA with a Notion page?"
         },
         {
@@ -144,7 +162,7 @@
           "description": "https://www.behance.net/gallery/114727457/Humans-Various-illustrations",
           "link": "https://www.designernews.co/stories/116484-humans-are-wonderful--various-illustrations",
           "publishedOn": "2021-06-30T10:24:45.000Z",
-          "wordCount": 184,
+          "wordCount": 182,
           "title": "Humans are wonderful – Various illustrations"
         },
         {
@@ -153,7 +171,7 @@
           "description": "http://www.dlktech.co.in/flyers-posters-designing.php",
           "link": "https://www.designernews.co/stories/116483-flyer--poster-designing-company",
           "publishedOn": "2021-06-30T10:10:06.000Z",
-          "wordCount": 173,
+          "wordCount": 171,
           "title": "Flyer & Poster Designing Company"
         },
         {
@@ -162,8 +180,17 @@
           "description": "https://www.zenesys.com/blog/how-to-do-a/b-testing-in-kentico-xperience",
           "link": "https://www.designernews.co/stories/116481-how-to-do-ab-testing-in-kentico-xperience",
           "publishedOn": "2021-06-30T10:07:07.000Z",
-          "wordCount": 180,
+          "wordCount": 178,
           "title": "How to do A/B Testing in Kentico Xperience"
+        },
+        {
+          "id": "https://www.designernews.co/stories/116480-join-webinar-eliminating-b2b-data-decay-for-revenue-acceleration-15th-july-2021--1100-hours-1200-hours-ist",
+          "author": null,
+          "description": "https://zoom.us/webinar/register/6416240119698/WN_EKJX44xaQ1ONweETZcd3Tg",
+          "link": "https://www.designernews.co/stories/116480-join-webinar-eliminating-b2b-data-decay-for-revenue-acceleration-15th-july-2021--1100-hours-1200-hours-ist",
+          "publishedOn": "2021-06-30T08:46:59.000Z",
+          "wordCount": 196,
+          "title": "Join Webinar- Eliminating B2B Data Decay for Revenue Acceleration, 15th July 2021 | 1100 hours -1200 hours IST"
         },
         {
           "id": "https://www.designernews.co/stories/116476-why-are-tote-bags-better-than-plastic-bags",
@@ -171,7 +198,7 @@
           "description": "https://personalisedandprinted.blogspot.com/2021/06/why-are-tote-bags-better-than-plastic.html",
           "link": "https://www.designernews.co/stories/116476-why-are-tote-bags-better-than-plastic-bags",
           "publishedOn": "2021-06-30T06:32:28.000Z",
-          "wordCount": 177,
+          "wordCount": 175,
           "title": "Why Are Tote Bags Better Than Plastic Bags?"
         },
         {
@@ -180,7 +207,7 @@
           "description": "https://rummy-ui.com/",
           "link": "https://www.designernews.co/stories/116475-rummyui--the-new-ui-kit-with-reactangular-",
           "publishedOn": "2021-06-30T06:30:44.000Z",
-          "wordCount": 180,
+          "wordCount": 178,
           "title": "RummyUI - the new UI KIT with React/Angular"
         },
         {
@@ -189,7 +216,7 @@
           "description": "https://jumpgrowth.com/top-10-web-development-frameworks/",
           "link": "https://www.designernews.co/stories/116474-here-are-the-top-10-web-development-frameworks-in-2021-frontend--backend",
           "publishedOn": "2021-06-30T06:13:56.000Z",
-          "wordCount": 188,
+          "wordCount": 186,
           "title": "Here are the top 10 web development frameworks in 2021 (Frontend & Backend)"
         },
         {
@@ -198,7 +225,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/04/13-time-saving-tools-for-web-designers.html",
           "link": "https://www.designernews.co/stories/116473-13-timesaving-tools-for-web-developers-and-designers",
           "publishedOn": "2021-06-30T05:51:53.000Z",
-          "wordCount": 179,
+          "wordCount": 177,
           "title": "13 Time-Saving Tools for Web Developers and Designers"
         },
         {
@@ -207,7 +234,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/04/5-common-challenges-faced-by-web.html",
           "link": "https://www.designernews.co/stories/116472-5-common-challenges-faced-by-web-developers",
           "publishedOn": "2021-06-30T05:51:04.000Z",
-          "wordCount": 177,
+          "wordCount": 175,
           "title": "5 Common Challenges Faced by Web Developers"
         },
         {
@@ -216,7 +243,7 @@
           "description": "Is someone still there? \r\n\r\nMiss designernews before it became only spam. Do we already have an alternative? Heard that the subreddit is dead too...\r\n\r\nDo you guys know any alternative?",
           "link": "https://www.designernews.co/stories/116469-designernews-alternatives",
           "publishedOn": "2021-06-29T21:43:43.000Z",
-          "wordCount": 238,
+          "wordCount": 236,
           "title": "DESIGNERNEWS ALTERNATIVES?"
         },
         {
@@ -225,7 +252,7 @@
           "description": "https://apps.apple.com/us/app/then-activity-mood-diary/id1563184080#?platform=iphone",
           "link": "https://www.designernews.co/stories/116465-then--activity--mood-diary-understand-how-you-spend-time-and-what-influences-your-mood-",
           "publishedOn": "2021-06-29T16:40:05.000Z",
-          "wordCount": 195,
+          "wordCount": 193,
           "title": "Then — Activity & Mood Diary. Understand how you spend time and what influences your mood."
         },
         {
@@ -234,7 +261,7 @@
           "description": "https://bookmarkos.com/bookmark-manager-finder",
           "link": "https://www.designernews.co/stories/116463-bookmark-manager-finder--filter-every-bookmark-manager-ever-made-by-features",
           "publishedOn": "2021-06-29T16:22:38.000Z",
-          "wordCount": 187,
+          "wordCount": 185,
           "title": "Bookmark manager finder - filter every bookmark manager ever made by features"
         },
         {
@@ -243,7 +270,7 @@
           "description": "https://iqlevels.co/",
           "link": "https://www.designernews.co/stories/116460-is-your-iq-score-high-enough-to-be-considered-a-genius",
           "publishedOn": "2021-06-29T13:19:14.000Z",
-          "wordCount": 312,
+          "wordCount": 310,
           "title": "Is your IQ score high enough to be considered a genius?"
         },
         {
@@ -252,17 +279,8 @@
           "description": "https://ui.glass/generator",
           "link": "https://www.designernews.co/stories/116457-glassmorphism-css-generator",
           "publishedOn": "2021-06-29T12:53:55.000Z",
-          "wordCount": 285,
+          "wordCount": 283,
           "title": "Glassmorphism CSS Generator"
-        },
-        {
-          "id": "https://www.designernews.co/stories/116456-what-is-a-website-homepage-and-what-elements-make-it-great",
-          "author": null,
-          "description": "https://wpklik.com/wordpress-tips/website-homepage/",
-          "link": "https://www.designernews.co/stories/116456-what-is-a-website-homepage-and-what-elements-make-it-great",
-          "publishedOn": "2021-06-29T12:25:00.000Z",
-          "wordCount": 183,
-          "title": "What is a Website Homepage and What Elements Make it Great?"
         },
         {
           "id": "https://www.designernews.co/stories/116455-design-startup-in-15-months--12k-resources",
@@ -270,7 +288,7 @@
           "description": "https://www.uihut.com/",
           "link": "https://www.designernews.co/stories/116455-design-startup-in-15-months--12k-resources",
           "publishedOn": "2021-06-29T12:17:26.000Z",
-          "wordCount": 202,
+          "wordCount": 200,
           "title": "Design Startup in 15 months - 12k+ resources"
         },
         {
@@ -279,7 +297,7 @@
           "description": "https://botpenguin.com/7-reasons-why-is-your-business-in-need-of-a-chatbot/",
           "link": "https://www.designernews.co/stories/116453-7-reasons-why-is-your-business-in-need-of-a-chatbot",
           "publishedOn": "2021-06-29T11:14:58.000Z",
-          "wordCount": 184,
+          "wordCount": 182,
           "title": "7 Reasons- Why is your business in need of a chatbot?"
         },
         {
@@ -288,17 +306,8 @@
           "description": "https://www.zenesys.com/infographics/xamarin-the-best-cross-platform-app-development",
           "link": "https://www.designernews.co/stories/116448-xamarin--the-best-crossplatform-app-development",
           "publishedOn": "2021-06-29T10:19:55.000Z",
-          "wordCount": 178,
+          "wordCount": 176,
           "title": "Xamarin - The Best Cross-Platform App Development"
-        },
-        {
-          "id": "https://www.designernews.co/stories/116441-using-framer-motion-to-create-smooth-lazy-load-image-effects",
-          "author": null,
-          "description": "https://prototypr.io/post/using-framer-motion-to-create-smooth-lazy-load-image-effects/",
-          "link": "https://www.designernews.co/stories/116441-using-framer-motion-to-create-smooth-lazy-load-image-effects",
-          "publishedOn": "2021-06-29T08:17:42.000Z",
-          "wordCount": 181,
-          "title": "Using Framer Motion to Create Smooth Lazy Load Image Effects"
         },
         {
           "id": "https://www.designernews.co/stories/116431-7-best-mouse-for-developer--gaming--coding",
@@ -306,7 +315,7 @@
           "description": "https://cmsinstallation.blogspot.com/2021/05/7-best-mouse-for-developer-gaming-coding.html",
           "link": "https://www.designernews.co/stories/116431-7-best-mouse-for-developer--gaming--coding",
           "publishedOn": "2021-06-29T05:19:41.000Z",
-          "wordCount": 181,
+          "wordCount": 179,
           "title": "7 Best Mouse For Developer / Gaming / Coding"
         },
         {
@@ -315,17 +324,8 @@
           "description": "https://cmsinstallation.blogspot.com/2021/05/top-7-monitors-for-gammers-programmers.html",
           "link": "https://www.designernews.co/stories/116430-top-7-monitors-for-programmers--coders",
           "publishedOn": "2021-06-29T05:11:16.000Z",
-          "wordCount": 177,
+          "wordCount": 175,
           "title": "TOP 7 Monitors For Programmers / Coders"
-        },
-        {
-          "id": "https://www.designernews.co/stories/116424-make-a-kickass-portfolio-on-webflow-template-included",
-          "author": null,
-          "description": "https://www.youtube.com/watch?v=DQf0azkzm2Y",
-          "link": "https://www.designernews.co/stories/116424-make-a-kickass-portfolio-on-webflow-template-included",
-          "publishedOn": "2021-06-28T17:20:17.000Z",
-          "wordCount": 177,
-          "title": "Make A Kickass Portfolio On Webflow (Template Included)"
         }
       ]
     },
@@ -340,7 +340,7 @@
           "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
           "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
           "publishedOn": "2021-06-30T12:00:00.000Z",
-          "wordCount": 4691,
+          "wordCount": 4734,
           "title": "The State Of Web Workers In 2021",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
@@ -354,7 +354,7 @@
           "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
           "publishedOn": "2021-06-30T09:30:00.000Z",
-          "wordCount": 3648,
+          "wordCount": 3702,
           "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
@@ -396,7 +396,7 @@
           "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
           "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2514,
+          "wordCount": 2473,
           "title": "Creating Custom Emmet Snippets In VS Code",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
@@ -424,7 +424,7 @@
           "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
           "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
           "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3522,
+          "wordCount": 3482,
           "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
@@ -438,7 +438,7 @@
           "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
           "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
           "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4171,
+          "wordCount": 4170,
           "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
@@ -466,7 +466,7 @@
           "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
           "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
           "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1391,
+          "wordCount": 1396,
           "title": "Automating Screen Reader Testing On macOS Using Auto VO",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
@@ -494,7 +494,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5349,
+          "wordCount": 5314,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -508,7 +508,7 @@
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3415,
+          "wordCount": 3416,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -522,7 +522,7 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3915,
+          "wordCount": 3958,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
@@ -550,7 +550,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4098,
+          "wordCount": 4099,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -592,7 +592,7 @@
           "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
           "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
           "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3671,
+          "wordCount": 3672,
           "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
@@ -606,7 +606,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1748,
+          "wordCount": 1742,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -620,7 +620,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5149,
+          "wordCount": 5154,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -634,7 +634,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 867,
+          "wordCount": 872,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -648,7 +648,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2780,
+          "wordCount": 2782,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -676,7 +676,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2392,
+          "wordCount": 2391,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -690,7 +690,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4422,
+          "wordCount": 4413,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -704,7 +704,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3675,
+          "wordCount": 3715,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -732,7 +732,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5663,
+          "wordCount": 5648,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -852,7 +852,7 @@
           "description": "https://www.webdesignerdepot.com/2021/06/i-love-typography-launches-font-store/",
           "link": "http://www.webdesignernews.com/external/i-love-typography-launches-font-store",
           "publishedOn": "2021-06-30T16:06:38.000Z",
-          "wordCount": 716,
+          "wordCount": 728,
           "title": "I Love Typography Launches Font Store"
         },
         {
@@ -861,7 +861,7 @@
           "description": "https://www.smashingmagazine.com/2021/06/web-workers-2021/",
           "link": "http://www.webdesignernews.com/external/the-state-of-web-workers-in-2021",
           "publishedOn": "2021-06-30T14:08:00.000Z",
-          "wordCount": 4691,
+          "wordCount": 4734,
           "title": "The State Of Web Workers In 2021"
         },
         {

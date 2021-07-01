@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-01T09:01:15.079Z</id>
+    <id>urn:2021-07-01T10:00:49.409Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T09:01:15.079Z</updated>
+    <updated>2021-07-01T10:00:49.409Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sublime Text 3 Plugins That Every Developer Must Use]]></title>
+        <id>https://www.designernews.co/stories/116505-sublime-text-3-plugins-that-every-developer-must-use</id>
+        <link href="https://www.designernews.co/stories/116505-sublime-text-3-plugins-that-every-developer-must-use"/>
+        <updated>2021-07-01T09:34:22.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/04/sublime-text-3-plugins-that-every.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Ways to Write Elegant JavaScript Code]]></title>
+        <id>https://www.designernews.co/stories/116504-3-ways-to-write-elegant-javascript-code</id>
+        <link href="https://www.designernews.co/stories/116504-3-ways-to-write-elegant-javascript-code"/>
+        <updated>2021-07-01T09:33:24.000Z</updated>
+        <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/3-ways-to-write-elegant-javascript-code.html]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RPA Use Cases for Payroll Management]]></title>
         <id>https://www.designernews.co/stories/116503-rpa-use-cases-for-payroll-management</id>
@@ -257,6 +277,16 @@ The post 26 Best Minimalist Fonts appeared first on Design Inspiration.]]></summ
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Join Webinar- Eliminating B2B Data Decay for Revenue Acceleration, 15th July 2021 | 1100 hours -1200 hours IST]]></title>
+        <id>https://www.designernews.co/stories/116480-join-webinar-eliminating-b2b-data-decay-for-revenue-acceleration-15th-july-2021--1100-hours-1200-hours-ist</id>
+        <link href="https://www.designernews.co/stories/116480-join-webinar-eliminating-b2b-data-decay-for-revenue-acceleration-15th-july-2021--1100-hours-1200-hours-ist"/>
+        <updated>2021-06-30T08:46:59.000Z</updated>
+        <summary type="html"><![CDATA[https://zoom.us/webinar/register/6416240119698/WN_EKJX44xaQ1ONweETZcd3Tg]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Are Tote Bags Better Than Plastic Bags?]]></title>
         <id>https://www.designernews.co/stories/116476-why-are-tote-bags-better-than-plastic-bags</id>
         <link href="https://www.designernews.co/stories/116476-why-are-tote-bags-better-than-plastic-bags"/>
@@ -411,16 +441,6 @@ Do you guys know any alternative?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is a Website Homepage and What Elements Make it Great?]]></title>
-        <id>https://www.designernews.co/stories/116456-what-is-a-website-homepage-and-what-elements-make-it-great</id>
-        <link href="https://www.designernews.co/stories/116456-what-is-a-website-homepage-and-what-elements-make-it-great"/>
-        <updated>2021-06-29T12:25:00.000Z</updated>
-        <summary type="html"><![CDATA[https://wpklik.com/wordpress-tips/website-homepage/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Design Startup in 15 months - 12k+ resources]]></title>
         <id>https://www.designernews.co/stories/116455-design-startup-in-15-months--12k-resources</id>
         <link href="https://www.designernews.co/stories/116455-design-startup-in-15-months--12k-resources"/>
@@ -461,16 +481,6 @@ Do you guys know any alternative?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Framer Motion to Create Smooth Lazy Load Image Effects]]></title>
-        <id>https://www.designernews.co/stories/116441-using-framer-motion-to-create-smooth-lazy-load-image-effects</id>
-        <link href="https://www.designernews.co/stories/116441-using-framer-motion-to-create-smooth-lazy-load-image-effects"/>
-        <updated>2021-06-29T08:17:42.000Z</updated>
-        <summary type="html"><![CDATA[https://prototypr.io/post/using-framer-motion-to-create-smooth-lazy-load-image-effects/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 40 Mike Cavaliere: What Is Chakra UI For React?]]></title>
         <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/</id>
         <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/"/>
@@ -496,16 +506,6 @@ Do you guys know any alternative?]]></summary>
         <link href="https://www.designernews.co/stories/116430-top-7-monitors-for-programmers--coders"/>
         <updated>2021-06-29T05:11:16.000Z</updated>
         <summary type="html"><![CDATA[https://cmsinstallation.blogspot.com/2021/05/top-7-monitors-for-gammers-programmers.html]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make A Kickass Portfolio On Webflow (Template Included)]]></title>
-        <id>https://www.designernews.co/stories/116424-make-a-kickass-portfolio-on-webflow-template-included</id>
-        <link href="https://www.designernews.co/stories/116424-make-a-kickass-portfolio-on-webflow-template-included"/>
-        <updated>2021-06-28T17:20:17.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=DQf0azkzm2Y]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
