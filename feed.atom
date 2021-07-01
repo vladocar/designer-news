@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-01T11:00:48.600Z</id>
+    <id>urn:2021-07-01T12:00:48.213Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T11:00:48.600Z</updated>
+    <updated>2021-07-01T12:00:48.213Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Unique Color Palette]]></title>
+        <id>https://www.vectornator.io/blog/color-palette</id>
+        <link href="http://www.webdesignernews.com/external/how-to-create-a-unique-color-palette"/>
+        <updated>2021-07-01T11:23:25.000Z</updated>
+        <summary type="html"><![CDATA[https://www.vectornator.io/blog/color-palette]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Average Colors of the World]]></title>
+        <id>https://erdavis.com/2021/06/26/average-colors-of-the-world/</id>
+        <link href="http://www.webdesignernews.com/external/average-colors-of-the-world"/>
+        <updated>2021-07-01T11:23:08.000Z</updated>
+        <summary type="html"><![CDATA[https://erdavis.com/2021/06/26/average-colors-of-the-world/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Many Shades Of July (2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://www.smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/</id>
+        <link href="http://www.webdesignernews.com/external/the-many-shades-of-july-2021-desktop-wallpapers-edition"/>
+        <updated>2021-07-01T11:16:14.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interactive Visual History of Git Development]]></title>
+        <id>https://git-history.jpalmer.dev/</id>
+        <link href="http://www.webdesignernews.com/external/an-interactive-visual-history-of-git-development"/>
+        <updated>2021-07-01T11:03:25.000Z</updated>
+        <summary type="html"><![CDATA[https://git-history.jpalmer.dev/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sublime Text 3 Plugins That Every Developer Must Use]]></title>
         <id>https://www.designernews.co/stories/116505-sublime-text-3-plugins-that-every-developer-must-use</id>
@@ -358,46 +398,6 @@ Miss designernews before it became only spam. Do we already have an alternative?
 Do you guys know any alternative?]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Half the world owns a smartphone now]]></title>
-        <id>https://www.androidpolice.com/2021/06/28/half-the-world-owns-a-smartphone-now/</id>
-        <link href="http://www.webdesignernews.com/external/half-the-world-owns-a-smartphone-now"/>
-        <updated>2021-06-29T20:55:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.androidpolice.com/2021/06/28/half-the-world-owns-a-smartphone-now/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faasly.io - Find and fix the root cause of serverless production issues]]></title>
-        <id>https://faasly.io/</id>
-        <link href="http://www.webdesignernews.com/external/faasly-io-find-and-fix-the-root-cause-of-serverless-production-issues"/>
-        <updated>2021-06-29T20:26:38.000Z</updated>
-        <summary type="html"><![CDATA[https://faasly.io/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embarrassing Coca-Cola design fail bemuses the internet]]></title>
-        <id>https://www.creativebloq.com/news/coca-cola-pride-fail</id>
-        <link href="http://www.webdesignernews.com/external/embarrassing-coca-cola-design-fail-bemuses-the-internet"/>
-        <updated>2021-06-29T20:14:25.000Z</updated>
-        <summary type="html"><![CDATA[https://www.creativebloq.com/news/coca-cola-pride-fail]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working around the viewport-based fluid typography bug in Safari]]></title>
-        <id>https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/</id>
-        <link href="http://www.webdesignernews.com/external/working-around-the-viewport-based-fluid-typography-bug-in-safari"/>
-        <updated>2021-06-29T19:21:01.000Z</updated>
-        <summary type="html"><![CDATA[https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
