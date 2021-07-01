@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-01T22:00:38.411Z</id>
+    <id>urn:2021-07-01T23:00:37.388Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T22:00:38.411Z</updated>
+    <updated>2021-07-01T23:00:37.388Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10 Summer Color Palettes 2021]]></title>
+        <id>https://www.designinspiration.info/?p=3345</id>
+        <link href="https://www.designinspiration.info/summer-color-palettes/"/>
+        <updated>2021-07-01T22:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Summer is almost here and everyone is excited because that means vacations, outdoor sports, and fun in the sun. For designers, summer means endless colorful themes to use in your designs. We’ve put together this list of 10 Summer Color Palettes to get your inspiration flowing and to give you
+The post 10 Summer Color Palettes 2021 appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[24 Best Art Nouveau Fonts]]></title>
         <id>https://www.designinspiration.info/?p=3287</id>
@@ -729,17 +740,6 @@ The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[23 Best Beach Fonts for Hot Designs]]></title>
-        <id>https://www.designinspiration.info/?p=3109</id>
-        <link href="https://www.designinspiration.info/beach-fonts/"/>
-        <updated>2021-06-15T21:33:54.000Z</updated>
-        <summary type="html"><![CDATA[Finding the right beach fonts for your projects may not be a simple task. With this collection, we gathered some of the best beach fonts for you to use in your projects. The range in appearance and use are diverse but they are generally well suited for summer themes or
-The post 23 Best Beach Fonts for Hot Designs appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spinning Up Multiple WordPress Sites Locally With DevKinsta]]></title>
         <id>https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/</id>
         <link href="https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/"/>
@@ -857,16 +857,6 @@ The post 23 Best Beach Fonts for Hot Designs appeared first on Design Inspiratio
         <summary type="html"><![CDATA[Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of An Online Store (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/</id>
-        <link href="https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/"/>
-        <updated>2021-06-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jennifer Brehm)</name>
         </author>
     </entry>
 </feed>
