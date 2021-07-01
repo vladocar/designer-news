@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-01T20:01:07.712Z</id>
+    <id>urn:2021-07-01T21:00:58.571Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T20:01:07.712Z</updated>
+    <updated>2021-07-01T21:00:58.571Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Radix Colors - A gorgeous, accessible, open-source color system]]></title>
+        <id>https://www.radix-ui.com/colors</id>
+        <link href="http://www.webdesignernews.com/external/radix-colors-a-gorgeous-accessible-open-source-color-system"/>
+        <updated>2021-07-01T20:16:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.radix-ui.com/colors]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15 CSS Paper Effects]]></title>
         <id>https://csshint.com/css-paper-effects/</id>
@@ -312,16 +322,6 @@ The post 18 Best KDP for low content book templates appeared first on Design Ins
         <link href="http://www.webdesignernews.com/external/5-creative-photo-editing-tips-every-graphic-designer-should-know"/>
         <updated>2021-06-30T16:06:57.000Z</updated>
         <summary type="html"><![CDATA[https://dribbble.com/stories/2021/06/30/photo-editing-tips-for-graphic-design]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Internet Is Rotting]]></title>
-        <id>https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/</id>
-        <link href="http://www.webdesignernews.com/external/the-internet-is-rotting"/>
-        <updated>2021-06-30T16:06:55.000Z</updated>
-        <summary type="html"><![CDATA[https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
