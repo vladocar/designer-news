@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-02T18:00:47.471Z</id>
+    <id>urn:2021-07-02T19:00:41.421Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T18:00:47.471Z</updated>
+    <updated>2021-07-02T19:00:41.421Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 5 In-Demand Programming Language To Learn For Freelancers]]></title>
+        <id>https://livecodestream.dev/post/top-in-demand-programming-languages-for-freelancers/</id>
+        <link href="http://www.webdesignernews.com/external/top-5-in-demand-programming-language-to-learn-for-freelancers"/>
+        <updated>2021-07-02T18:47:00.000Z</updated>
+        <summary type="html"><![CDATA[https://livecodestream.dev/post/top-in-demand-programming-languages-for-freelancers/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Cute Unicorn Fonts]]></title>
         <id>https://www.designinspiration.info/?p=3361</id>
@@ -315,16 +325,6 @@ The post 18 Best KDP for low content book templates appeared first on Design Ins
         <link href="http://www.webdesignernews.com/external/average-colors-of-the-world"/>
         <updated>2021-07-01T11:23:08.000Z</updated>
         <summary type="html"><![CDATA[https://erdavis.com/2021/06/26/average-colors-of-the-world/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Many Shades Of July (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://www.smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/</id>
-        <link href="http://www.webdesignernews.com/external/the-many-shades-of-july-2021-desktop-wallpapers-edition"/>
-        <updated>2021-07-01T11:16:14.000Z</updated>
-        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
