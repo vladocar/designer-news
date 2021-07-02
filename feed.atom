@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-02T17:12:48.879Z</id>
+    <id>urn:2021-07-02T18:00:47.471Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T17:12:48.879Z</updated>
+    <updated>2021-07-02T18:00:47.471Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10 Cute Unicorn Fonts]]></title>
+        <id>https://www.designinspiration.info/?p=3361</id>
+        <link href="https://www.designinspiration.info/unicorn-fonts/"/>
+        <updated>2021-07-02T17:28:23.000Z</updated>
+        <summary type="html"><![CDATA[Looking for cute Unicorn fonts? We did some research and we collected the top 10 cute unicorn fonts. All of these fonts are really fun to use.  Unicorns are fun, positive and cool. The mythical unicorn as a result is a popular subject in creativity, particularly in the design world.
+The post 10 Cute Unicorn Fonts appeared first on Design Inspiration.]]></summary>
+        <author>
+            <name>Editorial Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Detecting Hover-Capable Devices]]></title>
         <id>https://css-irl.info/detecting-hover-capable-devices/</id>
@@ -726,17 +737,6 @@ The post 34 Best School Fonts appeared first on Design Inspiration.]]></summary>
         <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14 Best Pixel Fonts for Retro Arcade Designs]]></title>
-        <id>https://www.designinspiration.info/?p=3126</id>
-        <link href="https://www.designinspiration.info/pixel-fonts/"/>
-        <updated>2021-06-16T18:27:19.000Z</updated>
-        <summary type="html"><![CDATA[Pixel fonts are perhaps the most prolific and popular retro typefaces out there. They seem to be a dime a dozen at this point; but among the many, there are a few that stick out as superior and near-perfect adaptations of pixelation. In this article, I’ll go through our picks
-The post 14 Best Pixel Fonts for Retro Arcade Designs appeared first on Design Inspiration.]]></summary>
-        <author>
-            <name>Editorial Staff</name>
         </author>
     </entry>
     <entry>
