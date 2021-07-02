@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-02T16:00:52.178Z</id>
+    <id>urn:2021-07-02T17:12:48.879Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T16:00:52.178Z</updated>
+    <updated>2021-07-02T17:12:48.879Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Detecting Hover-Capable Devices]]></title>
+        <id>https://css-irl.info/detecting-hover-capable-devices/</id>
+        <link href="http://www.webdesignernews.com/external/detecting-hover-capable-devices"/>
+        <updated>2021-07-02T16:07:00.000Z</updated>
+        <summary type="html"><![CDATA[https://css-irl.info/detecting-hover-capable-devices/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fluid Paint]]></title>
         <id>https://david.li/paint/</id>
@@ -309,16 +319,6 @@ The post 18 Best KDP for low content book templates appeared first on Design Ins
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Interactive Visual History of Git Development]]></title>
-        <id>https://git-history.jpalmer.dev/</id>
-        <link href="http://www.webdesignernews.com/external/an-interactive-visual-history-of-git-development"/>
-        <updated>2021-07-01T11:03:25.000Z</updated>
-        <summary type="html"><![CDATA[https://git-history.jpalmer.dev/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sublime Text 3 Plugins That Every Developer Must Use]]></title>
         <id>https://www.designernews.co/stories/116505-sublime-text-3-plugins-that-every-developer-must-use</id>
         <link href="https://www.designernews.co/stories/116505-sublime-text-3-plugins-that-every-developer-must-use"/>
@@ -534,11 +534,11 @@ Do you guys know any alternative?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is your IQ score high enough to be considered a genius?]]></title>
-        <id>https://www.designernews.co/stories/116460-is-your-iq-score-high-enough-to-be-considered-a-genius</id>
-        <link href="https://www.designernews.co/stories/116460-is-your-iq-score-high-enough-to-be-considered-a-genius"/>
-        <updated>2021-06-29T13:19:14.000Z</updated>
-        <summary type="html"><![CDATA[https://iqlevels.co/]]></summary>
+        <title type="html"><![CDATA[Glassmorphism CSS Generator]]></title>
+        <id>https://www.designernews.co/stories/116457-glassmorphism-css-generator</id>
+        <link href="https://www.designernews.co/stories/116457-glassmorphism-css-generator"/>
+        <updated>2021-06-29T12:53:55.000Z</updated>
+        <summary type="html"><![CDATA[https://ui.glass/generator]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
