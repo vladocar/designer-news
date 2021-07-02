@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-02T15:01:01.885Z</id>
+    <id>urn:2021-07-02T16:00:52.178Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T15:01:01.885Z</updated>
+    <updated>2021-07-02T16:00:52.178Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fluid Paint]]></title>
+        <id>https://david.li/paint/</id>
+        <link href="http://www.webdesignernews.com/external/fluid-paint"/>
+        <updated>2021-07-02T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[https://david.li/paint/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Wireframe? Your Go-To Guide on Wireframe Design]]></title>
         <id>https://www.webfx.com/blog/web-design/what-is-a-wireframe/</id>
@@ -366,16 +376,6 @@ The post 18 Best KDP for low content book templates appeared first on Design Ins
         <summary type="html"><![CDATA[https://www.webcluesinfotech.com/cost-to-make-on-demand-grocery-delivery-app-like-instacart/]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 10 Best Design Podcasts]]></title>
-        <id>https://www.vectornator.io/blog/design-podcasts</id>
-        <link href="http://www.webdesignernews.com/external/the-10-best-design-podcasts"/>
-        <updated>2021-06-30T23:16:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.vectornator.io/blog/design-podcasts]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
