@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-02T14:00:32.062Z</id>
+    <id>urn:2021-07-02T15:01:01.885Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T14:00:32.063Z</updated>
+    <updated>2021-07-02T15:01:01.885Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is a Wireframe? Your Go-To Guide on Wireframe Design]]></title>
+        <id>https://www.webfx.com/blog/web-design/what-is-a-wireframe/</id>
+        <link href="http://www.webdesignernews.com/external/what-is-a-wireframe-your-go-to-guide-on-wireframe-design"/>
+        <updated>2021-07-02T14:23:00.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webfx.com/blog/web-design/what-is-a-wireframe/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[July 4th QR Code Generator - Custom branded QR codes for the 4th of July]]></title>
         <id>https://priceblocs.com/tools/qr-codes/usa</id>
@@ -364,16 +374,6 @@ The post 18 Best KDP for low content book templates appeared first on Design Ins
         <link href="http://www.webdesignernews.com/external/the-10-best-design-podcasts"/>
         <updated>2021-06-30T23:16:00.000Z</updated>
         <summary type="html"><![CDATA[https://www.vectornator.io/blog/design-podcasts]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI & UX Micro-Tips: Volume Six]]></title>
-        <id>https://marcandrew.me/ui-ux-micro-tips-volume-six/</id>
-        <link href="http://www.webdesignernews.com/external/ui-ux-micro-tips-volume-six"/>
-        <updated>2021-06-30T22:54:00.000Z</updated>
-        <summary type="html"><![CDATA[https://marcandrew.me/ui-ux-micro-tips-volume-six/]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
