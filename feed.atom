@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-02T11:00:54.201Z</id>
+    <id>urn:2021-07-02T12:00:52.696Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T11:00:54.201Z</updated>
+    <updated>2021-07-02T12:00:52.696Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[17 Things You Can Do To Improve Your SEO Ranking In 2021]]></title>
+        <id>https://www.webdesignerdepot.com/2021/07/https-www-searchenginejournal-com-seo-guide-brand-building-strategy/</id>
+        <link href="http://www.webdesignernews.com/external/17-things-you-can-do-to-improve-your-seo-ranking-in-2021"/>
+        <updated>2021-07-02T11:34:43.000Z</updated>
+        <summary type="html"><![CDATA[https://www.webdesignerdepot.com/2021/07/https-www-searchenginejournal-com-seo-guide-brand-building-strategy/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It is the perfect time to switch to a career in design. Here's how]]></title>
+        <id>https://www.fastcompany.com/90651621/its-the-perfect-time-to-switch-to-a-career-in-design-heres-how</id>
+        <link href="http://www.webdesignernews.com/external/it-is-the-perfect-time-to-switch-to-a-career-in-design-here-s-how"/>
+        <updated>2021-07-02T11:28:06.000Z</updated>
+        <summary type="html"><![CDATA[https://www.fastcompany.com/90651621/its-the-perfect-time-to-switch-to-a-career-in-design-heres-how]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codelia - Headless CMS to develop websites and e-commerce]]></title>
+        <id>https://codeliacms.com/</id>
+        <link href="http://www.webdesignernews.com/external/codelia-headless-cms-to-develop-websites-and-e-commerce"/>
+        <updated>2021-07-02T11:21:04.000Z</updated>
+        <summary type="html"><![CDATA[https://codeliacms.com/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six Common Testing Pitfalls And How To Solve Them]]></title>
+        <id>https://www.smashingmagazine.com/2021/07/frontend-testing-pitfalls/</id>
+        <link href="http://www.webdesignernews.com/external/six-common-testing-pitfalls-and-how-to-solve-them"/>
+        <updated>2021-07-02T11:21:02.000Z</updated>
+        <summary type="html"><![CDATA[https://www.smashingmagazine.com/2021/07/frontend-testing-pitfalls/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Web Development Frameworks in 2021 that Every Developer Should Know]]></title>
+        <id>https://www.designernews.co/stories/116523-top-10-web-development-frameworks-in-2021-that-every-developer-should-know</id>
+        <link href="https://www.designernews.co/stories/116523-top-10-web-development-frameworks-in-2021-that-every-developer-should-know"/>
+        <updated>2021-07-02T10:59:18.000Z</updated>
+        <summary type="html"><![CDATA[https://zenesyslabs.medium.com/top-10-web-development-frameworks-in-2021-that-every-developer-should-know-2b4a380af7cf]]></summary>
+        <author>
+            <name>Designer News Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email Testing Flow As It Should Be]]></title>
+        <id>https://smashingmagazine.com/2021/07/email-testing-flow/</id>
+        <link href="https://smashingmagazine.com/2021/07/email-testing-flow/"/>
+        <updated>2021-07-02T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andriy Zapisotskyi)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rewind JUNE:: Useful Programing article & Stuff of JUNE - 2021]]></title>
         <id>https://www.designernews.co/stories/116522-rewind-june-useful-programing-article--stuff-of-june--2021-</id>
@@ -163,7 +223,7 @@ The post 18 Best KDP for low content book templates appeared first on Design Ins
         <id>https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/</id>
         <link href="https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/"/>
         <updated>2021-07-01T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. In sum, they can lead to lousy maintainability, slow execution time, and — in the worst case — tests you cannot trust. But it doesn’t have to be that way. In this article, I will talk about common mistakes developers make, at least in my experience, and, of course, how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
+        <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ramona Schwering)</name>
         </author>
@@ -309,16 +369,6 @@ The post 18 Best KDP for low content book templates appeared first on Design Ins
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We gave up Sketch and rebuilt our design system in Figma]]></title>
-        <id>https://bootcamp.uxdesign.cc/we-gave-up-sketch-and-rebuilt-our-design-system-in-figma-a1dfc64948e5?sk=2aed6d1fafd1a6f94bffcb5a1150124e</id>
-        <link href="http://www.webdesignernews.com/external/we-gave-up-sketch-and-rebuilt-our-design-system-in-figma"/>
-        <updated>2021-06-30T20:51:13.000Z</updated>
-        <summary type="html"><![CDATA[https://bootcamp.uxdesign.cc/we-gave-up-sketch-and-rebuilt-our-design-system-in-figma-a1dfc64948e5?sk=2aed6d1fafd1a6f94bffcb5a1150124e]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spline 3D Design Challenge - Futuristic Devices (Win an iMac M1)]]></title>
         <id>https://www.designernews.co/stories/116493-spline-3d-design-challenge--futuristic-devices-win-an-imac-m1</id>
         <link href="https://www.designernews.co/stories/116493-spline-3d-design-challenge--futuristic-devices-win-an-imac-m1"/>
@@ -326,36 +376,6 @@ The post 18 Best KDP for low content book templates appeared first on Design Ins
         <summary type="html"><![CDATA[https://twitter.com/splinetool/status/1410254621323534340]]></summary>
         <author>
             <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons from Building a Static Site Generator]]></title>
-        <id>https://nicholasreese.com/lessons-from-building-a-static-site-generator/</id>
-        <link href="http://www.webdesignernews.com/external/lessons-from-building-a-static-site-generator"/>
-        <updated>2021-06-30T18:22:00.000Z</updated>
-        <summary type="html"><![CDATA[https://nicholasreese.com/lessons-from-building-a-static-site-generator/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not another design tool!]]></title>
-        <id>https://medium.com/nextux/not-another-design-tool-ff8e7242365e</id>
-        <link href="http://www.webdesignernews.com/external/not-another-design-tool"/>
-        <updated>2021-06-30T16:22:00.000Z</updated>
-        <summary type="html"><![CDATA[https://medium.com/nextux/not-another-design-tool-ff8e7242365e]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Popular Sites You (Probably) Didn?t Know Were Built With WordPress]]></title>
-        <id>https://1stwebdesigner.com/popular-sites-you-probably-didnt-know-were-built-with-wordpress/</id>
-        <link href="http://www.webdesignernews.com/external/popular-sites-you-probably-didn-t-know-were-built-with-wordpress"/>
-        <updated>2021-06-30T16:06:59.000Z</updated>
-        <summary type="html"><![CDATA[https://1stwebdesigner.com/popular-sites-you-probably-didnt-know-were-built-with-wordpress/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
         </author>
     </entry>
     <entry>
@@ -499,16 +519,6 @@ The post 26 Best Minimalist Fonts appeared first on Design Inspiration.]]></summ
 Miss designernews before it became only spam. Do we already have an alternative? Heard that the subreddit is dead too...
 
 Do you guys know any alternative?]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bookmark manager finder - filter every bookmark manager ever made by features]]></title>
-        <id>https://www.designernews.co/stories/116463-bookmark-manager-finder--filter-every-bookmark-manager-ever-made-by-features</id>
-        <link href="https://www.designernews.co/stories/116463-bookmark-manager-finder--filter-every-bookmark-manager-ever-made-by-features"/>
-        <updated>2021-06-29T16:22:38.000Z</updated>
-        <summary type="html"><![CDATA[https://bookmarkos.com/bookmark-manager-finder]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
