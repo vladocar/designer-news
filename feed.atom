@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-02T13:10:55.492Z</id>
+    <id>urn:2021-07-02T14:00:32.062Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T13:10:55.492Z</updated>
+    <updated>2021-07-02T14:00:32.063Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[July 4th QR Code Generator - Custom branded QR codes for the 4th of July]]></title>
+        <id>https://priceblocs.com/tools/qr-codes/usa</id>
+        <link href="http://www.webdesignernews.com/external/july-4th-qr-code-generator-custom-branded-qr-codes-for-the-4th-of-july"/>
+        <updated>2021-07-02T13:13:00.000Z</updated>
+        <summary type="html"><![CDATA[https://priceblocs.com/tools/qr-codes/usa]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Back Up Your WordPress Website (3 Methods Compared)]]></title>
         <id>https://torquemag.io/2021/07/back-up-wordpress/</id>
@@ -364,16 +374,6 @@ The post 18 Best KDP for low content book templates appeared first on Design Ins
         <link href="http://www.webdesignernews.com/external/ui-ux-micro-tips-volume-six"/>
         <updated>2021-06-30T22:54:00.000Z</updated>
         <summary type="html"><![CDATA[https://marcandrew.me/ui-ux-micro-tips-volume-six/]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It can take hours to weeks for new content to be indexed, says Google]]></title>
-        <id>https://searchengineland.com/google-on-how-long-it-takes-for-seos-to-be-indexed-and-ranked-349998</id>
-        <link href="http://www.webdesignernews.com/external/it-can-take-hours-to-weeks-for-new-content-to-be-indexed-says-google"/>
-        <updated>2021-06-30T22:35:46.000Z</updated>
-        <summary type="html"><![CDATA[https://searchengineland.com/google-on-how-long-it-takes-for-seos-to-be-indexed-and-ranked-349998]]></summary>
         <author>
             <name>WebdesignerNews</name>
         </author>
