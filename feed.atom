@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-02T12:00:52.696Z</id>
+    <id>urn:2021-07-02T13:10:55.492Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T12:00:52.696Z</updated>
+    <updated>2021-07-02T13:10:55.492Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Back Up Your WordPress Website (3 Methods Compared)]]></title>
+        <id>https://torquemag.io/2021/07/back-up-wordpress/</id>
+        <link href="http://www.webdesignernews.com/external/how-to-back-up-your-wordpress-website-3-methods-compared"/>
+        <updated>2021-07-02T12:21:00.000Z</updated>
+        <summary type="html"><![CDATA[https://torquemag.io/2021/07/back-up-wordpress/]]></summary>
+        <author>
+            <name>WebdesignerNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[17 Things You Can Do To Improve Your SEO Ranking In 2021]]></title>
         <id>https://www.webdesignerdepot.com/2021/07/https-www-searchenginejournal-com-seo-guide-brand-building-strategy/</id>
@@ -175,6 +185,16 @@ The post 24 Best Art Nouveau Fonts appeared first on Design Inspiration.]]></sum
         <summary type="html"><![CDATA[https://www.webfx.com/blog/web-design/website-navigation-examples/]]></summary>
         <author>
             <name>WebdesignerNews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the Qi Theme – A Free WordPress Theme by Qode]]></title>
+        <id>https://www.designernews.co/stories/116511-introducing-the-qi-theme--a-free-wordpress-theme-by-qode</id>
+        <link href="https://www.designernews.co/stories/116511-introducing-the-qi-theme--a-free-wordpress-theme-by-qode"/>
+        <updated>2021-07-01T14:59:21.000Z</updated>
+        <summary type="html"><![CDATA[https://qodeinteractive.com/magazine/introducing-qi-free-wordpress-theme-by-qode/]]></summary>
+        <author>
+            <name>Designer News Feed</name>
         </author>
     </entry>
     <entry>
@@ -359,16 +379,6 @@ The post 18 Best KDP for low content book templates appeared first on Design Ins
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conversing with Users: 3 Types of User Interviews]]></title>
-        <id>https://sparkbox.com/foundry/interviewing_users_with_structured_interview_unstructured_interview_contextual_inquiry</id>
-        <link href="http://www.webdesignernews.com/external/conversing-with-users-3-types-of-user-interviews"/>
-        <updated>2021-06-30T21:04:56.000Z</updated>
-        <summary type="html"><![CDATA[https://sparkbox.com/foundry/interviewing_users_with_structured_interview_unstructured_interview_contextual_inquiry]]></summary>
-        <author>
-            <name>WebdesignerNews</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spline 3D Design Challenge - Futuristic Devices (Win an iMac M1)]]></title>
         <id>https://www.designernews.co/stories/116493-spline-3d-design-challenge--futuristic-devices-win-an-imac-m1</id>
         <link href="https://www.designernews.co/stories/116493-spline-3d-design-challenge--futuristic-devices-win-an-imac-m1"/>
@@ -529,16 +539,6 @@ Do you guys know any alternative?]]></summary>
         <link href="https://www.designernews.co/stories/116460-is-your-iq-score-high-enough-to-be-considered-a-genius"/>
         <updated>2021-06-29T13:19:14.000Z</updated>
         <summary type="html"><![CDATA[https://iqlevels.co/]]></summary>
-        <author>
-            <name>Designer News Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glassmorphism CSS Generator]]></title>
-        <id>https://www.designernews.co/stories/116457-glassmorphism-css-generator</id>
-        <link href="https://www.designernews.co/stories/116457-glassmorphism-css-generator"/>
-        <updated>2021-06-29T12:53:55.000Z</updated>
-        <summary type="html"><![CDATA[https://ui.glass/generator]]></summary>
         <author>
             <name>Designer News Feed</name>
         </author>
